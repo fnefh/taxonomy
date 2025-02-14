@@ -1,0 +1,95 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Erasca covering Q3 2023 through Q3 2024. The reports track the company's
+  evolution across three main areas: 1. Clinical Development & Pipeline Progress
+  2. Financial Position & Capital Management 3. Strategic Initiatives &
+  Corporate Growth
+seed_examples:
+  - context: >
+      Throughout Q3 2023 - Q3 2024, Erasca has demonstrated significant
+      progress in its clinical development programs and pipeline advancement,
+      with key milestones achieved across multiple programs.
+    questions_and_answers:
+      - question: What are the key research and development expenditures and trends
+          across quarters?
+        answer: >
+          Key highlights include: 1) Consistent quarterly R&D investment ranging
+          from $25-33M 2) Q2 2024 peak R&D spending of $33.0M reflecting
+          expanded clinical activities 3) Significant in-process R&D expense of
+          $22.5M in Q2 2024 for new program acquisition 4) Total R&D expenses of
+          $89.2M for first nine months of 2024 5) Strategic focus on advancing
+          multiple clinical programs simultaneously
+      - question: How has the company's pipeline development progressed?
+        answer: >
+          Progress includes: 1) Advancement of multiple clinical-stage programs 2)
+          Strategic acquisition of new pipeline assets reflected in Q2 2024
+          in-process R&D 3) Continued investment in existing programs with
+          increased clinical activities 4) Focus on RAS/MAPK pathway-targeted
+          therapeutics 5) Expansion of development capabilities and
+          infrastructure
+      - question: What clinical milestones and achievements were reported?
+        answer: >
+          Achievements include: 1) Sustained progress across multiple clinical
+          trials 2) Increased clinical activity reflected in rising R&D expenses
+          3) Strategic program prioritization and resource allocation 4)
+          Advancement of key pipeline candidates 5) Expansion of clinical
+          development infrastructure
+  - context: >
+      From Q3 2023 through Q3 2024, Erasca has significantly strengthened its
+      financial position through strategic capital management and successful
+      financing activities.
+    questions_and_answers:
+      - question: How has the company's cash position evolved?
+        answer: >
+          Evolution includes: 1) Strong cash position of $463.3M as of Q3 2024 2)
+          Successful completion of $174.4M underwritten offering in Q2 2024 3)
+          Additional $43.6M raised through private placement 4) $21.0M raised
+          through ATM offering in Q3 2024 5) Strategic management of cash
+          resources with focus on clinical development
+      - question: What are the key financial metrics and trends?
+        answer: >
+          Key metrics include: 1) Net loss of $31.2M in Q3 2024 vs $30.4M in Q3
+          2023 2) Reduced net loss per share from $0.20 to $0.11 in Q3 2024 3)
+          Increased interest income to $5.9M in Q3 2024 4) Maintained
+          operational efficiency with controlled G&A expenses 5) Strong balance
+          sheet with $528.9M in total assets
+      - question: How has the company managed its capital resources?
+        answer: >
+          Management includes: 1) Strategic allocation of resources to key
+          programs 2) Multiple successful financing rounds raising over $239M 3)
+          Efficient cash management with focus on R&D investment 4) Balanced
+          approach to operational and clinical expenses 5) Maintenance of strong
+          liquidity position
+  - context: >
+      During Q3 2023 - Q3 2024, Erasca has made significant progress in
+      strategic initiatives and corporate growth, strengthening its position in
+      precision oncology.
+    questions_and_answers:
+      - question: What organizational developments and growth initiatives were
+          implemented?
+        answer: >
+          Developments include: 1) Expansion of clinical development
+          infrastructure 2) Strategic investment in R&D capabilities 3)
+          Strengthening of financial position through multiple successful
+          financings 4) Continued focus on operational efficiency 5) Enhancement
+          of corporate infrastructure
+      - question: How has the company advanced its strategic objectives?
+        answer: >
+          Advancements include: 1) Strategic acquisition of new pipeline assets 2)
+          Focused execution of clinical development strategy 3) Successful
+          capital raising to support growth initiatives 4) Maintained focus on
+          RAS/MAPK pathway programs 5) Enhanced operational capabilities
+      - question: What progress has been made in corporate development and partnerships?
+        answer: >
+          Progress includes: 1) Strategic investment in new program acquisition 2)
+          Enhanced clinical development capabilities 3) Successful execution of
+          financing strategies 4) Continued focus on precision oncology
+          leadership 5) Strengthened position in targeted therapeutics space
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/ERAS/10-Q/data/*.md

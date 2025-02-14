@@ -1,0 +1,110 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Fate Therapeutics covering 2020 through 2023. The reports track the
+  company's evolution across three main areas: 1. Pipeline Development &
+  Clinical Programs 2. Strategic Partnerships & Business Focus 3. Corporate
+  Restructuring & Financial Position
+seed_examples:
+  - context: >
+      Throughout 2020-2023, Fate Therapeutics has demonstrated significant
+      progress in its iPSC-derived cell therapy pipeline development and
+      clinical programs, with key milestones achieved across multiple
+      candidates.
+    questions_and_answers:
+      - question: What are the key clinical programs and developments in the company's
+          pipeline?
+        answer: >
+          Key highlights include: 1) FT819 - First-ever iPSC-derived CAR T-cell
+          program with ongoing Phase 1 trials in B-cell lymphoma and lupus 2)
+          FT825 - Novel HER2-targeted CAR T-cell program for solid tumors with 7
+          synthetic controls, Phase 1 initiated in 2024 3) FT522 - First
+          ADR-incorporating CAR NK cell program designed to reduce/eliminate
+          conditioning chemotherapy 4) FT576 - BCMA-targeted CAR NK cell program
+          for multiple myeloma with demonstrated clinical responses 5) Multiple
+          programs incorporating novel synthetic controls for enhanced
+          functionality
+      - question: How has the company's therapeutic approach and technology platform
+          evolved?
+        answer: >
+          Evolution includes: 1) Pioneer in iPSC-derived cell programming for
+          off-the-shelf immunotherapies 2) Development of
+          multiplexed-engineering approach incorporating novel synthetic
+          controls 3) Expansion from hematologic malignancies into solid tumors
+          and autoimmune diseases 4) Innovation in reducing conditioning
+          chemotherapy requirements through ADR technology 5) Integration of
+          multiple therapeutic mechanisms including dual-antigen targeting
+          capabilities
+      - question: What clinical results and evidence of efficacy have been demonstrated?
+        answer: >
+          Results include: 1) FT819 showed complete responses in B-cell lymphoma
+          including in CAR-T refractory patients 2) FT576 demonstrated responses
+          in heavily pretreated multiple myeloma patients as monotherapy and in
+          combination 3) Strong safety profile across programs with no
+          significant toxicity signals 4) Evidence of enhanced trafficking and
+          resistance to immunosuppression in solid tumor programs 5)
+          Proof-of-concept for novel synthetic controls and engineering
+          approaches
+  - context: >
+      From 2020-2023, Fate Therapeutics has undergone significant strategic
+      shifts in partnerships and business focus, including major collaboration
+      changes and program prioritization.
+    questions_and_answers:
+      - question: How have the company's strategic partnerships evolved?
+        answer: >
+          Evolution includes: 1) Termination of Janssen collaboration in January
+          2023 affecting multiple CAR NK/T-cell programs 2) Strengthened
+          partnership with Ono Pharmaceutical focused on solid tumors 3) Ono's
+          exercise of option for FT825/ONO-8250 program with $12.5M payment 4)
+          Formation of Senescea Therapeutics subsidiary with MSKCC 5) Maintained
+          key academic partnerships supporting platform development
+      - question: What major strategic decisions and program prioritizations occurred?
+        answer: >
+          Decisions include: 1) Strategic review and discontinuation of FT516,
+          FT596, FT538, and FT536 NK cell programs 2) Focus shift to most
+          innovative and differentiated candidates 3) Expansion into autoimmune
+          diseases with FT819 lupus program 4) Emphasis on reducing conditioning
+          chemotherapy through ADR technology 5) Prioritization of programs with
+          novel synthetic controls
+      - question: How has the company's business model and focus areas transformed?
+        answer: >
+          Transformation includes: 1) Shift from broad pipeline to focused
+          development of most differentiated candidates 2) Expansion beyond
+          oncology into autoimmune diseases 3) Increased emphasis on reducing
+          patient burden through novel technologies 4) Focus on programs with
+          multiple synthetic controls and mechanisms 5) Evolution toward more
+          selective partnership strategy
+  - context: >
+      During 2020-2023, Fate Therapeutics implemented significant corporate
+      restructuring while managing its financial position and operational
+      efficiency.
+    questions_and_answers:
+      - question: What major corporate restructuring initiatives were implemented?
+        answer: >
+          Initiatives include: 1) Workforce reduction to approximately 220
+          employees in Q1 2023 2) $12.9M in restructuring charges for severance
+          and termination costs 3) Consolidation of operations following Janssen
+          collaboration end 4) Streamlining of pipeline through program
+          discontinuation 5) Focus on operational efficiency and cost management
+      - question: How has the company managed its financial position and resources?
+        answer: >
+          Management includes: 1) Strategic program prioritization to optimize
+          resource allocation 2) Maintenance of strong intellectual property
+          portfolio with over 900 patents/applications 3) Revenue generation
+          through partnership milestones and option exercises 4) Cost reduction
+          through workforce and program rationalization 5) Investment focus on
+          most differentiated programs
+      - question: What operational and infrastructure developments occurred?
+        answer: >
+          Developments include: 1) Maintenance of fully-integrated GMP
+          manufacturing facility 2) Enhancement of iPSC product platform
+          capabilities 3) Strengthening of intellectual property position 4)
+          Evolution of clinical development infrastructure 5) Optimization of
+          manufacturing processes for iPSC-derived cell products
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/FATE/10-K/data/*.md

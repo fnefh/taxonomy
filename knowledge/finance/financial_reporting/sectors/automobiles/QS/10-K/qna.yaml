@@ -1,0 +1,212 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for QuantumScape Corporation covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Research and development investments
+     - Operating expenses and cash flow
+     - Capital allocation strategy
+     - Growth investments
+
+  2. Technology Development
+     - Solid-state battery innovation
+     - Manufacturing capabilities
+     - Product development milestones
+     - Technical achievements
+
+  3. Strategic Partnerships
+     - Volkswagen collaboration
+     - OEM relationships
+     - Joint venture progress
+     - Commercial agreements
+
+  4. Risk Factors
+     - Technology development risks
+     - Manufacturing scale-up challenges
+     - Competition dynamics
+     - Market conditions
+seed_examples:
+  - context: >
+      QuantumScape's solid-state battery technology development showed
+      significant progress from 2021 to 2023, with the company achieving key
+      milestones in multilayer cell development. In 2022, they shipped 24-layer
+      A0 prototype cells to multiple automotive OEMs for testing, and by 2023,
+      their top-performing A0 prototype cell achieved over 1,000 full cycle
+      equivalents with over 95% discharge energy retention under
+      customer-specified test conditions. The company's manufacturing
+      capabilities expanded with the consolidation of QS-0 engineering and
+      pre-pilot production lines in 2023, designed to enable automotive
+      qualification and first commercialization.
+    questions_and_answers:
+      - question: >
+          How has QuantumScape's battery technology development progressed from
+          2021 to 2023?
+        answer: >
+          QuantumScape demonstrated significant technological advancement,
+          progressing from single-layer to 24-layer A0 prototype cells that were
+          shipped to multiple automotive OEMs in 2022. Their top-performing A0
+          prototype achieved remarkable performance with over 1,000 full cycle
+          equivalents and 95% discharge energy retention under customer test
+          conditions, showcasing the technology's potential for commercial
+          applications and exceeding typical EV battery warranty requirements of
+          70% capacity retention at 150,000 miles.
+      - question: >
+          What manufacturing capabilities has QuantumScape developed to support
+          commercialization?
+        answer: >
+          QuantumScape consolidated its QS-0 engineering and pre-pilot production
+          lines in 2023, creating an integrated facility with continuous flow,
+          automated production capabilities. This consolidated line is designed
+          to support automotive qualification processes and enable first
+          commercialization through battery cells available for sale to third
+          parties, representing a crucial step toward scaled production.
+      - question: >
+          What key technical achievements has QuantumScape demonstrated in their
+          prototype cells?
+        answer: >
+          QuantumScape's technical achievements include successful development of
+          multilayer cells in commercially relevant areas (60x75mm to 70x85mm),
+          demonstration of fast charging capabilities (10% to 80% in
+          approximately 15 minutes), and validation of safety features through
+          automotive safety tests. Their A0 prototype cells demonstrated
+          exceptional cycle life performance, maintaining over 95% discharge
+          energy retention after 1,000 cycles.
+  - context: >
+      QuantumScape's strategic partnership with Volkswagen, established in
+      2012, has evolved significantly through 2023. Volkswagen has invested over
+      $300 million and formed a 50-50 joint venture for industrial-scale
+      production. The partnership includes plans for QS-1, a 1GWh pilot
+      production line, and subsequent expansion to 21GWh (QS-1 Expansion). While
+      certain original timeline milestones were not met, triggering Volkswagen's
+      put rights, the collaboration continues with Volkswagen testing multiple
+      generations of prototype cells and validating key performance metrics.
+    questions_and_answers:
+      - question: >
+          How has QuantumScape's partnership with Volkswagen evolved since its
+          inception?
+        answer: >
+          The partnership has grown from initial technology testing in 2012 to a
+          comprehensive collaboration, with Volkswagen investing over $300
+          million and forming a 50-50 joint venture for industrial production.
+          The relationship expanded to include plans for QS-1 (1GWh pilot line)
+          and QS-1 Expansion (21GWh), though timeline adjustments have occurred.
+          Volkswagen has maintained active involvement in testing and validating
+          multiple generations of prototype cells.
+      - question: >
+          What are the key elements of the QuantumScape-Volkswagen joint venture
+          structure?
+        answer: >
+          The joint venture (QSV Operations LLC) is structured as a 50-50
+          partnership focused on cell manufacturing, with both parties
+          committing to equal capital investments for QS-1 and QS-1 Expansion.
+          The agreement includes provisions for QuantumScape to supply
+          solid-state electrolyte-separators, while protecting their core
+          intellectual property through limited licensing arrangements, and
+          establishes framework for revenue and profit sharing.
+      - question: >
+          How has the commercial relationship between QuantumScape and
+          Volkswagen progressed?
+        answer: >
+          While certain original timeline milestones were not met, the commercial
+          relationship has continued to develop, with Volkswagen successfully
+          testing multiple generations of prototype cells. The partnership
+          includes commitments for Volkswagen to purchase QS-1 output at
+          competitive pricing with performance-based premiums, though timeline
+          adjustments have triggered certain put rights that Volkswagen has not
+          exercised as of 2023.
+  - context: >
+      From 2021 to 2023, QuantumScape expanded its intellectual property
+      portfolio and manufacturing development significantly. The company's
+      patent portfolio grew to over 180 issued U.S. patents and patent
+      applications, plus more than 180 granted foreign patents and applications,
+      covering solid-state electrolyte-separators, anodes, cathode materials,
+      and cell design. Manufacturing capabilities advanced with the development
+      of continuous-flow processes, automation improvements, and strategic
+      equipment acquisitions, while maintaining focus on earth-abundant
+      materials and processes suitable for high-volume production.
+    questions_and_answers:
+      - question: >
+          How has QuantumScape's intellectual property position evolved from
+          2021 to 2023?
+        answer: >
+          QuantumScape significantly strengthened its IP portfolio, accumulating
+          over 180 U.S. patents and applications and an equal number of foreign
+          patents and applications. The portfolio covers critical areas
+          including solid-state electrolyte-separators, anodes, next-generation
+          cathode materials, and cell design, with patents starting to expire in
+          2033, providing long-term technology protection.
+      - question: |
+          What manufacturing process developments has QuantumScape achieved?
+        answer: >
+          QuantumScape advanced its manufacturing capabilities by developing
+          continuous-flow processes for solid-state electrolyte-separator
+          production, implementing automation improvements, and acquiring
+          strategic equipment. The company focused on scalable manufacturing
+          methods using earth-abundant materials, while developing processes
+          that eliminate anode manufacturing steps, potentially reducing capital
+          investment and operating costs.
+      - question: |
+          How has QuantumScape's approach to scalable production evolved?
+        answer: >
+          QuantumScape developed a manufacturing approach that combines
+          conventional battery production methods with proprietary processes,
+          eliminating anode manufacturing while introducing sequential stacking
+          for multilayer cells. The company achieved progress in shortening
+          formation time compared to conventional lithium-ion cells, potentially
+          reducing working capital needs, and maintained focus on using
+          equipment and processes already proven at scale in battery or ceramics
+          industries.
+  - context: >
+      From 2020 to 2022, QuantumScape focused on fundamental technology
+      development and validation of their solid-state battery architecture. The
+      company's early development centered on their proprietary solid-state
+      separator technology, which uniquely demonstrated the ability to prevent
+      dendrite formation at automotive power densities while enabling fast
+      charging capabilities. During this period, QuantumScape established the
+      foundation for their manufacturing approach, focusing on earth-abundant
+      materials and conventional production processes, while initiating plans
+      for their QS-0 pre-pilot production line to enable automotive
+      qualification.
+    questions_and_answers:
+      - question: >
+          What were the key technological foundations established by
+          QuantumScape between 2020-2022?
+        answer: >
+          QuantumScape developed and validated their proprietary solid-state
+          separator technology, demonstrating unique capabilities in preventing
+          dendrite formation at automotive power densities - a critical
+          achievement not replicated by other companies. They established the
+          fundamental architecture for their lithium-metal battery design,
+          eliminating the need for conventional anode host materials while
+          enabling fast charging capabilities without compromising battery life.
+      - question: >
+          How did QuantumScape's manufacturing strategy evolve during the early
+          development phase (2020-2022)?
+        answer: >
+          The company established a manufacturing approach focused on using
+          earth-abundant materials and processes already proven in battery and
+          ceramics industries. They initiated the development of QS-0, their
+          pre-pilot production line, designed to produce over 200,000
+          engineering cell samples annually, and secured a long-term lease for
+          the facility in 2021 with production targeted for 2023.
+      - question: >
+          What were the primary technical differentiators of QuantumScape's
+          early solid-state battery development?
+        answer: >
+          QuantumScape's key differentiator was their solid-state separator
+          technology, which uniquely demonstrated the ability to conduct lithium
+          ions at rates comparable to liquid electrolytes while preventing
+          dendrite formation at high power densities. Their design eliminated
+          the need for conventional anode materials, potentially enabling higher
+          energy density, faster charging, and lower manufacturing costs
+          compared to traditional lithium-ion batteries.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/automobiles/QS/10-K/data/*.md

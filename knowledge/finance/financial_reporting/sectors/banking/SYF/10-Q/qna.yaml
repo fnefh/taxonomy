@@ -1,0 +1,122 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Synchrony Financial covering Q3 2023 through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance & Scale
+     - Purchase volume and loan receivables
+     - Active accounts and customer base
+     - Interest and fees on loans
+     - Deposit base trends
+
+  2. Credit Portfolio Evolution
+     - Credit product mix changes
+     - Platform-specific performance
+     - Credit quality metrics
+     - Risk management strategies
+
+  3. Strategic Developments
+     - Digital capabilities enhancement
+     - Product innovations
+     - Partner relationships
+     - Regulatory impacts
+
+  4. Operational Metrics
+     - Sales platform performance
+     - Customer engagement
+     - Efficiency measures
+     - Capital management
+seed_examples:
+  - context: >
+      Synchrony Financial demonstrated strong growth from Q3 2023 to Q3 2024,
+      with loan receivables increasing from $97.9 billion to $101.7 billion. The
+      company maintained a robust active account base, growing from 70.3 million
+      to 71.7 million accounts. Purchase volume showed resilience, with $47.0
+      billion in Q3 2023 and $42.4 billion in Q1 2024. The deposit base expanded
+      from $78.1 billion to $83.6 billion, continuing to serve as a stable
+      funding source at 84% of total funding.
+    questions_and_answers:
+      - question: >
+          How has Synchrony's scale and financial position evolved from Q3 2023
+          to Q3 2024?
+        answer: >
+          Synchrony demonstrated consistent growth in scale and financial strength
+          from Q3 2023 to Q3 2024. Loan receivables grew by 3.9% from $97.9
+          billion to $101.7 billion, while the active account base expanded by
+          2% from 70.3 million to 71.7 million accounts. The company's deposit
+          base showed strong growth, increasing from $78.1 billion to $83.6
+          billion, maintaining its position as a stable funding source at 84% of
+          total funding.
+      - question: >
+          What trends emerged in Synchrony's purchase volume and customer
+          engagement during this period?
+        answer: >
+          Purchase volume demonstrated resilience with $47.0 billion in Q3 2023
+          and $42.4 billion in Q1 2024, reflecting sustained customer
+          engagement. The active account base growth from 70.3 million to 71.7
+          million accounts indicated successful customer acquisition and
+          retention strategies. These metrics suggest strong consumer activity
+          and effective engagement across Synchrony's platforms despite market
+          fluctuations.
+      - question: >
+          How did Synchrony's funding structure evolve between Q3 2023 and Q3
+          2024?
+        answer: >
+          Synchrony's funding structure showed continued strength with deposits
+          growing from $78.1 billion to $83.6 billion, maintaining a consistent
+          84% of total funding sources. This stability in deposit-based funding
+          demonstrates the success of the company's online direct banking
+          operations and its ability to maintain cost-effective funding through
+          retail and commercial deposits, supporting the company's lending
+          activities.
+  - context: >
+      Synchrony's strategic developments from Q3 2023 to Q3 2024 included
+      significant focus on digital capabilities, product innovation, and
+      regulatory adaptation. The company expanded its Synchrony Pay Later
+      solutions and enhanced its digital infrastructure. A notable development
+      was the CFPB's final rule on credit card late fees announced in March
+      2024, prompting the company to implement various product, policy, and
+      pricing changes to adjust to the new regulatory environment.
+    questions_and_answers:
+      - question: >
+          What key strategic initiatives and regulatory changes impacted
+          Synchrony from Q3 2023 to Q3 2024?
+        answer: >
+          During Q3 2023 to Q3 2024, Synchrony implemented several strategic
+          initiatives while adapting to regulatory changes. The most significant
+          regulatory impact was the CFPB's final rule on credit card late fees
+          announced in March 2024, which prompted the company to develop
+          mitigating strategies including product, policy, and pricing
+          adjustments. The company continued to expand its digital capabilities
+          and Pay Later solutions, including pay monthly and pay in 4 products.
+      - question: >
+          How did Synchrony adapt its product offerings and digital capabilities
+          during this period?
+        answer: >
+          Synchrony demonstrated significant product evolution by expanding its
+          Pay Later solutions to include both monthly payment and pay in 4
+          options. The company enhanced its digital infrastructure to support
+          these new offerings while improving existing digital services. These
+          developments reflected Synchrony's commitment to meeting evolving
+          consumer preferences and maintaining competitive advantage in the
+          digital payments landscape.
+      - question: >
+          What steps did Synchrony take to address the CFPB's credit card late
+          fee rule changes?
+        answer: >
+          In response to the CFPB's March 2024 final rule on credit card late
+          fees, Synchrony implemented comprehensive changes across its
+          operations. The company developed and began implementing product
+          modifications, policy updates, and pricing adjustments to offset the
+          impact of reduced late fee income. These strategic responses
+          demonstrated Synchrony's ability to adapt to regulatory changes while
+          maintaining business sustainability.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/banking/SYF/10-Q/data/*.md

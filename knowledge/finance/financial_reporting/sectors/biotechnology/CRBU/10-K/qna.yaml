@@ -1,0 +1,100 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Caribou Biosciences, Inc. covering fiscal years 2021-2023. The reports
+  track the company's evolution across three main areas: 1. Clinical Pipeline
+  Evolution &  Regulatory Progress 2. Technology Platform & Innovation 3.
+  Strategic Growth &  Commercial Readiness
+seed_examples:
+  - context: >
+      From 2021 to 2023, Caribou Biosciences demonstrated significant
+      advancement in its clinical pipeline, particularly with its lead candidate
+      CB-010 progressing through clinical trials and receiving multiple
+      regulatory designations. The company expanded its pipeline with CB-011 and
+      CB-012 entering clinical development, while maintaining focus on its
+      innovative chRDNA genome-editing platform.
+    questions_and_answers:
+      - question: How did Caribou's clinical pipeline evolve during this period?
+        answer: >
+          The pipeline showed substantial progress: 1) CB-010 advanced through
+          ANTLER phase 1 trial with 16 patients treated across three dose levels
+          2) CB-011 entered clinical development with CaMMouflage phase 1 trial
+          clearing two dose levels 3) CB-012 initiated AMpLify phase 1 trial in
+          r/r AML 4) The company strategically paused CB-020 development while
+          continuing CAR-NK platform advancement
+      - question: What key regulatory milestones were achieved?
+        answer: >
+          Major regulatory achievements included: 1) CB-010 received RMAT
+          designation for r/r LBCL 2) Fast track designation granted for CB-010
+          in r/r B-NHL 3) Orphan drug designation for CB-010 in follicular
+          lymphoma 4) CB-011 received fast track and orphan drug designations
+          for r/r MM
+      - question: How did the clinical development strategy evolve?
+        answer: >
+          The strategy evolved through: 1) Expansion of CB-010 ANTLER trial into
+          second-line LBCL patients 2) Implementation of multiple dose levels in
+          CaMMouflage trial for CB-011 3) Strategic initiation of AMpLify trial
+          for CB-012 4) Focus on key hematologic malignancies with validated
+          targets
+  - context: >
+      Throughout 2021-2023, Caribou's chRDNA technology platform demonstrated
+      significant advantages in genome-editing specificity and efficiency,
+      enabling the development of multiple armored cell therapy candidates with
+      sophisticated engineering approaches.
+    questions_and_answers:
+      - question: What were the key technological innovations during this period?
+        answer: >
+          Key innovations included: 1) Development of chRDNA guides with improved
+          specificity and reduced off-target effects 2) Achievement of
+          high-efficiency gene knockouts and insertions 3) Demonstration of
+          versatility across multiple cell types 4) Implementation of multiple
+          armoring strategies including checkpoint disruption and immune
+          cloaking
+      - question: How did the platform capabilities expand?
+        answer: >
+          Platform expansion included: 1) Development of sophisticated immune
+          cloaking approaches combining B2M removal and HLA-E insertion 2)
+          Creation of multi-edit capabilities demonstrated in CB-012 with five
+          genome edits 3) Advancement of CAR-NK platform with multiple armoring
+          strategies 4) Enhanced manufacturing processes for complex cell
+          therapies
+      - question: What differentiated the technology platform?
+        answer: >
+          Key differentiators included: 1) Superior genome-editing specificity
+          compared to first-generation CRISPR systems 2) Ability to perform
+          multiple precise edits while maintaining genomic integrity 3)
+          Versatility across immune cells and stem cells 4) Simple chemical
+          synthesis of chRDNA guides
+  - context: >
+      During 2021-2023, Caribou demonstrated strong strategic execution,
+      advancing from early-stage development to having multiple clinical
+      programs while building commercial capabilities and establishing key
+      partnerships.
+    questions_and_answers:
+      - question: What strategic initiatives were implemented?
+        answer: >
+          Key initiatives included: 1) Advancement of three programs into clinical
+          trials 2) Strategic partnership with AbbVie for CAR-T cell therapy
+          development 3) Expansion of manufacturing and operational capabilities
+          4) Portfolio prioritization with focus on hematologic malignancies
+      - question: How did organizational capabilities evolve?
+        answer: >
+          Organizational evolution included: 1) Expansion of clinical development
+          infrastructure 2) Enhancement of manufacturing capabilities for
+          clinical trials 3) Development of commercial readiness planning 4)
+          Strengthening of intellectual property portfolio protecting chRDNA
+          technology
+      - question: What progress was made toward commercialization?
+        answer: >
+          Commercial progress included: 1) Advancement of CB-010 toward potential
+          pivotal trials 2) Development of manufacturing processes suitable for
+          commercial scale 3) Establishment of regulatory pathways through
+          multiple designations 4) Strategic focus on indications with clear
+          market opportunity
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/CRBU/10-K/data/*.md

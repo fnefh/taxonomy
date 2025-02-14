@@ -1,0 +1,96 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Erasca covering 2021-2023.  The reports track the company's evolution
+  across three main areas: 1. Pipeline Development & Clinical Progress 2.
+  Strategic Partnerships & Business Development  3. Corporate Growth &
+  Infrastructure
+seed_examples:
+  - context: >
+      Throughout 2021-2023, Erasca has demonstrated significant progress in
+      advancing its  RAS/MAPK pathway-focused pipeline and clinical programs,
+      with multiple key milestones achieved.
+    questions_and_answers:
+      - question: How has Erasca's clinical pipeline evolved from 2021 to 2023?
+        answer: >
+          Key developments included: 1) Expansion from 3 to 5 clinical-stage
+          programs by 2023  2) Acquisition of naporafenib (pan-RAF inhibitor)
+          from Novartis in 2022  3) Advancement of ERAS-007 (ERK inhibitor)
+          through multiple HERKULES trials  4) Progress of ERAS-801
+          (CNS-penetrant EGFR inhibitor) in THUNDERBBOLT-1 trial  5) Strategic
+          deprioritization of select programs like ERAS-3490 and ERAS-601
+          combinations
+      - question: What are the key clinical trial results and milestones achieved?
+        answer: >
+          Major achievements included: 1) Positive preliminary data for ERAS-007 +
+          encorafenib/cetuximab  in BRAFm CRC 2) FDA Fast Track Designation for
+          naporafenib in NRASm melanoma  3) FDA Fast Track and Orphan Drug
+          Designations for ERAS-801 in GBM 4) Identification of  MTD for
+          ERAS-801 5) Clinical PoC data for naporafenib in multiple indications
+      - question: How has the company's therapeutic strategy evolved?
+        answer: >
+          Strategic evolution included: 1) Maintained focus on three core
+          therapeutic strategies targeting  RAS/MAPK pathway 2) Expanded
+          upstream/downstream targeting approach with naporafenib
+          acquisition  3) Refined pipeline through strategic deprioritization
+          decisions 4) Enhanced focus on  high-potential combinations 5)
+          Continued advancement of discovery-stage programs
+  - context: >
+      From 2021-2023, Erasca has established multiple strategic partnerships
+      and collaborations while building its business development capabilities.
+    questions_and_answers:
+      - question: What major partnerships and licensing deals has Erasca secured?
+        answer: >
+          Key partnerships included: 1) Acquisition of naporafenib from Novartis
+          (2022)  2) Clinical trial collaboration with Pfizer for encorafenib 3)
+          Partnership with  Lilly for cetuximab 4) Collaboration with Pierre
+          Fabre for encorafenib in international  territories 5) Multiple CTCSAs
+          for combination trials
+      - question: How has Erasca's business development strategy evolved?
+        answer: >
+          Strategic evolution included: 1) Focus on complementary asset
+          acquisition to enhance pipeline  2) Emphasis on clinical trial
+          collaborations to accelerate development 3) Expansion of  geographical
+          reach through international partnerships 4) Strategic portfolio
+          management  through program prioritization 5) Continued evaluation of
+          synergistic opportunities
+      - question: What are the key terms and benefits of these partnerships?
+        answer: >
+          Partnership highlights include: 1) Cost-sharing arrangements for
+          clinical trials  2) Access to combination agents at no cost 3)
+          Expansion of territorial rights  4) Acceleration of clinical
+          development timelines 5) Enhancement of pipeline value  through
+          strategic combinations
+  - context: >
+      During 2021-2023, Erasca has significantly grown its corporate
+      infrastructure and  strengthened its position as a precision oncology
+      company.
+    questions_and_answers:
+      - question: How has Erasca's organizational structure and leadership evolved?
+        answer: >
+          Key developments included: 1) Appointment of Dr. Shannon Morris as CMO
+          in 2023  2) Expansion of scientific advisory board with RAS/MAPK
+          experts 3) Enhancement of  R&D capabilities under Dr. Michael Varney's
+          leadership 4) Growth of clinical development  team 5) Strengthening of
+          operational infrastructure
+      - question: What progress has been made in ESG initiatives and social mission?
+        answer: >
+          Progress included: 1) Establishment of Erasca Foundation in 2021 2)
+          Funding support  for Life Science Cares, Curebound Cancer Research,
+          and Lazarex Cancer Foundation  3) Implementation of environmental
+          initiatives in facilities 4) Development of inclusive  clinical trial
+          programs 5) Commitment to drug access programs
+      - question: How has the company's financial position evolved?
+        answer: >
+          Financial evolution included: 1) Successful completion of IPO in 2021 2)
+          Strategic  capital allocation across pipeline programs 3) Investment
+          in clinical trial infrastructure  4) Funding of strategic acquisitions
+          like naporafenib 5) Maintenance of operational  efficiency through
+          program prioritization
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/ERAS/10-K/data/*.md

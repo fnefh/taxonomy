@@ -1,0 +1,104 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for The Goodyear Tire & Rubber Company covering fiscal quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and operating income
+     - Cost structure and margins
+     - Cash flow and balance sheet metrics
+     - Quarter-over-quarter trends
+
+  2. Business Operations
+     - Manufacturing and production
+     - Raw material costs
+     - Inventory management
+     - Operational efficiency
+
+  3. Market Position
+     - Global market presence
+     - Product portfolio
+     - Strategic initiatives
+     - Growth opportunities
+
+  4. Risk Management
+     - Market conditions
+     - Supply chain dynamics
+     - Cost pressures
+     - Industry challenges
+
+seed_examples:
+  - context: >
+      Goodyear's quarterly performance from Q3 2023 to Q2 2024 showed varying trends, with net sales decreasing from $5.14 billion in Q3 2023 to $4.57 billion in Q2 2024. The company's profitability improved significantly, moving from a net loss of $89 million in Q3 2023 to net income of $85 million in Q2 2024, driven by better cost management and operational efficiencies. Cost of goods sold showed consistent improvement, declining from $4.17 billion to $3.62 billion during this period.
+    questions_and_answers:
+      - question: |
+          How did Goodyear's revenue and profitability trends evolve from Q3 2023 to Q2 2024?
+        answer: >
+          Goodyear's revenue showed a declining trend from $5.14 billion in Q3 2023 to $4.57 billion in Q2 2024, but profitability improved substantially with a shift from a net loss of $89 million to net income of $85 million. This improvement was driven by better cost management, with cost of goods sold decreasing by $550 million, demonstrating enhanced operational efficiency despite lower sales volumes.
+      - question: |
+          What operational improvements were evident in Goodyear's quarterly performance?
+        answer: >
+          Goodyear demonstrated significant operational improvements through reduced cost of goods sold, declining from $4.17 billion to $3.62 billion, while maintaining relatively stable selling, administrative and general expenses. The company also showed progress in rationalization efforts, with costs decreasing from $198 million in Q3 2023 to $19 million in Q2 2024, indicating successful cost optimization initiatives.
+      - question: |
+          How did Goodyear's earnings metrics reflect its operational transformation?
+        answer: >
+          Goodyear's earnings metrics showed substantial improvement, moving from a loss of $0.31 per share in Q3 2023 to earnings of $0.30 per share in Q2 2024. This transformation reflected successful cost management initiatives, improved operational efficiency, and better pricing strategies, despite challenging market conditions affecting sales volumes.
+
+  - context: >
+      Goodyear's inventory management and working capital efficiency showed notable trends from Q3 2023 through Q2 2024. Inventory levels increased from $3.70 billion at the end of 2023 to $4.05 billion in Q2 2024, with finished products growing from $2.71 billion to $2.99 billion. Raw material inventory also increased from $785 million to $850 million, while the company maintained work in process inventory around $210 million, reflecting strategic inventory management amid market challenges.
+    questions_and_answers:
+      - question: |
+          How did Goodyear's inventory composition evolve during this period?
+        answer: >
+          Goodyear's inventory composition showed strategic adjustments with finished products increasing by $280 million to $2.99 billion and raw materials growing by $65 million to $850 million, while work in process remained stable around $210 million. This reflected a balanced approach to inventory management, ensuring adequate stock levels while adapting to market demands and supply chain conditions.
+      - question: |
+          What trends emerged in Goodyear's working capital efficiency?
+        answer: >
+          Goodyear's working capital efficiency reflected careful management of resources with strategic increases in inventory levels balanced against accounts receivable and payable positions. The company maintained disciplined control over finished goods inventory growth while ensuring adequate raw material supplies, demonstrating adaptability to market conditions and supply chain dynamics.
+      - question: |
+          How did Goodyear's inventory strategy support its operational needs?
+        answer: >
+          Goodyear's inventory strategy demonstrated a proactive approach to market demands, with strategic increases in both raw materials and finished products inventory while maintaining stable work in process levels. This balanced approach supported operational flexibility while ensuring adequate supply chain buffers and finished goods availability for market demands.
+
+  - context: >
+      Goodyear's financial position evolved significantly from Q3 2023 through Q2 2024, with total assets growing from $21.58 billion to $22.03 billion. The company's debt management showed strategic adjustments, with total debt and finance leases increasing while maintaining stable long-term debt levels around $6.83 billion. Cash and cash equivalents decreased from $902 million to $789 million, reflecting ongoing operational investments and working capital needs.
+    questions_and_answers:
+      - question: |
+          How did Goodyear's capital structure evolve during this period?
+        answer: >
+          Goodyear's capital structure showed strategic evolution with total assets increasing by $450 million to $22.03 billion, while managing debt levels carefully. The company maintained stable long-term debt around $6.83 billion while adjusting short-term borrowings to support operational needs, demonstrating a balanced approach to capital management amid market challenges.
+      - question: |
+          What trends emerged in Goodyear's liquidity management?
+        answer: >
+          Goodyear's liquidity management reflected careful balance between operational needs and financial flexibility, with cash and equivalents decreasing from $902 million to $789 million while managing working capital requirements. The company maintained adequate liquidity while supporting increased inventory levels and operational investments, demonstrating disciplined cash management practices.
+      - question: |
+          How did Goodyear's financial strategy adapt to market conditions?
+        answer: >
+          Goodyear's financial strategy demonstrated adaptability through balanced management of debt levels, working capital, and liquidity positions. The company maintained operational flexibility while supporting increased inventory levels and market investments, showing strategic financial management in response to changing market conditions and business needs.
+
+  - context: >
+      Goodyear's sequential quarterly performance from Q3 2023 through Q1 2024 showed varying trends in revenue and profitability. Net sales decreased from $5.14 billion in Q3 2023 to $4.54 billion in Q1 2024, while net loss improved from $89 million in Q3 2023 to $57 million in Q1 2024. The company maintained relatively stable cost management with selling, administrative and general expenses around $670-690 million per quarter, while rationalization costs decreased significantly from $198 million in Q3 2023 to $22 million in Q1 2024.
+    questions_and_answers:
+      - question: |
+          How did Goodyear's quarterly revenue and cost trends evolve from Q3 2023 to Q1 2024?
+        answer: >
+          Goodyear's quarterly revenue decreased from $5.14 billion in Q3 2023 to $4.54 billion in Q1 2024, while maintaining relatively stable cost control. Cost of goods sold decreased proportionally from $4.17 billion to $3.72 billion, and selling, administrative and general expenses remained controlled between $670-690 million per quarter, demonstrating consistent operational management despite lower sales volumes.
+      - question: |
+          What improvements were seen in Goodyear's profitability metrics across quarters?
+        answer: >
+          Goodyear showed improved profitability metrics with net loss decreasing from $89 million in Q3 2023 to $57 million in Q1 2024, while loss per share improved from $0.31 to $0.20. The improvement was supported by significantly reduced rationalization costs from $198 million to $22 million and stable interest expenses around $130 million per quarter.
+      - question: |
+          How did Goodyear's operational efficiency evolve across these quarters?
+        answer: >
+          Goodyear demonstrated improved operational efficiency through better cost management and reduced rationalization expenses. The company maintained stable selling, administrative and general expenses despite revenue fluctuations, while significantly reducing rationalization costs by 89% from $198 million to $22 million, indicating progress in operational streamlining and cost optimization initiatives.
+
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/automobiles/GT/10-Q/data/*.md 

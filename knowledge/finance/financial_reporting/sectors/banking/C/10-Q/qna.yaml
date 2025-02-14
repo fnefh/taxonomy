@@ -1,0 +1,128 @@
+---
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Citigroup Inc. covering fiscal years  2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and operating income
+     - Segment performance metrics
+     - Sequential and year-over-year growth
+     - Profitability measures
+
+  2. Business Operations
+     - Services and Markets performance
+     - Banking and U.S. Personal Banking results
+     - Wealth management metrics
+     - Operational efficiency
+
+  3. Market Position
+     - Competitive developments
+     - Strategic initiatives
+     - Market opportunities
+     - Growth execution
+
+  4. Risk Management
+     - Credit performance
+     - Capital and liquidity
+     - Operational risks
+     - Industry challenges
+seed_examples:
+  - context: >
+      Citigroup reported net income of $3.4 billion, or $1.58 per share in Q1
+      2024, compared to net income of $4.6 billion, or $2.19 per share in the
+      prior-year period. Net income decreased 27% versus the prior-year period,
+      driven by higher expenses, higher cost of credit and lower revenues.
+      Citigroup's effective tax rate was approximately 25% in both periods.
+      Revenues of $21.1 billion decreased 2% versus the prior-year period on a
+      reported basis.
+    questions:
+      - question: What were Citigroup's key financial results for Q1 2024?
+        answer: Citigroup reported net income of $3.4 billion ($1.58 per share), down
+          27% from $4.6 billion ($2.19 per share) in Q1 2023. Revenues were
+          $21.1 billion, down 2% from the prior year.
+      - question: What factors drove the decline in Citigroup's Q1 2024 net income?
+        answer: The 27% decline in net income was driven by higher expenses, higher cost
+          of credit, and lower revenues, with an effective tax rate of
+          approximately 25%.
+  - context: >
+      Citigroup reported net income of $3.2 billion, or $1.52 per share in Q2
+      2024, compared to net income of $2.9 billion, or $1.33 per share in the
+      prior-year period. Net income increased 10% versus the prior-year period,
+      as higher revenues and lower expenses more than offset higher cost of
+      credit. Revenues of $20.1 billion increased 4% versus the prior-year
+      period, driven by growth across all reportable operating segments,
+      including an approximate $400 million episodic gain related to the Visa B
+      exchange.
+    questions:
+      - question: How did Citigroup perform in Q2 2024 compared to Q2 2023?
+        answer: Citigroup's net income increased 10% to $3.2 billion ($1.52 per share)
+          from $2.9 billion ($1.33 per share), with revenues up 4% to $20.1
+          billion, driven by growth across all segments and including a $400
+          million Visa B exchange gain.
+      - question: What drove the improvement in Citigroup's Q2 2024 performance?
+        answer: The improved performance was driven by higher revenues across all
+          segments (including a $400 million Visa B exchange gain) and lower
+          expenses, which more than offset higher cost of credit.
+  - context: >
+      Citigroup reported net income of $3.5 billion, or $1.63 per share in Q3
+      2023, up 2% from $3.5 billion, or $1.63 per share in the prior-year
+      period. The net income increase was driven by higher revenues, partially
+      offset by higher expenses, higher cost of credit and a higher effective
+      tax rate of 25% versus 20% in the prior-year period. Revenues of $20.1
+      billion increased 9% versus the prior-year period, driven by strength
+      across Services and Markets in ICG and U.S. Personal Banking in PBWM.
+    questions:
+      - question: What were Citigroup's key financial results for Q3 2023?
+        answer: Citigroup reported net income of $3.5 billion ($1.63 per share), up 2%
+          from the prior year, with revenues increasing 9% to $20.1 billion,
+          driven by strong performance in Services, Markets, and U.S. Personal
+          Banking.
+      - question: What factors impacted Citigroup's tax rate in Q3 2023?
+        answer: Citigroup's effective tax rate increased to 25% from 20% in the
+          prior-year period, largely driven by the geographic mix of earnings in
+          the quarter.
+  - context: >
+      Services net income of $1.5 billion increased 21% in Q2 2024 from the
+      prior-year period, driven by lower cost of credit and higher revenues,
+      partially offset by higher expenses. Services revenues of $4.7 billion
+      increased 3%, primarily reflecting higher revenues in Securities Services
+      and continued momentum in TTS. Securities Services revenues increased 10%,
+      while TTS revenues remained largely unchanged versus the prior-year
+      period.
+    questions:
+      - question: How did the Services segment perform in Q2 2024?
+        answer: Services net income increased 21% to $1.5 billion, with revenues up 3%
+          to $4.7 billion, driven by growth in Securities Services (up 10%) and
+          continued momentum in TTS, though TTS revenues were largely unchanged.
+      - question: What drove Securities Services revenue growth in Q2 2024?
+        answer: Securities Services revenue growth of 10% was driven by a 14% increase
+          in net interest income from higher deposit spreads, and a 7% increase
+          in non-interest revenue from higher assets under custody and
+          administration balances.
+  - context: >
+      U.S. Personal Banking net income of $121 million decreased 74% in Q2
+      2024 from the prior-year period, driven by higher cost of credit,
+      partially offset by higher revenues and lower expenses. Cost of credit
+      increased to $2.3 billion from $1.5 billion, driven by higher net credit
+      losses and a higher net ACL build for loans. USPB revenues of $4.9 billion
+      increased 6%, driven by loan growth in cards and lower partner payments.
+    questions:
+      - question: How did U.S. Personal Banking perform in Q2 2024?
+        answer: U.S. Personal Banking net income decreased 74% to $121 million despite
+          6% revenue growth to $4.9 billion, as cost of credit increased
+          significantly to $2.3 billion from $1.5 billion in the prior year.
+      - question: What drove the increase in USPB's cost of credit in Q2 2024?
+        answer: The higher cost of credit was driven by increased net credit losses from
+          the maturation of cards loan vintages originated during the pandemic
+          period, macroeconomic pressures from higher inflation and interest
+          rates, and an ACL build reflecting cards loan growth.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/banking/C/10-Q/data/*.md

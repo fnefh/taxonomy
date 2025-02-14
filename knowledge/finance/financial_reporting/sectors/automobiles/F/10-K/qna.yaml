@@ -1,0 +1,307 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Ford Motor Company covering fiscal years  2021-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Annual revenue and operating income
+     - Segment performance metrics
+     - Cash flow and balance sheet metrics
+     - Year-over-year growth trends
+
+  2. Business Operations
+     - Core products and services
+     - Manufacturing and production metrics
+     - Operational efficiency measures
+     - Technology and innovation
+
+  3. Market Position
+     - Industry leadership areas
+     - Market share and presence
+     - Strategic partnerships
+     - Growth initiatives
+
+  4. Risk Factors
+     - Industry-specific risks
+     - Regulatory compliance
+     - Supply chain management
+     - Market conditions
+seed_examples:
+  - context: >
+      Ford Motor Company demonstrated significant operational evolution from
+      2023 to 2024, with wholesale vehicle sales increasing from 4,413,000 to
+      4,470,000 units globally. The company's dealership network was
+      strategically optimized, adjusting from 9,527 dealerships in 2023 to 9,006
+      in 2024, while maintaining its strong market presence through Ford,
+      Ford-Lincoln combined, and Lincoln branded locations.
+    questions_and_answers:
+      - question: |
+          How did Ford's operational scale evolve from 2023 to 2024?
+        answer: >
+          Ford showed operational growth with wholesale vehicle sales increasing
+          by 57,000 units from 4,413,000 in 2023 to 4,470,000 in 2024, while
+          strategically optimizing its dealership network from 9,527 to 9,006
+          locations. The company maintained its global market presence through a
+          balanced distribution of Ford (8,212), Ford-Lincoln combined (451),
+          and Lincoln (343) dealerships.
+      - question: |
+          What strategic changes did Ford implement in its distribution network?
+        answer: >
+          Ford implemented strategic optimization of its dealership network,
+          reducing the total number by 521 locations while maintaining effective
+          market coverage. The adjustments included reducing Ford-only
+          dealerships from 8,639 to 8,212, Ford-Lincoln combined locations from
+          503 to 451, and Lincoln-only dealerships from 385 to 343, reflecting a
+          focused approach to market presence and operational efficiency.
+      - question: >
+          How has Ford's market position evolved based on its operational
+          changes?
+        answer: >
+          Ford strengthened its market position through focused optimization,
+          maintaining strong wholesale volume growth while streamlining its
+          distribution network. The company's strategic approach to dealership
+          management and increased sales volume demonstrates effective market
+          coverage and improved operational efficiency, supporting its position
+          as a leading global automotive manufacturer.
+  - context: >
+      In 2024, Ford reorganized its business into distinct customer-focused
+      segments: Ford Blue for ICE and hybrid vehicles, Ford Model e for electric
+      vehicles and digital technology, and Ford Pro for commercial customers.
+      The company, with approximately 171,000 employees worldwide (down from
+      177,000 in 2023), implemented this Ford+ plan to combine existing
+      strengths with new capabilities and enhance customer relationships, while
+      maintaining its commitment to developing innovative vehicles across all
+      segments.
+    questions_and_answers:
+      - question: >
+          How has Ford's organizational structure evolved to address changing
+          market demands?
+        answer: >
+          Ford implemented a significant reorganization by establishing three
+          distinct customer-focused segments: Ford Blue for traditional ICE and
+          hybrid vehicles, Ford Model e for electric vehicles and digital
+          technology, and Ford Pro for commercial customers. This restructuring
+          reflects the company's strategic adaptation to evolving market demands
+          and technology trends while maintaining operational efficiency with an
+          optimized workforce of 171,000 employees.
+      - question: |
+          What are the key elements of Ford's business transformation strategy?
+        answer: >
+          Ford's transformation strategy centers on the Ford+ plan, which combines
+          existing strengths with new capabilities through three specialized
+          segments. The strategy focuses on developing ICE/hybrid vehicles (Ford
+          Blue), breakthrough EVs and digital experiences (Ford Model e), and
+          commercial solutions (Ford Pro), while streamlining operations as
+          evidenced by the workforce optimization from 177,000 to 171,000
+          employees.
+      - question: |
+          How does Ford's segmentation strategy reflect its market positioning?
+        answer: >
+          Ford's segmentation strategy reflects a comprehensive market approach
+          through specialized business units targeting distinct customer needs:
+          traditional vehicle customers (Ford Blue), EV adopters (Ford Model e),
+          and commercial clients (Ford Pro). This structure enables focused
+          innovation and service delivery while maintaining the company's
+          position as a full-line vehicle manufacturer with a strong presence in
+          both conventional and emerging market segments.
+  - context: >
+      Ford's strategic focus on innovation and market adaptation is evident
+      in its segment-specific approach. Ford Blue provides hardware engineering
+      and manufacturing capabilities across segments, while Ford Model e focuses
+      on EV and digital vehicle technologies. Ford Pro operates in North America
+      and Europe, offering comprehensive solutions for commercial, government,
+      and rental customers, including ICE, hybrid, and electric vehicles, along
+      with digital and physical services for fleet optimization.
+    questions_and_answers:
+      - question: >
+          How does Ford's segment-specific strategy drive innovation across the
+          company?
+        answer: >
+          Ford's innovation strategy is driven through specialized segments, with
+          Ford Blue providing core engineering and manufacturing capabilities,
+          Ford Model e developing EV and digital technologies, and Ford Pro
+          delivering comprehensive commercial solutions. This structure enables
+          focused innovation in traditional vehicles, electric mobility, and
+          commercial services while leveraging cross-segment capabilities and
+          technologies.
+      - question: |
+          What competitive advantages does Ford's segmented approach provide?
+        answer: >
+          Ford's segmented approach provides distinct competitive advantages
+          through specialized focus areas: manufacturing excellence in Ford
+          Blue, technological innovation in Ford Model e, and comprehensive
+          commercial solutions in Ford Pro. This structure enables efficient
+          resource allocation, targeted market responses, and the ability to
+          serve diverse customer needs while maintaining integrated operational
+          capabilities.
+      - question: |
+          How does Ford's operational structure support its market expansion?
+        answer: >
+          Ford's operational structure supports market expansion through dedicated
+          segments serving different market needs: Ford Blue for traditional
+          markets, Ford Model e for emerging EV markets, and Ford Pro for
+          commercial markets in North America and Europe. This segmentation
+          enables focused growth strategies, efficient resource deployment, and
+          the ability to adapt quickly to market opportunities while maintaining
+          operational synergies.
+  - context: >
+      Ford's operational evolution from 2021 to 2023 showed significant
+      growth and adaptation, with wholesale vehicle volumes increasing from
+      3,942,000 units in 2021 to 4,231,000 in 2022, and further growing to
+      4,413,000 in 2023. During this period, the company also implemented
+      strategic changes to its dealership network, reducing from 9,955 locations
+      in 2021 to 9,611 in 2022, and 9,527 in 2023, while maintaining strong
+      market coverage.
+    questions_and_answers:
+      - question: |
+          How did Ford's business scale evolve from 2021 to 2023?
+        answer: >
+          Ford demonstrated consistent growth in wholesale volumes, increasing
+          from 3,942,000 units in 2021 to 4,231,000 in 2022 (7.3% growth), and
+          further to 4,413,000 in 2023 (4.3% growth). This growth was achieved
+          while optimizing the dealership network from 9,955 locations in 2021
+          to 9,527 in 2023, reflecting improved operational efficiency and
+          market coverage.
+      - question: |
+          What trends emerged in Ford's distribution strategy during 2021-2023?
+        answer: >
+          Ford's distribution strategy showed a consistent trend toward network
+          optimization, with dealership count decreasing from 9,955 in 2021 to
+          9,611 in 2022, and further to 9,527 in 2023. The company maintained
+          effective market coverage while reducing Ford-only dealerships from
+          8,900 to 8,639 and Ford-Lincoln combined locations from 654 to 503
+          over this period.
+      - question: |
+          How did Ford's market presence evolve during this period?
+        answer: >
+          Ford strengthened its market presence through increased sales volume and
+          optimized distribution, growing wholesale volumes by 12% from 2021 to
+          2023 while strategically consolidating its dealership network. The
+          company maintained market coverage through a balanced mix of
+          dealership types, demonstrating improved operational efficiency and
+          market adaptation.
+  - context: >
+      From 2021 to 2023, Ford underwent significant organizational
+      transformation, evolving from a traditional automotive manufacturer to a
+      customer-focused technology company. The workforce adjusted from 183,000
+      employees in 2021 to 173,000 in 2022, and 177,000 in 2023, reflecting the
+      company's focus on operational efficiency and new capabilities
+      development, particularly in electric vehicles and digital technologies.
+    questions_and_answers:
+      - question: |
+          How did Ford's organizational capabilities evolve from 2021 to 2023?
+        answer: >
+          Ford transformed from a traditional automotive manufacturer to a
+          technology-focused company, optimizing its workforce from 183,000 in
+          2021 to 177,000 in 2023 while building new capabilities in electric
+          vehicles and digital technologies. This evolution reflected the
+          company's strategic shift toward customer-centric operations and
+          advanced mobility solutions.
+      - question: >
+          What key transformational initiatives did Ford implement during this
+          period?
+        answer: >
+          Ford implemented several transformational initiatives, including
+          workforce optimization, development of EV capabilities, and
+          enhancement of digital technologies. The company's employee base
+          evolved from 183,000 in 2021 to 173,000 in 2022, before strategic
+          hiring brought it to 177,000 in 2023, reflecting focused investment in
+          new technologies and capabilities.
+      - question: |
+          How did Ford's business model evolve to address future market needs?
+        answer: >
+          Ford's business model evolved significantly to address future market
+          needs through increased focus on electric vehicles, digital
+          technologies, and customer-centric solutions. The company's workforce
+          adjustments and capability development from 2021 to 2023 demonstrated
+          its commitment to transforming from a traditional automaker to a
+          technology-driven mobility company.
+  - context: >
+      In 2021, Ford demonstrated significant strategic transformation with
+      its Ford+ plan for growth and value creation. The company, with
+      approximately 183,000 employees worldwide, committed to helping build a
+      better world through enhanced mobility solutions. Ford's business model
+      evolved to combine existing strengths with new capabilities, particularly
+      in electric vehicles and digital technologies, while maintaining strong
+      market presence across global regions with wholesale volumes of 3,942,000
+      units and a dealership network of 9,955 locations.
+    questions_and_answers:
+      - question: |
+          What were the key elements of Ford's strategic transformation in 2021?
+        answer: >
+          Ford's strategic transformation in 2021 centered on the Ford+ plan,
+          which focused on combining traditional strengths with new capabilities
+          and customer relationships. The company maintained a significant
+          global presence with 183,000 employees worldwide, 3,942,000 wholesale
+          vehicle units, and 9,955 dealership locations, while investing in
+          electric vehicles and digital technologies to drive future growth and
+          value creation.
+      - question: >
+          How did Ford's distribution network support its market presence in
+          2021?
+        answer: >
+          Ford's distribution network in 2021 consisted of 9,955 dealerships
+          globally, including 8,900 Ford-branded locations, 654 Ford-Lincoln
+          combined locations, and 401 Lincoln-only dealerships. This network
+          enabled the company to maintain strong market coverage while
+          supporting the delivery of 3,942,000 wholesale units across various
+          global markets.
+      - question: >
+          What initiatives did Ford implement to enhance its organizational
+          capabilities in 2021?
+        answer: >
+          In 2021, Ford implemented several key initiatives including the
+          development of electric vehicle capabilities, enhancement of digital
+          technologies, and strengthening of customer relationships through the
+          Ford+ plan. The company also focused on workforce development and
+          efficiency, maintaining a global workforce of 183,000 employees while
+          investing in new capabilities and technologies for future growth.
+  - context: >
+      In 2023, Ford implemented a new operating model and reporting structure
+      with three customer-focused business segments: Ford Blue for ICE and
+      hybrid vehicles, Ford Model e for electric vehicles and digital
+      technology, and Ford Pro for commercial customers. The company achieved
+      significant market presence with wholesale volumes reaching 4,413,000
+      units globally, supported by 9,527 dealerships. Ford's workforce grew to
+      172,000 employees (excluding Ford Credit), with 87,000 in the United
+      States and 85,000 in the rest of the world.
+    questions_and_answers:
+      - question: |
+          How did Ford's organizational structure evolve in 2023?
+        answer: >
+          Ford implemented a major organizational transformation in 2023,
+          establishing three distinct customer-focused segments: Ford Blue for
+          ICE and hybrid vehicles, Ford Model e for electric vehicles and
+          digital technology, and Ford Pro for commercial customers. This
+          restructuring was supported by a growing workforce of 172,000
+          employees globally and demonstrated the company's commitment to
+          serving diverse market needs while driving innovation across
+          traditional and emerging vehicle technologies.
+      - question: |
+          What were the key operational metrics for Ford in 2023?
+        answer: >
+          Ford achieved significant operational scale in 2023 with global
+          wholesale volumes of 4,413,000 units, supported by a network of 9,527
+          dealerships (8,639 Ford-branded, 503 Ford-Lincoln combined, and 385
+          Lincoln-only locations). The company maintained strong market presence
+          across key regions, with 87,000 employees in the United States and
+          85,000 in other global markets.
+      - question: >
+          How does Ford's new segment structure reflect its strategic priorities?
+        answer: >
+          Ford's new segment structure reflects a strategic focus on serving
+          distinct customer needs: Ford Blue developing ICE and hybrid vehicles,
+          Ford Model e leading electric vehicle innovation and digital
+          technology, and Ford Pro serving commercial customers. This
+          customer-centric approach enables focused innovation and service
+          delivery while maintaining Ford's position as a full-line vehicle
+          manufacturer across conventional, electric, and commercial segments.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/automobiles/F/10-K/data/*.md

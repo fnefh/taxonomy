@@ -1,0 +1,338 @@
+version: 3
+domain: quarterly_reporting
+created_by: claude
+document_outline: >
+  Quarterly Reports (Form 10-Q) for IBM Corporation covering
+  fiscal quarters in 2024. These reports contain 
+
+  consolidated financial statements, management discussion and analysis, and regulatory disclosures. Key sections 
+
+  include quarterly financial performance, strategic initiatives in AI and cloud computing, significant acquisitions 
+
+  and partnerships, dividend announcements, and pension plan updates. The documents also cover corporate governance 
+
+  changes, risk factors, and compliance with SEC reporting requirements.
+seed_examples:
+  - context: >
+      As of September 30, 2023, IBM had 913,118,581 shares of common stock
+      outstanding. The company is classified as a large 
+
+      accelerated filer and has filed all required reports during the preceding 12 months. IBM has submitted all required 
+
+      Interactive Data Files and maintains effective disclosure controls and procedures.
+    questions_and_answers:
+      - question: >
+          How many shares of IBM common stock were outstanding as of September
+          30, 2023?
+        answer: >
+          IBM had 913,118,581 shares of common stock outstanding as of September
+          30, 2023.
+      - question: |
+          What is IBM's filing classification and compliance status?
+        answer: >
+          IBM is classified as a large accelerated filer and has filed all
+          required reports and Interactive Data Files during 
+
+          the preceding 12 months, while maintaining effective disclosure controls and procedures.
+  - context: >
+      For the nine months ended September 30, 2023, IBM reported net income
+      of $4,214 million, compared to a net loss of 
+
+      $1,071 million in the same period of 2022. Operating cash flow was $9,468 million, up from $6,470 million in 2022. 
+
+      The company's investing activities included $4,945 million for acquisitions and $945 million for property, plant and equipment.
+    questions_and_answers:
+      - question: >
+          How did IBM's net income change in the first nine months of 2023
+          compared to 2022?
+        answer: >
+          IBM reported net income of $4,214 million for the first nine months of
+          2023, compared to a net loss of $1,071 million 
+
+          in the same period of 2022.
+      - question: >
+          What were IBM's major cash flow items in the first nine months of 2023?
+        answer: >
+          IBM generated operating cash flow of $9,468 million and spent $4,945
+          million on acquisitions and $945 million on 
+
+          property, plant and equipment.
+  - context: >
+      IBM's retirement-related plans showed significant changes in 2023.
+      Total retirement-related costs decreased to $888 million 
+
+      for the nine months ended September 30, 2023, compared to $7,350 million in 2022, primarily due to a pension settlement 
+
+      charge of $5,894 million in 2022. The company's defined benefit and contribution pension plans cost decreased to $791 million 
+
+      from $7,252 million in the prior year.
+    questions_and_answers:
+      - question: |
+          How did IBM's retirement-related costs change in 2023?
+        answer: >
+          Total retirement-related costs decreased to $888 million for the nine
+          months ended September 30, 2023, from $7,350 
+
+          million in 2022, primarily due to a pension settlement charge of $5,894 million in 2022.
+      - question: |
+          What was the cost of IBM's pension plans in 2023?
+        answer: >
+          The cost of IBM's defined benefit and contribution pension plans
+          decreased to $791 million in the first nine months 
+
+          of 2023, compared to $7,252 million in the same period of 2022.
+  - context: >
+      On July 31, 2023, IBM announced that Michael Miebach had been elected
+      to the IBM Board of Directors, effective October 30, 
+
+      2023. As a result, Article III, Section 2 of the company's By-Laws was amended to increase the number of directors to 
+
+      thirteen, effective October 30, 2023.
+    questions_and_answers:
+      - question: |
+          What changes were made to IBM's Board of Directors in 2023?
+        answer: >
+          Michael Miebach was elected to the IBM Board of Directors, effective
+          October 30, 2023, and the company's By-Laws 
+
+          were amended to increase the number of directors to thirteen.
+      - question: |
+          When were IBM's By-Laws amended and what was the change?
+        answer: >
+          IBM's By-Laws were amended effective October 30, 2023, to increase the
+          number of directors to thirteen following 
+
+          the election of Michael Miebach to the Board.
+  - context: >
+      As of March 31, 2024, IBM had 918,602,666 shares of common stock
+      outstanding. For the first quarter of 2024, 
+
+      IBM reported revenue of $14,462 million, up 1.5% from $14,252 million in Q1 2023. The gross profit margin 
+
+      improved to 53.5% from 52.7% in the prior year period. Income from continuing operations was $1,575 million, 
+
+      up 68.6% from $934 million in Q1 2023.
+    questions_and_answers:
+      - question: >
+          How many shares of IBM common stock were outstanding as of March 31,
+          2024?
+        answer: >
+          IBM had 918,602,666 shares of common stock outstanding as of March 31,
+          2024.
+      - question: >
+          How did IBM's financial performance change in Q1 2024 compared to Q1
+          2023?
+        answer: >
+          IBM's revenue increased 1.5% to $14,462 million, gross profit margin
+          improved to 53.5% from 52.7%, and 
+
+          income from continuing operations grew 68.6% to $1,575 million compared to Q1 2023.
+  - context: >
+      In Q1 2024, IBM's research, development and engineering (RD&E) expense
+      increased 8.5% year over year to 
+
+      $1,796 million, primarily driven by investments in AI, hybrid cloud and quantum computing. Selling, general 
+
+      and administrative (SG&A) expense increased 2.5% to $4,974 million, with workforce rebalancing charges of 
+
+      $375 million compared to $259 million in Q1 2023.
+    questions_and_answers:
+      - question: |
+          How did IBM's R&D spending change in Q1 2024?
+        answer: >
+          IBM's research, development and engineering expense increased 8.5% to
+          $1,796 million, driven by 
+
+          investments in AI, hybrid cloud and quantum computing.
+      - question: |
+          What were the key changes in IBM's SG&A expenses?
+        answer: >
+          SG&A expense increased 2.5% to $4,974 million, with notably higher
+          workforce rebalancing charges of 
+
+          $375 million compared to $259 million in Q1 2023.
+  - context: >
+      On April 30, 2024, IBM announced that the Board of Directors approved
+      an increase in the quarterly dividend 
+
+      to $1.67 per common share, payable June 10, 2024 to stockholders of record on May 10, 2024. Additionally, 
+
+      Joseph R. Swedish's term on the Board of Directors ended at the annual meeting on April 30, 2024, and the 
+
+      company's By-Laws were amended to decrease the number of directors to thirteen.
+    questions_and_answers:
+      - question: |
+          What changes were made to IBM's dividend in 2024?
+        answer: >
+          IBM's Board of Directors approved an increase in the quarterly dividend
+          to $1.67 per common share, 
+
+          payable June 10, 2024 to stockholders of record on May 10, 2024.
+      - question: |
+          What changes occurred in IBM's Board of Directors in early 2024?
+        answer: >
+          Joseph R. Swedish's term on the Board of Directors ended at the annual
+          meeting on April 30, 2024, and 
+
+          the company's By-Laws were amended to decrease the number of directors to thirteen.
+  - context: >
+      Enterprise AI continues to gain traction in 2024, with more clients
+      moving from experimenting to deploying AI at scale. 
+
+      IBM has infused AI across its business, from tools for managing hybrid cloud environments, to platform products across 
+
+      watsonx.ai, .data and .gov, to Infrastructure and Consulting. The company open-sourced its Granite family of large 
+
+      language models and partnered with Palo Alto Networks to deliver AI-powered security solutions using watsonx.
+    questions_and_answers:
+      - question: |
+          How is IBM implementing AI across its business in 2024?
+        answer: >
+          IBM has infused AI across its entire business, including tools for
+          hybrid cloud management, watsonx platform products 
+
+          (.ai, .data, and .gov), Infrastructure and Consulting services. They also open-sourced their Granite family of large 
+
+          language models and partnered with Palo Alto Networks for AI-powered security solutions.
+      - question: |
+          What strategic partnership did IBM announce in AI security?
+        answer: >
+          IBM and Palo Alto Networks announced a partnership to deliver AI-powered
+          security solutions using watsonx. As part 
+
+          of this, Palo Alto is acquiring certain IBM QRadar SaaS assets, with the transaction expected to close in Q3 2024.
+  - context: >
+      On April 24, 2024, IBM announced its intent to acquire all outstanding
+      shares of HashiCorp for $35 per share in cash, 
+
+      representing a total enterprise value of approximately $6.4 billion. HashiCorp stockholders approved the merger on July 15, 
+
+      2024. The transaction is expected to close by the end of 2024 and HashiCorp will be integrated into the Software segment. 
+
+      Additionally, IBM completed four acquisitions in the first half of 2024, and on July 1, 2024, completed the acquisition 
+
+      of StreamSets and webMethods assets from Software AG.
+    questions_and_answers:
+      - question: |
+          What are IBM's major acquisition plans for 2024?
+        answer: >
+          IBM announced plans to acquire HashiCorp for $6.4 billion ($35 per
+          share), completed four acquisitions in H1 2024, 
+
+          and acquired StreamSets and webMethods assets from Software AG on July 1, 2024. The HashiCorp acquisition is expected 
+
+          to close by end of 2024.
+      - question: |
+          What is the status of the HashiCorp acquisition?
+        answer: >
+          HashiCorp stockholders approved the merger with IBM on July 15, 2024.
+          The $6.4 billion transaction is expected to 
+
+          close by the end of 2024, subject to regulatory approvals, after which HashiCorp will be integrated into IBM's 
+
+          Software segment.
+  - context: >
+      On July 29, 2024, IBM announced that the Board of Directors approved a
+      quarterly dividend of $1.67 per common share, 
+
+      payable September 10, 2024 to stockholders of record on August 9, 2024. The company's pension plans remain well funded, 
+
+      with total retirement-related plan contributions expected to be approximately $1.5 billion in 2024, a decrease of 
+
+      $0.3 billion from the previous year.
+    questions_and_answers:
+      - question: |
+          What is IBM's latest dividend announcement?
+        answer: >
+          On July 29, 2024, IBM announced a quarterly dividend of $1.67 per common
+          share, payable September 10, 2024 to 
+
+          stockholders of record on August 9, 2024.
+      - question: >
+          What are IBM's expected retirement-related plan contributions for 2024?
+        answer: >
+          IBM expects retirement-related plan contributions of approximately $1.5
+          billion in 2024, representing a decrease 
+
+          of $0.3 billion from the previous year. The company's pension plans remain well funded.
+  - context: >
+      In September 2024, the IBM Qualified Personal Pension Plan (Qualified
+      PPP) purchased a nonparticipating single premium 
+
+      group annuity contract from The Prudential Insurance Company of America (the Insurer) and irrevocably transferred 
+
+      approximately $6 billion of the Qualified PPP's defined benefit pension obligations and related plan assets. This resulted 
+
+      in a one-time, nonoperating, non-cash, pre-tax pension settlement charge of $2.7 billion ($2.0 billion net of tax) in 
+
+      the third quarter of 2024.
+    questions_and_answers:
+      - question: >
+          What significant pension-related transaction did IBM complete in Q3
+          2024?
+        answer: >
+          IBM transferred approximately $6 billion of pension obligations and
+          assets to Prudential through a group annuity 
+
+          contract, resulting in a one-time pension settlement charge of $2.7 billion ($2.0 billion net of tax) in Q3 2024.
+      - question: |
+          How did the pension transaction impact IBM's financial results?
+        answer: >
+          The transaction resulted in a nonoperating, non-cash, pre-tax charge of
+          $2.7 billion but did not impact operating 
+
+          (non-GAAP) earnings or cash flow results as it was a non-cash charge.
+  - context: >
+      For the three months ended September 30, 2024, IBM reported revenue of
+      $14,968 million, up 1.5% from $14,752 million 
+
+      in Q3 2023. The gross profit margin improved to 56.3% from 54.4%. Due to the pension settlement charge, IBM recorded 
+
+      a loss from continuing operations of $317 million compared to income of $1,714 million in Q3 2023, with earnings per 
+
+      share from continuing operations of $(0.34) compared to $1.86 in the prior year period.
+    questions_and_answers:
+      - question: >
+          How did IBM's financial performance change in Q3 2024 compared to Q3
+          2023?
+        answer: >
+          IBM's revenue increased 1.5% to $14,968 million and gross profit margin
+          improved to 56.3% from 54.4%. However, 
+
+          due to a pension settlement charge, the company recorded a loss from continuing operations of $317 million compared 
+
+          to income of $1,714 million in Q3 2023.
+      - question: |
+          What was IBM's earnings per share performance in Q3 2024?
+        answer: >
+          IBM reported a loss per share from continuing operations of $0.34
+          compared to earnings of $1.86 in Q3 2023, 
+
+          primarily due to the pension settlement charge.
+  - context: >
+      On October 30, 2024, IBM announced that the Board of Directors approved
+      a quarterly dividend of $1.67 per common share, 
+
+      payable December 10, 2024 to stockholders of record on November 12, 2024. For the nine months ended September 30, 2024, 
+
+      total retirement-related plan contributions were $208 million, compared to $233 million in the same period of 2023.
+    questions_and_answers:
+      - question: |
+          What is IBM's latest dividend announcement?
+        answer: >
+          On October 30, 2024, IBM announced a quarterly dividend of $1.67 per
+          common share, payable December 10, 2024 to 
+
+          stockholders of record on November 12, 2024.
+      - question: |
+          How have IBM's retirement-related plan contributions changed in 2024?
+        answer: >
+          Total retirement-related plan contributions for the first nine months of
+          2024 were $208 million, down from 
+
+          $233 million in the same period of 2023.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - sectors/software_it_services/FA/10-Q/data/*.md

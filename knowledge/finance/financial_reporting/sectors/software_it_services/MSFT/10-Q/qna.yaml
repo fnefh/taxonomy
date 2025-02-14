@@ -1,0 +1,421 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Microsoft Corporation covering fiscal years 
+
+  2024-2025. The reports include detailed information about:
+
+
+  1. Financial Performance
+     - Quarterly revenue, operating income, and net income
+     - Segment performance (Intelligent Cloud, Productivity & Business Processes, More Personal Computing)
+     - Cash position and investments
+
+  2. Business Operations
+     - Cloud services and AI infrastructure investments
+     - Product and service revenue drivers
+     - Geographic market performance
+     - Operational challenges and opportunities
+
+  3. Shareholder Returns
+     - Share repurchase programs
+     - Dividend declarations and payments
+     - Total shareholder returns
+
+  4. Risk Factors
+     - Market and economic conditions
+     - Competition and technology changes
+     - Regulatory and compliance matters
+     - Global business operations
+seed_examples:
+  - context: >
+      For the quarter ended December 31, 2023, Microsoft reported revenue of
+      $62,020 million, up 18% from $52,747 
+
+      million in the prior year. Operating income was $27,032 million, increasing 33% from $20,399 million. Net 
+
+      income was $21,870 million with diluted earnings per share of $2.93, both up 33% year-over-year.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's key financial results for Q2 FY2024?
+        answer: >
+          Microsoft reported revenue of $62,020 million (up 18%), operating income
+          of $27,032 million (up 33%), 
+
+          and net income of $21,870 million (up 33%). Diluted earnings per share were $2.93.
+      - question: |
+          How did Microsoft's financial performance change from Q2 FY2023?
+        answer: >
+          Microsoft showed strong growth with revenue increasing 18%, while both
+          operating income and net income 
+
+          grew 33% compared to the same quarter last year.
+  - context: >
+      As of December 31, 2023, Microsoft had total cash, cash equivalents,
+
+      and short-term investments of $81,017 
+
+
+      million, compared to $111,262 million as of June 30, 2023. The company's effective tax rate was 18% for both 
+
+
+      the three and six months ended December 31, 2023, down from 19% in the prior year periods.
+    questions_and_answers:
+      - question: |
+          What was Microsoft's cash position at the end of Q2 FY2024?
+        answer: |
+          Microsoft had total cash, cash equivalents, and short-term investments
+          of $81,017 million as of 
+
+          December 31, 2023, down from $111,262 million at the end of FY2023.
+      - question: |
+          What was Microsoft's effective tax rate in Q2 FY2024?
+        answer: >
+          Microsoft's effective tax rate was 18% for both the three and six months
+
+          ended December 31, 2023, 
+
+
+          a decrease from 19% in the prior year periods.
+  - context: >
+      Revenue growth was driven by increases across all segments. Intelligent
+
+      Cloud revenue increased driven by 
+
+
+      Azure. More Personal Computing revenue increased driven by Gaming. Productivity and Business Processes revenue 
+
+
+      increased driven by Office 365 Commercial. Unearned revenue was $46,034 million as of December 31, 2023.
+    questions_and_answers:
+      - question: |
+          What drove Microsoft's revenue growth in Q2 FY2024?
+        answer: >
+          Revenue growth was driven by increases across all segments, with Azure
+
+          driving Intelligent Cloud growth, 
+
+
+          Gaming driving More Personal Computing growth, and Office 365 Commercial driving Productivity and 
+
+
+          Business Processes growth.
+      - question: |
+          What was Microsoft's unearned revenue position?
+        answer: |
+          Microsoft's unearned revenue was $46,034 million as of December 31,
+          2023.
+  - context: >
+      For the third quarter of fiscal year 2024, Microsoft reported net
+
+      income of $21,939 million, compared to 
+
+
+      $18,299 million in the same quarter last year. For the nine months ended March 31, 2024, net income was 
+
+
+      $66,100 million, up from $52,280 million in the prior year period. Total cash, cash equivalents, and 
+
+
+      short-term investments were $80,021 million as of March 31, 2024.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's key financial results for Q3 FY2024?
+        answer: >
+          Microsoft reported net income of $21,939 million, an increase from
+
+          $18,299 million in Q3 FY2023. For 
+
+
+          the nine months ended March 31, 2024, net income was $66,100 million, up from $52,280 million in the 
+
+
+          prior year period.
+      - question: |
+          What was Microsoft's cash position at the end of Q3 FY2024?
+        answer: |
+          Microsoft had total cash, cash equivalents, and short-term investments
+          of $80,021 million as of 
+
+          March 31, 2024.
+  - context: >
+      Microsoft Cloud revenue increased 23% to $35.1 billion. Office
+
+      Commercial products and cloud services 
+
+
+      revenue increased 13% driven by Office 365 Commercial growth of 15%. Office Consumer products and cloud 
+
+
+      services revenue increased 4% with Microsoft 365 Consumer subscribers growing to 80.8 million. LinkedIn 
+
+
+      revenue increased 10%. Dynamics products and cloud services revenue increased 19% driven by Dynamics 365 
+
+
+      growth of 23%.
+    questions_and_answers:
+      - question: |
+          How did Microsoft's cloud and software services perform in Q3 FY2024?
+        answer: >
+          Microsoft Cloud revenue grew 23% to $35.1 billion, Office Commercial
+
+          products and cloud services 
+
+
+          increased 13% (Office 365 Commercial up 15%), and Dynamics products and cloud services grew 19% 
+
+
+          (Dynamics 365 up 23%). Microsoft 365 Consumer subscribers reached 80.8 million.
+      - question: |
+          What was LinkedIn's performance in Q3 FY2024?
+        answer: |
+          LinkedIn revenue increased 10% compared to the same quarter last year.
+  - context: >
+      The effective tax rate was 18% for both the three and nine months ended
+
+      March 31, 2024, down from 19% in 
+
+
+      the prior year periods. The decrease was primarily due to increased tax benefits from stock-based 
+
+
+      compensation and tax benefits from tax law changes, including the impact from Notice 2023-55 and Notice 
+
+
+      2023-80 by the IRS and U.S. Treasury Department.
+    questions_and_answers:
+      - question: |
+          What was Microsoft's effective tax rate in Q3 FY2024?
+        answer: >
+          Microsoft's effective tax rate was 18% for both the three and nine
+
+          months ended March 31, 2024, a 
+
+
+          decrease from 19% in the prior year periods, primarily due to increased tax benefits from stock-based 
+
+
+          compensation and tax law changes.
+      - question: |
+          What tax matters is Microsoft currently dealing with?
+        answer: >
+          Microsoft remains under IRS audit for tax years 2014 to 2017. For tax
+
+          years 2004 to 2013, the IRS 
+
+
+          issued Notices of Proposed Adjustment seeking an additional tax payment of $28.9 billion plus penalties 
+
+
+          and interest, primarily related to intercompany transfer pricing. Microsoft disagrees with the proposed 
+
+
+          adjustments and plans to contest them.
+  - context: >
+      For the first quarter of fiscal year 2025 (ended September 30, 2024),
+
+      Microsoft reported net income of 
+
+
+      $24,667 million, compared to $22,291 million in the same quarter last year. Total assets were $523,013 
+
+
+      million as of September 30, 2024, up from $512,163 million on June 30, 2024. Total cash, cash equivalents, 
+
+
+      and short-term investments were $78,428 million.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's key financial results for Q1 FY2025?
+        answer: >
+          Microsoft reported net income of $24,667 million, an increase from
+
+          $22,291 million in Q1 FY2024. Total 
+
+
+          assets grew to $523,013 million, and the company held $78,428 million in cash, cash equivalents, and 
+
+
+          short-term investments.
+      - question: |
+          How did Microsoft's balance sheet change from the end of FY2024?
+        answer: >
+          Total assets increased from $512,163 million on June 30, 2024 to
+
+          $523,013 million on September 30, 2024. 
+
+
+          Cash and cash equivalents grew from $18,315 million to $20,840 million.
+  - context: >
+      Revenue by segment showed Productivity and Business Processes at
+
+      $40,429 million, Intelligent Cloud at 
+
+
+      $12,397 million, and More Personal Computing at $2,863 million. Total unearned revenue was $55,689 million 
+
+
+      as of September 30, 2024, compared to $60,184 million as of June 30, 2024. Revenue allocated to remaining 
+
+
+      performance obligations was $266 billion, of which $259 billion is related to commercial revenue.
+    questions_and_answers:
+      - question: |
+          What was Microsoft's segment revenue breakdown in Q1 FY2025?
+        answer: >
+          Microsoft reported revenue of $40,429 million from Productivity and
+
+          Business Processes, $12,397 million 
+
+
+          from Intelligent Cloud, and $2,863 million from More Personal Computing.
+      - question: |
+          What was Microsoft's future revenue outlook as of Q1 FY2025?
+        answer: >
+          Microsoft had $266 billion in revenue allocated to remaining performance
+
+          obligations, with $259 billion 
+
+
+          related to commercial revenue. The company expects to recognize approximately 45% of this total over 
+
+
+          the next 12 months.
+  - context: >
+      Microsoft returned $9.0 billion to shareholders in Q1 FY2025 through
+
+      share repurchases and dividends. The 
+
+
+      company repurchased 6,563,749 shares at prices ranging from $412.62 to $443.99 per share. The Board of 
+
+
+      Directors declared a dividend of $0.83 per share on September 16, 2024, payable December 12, 2024, 
+
+
+      amounting to $6,172 million.
+    questions_and_answers:
+      - question: |
+          How much did Microsoft return to shareholders in Q1 FY2025?
+        answer: >
+          Microsoft returned $9.0 billion to shareholders through share
+
+          repurchases and dividends. The company 
+
+
+          repurchased 6,563,749 shares at prices ranging from $412.62 to $443.99 per share.
+      - question: |
+          What was Microsoft's latest dividend announcement?
+        answer: >
+          On September 16, 2024, Microsoft's Board declared a dividend of $0.83
+
+          per share, payable December 12, 
+
+
+          2024 to shareholders of record on November 21, 2024, totaling $6,172 million.
+  - context: >
+      For the quarter ended December 31, 2024, Microsoft reported revenue of
+
+      $69,632 million, up 12% from $62,020 
+
+
+      million in the prior year. Operating income was $31,653 million, increasing 17% from $27,032 million. Net 
+
+
+      income was $24,108 million with diluted earnings per share of $3.23, both up 10% year-over-year. Total 
+
+
+      cash, cash equivalents, and short-term investments were $71,555 million as of December 31, 2024.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's key financial results for Q2 FY2025?
+        answer: >
+          Microsoft reported revenue of $69,632 million (up 12%), operating income
+
+          of $31,653 million (up 17%), 
+
+
+          and net income of $24,108 million (up 10%). Diluted earnings per share were $3.23, also up 10% 
+
+
+          year-over-year.
+      - question: |
+          What was Microsoft's cash position at the end of Q2 FY2025?
+        answer: |
+          Microsoft had total cash, cash equivalents, and short-term investments
+          of $71,555 million as of 
+
+          December 31, 2024.
+  - context: >
+      Revenue growth was driven by increases across segments. Intelligent
+
+      Cloud revenue increased driven by Azure. 
+
+
+      Productivity and Business Processes revenue increased driven by Microsoft 365 Commercial cloud. More 
+
+
+      Personal Computing revenue was relatively unchanged. Microsoft Cloud gross margin percentage decreased to 
+
+
+      70% driven by scaling AI infrastructure.
+    questions_and_answers:
+      - question: |
+          What drove Microsoft's revenue growth in Q2 FY2025?
+        answer: >
+          Revenue growth was primarily driven by Intelligent Cloud (led by Azure)
+
+          and Productivity and Business 
+
+
+          Processes (led by Microsoft 365 Commercial cloud), while More Personal Computing revenue remained 
+
+
+          relatively unchanged.
+      - question: |
+          How did Microsoft's cloud business perform in Q2 FY2025?
+        answer: |
+          While Microsoft Cloud showed strong revenue growth, its gross margin
+          percentage decreased to 70% due to 
+
+          investments in scaling AI infrastructure.
+  - context: >
+      Microsoft returned $9.7 billion to shareholders in Q2 FY2025 through
+
+      share repurchases and dividends. The 
+
+
+      company repurchased 8,209,928 shares at prices ranging from $418.02 to $440.96 per share. The Board of 
+
+
+      Directors declared a dividend of $0.83 per share on December 3, 2024, payable March 13, 2025, amounting to 
+
+
+      $6,171 million.
+    questions_and_answers:
+      - question: |
+          How much did Microsoft return to shareholders in Q2 FY2025?
+        answer: >
+          Microsoft returned $9.7 billion to shareholders through share
+
+          repurchases and dividends. The company 
+
+
+          repurchased 8,209,928 shares at prices ranging from $418.02 to $440.96 per share.
+      - question: |
+          What was Microsoft's latest dividend announcement?
+        answer: >
+          On December 3, 2024, Microsoft's Board declared a dividend of $0.83 per
+
+          share, payable March 13, 2025 
+
+
+          to shareholders of record on February 20, 2025, totaling $6,171 million.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - sectors/software_it_services/MSFT/10-Q/data/*.md

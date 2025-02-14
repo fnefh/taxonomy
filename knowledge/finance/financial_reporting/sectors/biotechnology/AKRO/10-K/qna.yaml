@@ -1,0 +1,133 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form
+  10-K)  for Akero Therapeutics covering fiscal years 2020 through 2023.
+
+  The reports track the company's evolution across: 1. Clinical Development Progress 2. Strategic Initiatives & Partnerships 3. Organizational Growth & Infrastructure
+seed_examples:
+  - context: >
+      From 2020 to 2023, Akero made significant progress in clinical
+      development of EFX (efruxifermin), its lead product candidate for NASH
+      treatment. The company advanced from Phase 2a BALANCED study through Phase
+      2b HARMONY and SYMMETRY trials, demonstrating strong efficacy in fibrosis
+      improvement and NASH resolution. Key milestones included achieving
+      statistically significant results in the HARMONY study, with 41% of
+      patients in the 50mg group showing fibrosis improvement without worsening
+      of NASH, and 76% achieving NASH resolution. The company also received Fast
+      Track, Breakthrough Therapy (FDA), and PRIME (EMA) designations for EFX.
+    questions_and_answers:
+      - question: How did Akero's clinical development program for EFX evolve from 2020
+          to 2023?
+        answer: >
+          Akero progressed from the Phase 2a BALANCED study in 2020 to two
+          parallel Phase 2b trials: HARMONY (pre-cirrhotic NASH) and SYMMETRY
+          (cirrhotic NASH). The HARMONY study demonstrated significant efficacy
+          with 41% of patients in the 50mg group achieving fibrosis improvement
+          and 76% achieving NASH resolution after 24 weeks. The company expanded
+          its clinical program to include Cohort D in the SYMMETRY study,
+          evaluating EFX in combination with GLP-1 therapeutics in patients with
+          both NASH and Type 2 diabetes.
+      - question: What were the key efficacy results demonstrated across Akero's
+          clinical trials from 2020-2023?
+        answer: >
+          The clinical trials showed consistent efficacy across multiple
+          endpoints. In the HARMONY study, both 50mg and 28mg dose groups
+          achieved statistical significance, with the 50mg group showing 41%
+          fibrosis improvement and 76% NASH resolution rates. Earlier trials
+          demonstrated significant reductions in liver fat (63-71%),
+          improvements in glycemic control (HbA1c reductions up to 0.9%), and
+          significant improvements in cardiovascular markers including
+          triglycerides (up to 45% reduction).
+      - question: How did regulatory support for EFX development evolve during this
+          period?
+        answer: >
+          Akero secured multiple key regulatory designations: FDA Fast Track
+          designation, FDA Breakthrough Therapy designation, and EMA PRIME
+          designation for EFX in NASH treatment. These designations acknowledged
+          EFX's potential to address high unmet medical need and provided
+          enhanced regulatory support, more frequent interactions, and potential
+          for accelerated assessment of marketing authorization applications.
+  - context: >
+      Between 2020 and 2023, Akero strengthened its strategic position
+      through manufacturing partnerships, intellectual property protection, and
+      preparation for commercialization. The company established manufacturing
+      relationships with Boehringer Ingelheim for drug substance and Vetter
+      Pharma for drug product-device combination. Patent portfolio expanded from
+      148 issued patents in 2020 to 169 by 2023, with exclusivity expected
+      through 2034. The company maintained exclusive global development and
+      commercialization rights to EFX, originally acquired from Amgen in 2018.
+    questions_and_answers:
+      - question: How did Akero's manufacturing capabilities evolve from 2020 to 2023?
+        answer: >
+          Akero established and strengthened key manufacturing partnerships,
+          successfully manufacturing drug substance at Boehringer Ingelheim and
+          scaling up production of a new drug product-device combination at
+          Vetter Pharma. By 2023, the company had successfully manufactured
+          GMP-compliant drug product-device combination units ready for use in
+          Phase 3 clinical trials, demonstrating significant progress in
+          manufacturing scale-up and preparation for potential
+          commercialization.
+      - question: What developments occurred in Akero's intellectual property protection
+          during this period?
+        answer: >
+          Akero's patent portfolio expanded from 148 issued patents and 25 pending
+          patents in 2020 to 169 issued patents and 15 pending patents by 2023,
+          maintaining expected patent exclusivity through 2034 in the United
+          States. The company retained potential for additional exclusivity
+          through patent term extensions and 12 years of biological product
+          exclusivity from BLA approval date in the United States.
+      - question: How did Akero's strategic positioning for commercialization evolve?
+        answer: >
+          The company maintained its exclusive global rights to EFX while
+          developing plans for commercialization. Akero focused on building
+          infrastructure for U.S. market entry while evaluating strategic
+          collaboration options for other key markets including Europe, Japan,
+          and China. The company's preparation included scaling manufacturing
+          capabilities and establishing partnerships to ensure readiness for
+          potential commercial launch.
+  - context: >
+      From 2020 to 2023, Akero expanded its organizational capabilities and
+      infrastructure to support advanced clinical development and potential
+      commercialization. The company maintained a strong leadership team with
+      extensive drug development experience, including executives from Gilead
+      and Pfizer. The organization evolved from an emerging growth company to a
+      large accelerated filer, reflecting its growth and market value increase.
+      The company also strengthened its financial position while advancing
+      clinical programs.
+    questions_and_answers:
+      - question: How did Akero's organizational structure and capabilities evolve from
+          2020 to 2023?
+        answer: >
+          Akero transitioned from an emerging growth company to a more established
+          organization, maintaining key leadership with extensive industry
+          experience including former executives from Gilead and Pfizer. The
+          company expanded its operational footprint and enhanced its
+          organizational capabilities through strategic hiring and
+          infrastructure development, particularly in clinical development,
+          manufacturing expertise, and regulatory affairs.
+      - question: What changes occurred in Akero's financial position and market status
+          during this period?
+        answer: >
+          The company's market value and financial position evolved significantly,
+          transitioning from a smaller reporting company to a large accelerated
+          filer. The aggregate market value of non-affiliate common stock
+          fluctuated from $477.9M in 2020 to $768.2M in 2021, reflecting market
+          response to clinical developments and overall growth. The company
+          maintained focus on efficient capital deployment while advancing
+          clinical programs.
+      - question: How did Akero enhance its development and commercialization readiness?
+        answer: >
+          Akero strengthened its organizational capabilities across key areas
+          including clinical development, manufacturing, and regulatory affairs.
+          The company expanded its teams to support advanced clinical trials,
+          enhanced its manufacturing expertise through key partnerships, and
+          built capabilities for potential commercialization. The leadership
+          team's extensive experience in drug development and commercialization
+          continued to guide strategic growth and preparation for market entry.
+document:
+  repo: https://github.com/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/AKRO/10-K/data/*.md

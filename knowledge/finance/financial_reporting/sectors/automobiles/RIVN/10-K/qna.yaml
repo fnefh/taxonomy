@@ -1,0 +1,164 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Rivian Automotive, Inc. covering fiscal years 2021-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Production and delivery metrics
+     - Operating expenses and investments
+     - Growth trajectory
+     - Capital allocation
+
+  2. Product Development
+     - Vehicle portfolio evolution
+     - Technology platform advancement
+     - Manufacturing capabilities
+     - Innovation milestones
+
+  3. Market Position
+     - Consumer and commercial segments
+     - Strategic partnerships
+     - Distribution model
+     - Competitive advantages
+
+  4. Business Strategy
+     - Ecosystem development
+     - Service offerings
+     - Infrastructure expansion
+     - Future roadmap
+seed_examples:
+  - context: >
+      Rivian's evolution from 2021 to 2023 demonstrates significant progress
+      in product development and market presence. The company launched with two
+      consumer vehicles (R1T pickup truck and R1S SUV) and the EDV commercial
+      van in collaboration with Amazon. By 2023, Rivian had delivered over
+      10,000 EDVs across the United States and Europe, while announcing plans
+      for the R2 mid-sized platform with production targeted for 2026. The
+      company's product portfolio expanded from initial vehicle launches to
+      include comprehensive accessories and value-added services.
+    questions_and_answers:
+      - question: |
+          How has Rivian's product portfolio evolved from 2021 to 2023?
+        answer: >
+          Rivian's product portfolio evolved from its initial launch of the R1T
+          pickup truck, R1S SUV, and EDV commercial van in 2021 to a more
+          comprehensive offering by 2023. The company successfully scaled
+          production and delivery of its consumer vehicles while delivering over
+          10,000 EDVs to Amazon across the US and Europe. Additionally, Rivian
+          announced plans for the R2 mid-sized platform targeting 2026
+          production, demonstrating commitment to expanding its market presence
+          with new vehicle segments.
+      - question: >
+          What key milestones has Rivian achieved in its commercial vehicle
+          program?
+        answer: >
+          Rivian achieved significant milestones in its commercial vehicle
+          program, delivering over 10,000 EDVs to Amazon across the US and
+          Europe by 2023. The company developed both 500 and 700 cubic foot
+          versions of the van, optimized for various commercial uses including
+          last-mile delivery. The EDV program demonstrated Rivian's ability to
+          design, manufacture, and deliver electric commercial vehicles at scale
+          while maintaining its commitment to lower total cost of ownership and
+          sustainability goals.
+      - question: |
+          How has Rivian's strategic vision evolved since its initial launch?
+        answer: >
+          Rivian's strategic vision evolved from focusing on initial vehicle
+          launches to building a comprehensive ecosystem. The company expanded
+          beyond vehicle manufacturing to include value-added services such as
+          digitally enabled financing, telematics-based insurance, charging
+          solutions, and fleet management through FleetOS. By 2023, Rivian had
+          also announced plans for future product lines like the R2, showing a
+          clear path toward broader market coverage and sustainable growth.
+  - context: >
+      Rivian's charging infrastructure and ecosystem development showed
+      significant advancement from 2021 to 2023. The company evolved from
+      initial plans for the Rivian Adventure Network to actively designing,
+      developing, manufacturing, and operating DC fast chargers across North
+      America. By 2023, Rivian had expanded charging access through
+      partnerships, including planned integration with over 12,000 Tesla
+      Superchargers in the United States using the North American Charging
+      Standard (NACS). The company's ecosystem grew to encompass vehicle
+      technology, cloud architecture, and comprehensive services.
+    questions_and_answers:
+      - question: |
+          How has Rivian's charging infrastructure strategy evolved since 2021?
+        answer: >
+          Rivian's charging strategy evolved from initial plans to a comprehensive
+          network, with the company actively designing, developing, and
+          operating its own DC fast chargers across North America. By 2023,
+          Rivian significantly expanded charging access through strategic
+          partnerships, notably including planned integration with over 12,000
+          Tesla Superchargers using NACS. This evolution demonstrates Rivian's
+          commitment to providing convenient and reliable charging solutions for
+          its customers.
+      - question: |
+          What developments has Rivian made in its technology ecosystem?
+        answer: >
+          Rivian developed a vertically integrated ecosystem combining vehicle
+          technology, cloud architecture, and comprehensive services. The
+          company's proprietary platform includes advanced vehicle systems,
+          Rivian Cloud for digital services, and FleetOS for commercial
+          operations. This integrated approach enables continuous improvement
+          through over-the-air updates, data analytics, and seamless customer
+          experiences across both consumer and commercial segments.
+      - question: |
+          How has Rivian's service offering expanded since launch?
+        answer: >
+          Rivian's service offering expanded from basic vehicle services to a
+          comprehensive suite including digitally enabled financing and leasing,
+          telematics-based insurance, proactive maintenance, software services,
+          and charging solutions. The company developed a direct-to-customer
+          model with digital-first engagement through its website, mobile app,
+          retail spaces, and service centers, creating an integrated ecosystem
+          that supports the entire vehicle lifecycle.
+  - context: >
+      From 2021 to 2023, Rivian demonstrated significant progress in
+      manufacturing capabilities and commercial partnerships. The company's
+      relationship with Amazon evolved from an initial 100,000-vehicle order to
+      successful delivery of over 10,000 EDVs across two continents. Rivian's
+      manufacturing approach expanded to include plans for the Stanton Springs
+      North Facility while maintaining production at the Normal Factory. The
+      company's direct-to-customer model matured with the addition of retail
+      spaces, service centers, and digital engagement platforms.
+    questions_and_answers:
+      - question: |
+          How has Rivian's manufacturing capability evolved since 2021?
+        answer: >
+          Rivian's manufacturing capability evolved from initial production at the
+          Normal Factory to include plans for expansion with the Stanton Springs
+          North Facility. The company demonstrated ability to produce multiple
+          vehicle models (R1T, R1S, EDV) while scaling production volumes. This
+          evolution includes development of manufacturing processes for both
+          consumer and commercial vehicles, showing Rivian's commitment to
+          vertical integration and production scalability.
+      - question: >
+          What progress has Rivian made in its commercial partnership with
+          Amazon?
+        answer: >
+          Rivian's partnership with Amazon progressed from an initial 100,000
+          vehicle order to successful delivery of over 10,000 EDVs across the US
+          and Europe by 2023. The company developed and delivered both 500 and
+          700 cubic foot versions of the EDV, demonstrating ability to meet
+          specific commercial requirements while maintaining focus on
+          sustainability and operational efficiency through the FleetOS
+          platform.
+      - question: |
+          How has Rivian's distribution and customer engagement model developed?
+        answer: >
+          Rivian's distribution model evolved into a comprehensive
+          direct-to-customer approach incorporating retail spaces, service
+          centers, and digital platforms. The company expanded its customer
+          engagement through social and digital media, demonstration events,
+          brand partnerships, and community outreach. This integrated strategy
+          enables efficient scaling while maintaining direct relationships with
+          customers throughout the vehicle lifecycle.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/automobiles/RIVN/10-K/data/*.md

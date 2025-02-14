@@ -1,0 +1,169 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Seacoast Banking Corporation of Florida covering 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Corporate Growth & Market Expansion
+     - Strategic acquisitions
+     - Geographic expansion
+     - Market presence
+     - Competitive positioning
+
+  2. Financial Performance & Scale
+     - Asset growth
+     - Deposit base
+     - Capital position
+     - Market value
+
+  3. Operational Excellence
+     - Digital transformation
+     - Human capital management
+     - Risk management
+     - Corporate culture
+
+  4. Strategic Initiatives
+     - Technology investments
+     - Customer experience
+     - Product offerings
+     - ESG commitments
+seed_examples:
+  - context: >
+      Seacoast Banking Corporation has demonstrated significant growth
+      through both organic expansion and strategic acquisitions from 2020 to
+      2023. The company's total assets grew from $8.3 billion in 2020 to $14.6
+      billion in 2023, while deposits increased from $6.9 billion to $11.8
+      billion during the same period. This growth was achieved through multiple
+      strategic acquisitions including Sabal Palm, Business Bank of Florida,
+      Drummond Banking, Apollo Bancorp, and Professional Holding Corp.,
+      expanding the bank's presence across Florida's key markets including
+      Sarasota, Brevard County, North Florida, and South Florida.
+    questions_and_answers:
+      - question: >
+          How has Seacoast Banking Corporation's scale and market presence
+          evolved from 2020 to 2023, and what were the key drivers of this
+          growth?
+        answer: >
+          Seacoast Banking Corporation experienced substantial growth from 2020 to
+          2023, with total assets increasing from $8.3 billion to $14.6 billion
+          and deposits growing from $6.9 billion to $11.8 billion. This
+          expansion was driven by a balanced strategy of organic growth and
+          strategic acquisitions. The company completed several key acquisitions
+          including Sabal Palm (Sarasota market), Business Bank of Florida
+          (Brevard County), Drummond Banking (North Florida), Apollo Bancorp and
+          Professional Holding Corp. (South Florida), significantly expanding
+          its presence across Florida's fastest-growing markets. The bank also
+          entered new markets organically, including Naples and Jacksonville,
+          demonstrating its commitment to strategic geographic expansion.
+      - question: >
+          What strategic initiatives has Seacoast undertaken to enhance its
+          competitive position and market presence during this period?
+        answer: >
+          Seacoast has implemented multiple strategic initiatives to enhance its
+          competitive position. The bank focused on expanding its footprint in
+          Florida's fastest-growing markets through both acquisitions and
+          organic growth, increasing its branch network from 51 branches in 2020
+          to 77 branches by 2023. The company also invested significantly in
+          digital transformation, completing a major digital conversion and
+          adding features like Zelle®, budgeting tools, account aggregation,
+          improved digital onboarding, and Spanish language capabilities.
+          Additionally, Seacoast strengthened its commercial banking
+          capabilities by adding new commercial bankers across key markets and
+          investing in technology to improve banker productivity.
+  - context: >
+      Seacoast has maintained a strong focus on operational excellence and
+      human capital management throughout 2020-2023. The company has
+      consistently been recognized as one of the "Best Banks to Work For" by
+      American Banker and achieved high employee engagement scores, reaching 85%
+      in 2023, which is 9% higher than the banking industry average. The bank
+      has established five Associate Resource Groups (ARGs) promoting diversity
+      and inclusion, and has been recognized for its LGBTQ+ equality
+      initiatives. Employee participation in engagement surveys increased from
+      93% in 2021 to 97% in 2023, reflecting strong organizational culture and
+      employee commitment.
+    questions_and_answers:
+      - question: >
+          How has Seacoast's approach to human capital management evolved, and
+          what results has this produced in terms of employee engagement and
+          corporate culture?
+        answer: >
+          Seacoast's approach to human capital management has evolved to focus
+          strongly on employee development, diversity, and engagement. The
+          company has maintained consistently high employee engagement scores,
+          reaching 85% in 2023 (9% above industry average), with survey
+          participation increasing from 93% in 2021 to 97% in 2023. The bank has
+          established five Associate Resource Groups (ARGs) - LGBT+, Military
+          Outreach, Women Mean Business, Black Associates and Allies Network,
+          and Unidos (Latin American and Hispanic Associates) - demonstrating
+          its commitment to diversity and inclusion. These initiatives have led
+          to multiple recognitions, including being named among "Best Banks to
+          Work For" by American Banker and receiving accolades for LGBTQ+
+          equality.
+      - question: >
+          What investments has Seacoast made in technology and digital
+          capabilities during this period, and how have these enhanced customer
+          experience?
+        answer: >
+          Seacoast has made significant investments in technology and digital
+          capabilities, completing a major digital transformation in 2022 that
+          included several key enhancements. The bank implemented Zelle® for
+          digital payments, added comprehensive budgeting tools and account
+          aggregation features, improved digital onboarding processes, and
+          introduced Spanish language capabilities. These investments were aimed
+          at delivering better digital experiences to customers while
+          maintaining an integrated distribution model combining traditional
+          branches with modern digital banking solutions. The bank has also
+          invested in technology to improve banker productivity and enhance the
+          overall banking experience for customers.
+  - context: >
+      From 2020 to 2023, Seacoast has demonstrated strong financial
+      management and strategic positioning in the Florida banking market. The
+      company's shareholders' equity grew from $1.1 billion in 2020 to $2.1
+      billion in 2023, while maintaining its status as one of the largest
+      regional banks headquartered in Florida. The bank has focused on expanding
+      in Florida's fastest-growing markets, including the tri-county South
+      Florida market (Miami-Dade, Broward, and Palm Beach counties), which
+      represents Florida's largest MSA and the 8th largest MSA in the nation.
+      The company has also maintained strong capital and liquidity positions
+      throughout this period.
+    questions_and_answers:
+      - question: >
+          How has Seacoast's financial position and market value evolved from
+          2020 to 2023, and what strategic decisions have influenced this
+          growth?
+        answer: >
+          Seacoast's financial position strengthened significantly from 2020 to
+          2023, with shareholders' equity growing from $1.1 billion to $2.1
+          billion. The company's strategic focus on Florida's fastest-growing
+          markets, particularly the expansion into the tri-county South Florida
+          market (the 8th largest MSA in the nation), has enhanced its market
+          position. The bank's strategic decisions to pursue both organic growth
+          and acquisitions have contributed to this growth while maintaining
+          strong capital and liquidity positions. These strategic moves have
+          positioned Seacoast as one of the largest regional banks headquartered
+          in Florida, with a significant presence in the state's most dynamic
+          markets.
+      - question: >
+          What competitive advantages has Seacoast developed to differentiate
+          itself in the Florida banking market during this period?
+        answer: >
+          Seacoast has developed several key competitive advantages in the Florida
+          banking market. The bank has leveraged its reputation for superior
+          service while building an integrated distribution model that combines
+          traditional branches with advanced digital technology. The company has
+          established a strong presence in Florida's fastest-growing markets
+          through strategic acquisitions and organic growth, creating a valuable
+          franchise in key metropolitan areas. Additionally, Seacoast has
+          invested in its commercial banking capabilities, digital
+          infrastructure, and customer experience, while maintaining a strong
+          focus on employee development and engagement. These investments have
+          helped differentiate Seacoast from both traditional competitors and
+          new entrants in the market.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/banking/SBCF/10-K/data/*.md

@@ -1,0 +1,98 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Anavex Life Sciences Corp. covering fiscal years 2021 through 2024. The
+  reports track the company's evolution across three main areas: 1. Clinical
+  Pipeline Evolution & Regulatory Progress 2. Technology Platform & Innovation
+  3. Strategic Growth & Commercial Readiness
+seed_examples:
+  - context: >
+      From 2021 to 2024, Anavex made significant progress in its clinical
+      pipeline, particularly with ANAVEX®2-73 (blarcamesine) across multiple
+      indications. Key developments included completion of Phase 2b/3
+      Alzheimer's trial, advancement in Rett syndrome studies, and major
+      regulatory milestones including EMA MAA submission.
+    questions_and_answers:
+      - question: How did Anavex's clinical pipeline evolve from 2021 to 2024?
+        answer: >
+          The pipeline showed significant advancement: 1) Completed Phase 2b/3
+          Alzheimer's trial with positive results showing 36.3% slowing of
+          clinical progression 2) Completed multiple Rett syndrome trials
+          including US Phase 2, AVATAR Phase 3, and pediatric EXCELLENCE study
+          3) Expanded development across neurodegenerative and
+          neurodevelopmental diseases 4) Advanced precision medicine approach
+          with biomarker-driven patient selection
+      - question: What were the key regulatory milestones achieved during this period?
+        answer: >
+          Major regulatory achievements included: 1) Submission and acceptance of
+          MAA to EMA for ANAVEX®2-73 in Alzheimer's disease in 2024 2)
+          Maintained Orphan Drug Designation for Rett syndrome and infantile
+          spasms 3) Received Rare Pediatric Disease designation for Rett
+          syndrome 4) Advanced multiple clinical programs through various phases
+          with regulatory support
+      - question: How did the clinical trial results evolve across different indications?
+        answer: >
+          Trial results showed consistent progress: 1) Phase 2b/3 Alzheimer's
+          trial met primary endpoints with 36.3% slowing of progression 2) Rett
+          syndrome AVATAR trial showed statistically significant improvements in
+          RSBQ and CGI-I 3) Pediatric EXCELLENCE trial demonstrated early onset
+          of action at 4 weeks 4) Consistent safety profile maintained across
+          all trials
+  - context: >
+      Throughout 2021-2024, Anavex advanced its precision medicine platform,
+      particularly in understanding SIGMAR1 activation and biomarker-driven
+      patient selection. The company's technology platform evolved to include
+      sophisticated genomic analysis and PET imaging validation.
+    questions_and_answers:
+      - question: How did Anavex's technology platform evolve during this period?
+        answer: >
+          Platform evolution included: 1) Advanced understanding of SIGMAR1
+          activation through PET imaging studies 2) Enhanced genomic analysis
+          capabilities for patient selection 3) Validated biomarker-driven
+          approach across multiple indications 4) Expanded understanding of
+          cellular homeostasis mechanisms
+      - question: What were the key innovations in biomarker development?
+        answer: >
+          Biomarker innovations included: 1) Identification of SIGMAR1 genetic
+          variants affecting treatment response 2) Development of precision
+          medicine approach identifying 80-90% likely responders 3) Validation
+          of biomarker strategy across multiple clinical trials 4) Integration
+          of DNA and RNA data for patient selection
+      - question: How did the understanding of SIGMAR1 mechanism advance?
+        answer: >
+          SIGMAR1 understanding advanced through: 1) Quantitative PET imaging
+          validation of target engagement 2) Enhanced understanding of cellular
+          homeostasis restoration 3) Validation across multiple CNS indications
+          4) Correlation of SIGMAR1 activation with clinical outcomes
+  - context: >
+      From 2021 to 2024, Anavex transformed from a clinical-stage company to
+      preparing for commercial readiness, particularly with its lead candidate
+      ANAVEX®2-73. The company strengthened its market position and advanced
+      toward potential commercialization.
+    questions_and_answers:
+      - question: How did Anavex's commercial readiness evolve from 2021 to 2024?
+        answer: >
+          Commercial evolution included: 1) Preparation for potential European
+          commercialization with EMA MAA submission 2) Advancement of multiple
+          late-stage clinical programs 3) Development of commercial-ready
+          formulations including oral liquid 4) Expansion of manufacturing and
+          operational capabilities
+      - question: What strategic initiatives were implemented during this period?
+        answer: >
+          Key initiatives included: 1) Focus on precision medicine approach for
+          enhanced efficacy 2) Expansion into multiple CNS indications 3)
+          Development of biomarker-driven patient selection strategy 4)
+          Preparation for potential commercial launch in Europe
+      - question: How did Anavex's market position evolve during these years?
+        answer: >
+          Market position evolved through: 1) Advancement of lead candidate toward
+          potential approval 2) Expansion of clinical pipeline across multiple
+          indications 3) Strengthening of intellectual property portfolio 4)
+          Development of precision medicine platform for competitive advantage
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/AVXL/10-K/data/*.md

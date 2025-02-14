@@ -1,0 +1,133 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Janux Therapeutics, Inc. covering fiscal years  2021-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Annual revenue and operating income
+     - Clinical development progress
+     - Cash flow and balance sheet metrics
+     - Year-over-year growth trends
+
+  2. Business Operations
+     - Core products and pipeline development
+     - Clinical trial progress
+     - Technology platforms (TRACTr and TRACIr)
+     - Research and development
+
+  3. Market Position
+     - Industry leadership in TCE technology
+     - Strategic partnerships
+     - Growth initiatives
+     - Clinical milestones
+
+  4. Risk Factors
+     - Clinical development risks
+     - Regulatory compliance
+     - Financial requirements
+     - Market conditions
+seed_examples:
+  - context: >
+      In February 2024, Janux announced updated interim clinical data for
+      JANX007 (PSMA-TRACTr) from its Phase 1 trial in metastatic
+      castration-resistant prostate cancer, showing meaningful PSA drops and a
+      favorable safety profile with low-grade CRS. The company's second clinical
+      candidate, JANX008 (EGFR-TRACTr), also demonstrated positive early data
+      with anti-tumor activity in multiple tumor types and predominantly
+      low-grade treatment-related adverse events.
+    questions_and_answers:
+      - question: >
+          What were the key clinical developments for Janux's lead programs in
+          early 2024?
+        answer: >
+          Janux reported positive interim data for both lead programs - JANX007
+          showed meaningful PSA reductions and favorable safety in prostate
+          cancer patients with low-grade CRS, while JANX008 demonstrated
+          anti-tumor activity across multiple cancer types with predominantly
+          low-grade adverse events.
+      - question: >
+          How has the safety profile of Janux's TRACTr platform been
+          demonstrated in clinical trials?
+        answer: >
+          The clinical data has validated the TRACTr platform's safety design,
+          with both JANX007 and JANX008 showing favorable safety profiles
+          characterized by low-grade CRS and predominantly low-grade
+          treatment-related adverse events, supporting the platform's potential
+          to overcome historical TCE toxicity challenges.
+      - question: >
+          What does this early clinical data suggest about the potential of
+          Janux's technology platform?
+        answer: >
+          The early clinical data suggests that Janux's TRACTr platform may
+          successfully address key limitations of traditional TCE approaches by
+          demonstrating both efficacy (PSA drops and anti-tumor activity) and
+          improved safety (low-grade CRS), supporting its potential as a novel
+          approach for solid tumor treatment.
+  - context: >
+      In 2022, Janux initiated its clinical development phase with the first
+      patient dosed with PSMA-TRACTr (JANX007) in October 2022. The company also
+      received FDA clearance for the EGFR-TRACTr (JANX008) IND application,
+      enabling expansion of its clinical pipeline. These developments marked
+      Janux's transition from a preclinical to a clinical-stage company.
+    questions_and_answers:
+      - question: >
+          What significant milestones did Janux achieve in its clinical
+          development program during 2022?
+        answer: >
+          In 2022, Janux achieved two major milestones: dosing the first patient
+          with JANX007 (PSMA-TRACTr) in October, marking its first clinical
+          trial initiation, and receiving FDA clearance for the JANX008
+          (EGFR-TRACTr) IND application, enabling clinical trial expansion.
+      - question: |
+          How did these developments impact Janux's corporate evolution?
+        answer: >
+          These developments transformed Janux from a preclinical to a
+          clinical-stage biopharmaceutical company, representing a crucial
+          transition in its corporate development and demonstrating the
+          company's ability to advance its novel technology platform into human
+          clinical trials.
+      - question: >
+          What does the FDA clearance of multiple INDs suggest about Janux's
+          technology platform?
+        answer: >
+          The FDA clearance of multiple INDs suggests that Janux's TRACTr platform
+          has demonstrated sufficient safety and potential efficacy in
+          preclinical studies to warrant human clinical trials, validating the
+          company's approach to addressing historical TCE limitations.
+  - context: >
+      In 2021, Janux was focused on preclinical development of its
+      proprietary TRACTr and TRACIr platforms, with lead programs targeting
+      PSMA, EGFR, and TROP2. The company established a strategic research
+      collaboration with Merck to develop TRACTr candidates against two cancer
+      targets, demonstrating early validation of its platform technology.
+    questions_and_answers:
+      - question: |
+          What was the focus of Janux's development efforts in 2021?
+        answer: >
+          In 2021, Janux focused on advancing its preclinical pipeline based on
+          its proprietary TRACTr and TRACIr platforms, with lead programs
+          targeting PSMA, EGFR, and TROP2, while also establishing a strategic
+          collaboration with Merck for additional cancer targets.
+      - question: |
+          How did the Merck collaboration validate Janux's technology platform?
+        answer: >
+          The strategic research collaboration with Merck provided external
+          validation of Janux's TRACTr platform technology, as a major
+          pharmaceutical company chose to partner with Janux to develop novel
+          TCE candidates against selected cancer targets.
+      - question: |
+          What differentiated Janux's approach to TCE development in 2021?
+        answer: >
+          Janux's approach was differentiated by its proprietary TRACTr and TRACIr
+          platforms, designed to overcome traditional TCE limitations through
+          tumor-specific activation, reduced toxicity risk, and improved
+          half-life, targeting clinically validated targets in solid tumors.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/JANX/10-K/data/*.md

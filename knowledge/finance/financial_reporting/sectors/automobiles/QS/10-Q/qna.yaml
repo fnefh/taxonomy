@@ -1,0 +1,266 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for QuantumScape Corporation covering fiscal quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Research and development investments
+     - Operating expenses and cash flow
+     - Balance sheet metrics
+     - Quarterly trends
+
+  2. Business Operations
+     - Technology development progress
+     - Manufacturing capabilities
+     - Operational milestones
+     - Research achievements
+
+  3. Market Position
+     - Strategic partnerships
+     - Technology validation
+     - Commercial progress
+     - Growth initiatives
+
+  4. Risk Management
+     - Technology development risks
+     - Manufacturing scale-up
+     - Market conditions
+     - Industry challenges
+seed_examples:
+  - context: >
+      For the quarter ended September 30, 2024, QuantumScape reported
+      increased research and development investments of $97.0 million, up from
+      $88.2 million in the same quarter last year, reflecting continued focus on
+      solid-state battery development. Total operating expenses were $130.2
+      million, compared to $120.9 million in Q3 2023, while maintaining a strong
+      balance sheet with $841.0 million in cash, cash equivalents, and
+      marketable securities.
+    questions_and_answers:
+      - question: >
+          How did QuantumScape's R&D investments evolve in Q3 2024 compared to
+          the prior year?
+        answer: >
+          QuantumScape increased its R&D investments by 10% to $97.0 million in Q3
+          2024 from $88.2 million in Q3 2023, demonstrating continued commitment
+          to solid-state battery development. Total operating expenses grew to
+          $130.2 million from $120.9 million, reflecting the company's strategic
+          focus on technology advancement while maintaining controlled growth in
+          general and administrative expenses.
+      - question: >
+          What trends emerged in QuantumScape's financial position during Q3
+          2024?
+        answer: >
+          QuantumScape maintained a strong financial position with $841.0 million
+          in combined cash and marketable securities, while efficiently managing
+          operating expenses. The company's disciplined approach to capital
+          allocation was evident in the balanced increase in R&D investments and
+          stable G&A expenses of $33.2 million compared to $32.7 million in the
+          prior year.
+      - question: |
+          How has QuantumScape's operational efficiency evolved year-over-year?
+        answer: >
+          QuantumScape demonstrated focused operational management with R&D
+          expenses representing 74.5% of total operating expenses in Q3 2024,
+          compared to 73.0% in Q3 2023, indicating continued prioritization of
+          technology development. The company maintained efficient operations
+          with controlled G&A expenses while increasing R&D investments to
+          advance its solid-state battery technology.
+  - context: >
+      For the nine months ended September 30, 2024, QuantumScape's cumulative
+      research and development expenses reached $278.6 million, compared to
+      $251.5 million in the same period of 2023, while general and
+      administrative expenses increased to $117.9 million from $102.8 million.
+      The company's net loss attributable to common stockholders was $363.2
+      million ($0.72 per share) compared to $331.8 million ($0.73 per share) in
+      the prior year period, reflecting continued investments in technology
+      development and commercialization efforts.
+    questions_and_answers:
+      - question: >
+          How did QuantumScape's financial metrics evolve in the first nine
+          months of 2024?
+        answer: >
+          QuantumScape's nine-month performance showed increased investment in
+          technology development with R&D expenses growing by $27.1 million to
+          $278.6 million, while G&A expenses increased by $15.1 million to
+          $117.9 million. Despite higher operating expenses, the company
+          maintained relatively stable per-share metrics with net loss per share
+          improving slightly to $0.72 from $0.73 in the prior year period.
+      - question: >
+          What trends emerged in QuantumScape's cost management during this
+          period?
+        answer: >
+          QuantumScape demonstrated strategic cost management with R&D expenses
+          representing 70.3% of total operating expenses, compared to 71.0% in
+          the prior year period. The company balanced increased investments in
+          technology development with controlled growth in administrative
+          expenses, while maintaining focus on key development milestones and
+          commercialization efforts.
+      - question: |
+          How has QuantumScape's investment strategy evolved year-over-year?
+        answer: >
+          QuantumScape's investment strategy showed continued prioritization of
+          technology development with a 10.8% increase in R&D spending, while
+          maintaining disciplined growth in administrative expenses. The
+          company's focused approach to capital allocation supported key
+          development initiatives while managing overall operating expenses to
+          maintain a strong financial position.
+  - context: >
+      QuantumScape's balance sheet position as of September 30, 2024,
+      reflected total assets of $1.27 billion, including $174.7 million in cash
+      and cash equivalents and $666.3 million in marketable securities. The
+      company's property and equipment increased to $317.5 million from $313.2
+      million at the end of 2023, while maintaining stable operating lease
+      assets of $52.7 million, demonstrating continued investment in
+      manufacturing capabilities and development infrastructure.
+    questions_and_answers:
+      - question: |
+          How has QuantumScape's balance sheet evolved through Q3 2024?
+        answer: >
+          QuantumScape maintained a strong balance sheet with $1.27 billion in
+          total assets, including $841.0 million in combined cash and marketable
+          securities. The company increased its property and equipment
+          investment by $4.3 million to $317.5 million while maintaining stable
+          operating lease assets, reflecting continued investment in
+          manufacturing capabilities and development infrastructure.
+      - question: |
+          What trends emerged in QuantumScape's capital allocation during 2024?
+        answer: >
+          QuantumScape demonstrated strategic capital allocation with focused
+          investments in property and equipment while maintaining substantial
+          liquidity through cash and marketable securities. The company's
+          approach balanced maintaining strong cash reserves of $841.0 million
+          with continued investment in development infrastructure and
+          manufacturing capabilities.
+      - question: >
+          How has QuantumScape's financial position supported its development
+          goals?
+        answer: >
+          QuantumScape's strong financial position, with $1.27 billion in total
+          assets and $841.0 million in liquid assets, provided robust support
+          for its development goals. The company's strategic balance of cash
+          reserves and capital investments demonstrated commitment to long-term
+          technology development while maintaining financial flexibility for
+          future opportunities.
+  - context: >
+      QuantumScape's sequential quarterly performance from Q3 2023 through Q2
+      2024 showed consistent R&D investment growth, with research and
+      development expenses increasing from $88.2 million in Q3 2023 to $83.8
+      million in Q1 2024, and further to $97.7 million in Q2 2024. The company
+      maintained strategic focus on technology development while managing
+      general and administrative expenses, which fluctuated from $32.7 million
+      to $48.1 million and $36.7 million across these quarters, reflecting
+      varying operational needs.
+    questions_and_answers:
+      - question: >
+          How did QuantumScape's R&D investments evolve across quarters from Q3
+          2023 to Q2 2024?
+        answer: >
+          QuantumScape demonstrated a strategic pattern in R&D investments,
+          starting at $88.2 million in Q3 2023, adjusting to $83.8 million in Q1
+          2024, before increasing significantly to $97.7 million in Q2 2024.
+          This progression reflected the company's continued commitment to
+          technology development while adapting to specific research phase
+          requirements and development milestones.
+      - question: >
+          What trends emerged in QuantumScape's cost management across these
+          quarters?
+        answer: >
+          QuantumScape's cost management showed strategic flexibility, with G&A
+          expenses fluctuating from $32.7 million in Q3 2023 to $48.1 million in
+          Q1 2024, before normalizing to $36.7 million in Q2 2024. The company
+          maintained overall operational discipline while accommodating varying
+          administrative needs and strategic initiatives across quarters.
+      - question: >
+          How has QuantumScape's operational focus evolved through these
+          quarters?
+        answer: >
+          QuantumScape maintained consistent focus on technology development, with
+          R&D expenses representing between 64-74% of total operating expenses
+          across quarters. The company demonstrated ability to scale research
+          investments while managing administrative costs, reflecting a balanced
+          approach to operational management and strategic resource allocation.
+  - context: >
+      QuantumScape's financial position showed strategic evolution from Q3
+      2023 through Q2 2024, with total assets adjusting from $1.57 billion to
+      $1.46 billion and $1.40 billion across these quarters. The company
+      maintained strong liquidity through a combination of cash and marketable
+      securities, while continuing investments in property and equipment, which
+      grew from $321.9 million in Q3 2023 to $321.5 million in Q2 2024,
+      supporting ongoing manufacturing capabilities development.
+    questions_and_answers:
+      - question: >
+          How did QuantumScape's asset composition evolve from Q3 2023 to Q2
+          2024?
+        answer: >
+          QuantumScape's asset composition showed strategic adjustments, with
+          total assets moving from $1.57 billion in Q3 2023 to $1.40 billion in
+          Q2 2024, while maintaining significant investments in property and
+          equipment around $321 million. The company balanced liquid assets with
+          continued investment in manufacturing capabilities, demonstrating
+          commitment to long-term technology development.
+      - question: >
+          What trends emerged in QuantumScape's liquidity management across
+          quarters?
+        answer: >
+          QuantumScape demonstrated careful liquidity management across quarters,
+          maintaining substantial cash and marketable securities while funding
+          ongoing operations and development. The company's approach balanced
+          maintaining strong cash reserves with strategic investments in
+          property and equipment, ensuring sufficient resources for both
+          operations and long-term development goals.
+      - question: >
+          How has QuantumScape's investment strategy evolved through these
+          quarters?
+        answer: >
+          QuantumScape maintained a consistent investment strategy focused on
+          manufacturing capabilities and development infrastructure, with
+          property and equipment investments remaining stable around $321
+          million. The company's approach demonstrated commitment to building
+          long-term production capacity while maintaining sufficient liquidity
+          for ongoing operations and technology development.
+  - context: >
+      From Q3 2023 through Q2 2024, QuantumScape's quarterly net loss showed
+      varying trends, moving from $110.6 million ($0.23 per share) in Q3 2023 to
+      $120.6 million ($0.24 per share) in Q1 2024, and $123.0 million ($0.25 per
+      share) in Q2 2024. The company's interest income showed positive growth
+      from $10.5 million to $12.1 million across these quarters, while
+      maintaining stable interest expenses around $0.6 million per quarter.
+    questions_and_answers:
+      - question: >
+          How did QuantumScape's quarterly loss metrics evolve from Q3 2023 to
+          Q2 2024?
+        answer: >
+          QuantumScape's quarterly net loss showed an increasing trend from $110.6
+          million in Q3 2023 to $123.0 million in Q2 2024, with loss per share
+          moving from $0.23 to $0.25. This progression reflected increased
+          investments in technology development and operations, while the
+          company maintained relatively stable per-share metrics through
+          effective capital management.
+      - question: |
+          What trends emerged in QuantumScape's financial income and expenses?
+        answer: >
+          QuantumScape demonstrated positive trends in financial management with
+          interest income growing from $10.5 million to $12.1 million across
+          quarters, while maintaining stable interest expenses around $0.6
+          million. This improvement in net financial income helped partially
+          offset operating expenses and reflected effective management of cash
+          and marketable securities.
+      - question: >
+          How has QuantumScape's financial efficiency evolved through these
+          quarters?
+        answer: >
+          QuantumScape showed improving financial efficiency through growing
+          interest income and stable interest expenses, while managing
+          increasing operational investments. The company's ability to generate
+          higher interest income while maintaining cost control demonstrated
+          effective balance sheet management despite increased research and
+          development investments.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/automobiles/QS/10-Q/data/*.md

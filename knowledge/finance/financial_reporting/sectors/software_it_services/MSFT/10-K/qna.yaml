@@ -1,0 +1,303 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  Annual Reports (Form 10-K) for Microsoft Corporation covering
+  fiscal year 2021 to 2024. This report contains comprehensive 
+
+  information about the company's business operations, financial performance, and corporate governance. Key sections 
+
+  include cloud and AI initiatives, strategic acquisitions, financial statements, risk factors, and executive 
+
+  compensation. The document also covers Microsoft's hybrid cloud strategy, Azure services, and mixed reality solutions.
+seed_examples:
+  - context: >
+      Microsoft Corporation was incorporated in the State of Washington. The
+      company's common stock trades on NASDAQ 
+
+      under symbol MSFT with par value of $0.00000625 per share. As of December 31, 2020, the aggregate market value 
+
+      of the registrant's common stock held by non-affiliates was $1.7 trillion. As of July 26, 2021, there were 
+
+      7,514,891,248 shares of common stock outstanding.
+    questions_and_answers:
+      - question: |
+          What is Microsoft's stock listing information?
+        answer: >
+          Microsoft's common stock trades on NASDAQ under the symbol MSFT with a
+          par value of $0.00000625 per share.
+      - question: |
+          How many shares of Microsoft stock were outstanding in 2021?
+        answer: >
+          As of July 26, 2021, Microsoft had 7,514,891,248 shares of common stock
+          outstanding.
+  - context: >
+      The Microsoft Cloud is the most comprehensive and trusted cloud,
+      providing the best integration across the 
+
+      technology stack while offering openness, improving time to value, reducing costs, and increasing agility. 
+
+      Azure uniquely offers hybrid consistency, developer productivity, AI capabilities, and trusted security and 
+
+      compliance. With Azure Stack, organizations can extend Azure into their own datacenters. In April 2021, we 
+
+      entered into a definitive agreement to acquire Nuance Communications, Inc., a cloud and AI software provider 
+
+      with healthcare and enterprise AI experience.
+    questions_and_answers:
+      - question: |
+          What are the key features of Microsoft's cloud platform?
+        answer: >
+          The Microsoft Cloud offers comprehensive integration across the
+          technology stack, openness, improved time 
+
+          to value, cost reduction, and increased agility. Azure specifically provides hybrid consistency, developer 
+
+          productivity, AI capabilities, and trusted security and compliance.
+      - question: |
+          What significant acquisition did Microsoft announce in 2021?
+        answer: >
+          In April 2021, Microsoft announced a definitive agreement to acquire
+          Nuance Communications, Inc., a cloud 
+
+          and AI software provider specializing in healthcare and enterprise AI solutions.
+  - context: >
+      Microsoft returned $10.4 billion to shareholders in the form of share
+      repurchases and dividends in the fourth 
+
+      quarter of fiscal year 2021. The Board of Directors declared a dividend of $0.56 per share on June 16, 2021, 
+
+      payable September 9, 2021 to shareholders of record on August 19, 2021, amounting to $4,211 million.
+    questions_and_answers:
+      - question: |
+          How much did Microsoft return to shareholders in Q4 2021?
+        answer: >
+          Microsoft returned $10.4 billion to shareholders through share
+          repurchases and dividends in the fourth 
+
+          quarter of fiscal year 2021.
+      - question: |
+          What was Microsoft's dividend announcement in June 2021?
+        answer: >
+          On June 16, 2021, Microsoft's Board declared a dividend of $0.56 per
+          share, payable September 9, 2021 
+
+          to shareholders of record on August 19, 2021, totaling $4,211 million.
+  - context: >
+      Microsoft Corporation is incorporated in the State of Washington. The
+      company's common stock trades on NASDAQ 
+
+      under symbol MSFT with par value of $0.00000625 per share. As of July 25, 2022, there were 7,457,891,872 shares 
+
+      of common stock outstanding. The aggregate market value of common stock held by non-affiliates was $2.5 trillion 
+
+      as of December 31, 2021.
+    questions_and_answers:
+      - question: |
+          What is Microsoft's incorporation and stock listing information?
+        answer: >
+          Microsoft is incorporated in the State of Washington and its common
+          stock trades on NASDAQ under the symbol 
+
+          MSFT with a par value of $0.00000625 per share.
+      - question: |
+          What was Microsoft's market value and shares outstanding in 2022?
+        answer: >
+          As of July 25, 2022, Microsoft had 7,457,891,872 shares of common stock
+          outstanding. The aggregate market 
+
+          value of common stock held by non-affiliates was $2.5 trillion as of December 31, 2021.
+  - context: >
+      For the fiscal year ended June 30, 2022, Microsoft reported net income
+      of $72,738 million compared to 
+
+      $61,271 million in 2021. Net cash from operations was $89,035 million. The company returned value to shareholders 
+
+      through stock repurchases of $32,696 million and dividends of $18,135 million. Total stockholders' equity was 
+
+      $166,542 million.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's key financial results for fiscal year 2022?
+        answer: >
+          Microsoft reported net income of $72,738 million, up from $61,271
+          million in 2021, with net cash from 
+
+          operations of $89,035 million. Total stockholders' equity was $166,542 million.
+      - question: |
+          How much did Microsoft return to shareholders in FY2022?
+        answer: >
+          Microsoft returned value to shareholders through $32,696 million in
+          stock repurchases and $18,135 million 
+
+          in dividend payments.
+  - context: >
+      Microsoft declared quarterly dividends throughout fiscal year 2022:
+      $0.62 per share on September 14, 2021 
+
+      (paid December 9, 2021), December 7, 2021 (paid March 10, 2022), March 14, 2022 (paid June 9, 2022), and 
+
+      June 14, 2022 (paid September 8, 2022). The total dividend amount for fiscal year 2022 was $18,556 million, 
+
+      with dividends per share totaling $2.48.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's dividend payments in fiscal year 2022?
+        answer: >
+          Microsoft declared quarterly dividends of $0.62 per share throughout
+          fiscal year 2022, with total dividend 
+
+          payments of $18,556 million. The annual dividend per share was $2.48.
+      - question: |
+          When were Microsoft's dividends paid in fiscal year 2022?
+        answer: >
+          Microsoft paid dividends on December 9, 2021, March 10, 2022, June 9,
+          2022, and September 8, 2022, based 
+
+          on declarations made in the preceding quarters.
+  - context: >
+      For the fiscal year ended June 30, 2023, Microsoft reported total
+      revenue of $211,915 million, compared to 
+
+      $198,270 million in 2022. Net income was $72,361 million in 2023 compared to $72,738 million in 2022. 
+
+      Operating income increased to $88,523 million from $83,383 million in the previous year. Basic earnings per 
+
+      share were $9.72 and diluted earnings per share were $9.68.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's key financial results for fiscal year 2023?
+        answer: >
+          Microsoft reported total revenue of $211,915 million (up from $198,270
+          million in 2022), operating income 
+
+          of $88,523 million, and net income of $72,361 million. Diluted earnings per share were $9.68.
+      - question: |
+          How did Microsoft's financial performance change from 2022 to 2023?
+        answer: >
+          Microsoft's revenue increased by $13,645 million, operating income grew
+          by $5,140 million, while net income 
+
+          slightly decreased from $72,738 million to $72,361 million.
+  - context: >
+      Microsoft's Board of Directors declared quarterly dividends throughout
+      fiscal year 2023: $0.68 per share on 
+
+      September 20, 2022 (paid December 8, 2022), November 29, 2022 (paid March 9, 2023), March 14, 2023 
+
+      (paid June 8, 2023), and June 13, 2023 (paid September 14, 2023). The total dividend amount for fiscal year 
+
+      2023 was $20,233 million, with dividends per share totaling $2.72.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's dividend payments in fiscal year 2023?
+        answer: >
+          Microsoft declared quarterly dividends of $0.68 per share throughout
+          fiscal year 2023, with total dividend 
+
+          payments of $20,233 million. The annual dividend per share was $2.72.
+      - question: |
+          When were Microsoft's dividends paid in fiscal year 2023?
+        answer: >
+          Microsoft paid dividends on December 8, 2022, March 9, 2023, June 8,
+          2023, and September 14, 2023, based 
+
+          on declarations made in the preceding quarters.
+  - context: >
+      As of June 30, 2023, Microsoft reported total assets of $411,976
+      million, with cash and short-term investments 
+
+      of $111,262 million. Total stockholders' equity was $206,223 million, consisting of $93,718 million in common 
+
+      stock and paid-in capital, $118,848 million in retained earnings, and $(6,343) million in accumulated other 
+
+      comprehensive loss.
+    questions_and_answers:
+      - question: >
+          What was Microsoft's financial position at the end of fiscal year 2023?
+        answer: >
+          As of June 30, 2023, Microsoft had total assets of $411,976 million,
+          including $111,262 million in cash 
+
+          and short-term investments. Total stockholders' equity was $206,223 million.
+      - question: >
+          How much cash and investments did Microsoft have at the end of fiscal
+          year 2023?
+        answer: >
+          Microsoft had $111,262 million in cash and short-term investments as of
+          June 30, 2023.
+  - context: >
+      For fiscal year 2024, Microsoft reported net income of $88,136 million
+      compared to $72,361 million in 2023. 
+
+      Net cash from operations increased to $118,548 million from $87,582 million in the previous year. The company 
+
+      returned value to shareholders through stock repurchases of $17,254 million and dividends paid of $21,771 million.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's key financial results for fiscal year 2024?
+        answer: >
+          Microsoft reported net income of $88,136 million (up from $72,361
+          million in 2023) and generated net cash 
+
+          from operations of $118,548 million, an increase from $87,582 million in the previous year.
+      - question: |
+          How much did Microsoft return to shareholders in FY2024?
+        answer: >
+          Microsoft returned value to shareholders through $17,254 million in
+          stock repurchases and $21,771 million 
+
+          in dividend payments.
+  - context: >
+      In the fourth quarter of fiscal year 2024, Microsoft repurchased
+      6,642,228 shares at an average price of 
+
+      $413.75-$436.58 per share. The Board of Directors declared a dividend of $0.75 per share on June 12, 2024, 
+
+      payable September 12, 2024 to shareholders of record on August 15, 2024, amounting to $5,575 million. The 
+
+      company returned $8.4 billion to shareholders in the form of share repurchases and dividends in Q4 2024.
+    questions_and_answers:
+      - question: |
+          What were Microsoft's share repurchases in Q4 2024?
+        answer: >
+          Microsoft repurchased 6,642,228 shares at prices ranging from $413.75 to
+          $436.58 per share during the 
+
+          fourth quarter of fiscal year 2024.
+      - question: |
+          What was Microsoft's latest dividend announcement?
+        answer: >
+          On June 12, 2024, Microsoft's Board declared a dividend of $0.75 per
+          share, payable September 12, 2024 
+
+          to shareholders of record on August 15, 2024, totaling $5,575 million.
+  - context: >
+      For fiscal year 2024, Microsoft's income before income taxes was
+      $107,787 million, with $62,886 million from 
+
+      U.S. operations and $44,901 million from foreign operations. The effective tax rate was 18.2% compared to 
+
+      19.0% in 2023 and 13.1% in 2022. The decrease in the effective tax rate from 2023 was primarily due to 
+
+      foreign earnings taxed at lower rates and foreign-derived intangible income deduction.
+    questions_and_answers:
+      - question: |
+          What was Microsoft's geographic distribution of income in 2024?
+        answer: >
+          Microsoft's income before taxes was $107,787 million in fiscal year
+          2024, consisting of $62,886 million 
+
+          from U.S. operations and $44,901 million from foreign operations.
+      - question: |
+          How did Microsoft's effective tax rate change in 2024?
+        answer: >
+          Microsoft's effective tax rate decreased to 18.2% in 2024 from 19.0% in
+          2023, primarily due to foreign 
+
+          earnings taxed at lower rates and foreign-derived intangible income deduction.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - sectors/software_it_services/MSFT/10-K/data/*.md

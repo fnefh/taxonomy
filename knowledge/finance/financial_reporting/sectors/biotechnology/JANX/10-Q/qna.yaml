@@ -1,0 +1,123 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Janux Therapeutics, Inc. covering quarters from  2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and operating expenses
+     - Research and development costs
+     - Cash position and investments
+     - Operating losses and cash burn
+
+  2. Business Operations
+     - Clinical trial progress
+     - Pipeline development
+     - Research and development activities
+     - Operational achievements
+
+  3. Market Position
+     - Clinical milestones
+     - Technology validation
+     - Strategic initiatives
+     - Growth execution
+
+  4. Risk Management
+     - Clinical development risks
+     - Operational challenges
+     - Financial requirements
+     - Market conditions
+seed_examples:
+  - context: >
+      In Q3 2024, Janux reported collaboration revenue of $439,000 and
+      increased R&D expenses to $18.6M, reflecting expanded clinical development
+      activities. The company maintained a strong cash position with $658M in
+      cash and investments. Operating expenses increased to $36.3M, primarily
+      due to advancing clinical programs and expanded operations.
+    questions_and_answers:
+      - question: >
+          How did Janux's financial performance evolve in Q3 2024 compared to
+          previous quarters?
+        answer: >
+          In Q3 2024, Janux's collaboration revenue was $439,000, while R&D
+          expenses increased to $18.6M and total operating expenses reached
+          $36.3M, reflecting investments in clinical development. The company
+          maintained a strong financial position with $658M in cash and
+          investments.
+      - question: |
+          What factors drove the increase in operating expenses during Q3 2024?
+        answer: >
+          The increase in operating expenses to $36.3M was primarily driven by
+          expanded clinical development activities, including advancement of
+          JANX007 and JANX008 clinical trials, as well as increased R&D
+          investments of $18.6M and general administrative costs of $17.7M.
+      - question: >
+          How does Janux's current cash position support its operational
+          strategy?
+        answer: >
+          With $658M in cash and investments, Janux maintains a strong financial
+          foundation to support its ongoing clinical trials, research programs,
+          and operational expenses, providing significant runway for advancing
+          its pipeline and clinical development activities.
+  - context: >
+      In Q2 2024, Janux reported increased collaboration revenue of $8.9M and
+      maintained R&D expenses at $14.9M. The company completed a successful
+      financing, raising net proceeds of $320M through stock issuance. Clinical
+      programs continued to advance with both JANX007 and JANX008 trials
+      progressing.
+    questions_and_answers:
+      - question: |
+          What were the key financial developments for Janux in Q2 2024?
+        answer: >
+          In Q2 2024, Janux showed strong financial performance with collaboration
+          revenue of $8.9M and controlled R&D expenses of $14.9M. The company
+          significantly strengthened its balance sheet by raising $320M through
+          stock issuance.
+      - question: |
+          How did the Q2 2024 financing impact Janux's operational capabilities?
+        answer: >
+          The $320M financing substantially strengthened Janux's financial
+          position, providing additional resources to advance clinical trials,
+          support research programs, and maintain operational flexibility for
+          pipeline development and clinical study expansion.
+      - question: |
+          What progress was made in clinical development during Q2 2024?
+        answer: >
+          During Q2 2024, Janux continued to advance both its JANX007 and JANX008
+          clinical trials, maintaining momentum in its clinical development
+          programs while managing R&D expenses at $14.9M.
+  - context: >
+      In Q3 2023, Janux reported collaboration revenue of $2.5M and R&D
+      expenses of $11.9M. The company focused on advancing its clinical
+      programs, with JANX007 progressing in its Phase 1 trial and preparations
+      ongoing for JANX008's clinical development.
+    questions_and_answers:
+      - question: >
+          How did Janux's financial and operational performance compare in Q3
+          2023?
+        answer: >
+          In Q3 2023, Janux generated $2.5M in collaboration revenue while
+          maintaining R&D expenses at $11.9M, demonstrating controlled spending
+          while advancing its clinical programs and pipeline development.
+      - question: |
+          What progress was made in clinical development during Q3 2023?
+        answer: >
+          During Q3 2023, Janux advanced its JANX007 Phase 1 clinical trial and
+          continued preparations for JANX008's clinical development, showing
+          progress in its transition to a clinical-stage company.
+      - question: >
+          How did the company's investment in R&D reflect its strategic
+          priorities?
+        answer: >
+          The $11.9M R&D investment in Q3 2023 reflected Janux's focused approach
+          to advancing its clinical programs while maintaining efficient
+          resource allocation, supporting both ongoing trials and pipeline
+          development.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/JANX/10-Q/data/*.md

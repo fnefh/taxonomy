@@ -1,0 +1,185 @@
+---
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Vimeo, Inc. covering fiscal years 2021-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and growth metrics
+     - Operating expenses and margins
+     - SaaS business model transition
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Product offerings and features
+     - Customer base and retention
+     - Platform capabilities
+     - Technology infrastructure
+
+  3. Market Position
+     - Competitive landscape
+     - Total addressable market
+     - Growth strategy
+     - Industry trends
+
+  4. Risk Management
+     - Operational risks
+     - Technology and security
+     - Regulatory compliance
+     - Content moderation
+
+seed_examples:
+  - context: >
+      As of February 18, 2022, Vimeo had 166,194,101 total shares outstanding,
+      consisting of 156,794,851 shares of common stock and 9,399,250 shares of
+      Class B common stock. The company's market value of shares held by
+      non-affiliates was approximately $7.3 billion as of June 30, 2021. Vimeo
+      operates as a software-as-a-service (SaaS) company, focusing on video
+      software solutions while managing historical losses and revenue growth
+      challenges.
+    questions_and_answers:
+      - question: What was Vimeo's share structure as of early 2022?
+        answer: >
+          Vimeo had 166,194,101 total shares outstanding, comprising 156,794,851
+          shares of common stock and 9,399,250 shares of Class B common stock as
+          of February 18, 2022.
+      - question: What was Vimeo's market value for non-affiliate shares in 2021?
+        answer: >
+          The market value of Vimeo shares held by non-affiliates was
+          approximately $7.3 billion as of June 30, 2021.
+      - question: How does Vimeo position itself in the market?
+        answer: >
+          Vimeo operates as a software-as-a-service (SaaS) company focused on
+          video software solutions, while working to address historical losses
+          and revenue growth challenges.
+
+  - context: >
+      In 2021, Vimeo served a growing community of over 260 million registered
+      users in over 190 countries. The platform operated at significant scale,
+      with its video player embedded on millions of websites, powering billions
+      of views monthly, and over 300,000 new videos being uploaded daily. The
+      company estimated its total addressable market to be approximately $40
+      billion in 2021, growing to $70 billion in 2024, with major opportunities
+      in both SMB and enterprise segments.
+    questions_and_answers:
+      - question: What was the scale of Vimeo's platform in 2021?
+        answer: >
+          Vimeo served over 260 million registered users across 190 countries,
+          with its player embedded on millions of websites, powering billions of
+          monthly views and receiving over 300,000 new video uploads daily.
+      - question: What was Vimeo's market opportunity assessment?
+        answer: >
+          Vimeo estimated its total addressable market at $40 billion in 2021,
+          with potential growth to $70 billion by 2024, targeting both SMB and
+          enterprise segments.
+      - question: How diverse was Vimeo's user base?
+        answer: >
+          Vimeo's platform served a global user base spanning over 190
+          countries, with registered users including creative professionals,
+          small businesses, marketers, agencies, schools, nonprofits, and large
+          organizations.
+
+  - context: >
+      As of December 31, 2021, over 95% of Vimeo's subscribers purchased plans
+      without speaking to customer support or sales, reflecting the success of
+      their self-serve model. Sales-assisted customers represented 30% of
+      revenue, with nearly 80% of new sales-assisted contracts coming from
+      existing free users or self-serve subscribers. The company maintained a
+      high customer satisfaction score (CSAT) of over 90% for the year.
+    questions_and_answers:
+      - question: How effective was Vimeo's self-serve business model in 2021?
+        answer: >
+          Over 95% of subscribers purchased plans without requiring support or
+          sales assistance, demonstrating the effectiveness of Vimeo's self-serve
+          model.
+      - question: What was the contribution of sales-assisted customers?
+        answer: >
+          Sales-assisted customers accounted for 30% of revenue, with nearly 80%
+          of new sales-assisted contracts originating from existing free users or
+          self-serve subscribers.
+      - question: How satisfied were Vimeo's customers with their support?
+        answer: >
+          Vimeo achieved a high customer satisfaction score (CSAT) of over 90%
+          for the year 2021, reflecting strong customer service performance.
+
+  - context: >
+      As of February 15, 2024, Vimeo had 168,043,931 total shares outstanding,
+      consisting of 158,644,681 shares of common stock and 9,399,250 shares of
+      Class B common stock. The company's market value of shares held by
+      non-affiliates was approximately $629 million as of June 30, 2023. Vimeo
+      operates as a software-as-a-service (SaaS) company, focusing on video
+      software solutions while managing historical losses and revenue growth
+      challenges.
+    questions_and_answers:
+      - question: What was Vimeo's share structure as of early 2024?
+        answer: >
+          Vimeo had 168,043,931 total shares outstanding, comprising
+          158,644,681 shares of common stock and 9,399,250 shares of Class B
+          common stock as of February 15, 2024.
+      - question: What was Vimeo's market value for non-affiliate shares in 2023?
+        answer: >
+          The market value of Vimeo shares held by non-affiliates was
+          approximately $629 million as of June 30, 2023.
+      - question: How does Vimeo position itself in the market?
+        answer: >
+          Vimeo operates as a software-as-a-service (SaaS) company focused on
+          video software solutions, while working to address historical losses
+          and revenue growth challenges.
+
+  - context: >
+      In 2023, Vimeo faced several business challenges including a history of
+      losses, declining revenue growth rates, and limited operating history as
+      a pure SaaS company. Key risk factors included the potential for a
+      smaller than expected total addressable market, challenges in converting
+      free users to paid subscribers, intense competition, and the need to
+      scale the business effectively while managing hosting and delivery costs.
+    questions_and_answers:
+      - question: What were Vimeo's main business challenges in 2023?
+        answer: >
+          Vimeo faced challenges including a history of losses, declining
+          revenue growth, and limited experience as a pure SaaS company,
+          while working to convert free users to paid subscribers.
+      - question: What operational risks did Vimeo identify?
+        answer: >
+          Key operational risks included potential market size limitations,
+          challenges in user conversion, intense competition, scaling
+          difficulties, and managing hosting and delivery costs effectively.
+      - question: How did Vimeo's growth trajectory change?
+        answer: >
+          The company's revenue growth rate declined from previous periods,
+          indicating a shift from rapid growth to a more measured pace while
+          focusing on establishing a sustainable SaaS business model.
+
+  - context: >
+      As of 2022, Vimeo had 166,635,479 total shares outstanding, with
+      157,236,229 shares of common stock and 9,399,250 shares of Class B
+      common stock. The company's market value for non-affiliate shares was
+      approximately $912 million as of June 30, 2022. Vimeo continued to focus
+      on its transition to a SaaS business model while facing challenges
+      related to COVID-19 impacts and cybersecurity threats.
+    questions_and_answers:
+      - question: What was Vimeo's share structure in early 2023?
+        answer: >
+          As of February 17, 2023, Vimeo had 166,635,479 total shares
+          outstanding, consisting of 157,236,229 shares of common stock and
+          9,399,250 shares of Class B common stock.
+      - question: How did Vimeo's market value change from 2022 to 2023?
+        answer: >
+          Vimeo's market value of non-affiliate shares decreased from
+          approximately $912 million in June 2022 to approximately $629 million
+          in June 2023.
+      - question: What external factors affected Vimeo's business in 2022?
+        answer: >
+          The company faced challenges from COVID-19 pandemic impacts and
+          cybersecurity threats while continuing its transition to a SaaS
+          business model.
+
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - sectors/software_it_services/VMEO/10-K/data/*.md 

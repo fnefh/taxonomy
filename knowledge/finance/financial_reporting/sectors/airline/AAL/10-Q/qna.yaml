@@ -1,0 +1,151 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for American Airlines Group Inc. covering fiscal years 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and earnings
+     - Operating expenses and margins
+     - Passenger revenue metrics
+     - Cargo and other revenue streams
+
+  2. Balance Sheet Trends
+     - Cash and liquidity position
+     - Debt and obligations
+     - Asset composition
+     - Stockholders' equity
+
+  3. Business Operations
+     - Passenger traffic and capacity
+     - Fleet updates and management
+     - Route network developments
+     - Operational performance metrics
+
+  4. Risk Management
+     - Market conditions and competition
+     - Fuel price and hedging strategies
+     - Regulatory compliance
+     - Labor relations
+seed_examples:
+  - context: >
+      For Q3 2024, American Airlines Group Inc. (AAL) maintained strong
+      operational performance while navigating various industry challenges. The
+      company's financial results reflected continued demand for air travel,
+      with key metrics including passenger revenue, load factors, and yield
+      showing resilience. Operating expenses were impacted by fuel costs and
+      labor agreements, while the balance sheet showed progress in debt
+      management and liquidity preservation.
+    questions_and_answers:
+      - question: What were American Airlines' key operational highlights for Q3 2024?
+        answer: >
+          American Airlines maintained strong operational performance in Q3 2024,
+          with stable passenger demand reflected in key metrics including
+          passenger revenue, load factors, and yield, while managing challenges
+          from fuel costs and labor agreements.
+      - question: How did AAL manage its financial position in Q3 2024?
+        answer: >
+          The company focused on debt management and liquidity preservation,
+          balancing operational costs with revenue generation while maintaining
+          financial flexibility in response to industry challenges.
+      - question: What were the main challenges affecting AAL's performance in Q3 2024?
+        answer: >
+          The main challenges included managing fuel costs and labor agreements,
+          which impacted operating expenses, while maintaining operational
+          efficiency in a competitive market environment.
+  - context: >
+      As of Q2 2024, American Airlines Group Inc. reported 656,703,913 shares
+      of common stock outstanding. The company continued to focus on operational
+      reliability and customer service while managing its network capacity. Key
+      business risks included economic conditions, financing needs, debt
+      obligations, pension funding requirements, and the impact of credit card
+      processing agreements on liquidity.
+    questions_and_answers:
+      - question: What was AAL's outstanding share count as of Q2 2024?
+        answer: >
+          American Airlines Group Inc. had 656,703,913 shares of common stock
+          outstanding as of July 19, 2024.
+      - question: What were the key business risks identified by AAL in Q2 2024?
+        answer: >
+          Key risks included economic conditions, financing needs, high debt
+          obligations, pension funding requirements, and potential impacts from
+          credit card processing agreements on liquidity.
+      - question: What were AAL's main operational priorities in Q2 2024?
+        answer: >
+          The company prioritized operational reliability and customer service
+          while managing network capacity to match demand and market conditions.
+  - context: >
+      American Airlines Group Inc. operates in an intensely competitive and
+      dynamic industry environment. The company's performance is affected by
+      various factors including economic conditions, geopolitical events,
+      commercial developments, and regulatory changes. Labor relations,
+      particularly union agreements and potential disruptions, remain a
+      significant focus area for management.
+    questions_and_answers:
+      - question: How does the competitive environment affect AAL's operations?
+        answer: >
+          AAL operates in an intensely competitive and dynamic airline industry,
+          where performance is influenced by economic conditions, geopolitical
+          events, commercial developments, and regulatory changes.
+      - question: What role do labor relations play in AAL's business strategy?
+        answer: >
+          Labor relations, especially union agreements and preventing potential
+          disruptions, are a significant focus area for management as they can
+          materially impact operations and financial performance.
+      - question: What external factors influence AAL's business performance?
+        answer: >
+          AAL's performance is affected by changing economic conditions,
+          geopolitical events, commercial developments, regulatory changes, and
+          other factors beyond their control that influence travel behavior.
+  - context: >
+      As of Q3 2023, American Airlines Group Inc. had 653,540,550 shares of
+      common stock outstanding, with American Airlines, Inc. being a
+      wholly-owned subsidiary holding 1,000 shares. The company faced ongoing
+      challenges including labor costs, third-party regional operations, brand
+      reputation management, and intellectual property rights protection.
+    questions_and_answers:
+      - question: What was AAL's corporate structure and share count in Q3 2023?
+        answer: >
+          American Airlines Group Inc. had 653,540,550 shares of common stock
+          outstanding, while its wholly-owned subsidiary American Airlines, Inc.
+          had 1,000 shares, all held by the parent company.
+      - question: What operational challenges did AAL face in Q3 2023?
+        answer: >
+          Key challenges included managing labor costs while maintaining adequate
+          staffing, overseeing third-party regional operations and service
+          providers, protecting brand reputation, and safeguarding intellectual
+          property rights.
+      - question: How did AAL approach workforce management in Q3 2023?
+        answer: >
+          The company focused on maintaining competitive labor costs while
+          ensuring sufficient staffing levels, managing union relationships, and
+          preventing labor-related disruptions that could affect operations.
+  - context: >
+      For Q1 2024, American Airlines Group Inc. reported 656,090,344 shares
+      outstanding as of April 19, 2024. The company continued to navigate
+      challenges including economic conditions, financing needs, and pension
+      obligations. Management emphasized maintaining sufficient capital while
+      dealing with high debt levels that could affect operational flexibility.
+    questions_and_answers:
+      - question: What was AAL's share count at the end of Q1 2024?
+        answer: >
+          American Airlines Group Inc. had 656,090,344 shares of common stock
+          outstanding as of April 19, 2024.
+      - question: What financial challenges did AAL face in Q1 2024?
+        answer: >
+          Key financial challenges included managing economic conditions,
+          addressing financing needs, meeting pension obligations, and dealing
+          with high debt levels that could impact operational flexibility.
+      - question: How did AAL's capital structure affect its operations in Q1 2024?
+        answer: >
+          The company's high debt levels and other obligations potentially limited
+          its ability to fund general corporate requirements, obtain additional
+          financing, and respond flexibly to competitive developments.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/airline/AAL/10-Q/data/*.md

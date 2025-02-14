@@ -1,0 +1,192 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Blue Bird Corporation covering fiscal years  2021-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Annual revenue and unit sales
+     - Segment performance (Bus and Parts)
+     - Manufacturing efficiency metrics
+     - Market position and growth
+
+  2. Business Operations
+     - School bus manufacturing and design
+     - Alternative power initiatives
+     - Safety innovations
+     - Production facilities
+
+  3. Market Position
+     - Leadership in alternative power
+     - Dealer network coverage
+     - Product portfolio
+     - Strategic partnerships
+
+  4. Risk Factors
+     - Market conditions
+     - Supply chain management
+     - Regulatory compliance
+     - Competition dynamics
+seed_examples:
+  - context: >
+      Blue Bird Corporation has shown consistent growth in its business
+      scale, with total buses sold increasing from 6,822 units in fiscal 2022 to
+      8,514 units in fiscal 2023, and reaching 9,000 units in fiscal 2024. The
+      company's cumulative sales milestone grew from over 592,000 buses in 2022
+      to over 601,000 in 2023, and exceeded 610,000 buses by 2024, demonstrating
+      sustained market leadership since its formation in 1927.
+    questions_and_answers:
+      - question: |
+          How has Blue Bird's production volume evolved from 2022 to 2024?
+        answer: >
+          Blue Bird has shown significant growth in production volume, increasing
+          from 6,822 buses sold in fiscal 2022 to 8,514 units in fiscal 2023,
+          and further growing to 9,000 units in fiscal 2024. This represents a
+          cumulative growth of approximately 32% over the two-year period.
+      - question: >
+          What does Blue Bird's sales history indicate about its market position?
+        answer: >
+          Blue Bird's sales history demonstrates its strong market position, with
+          cumulative sales growing from over 592,000 buses in 2022 to over
+          601,000 in 2023, and exceeding 610,000 buses by 2024. This consistent
+          growth in cumulative sales, spanning nearly a century since 1927,
+          reinforces the company's position as the leading independent designer
+          and manufacturer of school buses.
+      - question: >
+          What is the significance of Blue Bird's year-over-year sales growth
+          from 2022 to 2024?
+        answer: >
+          The year-over-year sales growth demonstrates Blue Bird's strong market
+          recovery and expansion, with a 24.8% increase from 2022 to 2023 (6,822
+          to 8,514 units) and a further 5.7% increase from 2023 to 2024 (8,514
+          to 9,000 units). This consistent upward trend indicates successful
+          execution of the company's growth strategy and increasing market
+          demand for its products.
+  - context: >
+      Blue Bird's distribution network has evolved, with dealer locations
+      adjusting from over 70 U.S. and Canadian dealer locations in 2022-2023 to
+      45 locations in 2024. The percentage of sales through dealers has varied,
+      from 97% in 2022 to 99% in 2023, and 91% in 2024. The Parts segment has
+      maintained steady performance, representing 9.6% of company net sales in
+      2022 and 8.7% in 2023.
+    questions_and_answers:
+      - question: |
+          How has Blue Bird's distribution strategy evolved from 2022 to 2024?
+        answer: >
+          Blue Bird's distribution network has undergone changes, consolidating
+          from over 70 U.S. and Canadian dealer locations in 2022-2023 to 45
+          locations in 2024. Despite this consolidation, the dealer network
+          remains highly effective, handling between 91-99% of total bus sales
+          during this period, with dealers maintaining exclusive rights to sell
+          Type C and Type D school buses in their territories.
+      - question: |
+          What role does the Parts segment play in Blue Bird's business model?
+        answer: >
+          The Parts segment is a consistent revenue generator for Blue Bird,
+          contributing 9.6% of company net sales in 2022 and 8.7% in 2023. The
+          segment operates through a parts distribution center in Delaware,
+          Ohio, supported by approximately 40 suppliers and a network of over
+          200 dealer and authorized repair center locations across the U.S. and
+          Canada.
+      - question: >
+          What insights can be drawn from the changes in dealer sales
+          percentages over the period?
+        answer: >
+          The dealer sales percentages show interesting dynamics, peaking at 99%
+          in 2023 before adjusting to 91% in 2024, suggesting a strategic shift
+          in distribution mix. Despite the network consolidation from 70 to 45
+          locations, the consistently high percentage of dealer sales indicates
+          the effectiveness of Blue Bird's optimized dealer network and the
+          strength of its dealer relationships.
+  - context: >
+      From 2021 to 2024, Blue Bird has strengthened its leadership in
+      alternative power vehicles. The company extended its clean school bus
+      collaboration with Ford Component Sales and Roush CleanTech to 2030,
+      deployed over 40,000 alternative fuel powered buses since 2012, and
+      delivered its 2,000th electric school bus in 2024. The company's
+      manufacturing capabilities expanded with a new 40,000 square foot Electric
+      Vehicle Build-up Center in 2023 and secured an $80 million DOE grant in
+      2024 for a new 600,000 square foot electric vehicle facility.
+    questions_and_answers:
+      - question: >
+          How has Blue Bird advanced its alternative power vehicle strategy from
+          2021 to 2024?
+        answer: >
+          Blue Bird has significantly advanced its alternative power strategy from
+          2021 to 2024, marked by key milestones including the extension of its
+          Ford/Roush CleanTech partnership to 2030, deployment of over 40,000
+          alternative fuel buses since 2012, and delivery of its 2,000th
+          electric school bus in 2024. The company has maintained its position
+          as the first major school bus manufacturer to market electric buses
+          and leads in electric bus sales among major OEMs.
+      - question: >
+          What manufacturing investments has Blue Bird made to support its
+          growth in alternative power vehicles?
+        answer: >
+          Blue Bird has made significant manufacturing investments, including
+          opening a 40,000 square foot Electric Vehicle Build-up Center in 2023
+          and securing an $80 million DOE grant in 2024 for a new 600,000 square
+          foot electric vehicle facility. These investments complement the
+          company's existing state-of-the-art 60,000 square foot paint facility,
+          demonstrating a strong commitment to expanding alternative power
+          vehicle production capacity.
+      - question: >
+          How do Blue Bird's strategic partnerships contribute to its
+          alternative power leadership?
+        answer: >
+          Blue Bird's strategic partnerships, particularly its extended
+          collaboration with Ford Component Sales and Roush CleanTech through
+          2030, have been crucial to its alternative power leadership. These
+          partnerships provide exclusive access to advanced powertrain
+          technology and expertise, enabling Blue Bird to maintain its
+          competitive advantage in both propane and electric vehicle segments
+          while ensuring long-term technology support.
+  - context: >
+      In fiscal 2024, Blue Bird announced comprehensive safety upgrades for
+      implementation in fiscal 2025, including industry-first features like
+      standard three-point seat belts for all passengers and the 4Front steering
+      wheel-deployed airbag for drivers. The company has also maintained strong
+      environmental performance, with its propane engine technology being 90
+      percent cleaner than current EPA emission standards and already exceeding
+      stricter standards set for 2027.
+    questions_and_answers:
+      - question: >
+          What major safety and environmental initiatives has Blue Bird
+          announced recently?
+        answer: >
+          Blue Bird announced comprehensive safety upgrades for fiscal 2025,
+          introducing industry-first features such as standard three-point seat
+          belts for all passengers, 4Front steering wheel-deployed airbags,
+          high-intensity LED lighting, and advanced collision mitigation
+          systems. On the environmental front, the company's propane engine
+          technology is 90 percent cleaner than current EPA standards and
+          already complies with stricter 2027 standards.
+      - question: >
+          How does Blue Bird's recent product development align with industry
+          trends?
+        answer: >
+          Blue Bird's recent product development aligns with key industry trends
+          in safety and sustainability. The company is leading the industry with
+          first-to-market safety features while maintaining environmental
+          leadership through clean propane technology and electric vehicles.
+          This dual focus on safety innovation and environmental performance
+          positions Blue Bird at the forefront of industry evolution.
+      - question: >
+          What competitive advantages do Blue Bird's safety and environmental
+          initiatives provide?
+        answer: >
+          Blue Bird's initiatives provide significant competitive advantages
+          through industry-first safety features and advanced environmental
+          compliance. By introducing standard three-point seat belts and driver
+          airbags ahead of competitors, while maintaining propane engine
+          technology that already meets 2027 EPA standards, Blue Bird positions
+          itself as both a safety innovator and environmental leader,
+          potentially influencing future industry standards and regulations.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/automobiles/BLBD/10-K/data/*.md

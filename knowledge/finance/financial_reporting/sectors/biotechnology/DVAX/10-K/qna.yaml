@@ -1,0 +1,105 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Dynavax Technologies Corporation covering 2020 through 2023. The reports
+  track the company's evolution across three main areas: 1. Commercial Growth &
+  Market Expansion 2. Pipeline Development & Clinical Progress 3. Strategic
+  Partnerships & Technology Platform
+seed_examples:
+  - context: >
+      From 2020 to 2023, Dynavax demonstrated significant commercial growth
+      through HEPLISAV-B market expansion and successful commercialization
+      strategies, with key developments in market penetration, geographic
+      expansion, and revenue growth.
+    questions_and_answers:
+      - question: How did HEPLISAV-B's market position and commercial performance evolve
+          during this period?
+        answer: >
+          Key developments included: 1) Growth in U.S. market share from early
+          commercialization to approximately 42% by end of 2023 2) Expansion
+          into European markets with EU approval in 2021 and launch in Germany
+          in 2022 3) Significant revenue growth with U.S. sales reaching $213.3M
+          in 2023, a 69% increase from 2022 4) Strong penetration in retail
+          pharmacy (58%) and IDN/Large Clinics (56%) segments by 2023 5)
+          Expanded market opportunity following CDC's universal recommendation
+          for adults aged 19-59 in 2022
+      - question: What were the key commercial milestones and market expansion
+          achievements?
+        answer: >
+          Major milestones included: 1) European Commission marketing
+          authorization in February 2021 2) Commercial launch in Germany through
+          Bavarian Nordic partnership in 2022 3) UK marketing authorization in
+          March 2023 4) Submission of sBLA for hemodialysis indication with FDA
+          priority review 5) Projected U.S. market opportunity expansion to
+          ~$800M by 2027
+      - question: How did the company's commercial infrastructure and capabilities
+          evolve?
+        answer: >
+          Evolution included: 1) Development of U.S. commercial team and field
+          force 2) Establishment of European commercial presence through
+          strategic partnerships 3) Enhancement of manufacturing capabilities
+          and supply chain 4) Implementation of market access strategies 5)
+          Development of targeted commercial strategies for key market segments
+  - context: >
+      Throughout 2020-2023, Dynavax advanced its pipeline development and
+      clinical programs, leveraging its CpG 1018 adjuvant technology across
+      multiple vaccine candidates and therapeutic areas.
+    questions_and_answers:
+      - question: What progress was made in advancing the clinical pipeline?
+        answer: >
+          Key developments included: 1) Initiation of Phase 1 trials for Tdap
+          vaccine program with positive safety data in 2022 2) Advancement of
+          shingles vaccine program with completed Phase 1 trial and FDA Type B
+          meeting 3) Launch of Phase 2 plague vaccine trial in collaboration
+          with DoD 4) Expansion of CpG 1018 adjuvant applications across
+          multiple vaccine platforms 5) Successful development and validation of
+          manufacturing processes
+      - question: How did the company's research and development capabilities expand?
+        answer: >
+          Expansion included: 1) Enhancement of R&D infrastructure and
+          capabilities 2) Development of new vaccine candidates leveraging CpG
+          1018 platform 3) Establishment of research collaborations with
+          academic institutions 4) Advancement of manufacturing technology and
+          processes 5) Growth in scientific expertise and research team
+      - question: What were the key regulatory achievements and clinical milestones?
+        answer: >
+          Achievements included: 1) Multiple regulatory approvals for HEPLISAV-B
+          across regions 2) Successful completion of clinical trials in multiple
+          programs 3) FDA priority review designation for hemodialysis
+          indication 4) Advancement of pipeline candidates through clinical
+          development 5) Establishment of regulatory pathways for new vaccine
+          candidates
+  - context: >
+      From 2020 to 2023, Dynavax strengthened its strategic partnerships and
+      advanced its technology platform, particularly through COVID-19
+      collaborations and expansion of CpG 1018 applications.
+    questions_and_answers:
+      - question: How did strategic partnerships and collaborations evolve?
+        answer: >
+          Evolution included: 1) Establishment of global COVID-19 vaccine
+          partnerships utilizing CpG 1018 2) Commercial partnership with
+          Bavarian Nordic for European market 3) Research collaborations with
+          academic institutions 4) Development partnership with DoD for plague
+          vaccine 5) Strategic supply agreements for CpG 1018 adjuvant
+      - question: What advancements were made in the CpG 1018 technology platform?
+        answer: >
+          Advancements included: 1) Validation of CpG 1018's effectiveness across
+          multiple vaccine platforms 2) Expansion of manufacturing capabilities
+          and scale 3) Development of new applications beyond initial
+          indications 4) Enhancement of adjuvant technology through research
+          programs 5) Demonstration of platform versatility in various vaccine
+          types
+      - question: How did the company's business model and strategy evolve?
+        answer: >
+          Evolution included: 1) Transition to commercial-stage company with
+          multiple revenue streams 2) Development of global partnerships and
+          collaborations 3) Expansion of pipeline leveraging proprietary
+          technology 4) Focus on high-value vaccine markets with unmet needs 5)
+          Strategic positioning as vaccine technology leader
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/DVAX/10-K/data/*.md

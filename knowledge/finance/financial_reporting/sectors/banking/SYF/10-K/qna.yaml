@@ -1,0 +1,158 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Synchrony Financial covering 2021 through 2023.
+
+  The reports include detailed information about:
+
+  1. Business Growth & Scale
+     - Purchase volume and loan receivables
+     - Active accounts and customer base
+     - Digital transformation and capabilities
+     - Partner network expansion
+
+  2. Financial Performance & Revenue Mix
+     - Interest and fees by platform
+     - Deposit base and funding sources
+     - Platform-specific performance
+     - Revenue diversification
+
+  3. Strategic Initiatives & Innovation
+     - Digital capabilities and investments
+     - Product development
+     - Partner relationships
+     - Customer engagement strategies
+
+  4. Operational Evolution
+     - Sales platform development
+     - Technology infrastructure
+     - Risk management
+     - Customer experience
+seed_examples:
+  - context: >
+      Synchrony Financial demonstrated significant growth from 2021 to 2023,
+      with purchase volume increasing from $165.9 billion to $185.2 billion and
+      loan receivables growing from $80.7 billion to $103.0 billion. The company
+      maintained a strong active account base, growing from 72.4 million to 73.5
+      million accounts, while expanding its digital capabilities with 58% of
+      consumer revolving applications processed through digital channels in
+      2023, up from 55% in 2021.
+    questions_and_answers:
+      - question: >
+          How has Synchrony's scale and digital transformation evolved from 2021
+          to 2023?
+        answer: >
+          Synchrony demonstrated substantial growth in scale and digital
+          capabilities from 2021 to 2023. Purchase volume increased by 11.6%
+          from $165.9 billion to $185.2 billion, while loan receivables grew by
+          27.6% from $80.7 billion to $103.0 billion. The company's active
+          account base expanded from 72.4 million to 73.5 million accounts.
+          Digital transformation accelerated with 58% of consumer revolving
+          applications processed through digital channels in 2023, compared to
+          55% in 2021. Additionally, approximately 75% of consumers with
+          outstanding balances utilized digital service channels in 2023,
+          reflecting the company's successful digital transformation
+          initiatives.
+      - question: >
+          What major changes occurred in Synchrony's deposit base and funding
+          structure between 2021 and 2023?
+        answer: >
+          Synchrony's deposit base significantly expanded from $62.3 billion in
+          2021 to $81.2 billion in 2023, representing an increase in the
+          proportion of total funding sources from 81% to 84%. This growth
+          reflects the company's successful expansion of online direct banking
+          operations and its strategy to maintain a stable and diversified
+          low-cost funding source for credit activities. The company also
+          enhanced its deposit products by offering them through retail,
+          affinity relationships, and commercial customers, as well as through
+          third-party securities brokerage firms.
+  - context: >
+      Synchrony's revenue mix evolved across its five sales platforms from
+      2021 to 2023, with notable shifts in platform contributions. The Digital
+      platform grew from 25% to 30% of total interest and fees, while Home &
+      Auto decreased slightly from 28% to 26%. Health & Wellness increased from
+      15% to 16%, and Diversified & Value grew from 20% to 23%. The company also
+      expanded its partner network and introduced new digital capabilities
+      across all platforms.
+    questions_and_answers:
+      - question: >
+          How has Synchrony's revenue mix across sales platforms changed from
+          2021 to 2023, and what drove these changes?
+        answer: >
+          Synchrony's revenue mix showed significant evolution across its sales
+          platforms from 2021 to 2023. The Digital platform became the largest
+          contributor, growing from 25% to 30% of total interest and fees,
+          driven by strong performance in partnerships with PayPal, Amazon, and
+          other digital-first brands. Home & Auto's contribution decreased
+          slightly from 28% to 26%, while still generating $5.3 billion in
+          interest and fees. Diversified & Value showed strong growth from 20%
+          to 23%, reflecting successful partnerships with major retailers.
+          Health & Wellness increased from 15% to 16%, expanding its provider
+          network to over 270,000 locations. These shifts reflect Synchrony's
+          successful adaptation to changing consumer preferences and digital
+          transformation.
+      - question: >
+          What key strategic initiatives and innovations did Synchrony implement
+          between 2021 and 2023?
+        answer: >
+          Synchrony implemented several strategic initiatives from 2021 to 2023,
+          focusing on digital transformation and product innovation. The company
+          expanded its Synchrony Pay Later solution, introducing both monthly
+          payment and Pay in 4 options. Digital capabilities were enhanced with
+          tokenization platform development, integration with Clover
+          point-of-sale systems, and launch of a unified digital marketplace.
+          The company also consolidated its websites to create a more unified
+          digital presence and improved its partner integration capabilities.
+          Customer engagement was strengthened through the Growth organization,
+          which combined marketing, analytics, customer experience, and product
+          development teams. Additionally, Synchrony maintained strong partner
+          relationships, with its five largest partners having relationships
+          spanning over 16 years.
+  - context: >
+      Synchrony's operational evolution from 2021 to 2023 included
+      significant investments in technology, customer experience, and risk
+      management. The company enhanced its digital infrastructure, expanded its
+      product suite, and strengthened its partner network through new agreements
+      and extensions. Customer engagement strategies evolved to focus more on
+      personalization and omnichannel experiences.
+    questions_and_answers:
+      - question: >
+          How did Synchrony's operational model and customer engagement
+          strategies evolve from 2021 to 2023?
+        answer: >
+          Synchrony's operational model underwent significant transformation from
+          2021 to 2023. The company enhanced its customer engagement through the
+          Growth organization, which integrated marketing, analytics, customer
+          experience, and product development functions. Digital capabilities
+          were expanded with approximately 75% of customers using digital
+          service channels by 2023. The company introduced new features like
+          single-use virtual cards for installment products and improved
+          integration capabilities through the Pay with Synchrony app on the
+          Clover platform. Customer acquisition strategies were enhanced through
+          advanced analytics and machine learning algorithms, while marketing
+          efforts became more personalized and data-driven. The company also
+          maintained high customer satisfaction, with CareCredit showing strong
+          repeat usage rates of approximately 60% in 2023.
+      - question: >
+          What changes occurred in Synchrony's credit product mix and
+          promotional strategies between 2021 and 2023?
+        answer: >
+          Synchrony's credit product mix showed evolution from 2021 to 2023.
+          Credit cards remained the dominant product, representing 94.2% of
+          receivables in 2023 compared to 94.9% in 2021. Consumer installment
+          loans increased from 3.4% to 3.9% of receivables, reflecting the
+          company's expansion of installment products including Pay in 4 and
+          monthly payment options. The proportion of standard terms only
+          accounts increased from 59.9% to 59.5%, while deferred interest
+          promotional offers decreased from 20.8% to 19.3%. Commercial credit
+          products remained stable at around 1.7-1.8% of receivables. These
+          changes reflect Synchrony's strategy to diversify its product
+          offerings while maintaining strong performance in its core credit card
+          business.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/banking/SYF/10-K/data/*.md

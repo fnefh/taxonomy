@@ -1,0 +1,141 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Seacoast Banking Corporation of Florida covering Q3 2023 through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance Metrics
+     - Net interest income and margin
+     - Noninterest income and expense
+     - Efficiency ratios
+     - Credit quality metrics
+     - Earnings per share
+
+  2. Balance Sheet Trends
+     - Asset growth and composition
+     - Deposit trends
+     - Loan portfolio performance
+     - Capital position
+     - Liquidity management
+
+  3. Strategic Developments
+     - Business initiatives
+     - Market expansion
+     - Digital transformation
+     - Operational efficiency
+
+  4. Risk Management
+     - Credit risk trends
+     - Interest rate risk
+     - Capital management
+     - Regulatory compliance
+seed_examples:
+  - context: >
+      Seacoast Banking Corporation's financial performance from Q3 2023 to Q3
+      2024 shows evolving trends in net interest income, noninterest income, and
+      operational efficiency. Net interest income decreased from $119.3 million
+      in Q3 2023 to $106.7 million in Q3 2024, while total assets grew from
+      $14.8 billion to $15.2 billion during the same period. The company
+      maintained strong capital ratios and improved operational efficiency
+      through reduced noninterest expenses.
+    questions_and_answers:
+      - question: >
+          How has Seacoast's net interest income and margin evolved from Q3 2023
+          to Q3 2024, and what factors influenced these changes?
+        answer: >
+          Seacoast's net interest income decreased from $119.3 million in Q3 2023
+          to $106.7 million in Q3 2024, primarily due to higher interest
+          expenses. Total interest income increased from $179.8 million to
+          $184.1 million, but this was offset by higher interest expenses which
+          grew from $60.5 million to $77.5 million. The increase in interest
+          expenses was driven by higher deposit costs and borrowing expenses,
+          reflecting the higher interest rate environment. Interest on deposits
+          increased from $38.4 million to $52.0 million, while interest on time
+          certificates rose from $16.5 million to $19.0 million.
+      - question: >
+          What trends are evident in Seacoast's noninterest income and expense
+          categories during this period?
+        answer: >
+          Seacoast's noninterest income improved from $17.8 million in Q3 2023 to
+          $23.7 million in Q3 2024, driven by increases across multiple revenue
+          streams. Service charges on deposit accounts grew from $4.6 million to
+          $5.4 million, wealth management income increased from $3.1 million to
+          $3.8 million, and other income rose significantly from $4.3 million to
+          $7.5 million. Simultaneously, noninterest expenses decreased from
+          $93.9 million to $84.8 million, reflecting improved operational
+          efficiency with reductions in salaries and wages, outsourced data
+          processing costs, and other operating expenses.
+  - context: >
+      Balance sheet trends from Q3 2023 through Q3 2024 demonstrate
+      Seacoast's focus on growth and risk management. Total assets increased
+      from $14.8 billion to $15.2 billion, with notable changes in loan
+      portfolio composition, deposit mix, and investment securities. The
+      allowance for credit losses decreased from $149.7 million to $140.5
+      million, reflecting improved credit quality metrics.
+    questions_and_answers:
+      - question: >
+          How has Seacoast's balance sheet composition changed from Q3 2023 to
+          Q3 2024, particularly in terms of loans and deposits?
+        answer: >
+          Seacoast's balance sheet showed strategic growth and repositioning from
+          Q3 2023 to Q3 2024. Total loans increased from $10.0 billion to $10.2
+          billion, while the allowance for credit losses decreased from $149.7
+          million to $140.5 million, indicating improved credit quality. Total
+          deposits grew from $12.1 billion to $12.2 billion, demonstrating
+          continued success in deposit gathering. The investment securities
+          portfolio expanded from $2.5 billion to $2.8 billion, with
+          available-for-sale securities increasing from $1.8 billion to $2.2
+          billion.
+      - question: >
+          What trends are visible in Seacoast's capital position and liquidity
+          management during this period?
+        answer: >
+          Seacoast maintained a strong capital position while managing liquidity
+          effectively. Total shareholders' equity increased from $2.05 billion
+          to $2.19 billion, supported by retained earnings growth from $453.1
+          million to $508.0 million. The company's liquidity position remained
+          robust with total cash and cash equivalents of $637.1 million as of Q3
+          2024. FHLB borrowings increased from $110.0 million to $245.0 million,
+          reflecting strategic balance sheet management in response to market
+          conditions.
+  - context: >
+      Operational efficiency and strategic initiatives from Q3 2023 to Q3
+      2024 highlight Seacoast's focus on cost management and digital
+      transformation. The company achieved significant reductions in operating
+      expenses while maintaining revenue growth across key business lines.
+      Noninterest expenses decreased by 9.7% year-over-year in Q3 2024, driven
+      by improved efficiency in personnel costs and operational processes.
+    questions_and_answers:
+      - question: >
+          What operational efficiency improvements has Seacoast achieved from Q3
+          2023 to Q3 2024, and how have these impacted financial performance?
+        answer: >
+          Seacoast demonstrated significant operational efficiency improvements
+          from Q3 2023 to Q3 2024. Noninterest expenses decreased by 9.7% from
+          $93.9 million to $84.8 million, driven by reductions in personnel
+          costs (salaries and wages decreased from $46.4 million to $40.7
+          million), outsourced data processing costs (reduced from $8.7 million
+          to $8.0 million), and other operational expenses. These efficiency
+          gains helped offset the impact of lower net interest income and
+          contributed to maintaining stable earnings per share at $0.36 in Q3
+          2024.
+      - question: >
+          How has Seacoast's revenue mix evolved across different business lines
+          during this period?
+        answer: >
+          Seacoast's revenue mix showed positive evolution across multiple
+          business lines from Q3 2023 to Q3 2024. Wealth management income grew
+          by 22.5% from $3.1 million to $3.8 million, service charges on
+          deposits increased by 16.4% from $4.6 million to $5.4 million, and
+          insurance agency income rose by 18.3% from $1.2 million to $1.4
+          million. The company also saw significant growth in other income,
+          which increased by 73.5% from $4.3 million to $7.5 million,
+          demonstrating successful diversification of revenue streams.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/banking/SBCF/10-Q/data/*.md

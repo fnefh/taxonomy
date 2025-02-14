@@ -1,0 +1,145 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for CrossFirst Bankshares, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Company history and structure
+     - Products and services
+     - Market presence and expansion
+     - Competitive position
+
+  2. Risk Management
+     - Credit risk management
+     - Cybersecurity and technology risks
+     - Regulatory compliance
+     - Environmental and market risks
+
+  3. Financial Performance
+     - Revenue and profitability metrics
+     - Asset quality and loan portfolio
+     - Capital adequacy
+     - Liquidity management
+
+  4. Strategic Initiatives
+     - Growth strategy
+     - Acquisition activities
+     - Technology investments
+     - Market expansion
+seed_examples:
+  - context: >
+      CrossFirst Bankshares, Inc., a Kansas corporation and registered bank
+      holding company, is the holding company for CrossFirst Bank. The Bank was
+      established as a Kansas state-chartered bank in 2007 and provides a full
+      suite of financial services through branch offices in Kansas, Missouri,
+      Oklahoma, Texas, Arizona, Colorado and New Mexico. During 2023, the
+      Company completed the integration of Farmers & Stockmens Bank acquisition
+      and acquired Canyon Bancorporation, Inc., expanding its presence in
+      Arizona through a branch in Tucson.
+    questions:
+      - question: What is CrossFirst Bankshares' business structure and geographic
+          presence?
+        answer: CrossFirst Bankshares is a Kansas-based bank holding company for
+          CrossFirst Bank, established in 2007, operating branches across
+          Kansas, Missouri, Oklahoma, Texas, Arizona, Colorado and New Mexico.
+      - question: What strategic acquisitions did CrossFirst complete in 2023?
+        answer: In 2023, CrossFirst completed the integration of Farmers & Stockmens
+          Bank (Colorado/New Mexico acquisition) and acquired Canyon
+          Bancorporation, Inc., adding a branch in Tucson, Arizona.
+  - context: >
+      The Bank focuses on several loan categories including commercial and
+      industrial loans, commercial real estate loans, construction and
+      development loans, residential real estate loans, multifamily real estate
+      loans, energy loans, SBA loans, credit cards, and consumer loans. The
+      Bank's deposit products include personal and business checking and savings
+      accounts, international banking services, treasury management services,
+      money market accounts, certificates of deposits, and mobile banking
+      services.
+    questions:
+      - question: What are the main lending categories offered by CrossFirst Bank?
+        answer: CrossFirst Bank offers various loan types including commercial and
+          industrial, commercial real estate, construction and development,
+          residential real estate, multifamily real estate, energy, SBA loans,
+          credit cards, and consumer loans.
+      - question: What deposit products and services does CrossFirst Bank provide?
+        answer: The Bank offers personal and business checking/savings accounts,
+          international banking services, treasury management, money market
+          accounts, certificates of deposits, and mobile banking services.
+  - context: >
+      As of December 31, 2023, the Bank's energy loans totaled $214 million,
+      or 3% of total loans. The Bank's CRE portfolio was 321% of total capital
+      and reserves, and total construction, land development and other land
+      loans was 112% of total capital and reserves. The 25 largest borrowing
+      relationships totaled approximately $1.9 billion in total commitments,
+      representing 23% of total outstanding commitments, with the five largest
+      borrowing relationships accounting for 8% of total commitments.
+    questions:
+      - question: What was CrossFirst's exposure to energy lending as of December 31,
+          2023?
+        answer: CrossFirst's energy loans totaled $214 million, representing 3% of total
+          loans as of December 31, 2023.
+      - question: How concentrated was CrossFirst's loan portfolio in terms of large
+          borrowing relationships?
+        answer: The 25 largest borrowing relationships represented 23% of total
+          commitments ($1.9 billion), with the five largest relationships
+          accounting for 8% of total commitments.
+  - context: >
+      In 2022, CrossFirst completed several strategic initiatives including a
+      $30 million share repurchase program and the acquisition of Farmers &
+      Stockmens Bank. The Company also made key leadership changes, promoting W.
+      Randall Rapp to President of the Bank, appointing Jenny Payne as Chief
+      Risk Officer, and Tom Robinson as Chief Credit Officer. The Company
+      completed $36 million in share repurchases during 2022, representing
+      2,448,428 common shares at an average price of $14.61.
+    questions:
+      - question: What strategic initiatives did CrossFirst undertake in 2022?
+        answer: In 2022, CrossFirst initiated a $30 million share repurchase program,
+          acquired Farmers & Stockmens Bank, and completed $36 million in share
+          repurchases at an average price of $14.61 per share.
+      - question: What key leadership changes occurred at CrossFirst in 2022?
+        answer: W. Randall Rapp was promoted to President of the Bank, Jenny Payne was
+          appointed Chief Risk Officer, and Tom Robinson became Chief Credit
+          Officer.
+  - context: >
+      During 2021, CrossFirst participated in the second round of the
+      Paycheck Protection Program (PPP), providing an additional $134 million in
+      PPP funding. The program was established by the CARES Act and expanded by
+      the Consolidated Appropriations Act of 2021, which allocated $284 billion
+      in PPP funding starting in January 2021. These PPP loans earned interest
+      at 1%, included fees between 1% and 5%, and typically matured in five
+      years.
+    questions:
+      - question: How did CrossFirst participate in the PPP program during 2021?
+        answer: CrossFirst provided $134 million in PPP funding during 2021 as part of
+          the second round of the program, with loans earning 1% interest, fees
+          of 1-5%, and typical five-year maturities.
+      - question: What were the terms of the PPP loans provided by CrossFirst in 2021?
+        answer: The PPP loans earned 1% interest, included fees between 1% and 5%, and
+          typically had five-year maturities.
+  - context: >
+      In 2020, CrossFirst made strategic decisions to reduce exposure to both
+      energy sector lending and tribal nation lending. The Bank provided $369
+      million in PPP loans during 2020 to support existing customers and foster
+      relationships with new customers. The Company also executed its succession
+      plan with Michael J. Maddox becoming CEO, opened a new branch in Frisco,
+      Texas, and initiated a $20 million stock buyback program, repurchasing
+      609,613 shares for approximately $6 million.
+    questions:
+      - question: What strategic portfolio changes did CrossFirst make in 2020?
+        answer: CrossFirst strategically reduced its exposure to both energy sector
+          lending and tribal nation lending, while providing $369 million in PPP
+          loans to support customers during the pandemic.
+      - question: What major corporate developments occurred at CrossFirst in 2020?
+        answer: Key developments included Michael J. Maddox becoming CEO, opening a new
+          branch in Frisco, Texas, and initiating a $20 million stock buyback
+          program that resulted in repurchasing 609,613 shares for about $6
+          million.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/banking/CFB/10-K/data/*.md

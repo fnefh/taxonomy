@@ -1,0 +1,116 @@
+---
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Day One Biopharmaceuticals, Inc. covering fiscal years 2021-2023. The
+  reports track the company's evolution across three main areas: 1. Clinical
+  Pipeline Evolution & Regulatory Progress 2. Technology Platform & Innovation
+  3. Strategic Growth & Commercial Readiness
+seed_examples:
+  - context: >
+      From 2021 through 2023, Day One demonstrated significant advancement in
+      its clinical pipeline, particularly with its lead candidate tovorafenib
+      (DAY101) in pediatric low-grade glioma (pLGG). The company achieved
+      multiple regulatory milestones and expanded its development programs while
+      maintaining focus on addressing unmet needs in pediatric oncology.
+    questions_and_answers:
+      - question: How did the clinical development of tovorafenib evolve during this
+          period?
+        answer: >
+          Key developments included: 1) Initiation and completion of enrollment in
+          pivotal Phase 2 FIREFLY-1 trial in relapsed/progressive pLGG
+          (2021-2022) 2) Strong efficacy data with 67% overall response rate in
+          FIREFLY-1 registrational cohort (2023) 3) Initiation of Phase 3
+          FIREFLY-2 trial as frontline therapy (2022) with first patient dosed
+          in March 2023 4) Expansion into additional indications through
+          FIRELIGHT-1 umbrella trial 5) Completion of NDA submissions for both
+          tablet and powder solution formulations in September 2023
+      - question: What were the key regulatory achievements and designations secured?
+        answer: >
+          Major regulatory milestones included: 1) Breakthrough Therapy
+          designation from FDA for pLGG treatment (2020) 2) Orphan Drug
+          designation for malignant glioma from FDA (2020) and EU Commission
+          (2021) 3) Rare Pediatric Disease designation for LGGs with RAF
+          alterations (2021) 4) NDA acceptance with Priority Review by FDA in
+          October 2023 with PDUFA date of April 30, 2024 5) No planned FDA
+          advisory committee meeting for NDA review
+      - question: How did the company's clinical trial strategy evolve?
+        answer: >
+          Strategy evolution included: 1) Expansion of FIREFLY-1 to include
+          additional study arms for expanded access and evaluation in
+          extracranial solid tumors 2) Strategic decision to discontinue
+          monotherapy substudy of FIRELIGHT-1 to focus resources on more
+          promising programs 3) Continued development of combination therapy
+          with pimasertib in FIRELIGHT-1 substudy 2 4) Global expansion of
+          clinical trial sites across US, Canada, Europe, Australia and Asia 5)
+          Focus on both pediatric and adult patient populations with MAPK
+          pathway alterations
+  - context: >
+      Throughout 2021-2023, Day One demonstrated significant innovation in
+      its technology platform and therapeutic approach, focusing on targeted
+      therapies for pediatric cancers while expanding its capabilities and
+      scientific understanding. The company's platform evolved to address both
+      monotherapy and combination approaches in MAPK pathway-driven cancers.
+    questions_and_answers:
+      - question: How did Day One's therapeutic platform advance during this period?
+        answer: >
+          Key advances included: 1) Demonstration of tovorafenib's unique
+          properties as a type II pan-RAF inhibitor with both monomer and dimer
+          inhibition 2) Validation of brain penetration and distribution
+          advantages compared to other MAPK pathway inhibitors 3) Development of
+          both tablet and powder solution formulations 4) Expansion into
+          combination approaches with MEK inhibition 5) Addition of VRK1 program
+          through Sprint Bioscience collaboration in 2023
+      - question: What were the key scientific and technical achievements?
+        answer: >
+          Major achievements included: 1) Demonstration of 67% overall response
+          rate in pLGG with RAF alterations 2) Validation of safety profile
+          across 450+ patients 3) Successful development of pediatric-friendly
+          formulations 4) Advancement of understanding in MAPK pathway targeting
+          through combination studies 5) Identification of new opportunities in
+          extracranial solid tumors with RAF fusions
+      - question: How did the company's R&D capabilities expand?
+        answer: >
+          Expansion included: 1) Growth of research team and capabilities 2)
+          Addition of new research collaboration with Sprint Bioscience for VRK1
+          program 3) Development of expertise in pediatric formulation and
+          delivery 4) Enhancement of translational research capabilities 5)
+          Strengthening of scientific advisory relationships and academic
+          partnerships
+  - context: >
+      During 2021-2023, Day One demonstrated significant strategic growth and
+      advancement toward commercialization, expanding its organizational
+      capabilities and strengthening its position for future success. The
+      company made substantial progress in building commercial readiness and
+      operational infrastructure.
+    questions_and_answers:
+      - question: How did the company's organizational capabilities expand?
+        answer: >
+          Growth included: 1) Expansion of leadership team with key hires
+          including new Chief Commercial Officer and Chief Medical Officer 2)
+          Enhancement of global clinical operations capabilities 3) Development
+          of commercial infrastructure ahead of potential launch 4)
+          Strengthening of manufacturing and supply chain capabilities 5)
+          Building of medical affairs and market access teams
+      - question: What strategic initiatives were implemented?
+        answer: >
+          Key initiatives included: 1) Focused development strategy prioritizing
+          pediatric oncology while maintaining adult oncology programs 2)
+          Strategic business development with Sprint Bioscience collaboration 3)
+          Global expansion of clinical trial infrastructure 4) Preparation for
+          commercial launch of tovorafenib 5) Enhancement of relationships with
+          patient advocacy groups and medical community
+      - question: How did commercial readiness evolve?
+        answer: >
+          Evolution included: 1) Building of commercial team under new Chief
+          Commercial Officer 2) Development of launch strategy for tovorafenib
+          in pLGG 3) Engagement with payer community and key opinion leaders 4)
+          Establishment of patient support infrastructure 5) Development of
+          global commercial strategy
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/DAWN/10-K/data/*.md

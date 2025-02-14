@@ -1,0 +1,108 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form
+  10-K)  for Arrowhead Pharmaceuticals covering 2021 through 2024.
+
+  The reports track the company's evolution across three main areas: 1. Clinical Pipeline Evolution & Regulatory Progress 2. Technology Platform & Innovation 3. Strategic Growth & Commercial Readiness
+seed_examples:
+  - context: >
+      From 2021 to 2024, Arrowhead significantly advanced its clinical
+      pipeline,  with its lead candidate plozasiran (formerly ARO-APOC3)
+      completing Phase 3  trials in FCS and progressing toward potential
+      commercial launch in 2025.  The company expanded from early-stage clinical
+      trials to having multiple  late-stage programs, with 16 clinical stage
+      candidates by 2024. Key  developments included successful trial results,
+      regulatory interactions,  and preparation for first commercial launch.
+    questions_and_answers:
+      - question: How did Arrowhead's clinical pipeline evolve from 2021 to 2024?
+        answer: >
+          Arrowhead's pipeline underwent significant expansion and maturation: 1)
+          Growth from early-stage trials to 16 clinical stage candidates by 2024
+          2) Advanced plozasiran through Phase 3 PALISADE trial in FCS, meeting
+          primary  and key secondary endpoints 3) Progressed zodasiran
+          (ARO-ANG3) to Phase 2b trials in mixed dyslipidemia  and HoFH 4)
+          Expanded therapeutic areas beyond liver to include lung, CNS,
+          muscle,  and adipose tissue targets
+      - question: What major regulatory and clinical milestones did Arrowhead achieve
+          during this period?
+        answer: >
+          Key achievements included: 1) Successful completion of plozasiran's
+          Phase 3 PALISADE trial in FCS 2) Initiation of multiple Phase 3 trials
+          for plozasiran including SHASTA-3,  SHASTA-4, and MUIR-3 3)
+          Advancement of zodasiran to Phase 2b trials ARCHES-2 and GATEWAY 4)
+          Preparation for first NDA submission and potential commercial
+          launch  of plozasiran in 2025
+      - question: How did Arrowhead's development strategy evolve to support its
+          expanding pipeline?
+        answer: >
+          Arrowhead implemented several strategic initiatives: 1) Set bold goal to
+          have 20 drugs in clinical trials or on market by 2025 2) Expanded
+          clinical trial infrastructure globally 3) Enhanced manufacturing
+          partnerships and capabilities 4) Strengthened regulatory interactions
+          across multiple programs 5) Built commercial readiness capabilities
+          for first product launch
+  - context: >
+      Throughout 2021-2024, Arrowhead continued to innovate and expand
+      its  TRiM™ platform capabilities. The company's technology evolved to
+      enable  targeting of multiple tissues beyond the liver, including lung,
+      CNS,  muscle, and adipose tissue. The platform demonstrated versatility
+      in  developing RNAi therapeutics for previously "undruggable" targets.
+    questions_and_answers:
+      - question: How did Arrowhead's TRiM™ platform technology advance from 2021 to
+          2024?
+        answer: >
+          The TRiM™ platform showed significant advancement: 1) Expanded tissue
+          targeting capabilities beyond liver to lung, CNS,  muscle, and adipose
+          tissue 2) Enhanced delivery efficiency through optimized
+          ligand-mediated targeting 3) Demonstrated ability to address
+          previously "undruggable" targets 4) Improved manufacturing simplicity
+          and reduced costs
+      - question: What key technological innovations did Arrowhead implement in its RNAi
+          approach?
+        answer: >
+          Key innovations included: 1) Development of sophisticated RNAi trigger
+          screening and selection process 2) Optimization of RNA chemical
+          modifications for enhanced stability 3) Implementation of selective
+          modification strategies for improved efficacy 4) Advanced targeting
+          ligand development for tissue-specific delivery
+      - question: How did Arrowhead's platform capabilities translate to clinical
+          development?
+        answer: >
+          Platform capabilities enabled: 1) Generation of multiple new clinical
+          candidates annually 2) Development of 16 clinical stage candidates
+          across diverse therapeutic areas 3) Successful targeting of various
+          tissues and cell types 4) Simplified manufacturing processes for
+          clinical and commercial scale
+  - context: >
+      From 2021 to 2024, Arrowhead transformed from a clinical-stage
+      company  to preparing for its first commercial launch. The company
+      strengthened  its organizational infrastructure, expanded manufacturing
+      capabilities,  and built commercial readiness while maintaining financial
+      stability  and market position.
+    questions_and_answers:
+      - question: How did Arrowhead prepare for commercial transition from 2021 to 2024?
+        answer: >
+          Arrowhead made significant preparations: 1) Built commercial
+          infrastructure for planned plozasiran launch in 2025 2) Strengthened
+          manufacturing partnerships and supply chain capabilities 3) Enhanced
+          operational systems and processes 4) Expanded global clinical trial
+          infrastructure
+      - question: What organizational changes occurred to support Arrowhead's growth?
+        answer: >
+          Key organizational developments included: 1) Evolution from clinical to
+          commercial-stage company 2) Expansion of management team and
+          operational capabilities 3) Growth in employee base to support broader
+          pipeline 4) Development of commercial expertise and infrastructure
+      - question: How did Arrowhead's market position and financial strength evolve?
+        answer: >
+          The company's position evolved through: 1) Maintenance of strong balance
+          sheet to support growth 2) Market cap valuation reflecting pipeline
+          progress 3) Increased institutional investment interest 4) Strategic
+          partnerships and collaborations to support development
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/ARWR/10-K/data/*.md

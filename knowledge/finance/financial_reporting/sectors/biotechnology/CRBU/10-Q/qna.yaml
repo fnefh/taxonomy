@@ -1,0 +1,91 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Caribou Biosciences, Inc. covering Q3 2023 through Q3 2024. The reports
+  track the company's evolution across three main areas: 1. Clinical Development
+  Progress 2. Financial Position & Growth 3. Strategic Initiatives & Operational
+  Excellence
+seed_examples:
+  - context: >
+      From Q3 2023 through Q3 2024, Caribou Biosciences demonstrated
+      significant advancement in its clinical development programs, with
+      increased R&D investments and progress across multiple pipeline
+      candidates. The company's R&D expenses grew from $80.8M to $99.7M (nine
+      months comparison), reflecting expanded clinical trial activities.
+    questions_and_answers:
+      - question: How did R&D investments evolve during this period?
+        answer: >
+          R&D investments showed consistent growth: 1) Q3 2023: $28.6M quarterly
+          spend 2) Q3 2024: $30.4M quarterly spend 3) Nine-month comparison
+          showed increase from $80.8M to $99.7M 4) Increased investment reflects
+          expanded clinical trial activities and manufacturing capabilities
+      - question: What were the key clinical development milestones?
+        answer: >
+          Major clinical achievements included: 1) Advancement of CB-010 ANTLER
+          trial with continued patient enrollment 2) Progress in CB-011
+          CaMMouflage trial across multiple dose levels 3) Continued development
+          of CB-012 in AMpLify trial 4) Enhanced manufacturing processes for
+          clinical supply
+      - question: How did operational metrics in clinical development evolve?
+        answer: >
+          Operational evolution included: 1) Increased clinical trial site
+          activations 2) Enhanced manufacturing capabilities for clinical supply
+          3) Improved operational efficiency in trial execution 4) Strengthened
+          clinical development infrastructure
+  - context: >
+      Throughout Q3 2023-Q3 2024, Caribou maintained a strong financial
+      position while strategically deploying capital for clinical development.
+      The company's cash position evolved from $396.7M (Q3 2023) to $281.0M (Q3
+      2024), with careful management of resources and successful financing
+      activities.
+    questions_and_answers:
+      - question: How did the company's financial position change?
+        answer: >
+          Key financial changes included: 1) Cash, equivalents, and marketable
+          securities decreased from $396.7M to $281.0M 2) Successful ATM
+          offering raising $11.3M in Q1 2024 3) Reduced quarterly cash burn in
+          Q3 2024 compared to previous quarters 4) Maintained strong balance
+          sheet to support clinical programs
+      - question: What were the key revenue and expense trends?
+        answer: >
+          Financial trends showed: 1) Licensing revenue decreased from $23.7M to
+          $2.0M in Q3 2024 2) R&D expenses increased from $28.6M to $30.4M
+          quarterly 3) G&A expenses remained stable around $9.8M quarterly 4)
+          Net loss increased from $10.0M to $34.7M in Q3 2024
+      - question: How did the company manage its resources?
+        answer: >
+          Resource management included: 1) Strategic capital allocation
+          prioritizing clinical programs 2) Maintained operational efficiency
+          with stable G&A expenses 3) Successful execution of ATM program for
+          additional funding 4) Focus on key value-driving programs while
+          managing cash burn
+  - context: >
+      During Q3 2023-Q3 2024, Caribou demonstrated strong operational
+      execution and strategic focus, advancing its pipeline while building
+      organizational capabilities and maintaining efficient operations.
+    questions_and_answers:
+      - question: What operational improvements were implemented?
+        answer: >
+          Key improvements included: 1) Enhanced manufacturing capabilities with
+          $19.6M in property and equipment 2) Streamlined clinical operations
+          across multiple trials 3) Maintained efficient G&A infrastructure 4)
+          Improved clinical trial execution capabilities
+      - question: How did organizational capabilities evolve?
+        answer: >
+          Organizational evolution included: 1) Expanded clinical development team
+          2) Enhanced manufacturing expertise 3) Strengthened regulatory and
+          clinical operations 4) Maintained lean operational structure with
+          focused spending
+      - question: What strategic initiatives were prioritized?
+        answer: >
+          Strategic priorities included: 1) Focus on advancing key clinical
+          programs 2) Enhancement of manufacturing capabilities 3) Careful
+          management of cash resources 4) Maintenance of strong partnerships and
+          collaborations
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/CRBU/10-Q/data/*.md

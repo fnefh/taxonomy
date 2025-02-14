@@ -1,0 +1,161 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Archer Aviation Inc. covering fiscal years 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and operating expenses
+     - Research and development costs
+     - General and administrative expenses
+     - Net loss and earnings per share
+
+  2. Balance Sheet Trends
+     - Cash and liquidity position
+     - Property and equipment investments
+     - Liabilities and stockholders' equity
+     - Capital structure
+
+  3. Business Operations
+     - Aircraft development progress
+     - Manufacturing facility build-out
+     - Strategic partnerships
+     - Operational milestones
+
+  4. Risk Management
+     - Market conditions
+     - Regulatory compliance
+     - Development challenges
+     - Financial risks
+seed_examples:
+  - context: >
+      For Q3 2024, Archer reported a net loss of $115.3 million ($0.29 per
+      share), compared to $51.6 million ($0.19 per share) in Q3 2023. Research
+      and development expenses increased to $89.8 million from $67.8 million,
+      while general and administrative expenses were $32.3 million compared to a
+      credit of $21.6 million in the prior year. Total operating expenses were
+      $122.1 million, with interest income of $5.5 million partially offsetting
+      the operating loss.
+    questions_and_answers:
+      - question: What were Archer's key financial results for Q3 2024?
+        answer: Archer reported a net loss of $115.3 million ($0.29 per share), with
+          total operating expenses of $122.1 million and interest income of $5.5
+          million.
+      - question: How did Q3 2024 results compare to Q3 2023?
+        answer: The net loss increased from $51.6 million ($0.19 per share) in Q3 2023
+          to $115.3 million ($0.29 per share) in Q3 2024, with R&D expenses
+          growing from $67.8 million to $89.8 million.
+      - question: What were the main components of operating expenses in Q3 2024?
+        answer: Operating expenses consisted primarily of $89.8 million in research and
+          development and $32.3 million in general and administrative expenses,
+          totaling $122.1 million.
+  - context: >
+      As of September 30, 2024, Archer maintained a strong financial position
+      with cash and cash equivalents of $501.7 million, up from $464.6 million
+      at the end of 2023. Total assets increased to $651.5 million, including
+      property and equipment of $113.1 million. Total liabilities were $183.8
+      million, with notes payable of $64.0 million. The company's stockholders'
+      equity stood at $467.7 million, with accumulated deficit reaching $1,487.5
+      million.
+    questions_and_answers:
+      - question: What was Archer's cash position at the end of Q3 2024?
+        answer: Archer had cash and cash equivalents of $501.7 million as of September
+          30, 2024, an increase from $464.6 million at the end of 2023.
+      - question: How did Archer's balance sheet composition change during 2024?
+        answer: Total assets grew to $651.5 million, with significant investment in
+          property and equipment ($113.1 million), while total liabilities were
+          $183.8 million including $64.0 million in notes payable.
+      - question: What was the company's equity position as of Q3 2024?
+        answer: Archer's stockholders' equity was $467.7 million, though the company had
+          accumulated a deficit of $1,487.5 million since inception.
+  - context: >
+      For Q2 2024, Archer reported a net loss of $106.9 million ($0.32 per
+      share), compared to $184.1 million ($0.73 per share) in Q2 2023. Research
+      and development expenses were $89.8 million, up from $63.3 million
+      year-over-year, while general and administrative expenses decreased to
+      $31.4 million from $118.1 million. The company's weighted-average shares
+      outstanding increased to 334,072,229 from 251,018,612 in the prior year
+      period.
+    questions_and_answers:
+      - question: What were Archer's key financial results for Q2 2024?
+        answer: Archer reported a net loss of $106.9 million ($0.32 per share), with R&D
+          expenses of $89.8 million and general and administrative expenses of
+          $31.4 million.
+      - question: How did Q2 2024 performance compare to Q2 2023?
+        answer: The net loss decreased from $184.1 million ($0.73 per share) in Q2 2023
+          to $106.9 million ($0.32 per share) in Q2 2024, despite higher R&D
+          expenses, due to lower general and administrative costs.
+      - question: What changes occurred in Archer's share structure?
+        answer: The weighted-average shares outstanding increased to 334,072,229 in Q2
+          2024 from 251,018,612 in Q2 2023, reflecting significant equity
+          issuance during the period.
+  - context: >
+      For the first nine months of 2024, Archer's total operating expenses
+      were $385.5 million, consisting of $263.1 million in research and
+      development and $122.4 million in general and administrative expenses. The
+      company reported a net loss of $338.7 million ($0.97 per share) compared
+      to $348.8 million ($1.35 per share) in the same period of 2023. Other
+      income of $31.3 million and interest income of $15.9 million partially
+      offset operating losses.
+    questions_and_answers:
+      - question: What were Archer's financial results for the first nine months of 2024?
+        answer: Archer reported a net loss of $338.7 million ($0.97 per share) on total
+          operating expenses of $385.5 million, partially offset by $47.2
+          million in combined other income and interest income.
+      - question: How did operating expenses break down in the first nine months of 2024?
+        answer: Operating expenses totaled $385.5 million, comprising $263.1 million in
+          research and development and $122.4 million in general and
+          administrative expenses.
+      - question: How did the nine-month results compare to the same period in 2023?
+        answer: The net loss decreased slightly from $348.8 million ($1.35 per share) in
+          2023 to $338.7 million ($0.97 per share) in 2024, with per-share
+          losses improving due to a larger share count.
+  - context: >
+      For Q1 2024, Archer reported a net loss of $116.5 million ($0.36 per
+      share), compared to $113.1 million ($0.46 per share) in Q1 2023. Research
+      and development expenses increased to $83.5 million from $65.8 million,
+      while general and administrative expenses rose to $58.7 million from $44.1
+      million. The company's cash position was $405.8 million at quarter-end,
+      with total assets of $510.9 million and stockholders' equity of $379.2
+      million.
+    questions_and_answers:
+      - question: What were Archer's key financial results for Q1 2024?
+        answer: Archer reported a net loss of $116.5 million ($0.36 per share), with R&D
+          expenses of $83.5 million and general and administrative expenses of
+          $58.7 million.
+      - question: How did Q1 2024 performance compare to Q1 2023?
+        answer: The net loss increased slightly from $113.1 million ($0.46 per share) to
+          $116.5 million ($0.36 per share), with higher expenses in both R&D (up
+          from $65.8M) and G&A (up from $44.1M).
+      - question: What was Archer's financial position at the end of Q1 2024?
+        answer: Archer had $405.8 million in cash, total assets of $510.9 million, and
+          stockholders' equity of $379.2 million at the end of Q1 2024.
+  - context: >
+      In Q3 2023, Archer reported a net loss of $51.6 million ($0.19 per
+      share), compared to $91.0 million ($0.38 per share) in Q3 2022. Research
+      and development expenses were $67.8 million, up from $47.0 million
+      year-over-year, while general and administrative expenses showed a credit
+      of $21.6 million compared to an expense of $40.8 million in the prior
+      year. The company maintained a strong balance sheet with $461.4 million in
+      cash and cash equivalents and total assets of $539.6 million.
+    questions_and_answers:
+      - question: What were Archer's key financial results for Q3 2023?
+        answer: Archer reported a net loss of $51.6 million ($0.19 per share), with R&D
+          expenses of $67.8 million and a general and administrative expense
+          credit of $21.6 million.
+      - question: How did Q3 2023 results compare to Q3 2022?
+        answer: The net loss decreased significantly from $91.0 million ($0.38 per
+          share) to $51.6 million ($0.19 per share), with R&D expenses
+          increasing from $47.0 million while G&A showed a credit versus a $40.8
+          million expense in the prior year.
+      - question: What was Archer's financial position at the end of Q3 2023?
+        answer: Archer maintained a strong balance sheet with $461.4 million in cash and
+          cash equivalents and total assets of $539.6 million.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/aerospace_defense/ACHR/10-Q/data/*.md

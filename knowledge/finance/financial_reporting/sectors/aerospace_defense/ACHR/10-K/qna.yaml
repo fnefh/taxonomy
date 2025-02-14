@@ -1,0 +1,95 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Archer Aviation Inc. covering recent fiscal years.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - eVTOL aircraft development
+     - UAM market strategy
+     - Manufacturing operations
+     - Strategic partnerships
+     - Regulatory environment
+
+  2. Financial Performance
+     - Revenue and expenses
+     - Capital requirements
+     - Funding sources
+     - Operating losses
+     - Growth investments
+
+  3. Development & Certification
+     - Aircraft design progress
+     - FAA certification status
+     - Manufacturing capabilities
+     - Supply chain build-out
+     - Testing milestones
+
+  4. Risk Management
+     - Regulatory compliance
+     - Safety considerations
+     - Competition factors
+     - Market adoption risks
+     - Operational challenges
+
+seed_examples:
+
+  - context: >
+      Archer plans to operate two complementary business lines: Archer UAM (a direct-to-consumer aerial ride share service) and Archer Direct (aircraft sales to other operators). The company has secured a purchase agreement with United Airlines for up to $1.0 billion worth of aircraft, with an additional $500 million option. In August 2023, Archer also secured two contracts with the U.S. Air Force worth up to $142 million for aircraft purchases and related services.
+    questions_and_answers:
+      - question: What are Archer's planned business lines?
+        answer: Archer plans to operate two business lines: Archer UAM (direct-to-consumer aerial ride share service) and Archer Direct (sales of aircraft to other operators).
+      - question: What major customer agreements has Archer secured?
+        answer: Archer has secured a purchase agreement with United Airlines worth up to $1.0 billion with an additional $500 million option, and two contracts with the U.S. Air Force worth up to $142 million.
+      - question: What is the total potential value of Archer's current customer agreements?
+        answer: The total potential value of Archer's current agreements is up to $1.642 billion, comprising up to $1.5 billion from United Airlines ($1.0 billion plus $500 million option) and up to $142 million from the U.S. Air Force.
+
+  - context: >
+      Archer is developing manufacturing infrastructure in two locations: a production facility in San Jose, California for initial Midnight aircraft certification program, and a high-volume production facility in Covington, Georgia. The first phase of the Covington facility, targeting completion in 2024, is 350,000 square feet with capacity for 650 aircraft per year, expandable to 900,000 square feet for over 2,000 aircraft annually. Archer secured a $65 million credit agreement with Synovus Bank for construction costs.
+    questions_and_answers:
+      - question: What are Archer's manufacturing facility plans?
+        answer: Archer has a production facility in San Jose for initial aircraft certification and is building a 350,000 square-foot high-volume facility in Covington, Georgia, with capacity for 650 aircraft per year, expandable to 900,000 square feet for over 2,000 aircraft annually.
+      - question: How is Archer funding its manufacturing expansion?
+        answer: Archer secured a $65 million credit agreement with Synovus Bank to fund the majority of construction costs for the first phase of its Covington facility.
+      - question: What is the planned production capacity of Archer's facilities?
+        answer: The Covington facility's first phase will have capacity for 650 aircraft per year, with potential expansion to produce over 2,000 aircraft annually when expanded to 900,000 square feet.
+
+  - context: >
+      In February 2021, Atlas Crest Investment Corp. entered into a Business Combination Agreement with Archer Aviation, with an implied equity value of $2.525 billion. The merger included a PIPE financing of $600 million from investors. The deal completed Archer's transition from a private company to a publicly traded entity, providing significant capital for aircraft development and certification efforts. The transaction represented a key milestone in Archer's growth, enabling accelerated development of their eVTOL aircraft program.
+    questions_and_answers:
+      - question: How did Archer become a public company?
+        answer: Archer became public through a merger with Atlas Crest Investment Corp. in 2021, with an implied equity value of $2.525 billion and included a $600 million PIPE financing from investors.
+      - question: What was the significance of the SPAC merger for Archer?
+        answer: The merger provided Archer with significant capital for aircraft development and certification efforts, enabling accelerated development of their eVTOL aircraft program and transitioning the company to a publicly traded entity.
+      - question: What was the total value of the financing raised through the SPAC merger?
+        answer: The transaction had an implied equity value of $2.525 billion and included $600 million in PIPE financing from investors.
+
+  - context: >
+      Archer has established key strategic partnerships with Stellantis and United Airlines. Stellantis is working with Archer on manufacturing facility setup and plans to be their contract manufacturer. United Airlines, as the flagship customer, is contributing operational expertise and has committed to purchasing up to $1.5 billion worth of aircraft. The companies have jointly announced two initial UAM routes: Manhattan to Newark Airport and O'Hare Airport to Vertiport Chicago.
+    questions_and_answers:
+      - question: What are Archer's key strategic partnerships?
+        answer: Archer has key partnerships with Stellantis for manufacturing support and contract manufacturing, and United Airlines as flagship customer providing operational expertise and aircraft purchase commitments.
+      - question: What initial routes has Archer announced with United Airlines?
+        answer: Archer and United have announced two initial UAM routes: Downtown Manhattan Heliport to Newark Liberty International Airport and O'Hare International Airport to Vertiport Chicago.
+      - question: What is Stellantis's role in Archer's manufacturing strategy?
+        answer: Stellantis is working with Archer on manufacturing facility setup and is planned to be their contract manufacturer for aircraft production.
+
+  - context: >
+      As of December 31, 2023, Archer had incurred a net loss of $457.9 million and accumulated net losses of $1,148.8 million since inception. The company expects to continue incurring operating losses until generating significant revenue from its planned business lines. Archer's workforce included 578 full-time employees and 113 contingent workers, focusing on aircraft development, certification, and manufacturing capabilities.
+    questions_and_answers:
+      - question: What is Archer's current financial position?
+        answer: As of December 31, 2023, Archer had incurred a net loss of $457.9 million for the year and accumulated losses of $1,148.8 million since inception, with expectations of continued losses until generating significant revenue.
+      - question: What is the size and composition of Archer's workforce?
+        answer: Archer had a workforce of 691 people, consisting of 578 full-time employees and 113 contingent workers, focused on aircraft development, certification, and manufacturing.
+      - question: What is Archer's outlook regarding future profitability?
+        answer: The company expects to continue incurring operating losses until it can generate significant revenue from its planned business lines.
+
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/aerospace_defense/ACHR/10-K/data/*.md 
