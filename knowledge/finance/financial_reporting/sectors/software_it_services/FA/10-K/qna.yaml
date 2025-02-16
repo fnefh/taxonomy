@@ -1,0 +1,163 @@
+---
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for First Advantage Corporation covering fiscal years 2021-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Background screening and verification solutions
+     - Technology platform and capabilities
+     - Customer base and market position
+     - Geographic presence
+
+  2. Financial Performance
+     - Revenue trends and composition
+     - Operating expenses and margins
+     - Profitability metrics
+     - Cash flow and liquidity
+
+  3. Market Position
+     - Competitive advantages
+     - Technology leadership
+     - Customer relationships
+     - Industry trends
+
+  4. Risk Factors
+     - Macroeconomic conditions
+     - Regulatory compliance
+     - Technology and cybersecurity
+     - Competition and market dynamics
+seed_examples:
+  - context: >
+      First Advantage is a leading provider of employment background
+      screening, identity,  and verification solutions. For the fiscal year
+      ended December 31, 2023, the company  reported revenues of $763.8 million,
+      a decrease of 5.7% from $810.0 million in 2022.  The company serves more
+      than 30,000 customers globally and performs approximately  100 million
+      screens annually.
+    questions_and_answers:
+      - question: >
+          What were First Advantage's key financial results and business metrics
+          for  fiscal year 2023?
+        answer: >
+          In fiscal year 2023, First Advantage generated revenues of $763.8
+          million,  representing a 5.7% decrease from $810.0 million in 2022.
+          The company maintained  a gross margin of approximately 49.4% and
+          achieved net income of $37.3 million  with a net income margin of
+          4.9%. First Advantage serves over 30,000 customers  globally and
+          performs approximately 100 million screens annually,
+          demonstrating  its significant scale and market presence.
+      - question: >
+          How did First Advantage's revenue composition change in 2023 compared
+          to 2022?
+        answer: >
+          In 2023, First Advantage experienced a net decrease of $84.3 million
+          (10.4%)  in existing customer revenues, primarily due to reduced
+          demand from customers  impacted by macroeconomic conditions and the
+          normalization of post-pandemic  growth levels. This decrease was
+          partially offset by $36.9 million (4.6%)  in revenue from upselling
+          and cross-selling to existing customers, $35.1  million (4.3%) from
+          new customers primarily in the Americas segment, and  $2.9 million
+          (0.4%) from the Infinite ID acquisition.
+      - question: |
+          What are the main components of First Advantage's operating expenses?
+        answer: >
+          First Advantage's main operating expenses include: 1) Cost of services,
+          which  consists of third-party data access fees, processing
+          fulfillment, and customer  care functions, representing 50.6% of
+          revenue in 2023; 2) Product and technology  expense for platform
+          maintenance and development at $49.3 million; 3) Selling,  general,
+          and administrative expenses at $116.7 million; and 4)
+          Depreciation  and amortization at $129.5 million.
+  - context: >
+      First Advantage's platform integrates and automates infrastructure
+      monitoring,  application performance monitoring, and other capabilities.
+      The company maintains  proprietary internal databases with over 765
+      million criminal, education, and  work history observations as of December
+      31, 2023, and has an extensive network  of more than 3,900 automated
+      and/or integrated third-party data providers.
+    questions_and_answers:
+      - question: >
+          What are the key technological capabilities and infrastructure
+          components  of First Advantage's platform?
+        answer: >
+          First Advantage's platform features integrated and automated
+          infrastructure  monitoring, application performance monitoring, and
+          extensive data capabilities.  The company maintains proprietary
+          databases containing over 765 million criminal,  education, and work
+          history records, and leverages a network of more than  3,900
+          automated/integrated third-party data providers. The platform
+          uses  automation, APIs, and machine learning to efficiently integrate
+          data from  both internal and external sources.
+      - question: >
+          How does First Advantage ensure data quality and processing efficiency?
+        answer: >
+          First Advantage ensures data quality and processing efficiency through
+          multiple  approaches: 1) Maintaining extensive proprietary databases
+          with over 765 million  observations; 2) Utilizing robotic process
+          automation (RPA) technology, enabling  approximately 90% of U.S.
+          criminal searches to be completed within one day;  3) Integrating with
+          more than 75 third-party Human Capital Management platforms;  and 4)
+          Employing automation, APIs, and machine learning for intelligent
+          data  integration.
+      - question: |
+          What are First Advantage's key competitive advantages in the market?
+        answer: >
+          First Advantage's key competitive advantages include: 1) Extensive
+          proprietary  databases with over 765 million records; 2) Integration
+          with more than 75  HCM platforms; 3) Network of over 3,900
+          automated/integrated third-party  data providers; 4) Advanced
+          automation capabilities enabling rapid turnaround  times; 5) Global
+          presence serving customers in over 200 countries and territories;  and
+          6) Strong compliance functionality addressing complex regulatory
+          requirements.
+  - context: >
+      First Advantage operates in a highly regulated industry and faces
+      various market  trends including increased workforce mobility, growing use
+      of contingent workforces,  heightened focus on safety and reputational
+      risks, and expanding regulatory  requirements. The company's average
+      12-year tenure of top 100 customers and  gross retention rate of
+      approximately 97% demonstrate strong customer relationships.
+    questions_and_answers:
+      - question: >
+          What are the key market trends driving First Advantage's business
+          growth?
+        answer: >
+          Key market trends driving First Advantage's growth include: 1)
+          Increased  workforce mobility and job turnover, particularly among
+          Millennials and Gen-Z;  2) Growing use of contingent and flexible
+          workforces; 3) Heightened C-Suite  focus on safety and reputational
+          risks; 4) Expanding regulatory and compliance  requirements globally;
+          5) Development of international markets with low background  screening
+          penetration; and 6) Growth in post-onboarding monitoring services.
+      - question: |
+          How does First Advantage maintain strong customer relationships?
+        answer: >
+          First Advantage maintains strong customer relationships through: 1) A
+          customer-centric  sales model with dedicated Sales and Solutions
+          Engineering professionals;  2) Deep subject matter expertise in
+          industry-specific compliance requirements;  3) Consistent high service
+          levels, evidenced by industry-leading net promoter  scores; 4)
+          Long-term relationships, with an average 12-year tenure among  top 100
+          customers; and 5) High customer retention, with a gross
+          retention  rate of approximately 97% as of December 2023.
+      - question: |
+          What regulatory and compliance challenges does First Advantage face?
+        answer: >
+          First Advantage faces various regulatory and compliance challenges
+          including:  1) Complex global requirements such as FCPA, UK Bribery
+          Act, FCRA, CCPA,  GDPR, UK GDPR, and IBIPA; 2) Varying requirements
+          across different geographies,  industry verticals, and use cases; 3)
+          Increasing scrutiny of data privacy  and protection; 4) Need for
+          heightened compliance standards and auditability;  and 5) Evolving
+          international regulations requiring continuous adaptation  of
+          screening procedures.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/FA/10-K/data/*.md

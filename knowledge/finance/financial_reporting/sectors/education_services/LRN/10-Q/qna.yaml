@@ -1,0 +1,199 @@
+---
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Stride, Inc. covering quarters from 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Segment performance (General Education and Career Learning)
+     - Cash flow and liquidity
+     - Operating expenses
+
+  2. Business Operations
+     - Enrollment trends
+     - Revenue recognition
+     - Contract performance
+     - Operational efficiency
+
+  3. Market Position
+     - Growth initiatives
+     - Competitive dynamics
+     - Strategic priorities
+     - Market expansion
+
+  4. Risk Management
+     - Financial controls
+     - Operational risks
+     - Market challenges
+     - Regulatory compliance
+seed_examples:
+  - context: >
+      In Q2 FY2025 (ended December 31, 2024), Stride reported strong
+      financial performance with revenues of $587.2 million, a 16.3% increase
+      from $504.9 million in Q2 FY2024. The company achieved net income of $96.4
+      million, compared to $66.8 million in the same period last year. Operating
+      income increased to $125.1 million from $84.3 million, demonstrating
+      improved operational efficiency and strong execution across both General
+      Education and Career Learning segments.
+    questions_and_answers:
+      - question: |
+          What were Stride's key financial metrics for Q2 FY2025?
+        answer: >
+          Stride achieved revenues of $587.2 million (up 16.3% year-over-year),
+          net income of $96.4 million (up from $66.8 million), and operating
+          income of $125.1 million (up from $84.3 million). The company
+          demonstrated strong growth and improved operational efficiency across
+          its business segments.
+      - question: |
+          How did Stride's business segments perform in Q2 FY2025?
+        answer: >
+          General Education revenue was $354.3 million, while Career Learning
+          generated $232.9 million, with Middle-High School at $213.1 million
+          and Adult at $19.8 million. Both segments showed growth, with Career
+          Learning's Middle-High School segment showing particularly strong
+          performance.
+      - question: |
+          What were the key operational metrics for Q2 FY2025?
+        answer: >
+          The company maintained strong operational efficiency with gross margin
+          of $239.9 million and selling, general, and administrative expenses of
+          $114.8 million. Cash and cash equivalents stood at $515.0 million,
+          with total assets of $2.07 billion, demonstrating strong liquidity and
+          financial position.
+  - context: >
+      In Q1 FY2025 (ended September 30, 2024), Stride demonstrated solid
+      growth with revenues of $551.1 million, representing a 14.8% increase from
+      $480.2 million in Q1 FY2024. Net income rose significantly to $40.9
+      million from $4.9 million in the prior year period. The company's
+      operating income improved to $47.3 million from $3.3 million, reflecting
+      enhanced operational efficiency and successful execution of strategic
+      initiatives.
+    questions_and_answers:
+      - question: |
+          What were Stride's financial highlights for Q1 FY2025?
+        answer: >
+          Stride reported revenues of $551.1 million (up 14.8% year-over-year),
+          net income of $40.9 million (up from $4.9 million), and operating
+          income of $47.3 million (up from $3.3 million). The company showed
+          substantial improvement in profitability and operational performance.
+      - question: |
+          How did Stride's operational metrics perform in Q1 FY2025?
+        answer: >
+          The company achieved a gross margin of $215.9 million, with selling,
+          general, and administrative expenses of $168.5 million. Cash and cash
+          equivalents were $317.8 million, and total assets reached $2.0
+          billion, indicating strong financial health.
+      - question: |
+          What were the key balance sheet metrics as of September 30, 2024?
+        answer: >
+          Stride maintained a strong balance sheet with total assets of $2.0
+          billion, including $317.8 million in cash and cash equivalents, $675.7
+          million in accounts receivable, and stockholders' equity of $1.2
+          billion. The company's working capital position remained healthy.
+  - context: >
+      In Q3 FY2024 (ended March 31, 2024), Stride delivered strong results
+      with revenues of $520.8 million, a 10.7% increase from $470.3 million in
+      Q3 FY2023. Net income grew to $69.7 million from $55.5 million in the same
+      period last year. The company's operating income increased to $88.3
+      million from $72.2 million, showing continued momentum in operational
+      efficiency and market execution.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q3 FY2024?
+        answer: >
+          Stride achieved revenues of $520.8 million (up 10.7% year-over-year),
+          net income of $69.7 million (up from $55.5 million), and operating
+          income of $88.3 million (up from $72.2 million). The company
+          demonstrated strong growth and improved profitability.
+      - question: |
+          How did Stride's operational performance evolve in Q3 FY2024?
+        answer: >
+          The company maintained strong operational efficiency with gross margin
+          of $201.3 million and selling, general, and administrative expenses of
+          $113.0 million. The operating margin improved significantly,
+          reflecting successful cost management and operational optimization.
+      - question: |
+          What was Stride's financial position at the end of Q3 FY2024?
+        answer: >
+          As of March 31, 2024, Stride had $376.6 million in cash and cash
+          equivalents, total assets of $1.89 billion, and stockholders' equity
+          of $1.10 billion. The company maintained a strong balance sheet with
+          $577.8 million in accounts receivable and effective working capital
+          management.
+  - context: >
+      For the first six months of FY2025, Stride's revenue recognition was
+      primarily driven by funding-based contracts, with approximately 94% of
+      General Education revenues and 100% of Middle-High School Career Learning
+      revenues coming from these arrangements. The company's contract structure
+      includes integrated packages of systems, services, products, and
+      professional expertise administered to support virtual or blended public
+      schools, with performance obligations typically aligned to the fiscal
+      year.
+    questions_and_answers:
+      - question: |
+          How does Stride structure its revenue contracts?
+        answer: >
+          Stride primarily operates through funding-based contracts (94% of
+          General Education and 100% of Middle-High School Career Learning
+          revenues), providing integrated packages of educational services.
+          These contracts typically span multiple years with performance
+          obligations aligned to the fiscal year.
+      - question: |
+          What are the key components of Stride's service agreements?
+        answer: >
+          Service agreements include online school access, offline learning kits,
+          personal computer and reclamation services, internet access,
+          technology support, certified teacher instruction, and management
+          services. Revenue is determined by per-enrollment funding levels
+          established by state or school district.
+      - question: |
+          How does Stride manage its contract performance and revenue
+          recognition?
+        answer: >
+          The company estimates total expected funding for each school year based
+          on enrollment and per-student funding levels, reviewing and adjusting
+          estimates periodically. Revenue recognition is aligned with the school
+          year, and results are subject to annual school district financial
+          audits.
+  - context: >
+      As of December 31, 2024, Stride maintained a strong financial position
+      with $515.0 million in cash and cash equivalents, total assets of $2.07
+      billion, and stockholders' equity of $1.32 billion. The company's working
+      capital management showed improvement with accounts receivable of $582.5
+      million and effective inventory management at $20.7 million, while
+      maintaining strong cash flow from operations of $81.4 million for the
+      six-month period.
+    questions_and_answers:
+      - question: |
+          What was Stride's financial position as of December 31, 2024?
+        answer: >
+          Stride maintained a strong financial position with $515.0 million in
+          cash and cash equivalents, total assets of $2.07 billion, and
+          stockholders' equity of $1.32 billion. The company's working capital
+          remained healthy with accounts receivable of $582.5 million and
+          inventory of $20.7 million.
+      - question: |
+          How did Stride manage its cash flow in the first half of FY2025?
+        answer: >
+          The company generated $81.4 million in cash from operations during the
+          six-month period, while investing in platform development with $18.6
+          million in capitalized software development costs and $9.8 million in
+          curriculum development costs, demonstrating balanced capital
+          allocation.
+      - question: |
+          What were the key working capital metrics for Q2 FY2025?
+        answer: >
+          Working capital metrics showed effective management with accounts
+          receivable of $582.5 million, inventory of $20.7 million, and deferred
+          revenue of $16.8 million. The company maintained strong liquidity
+          while investing in growth initiatives and platform development.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - sectors/education_services/LRN/10-Q/data/*.md

@@ -1,0 +1,140 @@
+---
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Datadog, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue growth and profitability metrics
+     - Customer acquisition and retention
+     - Geographic expansion
+     - Product adoption trends
+
+  2. Business Operations
+     - Cloud-based monitoring and analytics platform
+     - Product portfolio expansion
+     - Infrastructure and R&D investments
+     - Sales and marketing initiatives
+
+  3. Market Position
+     - Competitive advantages
+     - Technology leadership
+     - International presence
+     - Customer base growth
+
+  4. Risk Factors
+     - Market competition
+     - Technology evolution
+     - Customer retention
+     - Cybersecurity concerns
+seed_examples:
+  - context: >
+      For the fiscal year ended December 31, 2023, Datadog reported revenue
+      of $2.13 billion,  representing a 27% increase from the previous year. The
+      company had approximately 27,300  customers, with 3,190 customers having
+      ARR of $100,000 or more, representing 86% of total ARR.
+    questions_and_answers:
+      - question: >
+          How did Datadog's financial performance compare to the previous year
+          in 2023?
+        answer: >
+          In 2023, Datadog's revenue grew by 27% to reach $2.13 billion, compared
+          to $1.68 billion  in 2022. The company also improved its gross margin
+          to 81% from 79% in the previous year.  Notably, 65% of the revenue
+          growth came from existing customers, while 35% was from new  customer
+          acquisition.
+      - question: |
+          What were the key customer metrics and trends for Datadog in 2023?
+        answer: >
+          As of December 31, 2023, Datadog had approximately 27,300 customers, up
+          from 23,200 in 2022.  The company had 3,190 customers with ARR of
+          $100,000 or more, representing 86% of total ARR,  compared to 2,780
+          such customers in 2022. The trailing 12-month dollar-based net
+          retention  rate was in the mid-110%'s, though this showed a decline
+          from mid-140%'s in 2022 due to  slower usage growth from existing
+          customers.
+      - question: |
+          How has Datadog's product adoption evolved across its customer base?
+        answer: >
+          As of December 31, 2023, approximately 83% of customers were using more
+          than one product,  up from 81% a year earlier. Additionally, 47% of
+          customers were using more than four  products (up from 42%), and 22%
+          were using more than six products (up from 18%). This  indicates
+          strong expansion of product adoption across the platform.
+  - context: >
+      In 2023, Datadog continued to invest heavily in R&D ($962.4 million)
+      and sales and marketing  ($609.3 million) while maintaining strong
+      liquidity with $330.3 million in cash and $2.3 billion  in marketable
+      securities as of December 31, 2023.
+    questions_and_answers:
+      - question: |
+          How did Datadog allocate its operating expenses in 2023?
+        answer: >
+          In 2023, Datadog's largest operating expense was research and
+          development at $962.4 million  (45% of revenue), followed by sales and
+          marketing at $609.3 million (29% of revenue), and  general and
+          administrative expenses at $180.2 million (8% of revenue). These
+          investments  reflect the company's focus on product innovation and
+          market expansion.
+      - question: |
+          What is Datadog's financial position and liquidity status?
+        answer: >
+          As of December 31, 2023, Datadog maintained a strong financial position
+          with $330.3 million  in cash and cash equivalents and $2.3 billion in
+          marketable securities. The company has  generated positive cash flows
+          from operations during 2021-2023 and believes its existing  resources
+          are sufficient to support cash requirements for at least the next 12
+          months.
+      - question: |
+          How has Datadog's international expansion progressed?
+        answer: >
+          Revenue from regions outside of North America represented approximately
+          30% of total revenue  in 2023, up from 28% in 2022. The company has
+          established sales presence internationally,  with offices in key
+          locations including Amsterdam, Dublin, London, Paris, Seoul,
+          Singapore,  Sydney, and Tokyo, demonstrating its commitment to global
+          expansion.
+  - context: >
+      Datadog's platform integrates and automates infrastructure monitoring,
+      application performance  monitoring, log management, user experience
+      monitoring, cloud security, and other capabilities.  In 2023, the company
+      launched new products including Application Vulnerability
+      Management,  Data Streams Monitoring, and Workflow Automation.
+    questions_and_answers:
+      - question: |
+          What are the key components and capabilities of Datadog's platform?
+        answer: >
+          Datadog's SaaS platform provides unified, real-time observability and
+          security through  integrated capabilities including infrastructure
+          monitoring, application performance  monitoring, log management, user
+          experience monitoring, cloud security, and other  functionalities. The
+          platform processes more than 10 trillion events per day and
+          is  designed to work with ephemeral cloud technologies.
+      - question: |
+          How has Datadog expanded its product portfolio in recent years?
+        answer: >
+          Datadog has consistently expanded its product portfolio, launching
+          Application Vulnerability  Management, Data Streams Monitoring, and
+          Workflow Automation in 2023. In 2022, they  introduced Application
+          Security Management, Cloud Security Management, Audit
+          Trail,  Observability Pipelines, Cloud Cost Management, and Universal
+          Service Monitoring,  demonstrating continuous innovation.
+      - question: |
+          What are Datadog's key competitive advantages in the market?
+        answer: >
+          Datadog's key competitive advantages include its cloud-native platform
+          built for dynamic  cloud environments, integrated data platform
+          combining multiple monitoring capabilities,  over 700 out-of-the-box
+          integrations, and robust machine learning capabilities.
+          The  platform's ease of use and rapid deployment capability, along
+          with its scalability  processing tens of trillion events daily,
+          contribute to its market strength.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/DDOG/10-K/data/*.md

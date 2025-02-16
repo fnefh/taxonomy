@@ -1,0 +1,167 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Vimeo, Inc. covering fiscal years 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and growth metrics
+     - Operating expenses and margins
+     - SaaS business model transition
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Product offerings and features
+     - Customer base and retention
+     - Platform capabilities
+     - Technology infrastructure
+
+  3. Market Position
+     - Competitive landscape
+     - Total addressable market
+     - Growth strategy
+     - Industry trends
+
+  4. Risk Management
+     - Operational risks
+     - Technology and security
+     - Regulatory compliance
+     - Content moderation
+seed_examples:
+  - context: >
+      As of Q3 2024, Vimeo operates as the world's leading all-in-one video
+      software solution provider through a software-as-a-service model. The
+      company's revenue structure comprises three main segments: Self-Serve &
+      Add-Ons ($67.9M in Q3 2024), Vimeo Enterprise ($21.7M), and Other revenue
+      streams ($15.0M). The company maintains a strong financial position with
+      $324.8M in cash and cash equivalents, and total assets of $643.0M.
+      Geographic revenue distribution shows 54% from the United States ($56.7M)
+      and 46% from international markets ($47.9M).
+    questions_and_answers:
+      - question: What is Vimeo's current business model and revenue composition?
+        answer: Vimeo operates a SaaS-based video software platform with three main
+          revenue streams - Self-Serve & Add-Ons (65% of revenue), Vimeo
+          Enterprise (21%), and Other services (14%), generating total quarterly
+          revenue of $104.6M in Q3 2024, with a balanced geographic distribution
+          between US and international markets.
+      - question: How has Vimeo's financial position evolved in recent quarters?
+        answer: Vimeo has maintained a strong financial position with $324.8M in cash
+          and cash equivalents as of Q3 2024, improved operating income to
+          $7.4M, and achieved net earnings of $9.3M, representing a 10% increase
+          from Q3 2023's $8.5M.
+      - question: What are the key metrics indicating Vimeo's operational efficiency?
+        answer: Vimeo demonstrates operational efficiency through gross margins of 79%,
+          reduced operating expenses by 4% year-over-year to $75.5M, and
+          improved operating income to $7.4M in Q3 2024, while maintaining
+          effective cost management across R&D, sales and marketing, and G&A
+          expenses.
+  - context: >
+      Vimeo's technology strategy focuses on innovation and digital
+      transformation, with significant investments in AI-driven solutions and
+      platform capabilities. The company's operating expenses reflect
+      substantial investment in R&D ($26.6M in Q3 2024, up 15% YoY) and
+      continued optimization of sales and marketing expenses ($28.8M, down 22%
+      YoY). Stock-based compensation increased to $8.3M, with significant
+      allocation to R&D and G&A functions, indicating investment in technical
+      talent and leadership.
+    questions_and_answers:
+      - question: How is Vimeo investing in technology and innovation?
+        answer: Vimeo is heavily investing in R&D with $26.6M spent in Q3 2024 (15%
+          increase YoY), focusing on AI-driven solutions and platform
+          capabilities, while maintaining efficient sales and marketing spend at
+          $28.8M (22% decrease YoY).
+      - question: What are the key areas of operational investment?
+        answer: The company prioritizes technical development and talent retention
+          through increased R&D spending and strategic stock-based compensation
+          ($8.3M in Q3 2024), with particular focus on engineering and
+          administrative functions to support platform growth.
+      - question: How does Vimeo balance growth investments with operational efficiency?
+        answer: Vimeo maintains balance by increasing R&D investments for future growth
+          while optimizing sales and marketing expenses, resulting in improved
+          operating margins and net earnings while sustaining technological
+          advancement.
+  - context: >
+      Vimeo's subscription-based revenue model shows stability with deferred
+      revenue of $163.3M as of Q3 2024. The company recognized $155.9M of
+      revenue from the previous year's deferred revenue balance, indicating
+      strong customer retention. Enterprise segment growth of 42% YoY to $21.7M
+      demonstrates successful upmarket strategy execution. The company maintains
+      a global presence with 46% of revenue from international markets and
+      continues to invest in customer acquisition through capitalized sales
+      commissions.
+    questions_and_answers:
+      - question: How effective is Vimeo's subscription-based revenue model?
+        answer: Vimeo's subscription model demonstrates effectiveness through $163.3M in
+          deferred revenue, strong revenue recognition of $155.9M from previous
+          deferrals, and particularly robust growth in the Enterprise segment
+          (42% YoY), indicating successful customer retention and expansion
+          strategies.
+      - question: What indicates Vimeo's market expansion success?
+        answer: Vimeo's market expansion success is evidenced by 42% YoY growth in
+          Enterprise revenue to $21.7M, balanced geographic revenue distribution
+          with 46% from international markets, and strategic investments in
+          customer acquisition through capitalized sales commissions.
+      - question: How does Vimeo manage its global operations and growth?
+        answer: Vimeo manages global operations through a balanced revenue distribution
+          between US and international markets, strategic sales commission
+          structures to drive growth, and efficient cost management across
+          regions while maintaining strong customer relationships.
+  - context: >
+      In Q2 2024, Vimeo demonstrated strong financial performance with
+      revenue of $104.4M and operating income of $7.5M. The company's gross
+      margin remained robust at 78.3%, while operating expenses decreased to
+      $74.2M. Notable improvements include reduced sales and marketing expenses
+      of $27.7M (down from $39.8M YoY) and R&D investment of $27.0M. Cash
+      position strengthened to $310.6M, with deferred revenue of $168.0M
+      indicating healthy subscription momentum. The company initiated a share
+      repurchase program, with 3,037 shares in treasury stock valued at $11.8M.
+    questions_and_answers:
+      - question: How did Vimeo's profitability metrics evolve in Q2 2024?
+        answer: Vimeo showed significant profitability improvement with operating income
+          of $7.5M and net earnings of $10.1M, driven by efficient cost
+          management with reduced operating expenses of $74.2M and maintained
+          gross margins of 78.3%.
+      - question: What strategic initiatives did Vimeo implement in Q2 2024?
+        answer: Vimeo focused on operational efficiency by reducing sales and marketing
+          spend by 30% YoY to $27.7M while maintaining R&D investment at $27.0M,
+          and initiated a share repurchase program resulting in $11.8M in
+          treasury stock.
+      - question: How does Vimeo's financial position support future growth?
+        answer: Vimeo maintains a strong financial foundation with $310.6M in cash and
+          cash equivalents, $168.0M in deferred revenue indicating strong future
+          revenue visibility, and no debt, providing flexibility for strategic
+          investments and growth initiatives.
+  - context: >
+      Q1 2024 marked a turnaround for Vimeo with revenue of $104.9M and first
+      quarterly operating profit of $2.6M, compared to a loss in Q1 2023. The
+      company achieved significant cost optimization with operating expenses
+      decreasing to $78.9M from $82.7M YoY, while maintaining R&D investment at
+      $28.1M. Cash and cash equivalents grew to $304.3M, with deferred revenue
+      of $165.7M showing strong subscription momentum. The company's
+      restructuring efforts resulted in a 4% workforce reduction, incurring
+      $2.2M in one-time costs but positioning for improved operational
+      efficiency.
+    questions_and_answers:
+      - question: What key operational improvements did Vimeo achieve in Q1 2024?
+        answer: Vimeo achieved its first quarterly operating profit of $2.6M, reduced
+          operating expenses by $3.8M YoY to $78.9M, and maintained strong R&D
+          investment at $28.1M while implementing strategic workforce
+          optimization resulting in 4% headcount reduction.
+      - question: How did Vimeo's revenue and margin performance evolve in Q1 2024?
+        answer: The company grew revenue to $104.9M with improved gross margin of 77.7%,
+          while reducing sales and marketing expenses by 19% YoY and maintaining
+          efficient cost structure, leading to positive operating income
+          compared to a loss in Q1 2023.
+      - question: What indicates Vimeo's sustainable growth trajectory in Q1 2024?
+        answer: Vimeo demonstrated sustainable growth through strong cash position of
+          $304.3M, healthy deferred revenue of $165.7M indicating robust
+          subscription base, and successful cost optimization while maintaining
+          strategic investments in product development.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/VMEO/10-Q/data/*.md

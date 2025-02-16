@@ -1,0 +1,146 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Alliant Energy Corporation covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations
+     - Electric utility services
+     - Gas utility services
+     - Service territories
+     - Regulatory environment
+     - Operating subsidiaries
+
+  2. Human Capital Management
+     - Employee demographics
+     - Safety programs
+     - Total rewards
+     - Diversity and inclusion
+     - Talent development
+
+  3. Financial Performance
+     - Revenue and earnings
+     - Operating expenses
+     - Capital investments
+     - Regulatory matters
+
+  4. Environmental & Regulatory Compliance
+     - Air quality regulations
+     - Water quality standards
+     - Solid waste management
+     - Renewable energy standards
+     - Climate change initiatives
+seed_examples:
+  - context: >
+      As of December 31, 2023, Alliant Energy operated as a regulated
+      investor-owned  public utility holding company serving approximately
+      1,000,000 electric and  425,000 natural gas customers in the Midwest
+      through its two public utility  subsidiaries. The company had 3,281
+      employees, with 53% covered by collective  bargaining agreements. IPL
+      served approximately 500,000 electric and 225,000  natural gas customers
+      in Iowa, while WPL served approximately 500,000 electric  and 200,000
+      natural gas customers in Wisconsin.
+    questions_and_answers:
+      - question: |
+          What is the scale of Alliant Energy's utility operations as of 2023?
+        answer: >
+          Alliant Energy served approximately 1,000,000 electric and 425,000
+          natural  gas customers through its subsidiaries IPL and WPL. IPL
+          served 500,000  electric and 225,000 natural gas customers in Iowa,
+          while WPL served  500,000 electric and 200,000 natural gas customers
+          in Wisconsin.
+      - question: |
+          How does Alliant Energy manage its workforce?
+        answer: >
+          As of December 31, 2023, Alliant Energy employed 3,281 people, with
+          53%  covered by collective bargaining agreements. The company
+          maintains  comprehensive safety programs, offers competitive total
+          rewards packages,  and focuses on diversity, equity, inclusion and
+          belonging initiatives.
+      - question: >
+          What are the key regulatory bodies overseeing Alliant Energy's
+          operations?
+        answer: >
+          Alliant Energy is regulated by multiple agencies including FERC
+          for  wholesale electric rates and interstate commerce, the IUB for
+          IPL's retail  utility operations in Iowa, and the PSCW for WPL's
+          retail utility  operations in Wisconsin. The company must also comply
+          with environmental  regulations from federal, state, and local
+          authorities.
+  - context: >
+      As of December 31, 2022, Alliant Energy had 3,129 employees, with 54%
+      covered by collective  bargaining agreements. The company achieved notable
+      DEI&B accomplishments including a perfect  score on the Corporate Equality
+      Index and selection for the Bloomberg Gender-Equality Index.  Corporate
+      officers had approximately 40% gender diversity and 27% ethnic diversity.
+      The company  maintained a market position valued at $14.7 billion as of
+      June 30, 2022, while focusing on  environmental compliance through air
+      quality, water quality, and solid waste management initiatives.
+    questions_and_answers:
+      - question: >
+          What were Alliant Energy's key diversity and inclusion achievements in
+          2022?
+        answer: >
+          In 2022, Alliant Energy received a perfect score on the Corporate
+          Equality Index administered  by the Human Rights Campaign Foundation,
+          was selected for the Bloomberg Gender-Equality Index,  and maintained
+          strong diversity in leadership with corporate officers having
+          approximately 40%  gender diversity and 27% ethnic diversity.
+      - question: |
+          How did Alliant Energy approach environmental compliance in 2022?
+        answer: >
+          Alliant Energy focused on comprehensive environmental compliance through
+          air quality initiatives,  water quality standards, and solid waste
+          management. This included managing GHG regulations under  the Clean
+          Air Act, implementing effluent limitation guidelines for wastewater
+          discharge, and  following the CCR Rule for coal ash management.
+      - question: >
+          What was Alliant Energy's market position and workforce composition in
+          2022?
+        answer: >
+          As of June 30, 2022, Alliant Energy had a market value of $14.7 billion.
+          The company employed  3,129 people as of December 31, 2022, with 54%
+          covered by collective bargaining agreements,  demonstrating its
+          significant presence in the utility sector and commitment to workforce
+          stability.
+  - context: >
+      In 2021, Alliant Energy faced ongoing challenges from the COVID-19
+      pandemic while maintaining its  commitment to environmental compliance and
+      workforce development. The company had a market value  of $13.9 billion as
+      of June 30, 2021. Key focus areas included managing pandemic impacts
+      on  operations, employees, contractors, and supply chains, while advancing
+      environmental initiatives  and maintaining regulatory compliance. The
+      company emphasized employee safety, implemented  comprehensive COVID-19
+      protocols, and continued its environmental compliance efforts.
+    questions_and_answers:
+      - question: |
+          How did Alliant Energy address COVID-19 challenges in 2021?
+        answer: >
+          Alliant Energy managed pandemic impacts through comprehensive protocols
+          affecting operations,  employees, contractors, and supply chains. This
+          included implementing safety measures,  maintaining service
+          reliability, and addressing potential impacts on customer bill
+          payment  abilities and the suspension of disconnects.
+      - question: |
+          What was Alliant Energy's market position and key priorities in 2021?
+        answer: >
+          As of June 30, 2021, Alliant Energy had a market value of $13.9 billion.
+          The company focused  on maintaining operational stability during the
+          pandemic while advancing environmental  compliance initiatives and
+          regulatory requirements.
+      - question: |
+          What were the main environmental and regulatory focuses in 2021?
+        answer: >
+          The company prioritized environmental compliance including CCR rule
+          requirements, CO2 emissions  reduction initiatives, and responding to
+          increased pressure from stakeholders for more rapid  carbon reduction.
+          They also focused on defending against environmental claims and
+          maintaining  compliance with federal, state, and local regulations.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/utilities/LNT/10-K/data/*.md

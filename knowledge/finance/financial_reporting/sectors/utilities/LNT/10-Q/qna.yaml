@@ -1,0 +1,137 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Alliant Energy Corporation covering fiscal years 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Operating revenues and expenses
+     - Net income and earnings per share
+     - Cash flows and liquidity
+     - Balance sheet metrics
+
+  2. Business Operations
+     - Electric utility services
+     - Gas utility services
+     - Transmission services
+     - Operating subsidiaries (IPL and WPL)
+
+  3. Regulatory Environment
+     - Rate cases and proceedings
+     - Environmental compliance
+     - Regulatory assets and liabilities
+
+  4. Risk Management
+     - Market and credit risks
+     - Operational risks
+     - Regulatory risks
+     - Environmental risks
+seed_examples:
+  - context: >
+      For Q3 2024, Alliant Energy Corporation reported total operating
+      revenues of $1,081 million,  with electric utility revenues of $999
+      million. Operating income was $313 million, and net  income attributable
+      to common shareowners was $295 million. The company achieved earnings  per
+      share of $1.15. Total assets reached $22,829 million as of September 30,
+      2024, with  property, plant and equipment of $17,936 million. The company
+      maintained a strong balance  sheet with total equity of $6,968 million.
+    questions_and_answers:
+      - question: |
+          What were Alliant Energy's key financial metrics for Q3 2024?
+        answer: >
+          In Q3 2024, Alliant Energy reported total revenues of $1,081 million,
+          with electric  utility revenues of $999 million. The company achieved
+          operating income of $313 million  and net income of $295 million,
+          resulting in earnings per share of $1.15. Total assets  were $22,829
+          million, including $17,936 million in property, plant and equipment.
+      - question: |
+          How did Alliant Energy's balance sheet position change in Q3 2024?
+        answer: >
+          As of September 30, 2024, Alliant Energy's total assets were $22,829
+          million, with  significant investments in property, plant and
+          equipment at $17,936 million. The company  maintained a strong equity
+          position of $6,968 million, with cash and cash equivalents  of $827
+          million, demonstrating solid financial stability.
+      - question: >
+          What were the main components of Alliant Energy's operating expenses
+          in Q3 2024?
+        answer: >
+          In Q3 2024, major operating expenses included $192 million for electric
+          production fuel  and purchased power, $165 million for electric
+          transmission service, and $195 million  for depreciation and
+          amortization. Total operating expenses were $768 million,
+          resulting  in operating income of $313 million.
+  - context: >
+      For the nine months ended September 30, 2024, Alliant Energy reported
+      total operating  revenues of $3,005 million and net income of $540
+      million. The company's cash flows from  operating activities were $913
+      million, with significant investments in utility construction  and
+      acquisitions of $1,280 million. The company maintained strong liquidity
+      with cash and  cash equivalents of $827 million and continued focus on
+      infrastructure development and  environmental compliance.
+    questions_and_answers:
+      - question: >
+          What were Alliant Energy's year-to-date financial results as of Q3
+          2024?
+        answer: >
+          For the nine months ended September 30, 2024, Alliant Energy achieved
+          total operating  revenues of $3,005 million and net income of $540
+          million. The company generated $913  million in cash flows from
+          operating activities and invested $1,280 million in
+          utility  construction and acquisitions.
+      - question: |
+          How did Alliant Energy manage its capital investments in 2024?
+        answer: >
+          During the first nine months of 2024, Alliant Energy invested $1,280
+          million in utility  business construction and acquisitions. The
+          company maintained strong liquidity with  $827 million in cash and
+          cash equivalents, while also securing $1,613 million from  issuance of
+          long-term debt to support its capital program.
+      - question: >
+          What were the key operational highlights for Alliant Energy through Q3
+          2024?
+        answer: >
+          Through Q3 2024, Alliant Energy demonstrated strong operational
+          performance with $2,579  million in electric utility revenues and $322
+          million in gas utility revenues. The  company maintained efficient
+          operations with controlled expenses and continued  investment in
+          infrastructure development while focusing on environmental compliance.
+  - context: >
+      Interstate Power and Light Company (IPL), a subsidiary of Alliant
+      Energy, reported Q3 2024  operating revenues of $561 million and net
+      income of $190 million. For the nine months  ended September 30, 2024,
+      IPL's total assets were $11,680 million, with property, plant  and
+      equipment of $8,801 million. The company maintained strong regulatory
+      compliance and  continued investment in infrastructure development.
+    questions_and_answers:
+      - question: |
+          What were IPL's key financial metrics for Q3 2024?
+        answer: >
+          In Q3 2024, IPL reported operating revenues of $561 million, including
+          $523 million  from electric utility operations. The company achieved
+          operating income of $149 million  and net income of $190 million,
+          while maintaining total assets of $11,680 million.
+      - question: |
+          How did IPL's asset base and capital structure evolve in 2024?
+        answer: >
+          As of September 30, 2024, IPL's total assets reached $11,680 million,
+          with significant  investment in property, plant and equipment at
+          $8,801 million. The company maintained  a strong capital structure
+          with total equity of $4,420 million and managed its debt  portfolio
+          with $3,789 million in long-term debt.
+      - question: |
+          What were IPL's major operating expenses and cash flows in Q3 2024?
+        answer: >
+          IPL's major operating expenses in Q3 2024 included $79 million for
+          electric production  fuel and purchased power, $115 million for
+          electric transmission service, and $100  million for depreciation and
+          amortization. The company maintained strong cash position  with $756
+          million in cash and cash equivalents.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/utilities/LNT/10-Q/data/*.md

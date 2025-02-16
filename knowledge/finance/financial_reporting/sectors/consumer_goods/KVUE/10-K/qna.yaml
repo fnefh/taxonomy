@@ -1,0 +1,133 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Kenvue Inc. covering fiscal year 2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Annual revenue and operating metrics
+     - Business segment performance
+     - Market position and growth
+     - Operating expenses and profitability
+
+  2. Business Operations
+     - Product portfolio and brands
+     - Manufacturing and supply chain
+     - Digital transformation
+     - Innovation and R&D
+
+  3. Market Position
+     - Global market presence
+     - Brand leadership
+     - Competitive landscape
+     - Strategic initiatives
+
+  4. Risk Management
+     - Operational risks
+     - Market challenges
+     - Regulatory compliance
+     - Cybersecurity measures
+seed_examples:
+  - context: >
+      In fiscal year 2023, Kenvue reported net sales of $15.4 billion as the
+      world's largest pure-play consumer health company. The company operates
+      through three segments: Self Care, Skin Health and Beauty, and Essential
+      Health, with approximately half of its net sales generated outside North
+      America. The company's portfolio includes iconic brands such as Tylenol®,
+      Neutrogena®, Listerine®, and Johnson's®, maintaining leading positions
+      across numerous categories globally.
+    questions_and_answers:
+      - question: |
+          What was Kenvue's financial performance and market position in 2023?
+        answer: >
+          In 2023, Kenvue generated $15.4 billion in net sales, establishing
+          itself as the world's largest pure-play consumer health company, with
+          a balanced geographic presence generating approximately half of its
+          sales outside North America across its three main business segments.
+      - question: |
+          How is Kenvue's business structured and what are its key brands?
+        answer: >
+          Kenvue operates through three segments: Self Care, Skin Health and
+          Beauty, and Essential Health, with a portfolio of iconic brands
+          including Tylenol®, Neutrogena®, Listerine®, Johnson's®, BAND-AID®
+          Brand Adhesive Bandages, Aveeno®, Zyrtec®, and Nicorette®, each
+          holding leading positions in their respective categories.
+      - question: >
+          What is the company's global market presence and distribution strategy?
+        answer: >
+          The company maintains a presence in more than 165 countries worldwide,
+          leveraging a flexible distribution network and data-driven customer
+          partnerships to drive value creation, with a balanced geographic
+          footprint that generates approximately half of its net sales outside
+          North America.
+  - context: >
+      Kenvue's digital-first approach to operations has been a key focus,
+      with digital media spend increasing from approximately 44% of total media
+      spend in 2019 to approximately 73% in 2023. The company's R&D organization
+      includes approximately 1,500 scientists, doctors, pharmacists and
+      engineers, operating through global innovation hubs. Manufacturing
+      operations combine in-house facilities producing over half of production
+      volume with an extensive network of external manufacturing partners.
+    questions_and_answers:
+      - question: |
+          How has Kenvue implemented its digital transformation strategy?
+        answer: >
+          Kenvue has significantly increased its digital focus, growing digital
+          media spend from approximately 44% in 2019 to approximately 73% in
+          2023, implementing a digital-first approach across operations
+          including marketing, R&D, and supply chain management.
+      - question: |
+          What are the key aspects of Kenvue's R&D and innovation capabilities?
+        answer: >
+          The company maintains a global R&D organization of approximately 1,500
+          scientists, doctors, pharmacists and engineers, operating through
+          innovation hubs worldwide, focusing on developing science-backed
+          products and solutions through collaboration with healthcare
+          professionals and academic institutions.
+      - question: |
+          How does Kenvue manage its manufacturing and supply chain operations?
+        answer: >
+          Kenvue employs a balanced manufacturing approach, with in-house
+          facilities producing over half of its production volume, complemented
+          by an extensive network of external manufacturing partners, providing
+          operational flexibility and enabling responsive supply chain
+          management.
+  - context: >
+      Kenvue faces various operational challenges and market risks, including
+      intense competition from multinational corporations, smaller regional
+      companies, and private-label brands. The company's success depends on its
+      ability to anticipate and respond to changing consumer preferences,
+      maintain brand strength, and manage supply chain complexities.
+      Cybersecurity remains a key focus area, with investments in internal
+      protection, detection, and response capabilities.
+    questions_and_answers:
+      - question: |
+          What are the main competitive challenges Kenvue faces in the market?
+        answer: >
+          Kenvue faces competition from multinational corporations, regional
+          companies, and private-label brands, requiring continuous innovation,
+          effective brand management, and rapid response to changing consumer
+          preferences to maintain market position.
+      - question: |
+          How does Kenvue address supply chain and operational risks?
+        answer: >
+          The company manages risks through a combination of in-house
+          manufacturing, external partnerships, global supplier networks, and
+          continuous supply chain optimization initiatives, while maintaining
+          flexibility to respond to market demands and operational challenges.
+      - question: >
+          What measures has Kenvue implemented for cybersecurity and risk
+          management?
+        answer: >
+          Kenvue invests in internal protection, detection, and response
+          capabilities, while ensuring third-party partners maintain required
+          security controls, continuously assessing threats and implementing
+          measures to protect its information technology systems and data.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - sectors/consumer_goods/KVUE/10-K/data/*.md

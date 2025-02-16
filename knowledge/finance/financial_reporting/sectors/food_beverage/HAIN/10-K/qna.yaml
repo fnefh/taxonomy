@@ -1,0 +1,130 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for The Hain Celestial Group, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Annual revenue and operating metrics
+     - Segment performance
+     - Profitability measures
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Product portfolio and innovation
+     - Manufacturing and supply chain
+     - Distribution channels
+     - Operational efficiency
+
+  3. Market Position
+     - Brand portfolio strength
+     - Competitive landscape
+     - Growth strategies
+     - International presence
+
+  4. Risk Management
+     - Supply chain resilience
+     - Market competition
+     - Regulatory compliance
+     - Economic conditions
+seed_examples:
+  - context: >
+      In fiscal year 2024, Hain Celestial Group maintained its position as a
+      leading global health and wellness company with operations in North
+      America, Europe, and other international markets. The company's market
+      value was approximately $979 million as of December 29, 2023, with
+      89,844,564 shares outstanding as of August 21, 2024. Headquartered in
+      Hoboken, NJ, the company continued to focus on its transformation strategy
+      and operational efficiency initiatives.
+    questions_and_answers:
+      - question: |
+          What is Hain Celestial's market position and corporate structure?
+        answer: >
+          Hain Celestial operates as a leading global health and wellness company
+          with operations across North America, Europe, and other international
+          markets. The company had a market value of approximately $979 million
+          as of December 2023, with 89.8 million shares outstanding, and is
+          headquartered in Hoboken, NJ.
+      - question: |
+          How is Hain Celestial's governance structured?
+        answer: >
+          The company operates as a large accelerated filer listed on the Nasdaq
+          Stock Market LLC under the symbol HAIN, with robust corporate
+          governance including compliance with SEC reporting requirements and
+          internal control over financial reporting under Sarbanes-Oxley Act
+          Section 404(b).
+      - question: |
+          What are the key strategic focuses for Hain Celestial?
+        answer: >
+          The company focuses on its transformation strategy and operational
+          efficiency initiatives while maintaining its position in the health
+          and wellness sector. Key priorities include strengthening market
+          presence, optimizing operations, and driving sustainable growth across
+          global markets.
+  - context: >
+      In fiscal year 2023, Hain Celestial operated with a focus on natural
+      and organic products across multiple categories. The company's market
+      value was approximately $1.44 billion as of December 31, 2022, with
+      89,473,831 shares outstanding as of August 17, 2023. The company
+      maintained its headquarters in Boulder, CO during this period, while
+      implementing strategic initiatives to enhance operational efficiency and
+      market position.
+    questions_and_answers:
+      - question: |
+          What was Hain Celestial's market position in FY2023?
+        answer: >
+          Hain Celestial operated as a significant player in the natural and
+          organic products market with a market value of approximately $1.44
+          billion as of December 2022. The company had 89.47 million shares
+          outstanding and was headquartered in Boulder, CO.
+      - question: |
+          How did Hain Celestial's corporate structure evolve in FY2023?
+        answer: >
+          The company maintained its status as a large accelerated filer with
+          strong corporate governance structures, operating from its Boulder, CO
+          headquarters while implementing strategic initiatives focused on
+          operational efficiency and market position enhancement.
+      - question: |
+          What were the key business focuses in FY2023?
+        answer: >
+          The company focused on natural and organic products across multiple
+          categories, implementing strategic initiatives to enhance operational
+          efficiency and market position while maintaining its commitment to the
+          health and wellness sector.
+  - context: >
+      Hain Celestial's business strategy focuses on building and maintaining
+      strong brands in the natural and organic products space. The company
+      operates through a global infrastructure with manufacturing facilities and
+      distribution networks across multiple regions. Key priorities include
+      product innovation, operational efficiency, and sustainable business
+      practices while managing supply chain complexities and market competition.
+    questions_and_answers:
+      - question: |
+          What is Hain Celestial's approach to brand management?
+        answer: >
+          The company focuses on building and maintaining strong brands in the
+          natural and organic products space, emphasizing product innovation and
+          market positioning while maintaining high quality standards across its
+          portfolio.
+      - question: |
+          How does Hain Celestial manage its global operations?
+        answer: >
+          The company operates through a global infrastructure with manufacturing
+          facilities and distribution networks across multiple regions, focusing
+          on operational efficiency and supply chain optimization while
+          maintaining quality and compliance standards.
+      - question: |
+          What are the key operational priorities?
+        answer: >
+          Key priorities include product innovation, operational efficiency, and
+          sustainable business practices. The company focuses on managing supply
+          chain complexities, maintaining competitive position, and driving
+          growth while adhering to quality and sustainability standards.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - sectors/food_beverage/HAIN/10-K/data/*.md

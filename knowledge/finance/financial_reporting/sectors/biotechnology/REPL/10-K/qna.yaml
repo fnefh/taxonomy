@@ -1,0 +1,139 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Replimune Group, Inc. covering fiscal years  2021-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Annual revenue and operating expenses
+     - Research and development investments
+     - Cash position and runway
+     - Clinical program costs
+
+  2. Business Operations
+     - Clinical trial progress and results
+     - Pipeline development
+     - Manufacturing capabilities
+     - Research and development activities
+
+  3. Market Position
+     - Oncolytic immunotherapy leadership
+     - Clinical validation
+     - Strategic partnerships
+     - Growth initiatives
+
+  4. Risk Factors
+     - Clinical development risks
+     - Regulatory requirements
+     - Manufacturing challenges
+     - Market competition
+seed_examples:
+  - context: >
+      In fiscal year 2024, Replimune reported significant clinical progress
+      with its RP1 program, including positive data from the IGNYTE trial
+      showing a 31.4% overall response rate in anti-PD-1 failed melanoma
+      patients. The company plans to submit a BLA in the second half of 2024.
+      The ARTACUS trial demonstrated a 34.8% overall response rate in organ
+      transplant recipients with skin cancers. However, the CERPASS trial in
+      CSCC did not meet its primary endpoints, though showing improved complete
+      response rates in locally advanced disease.
+    questions_and_answers:
+      - question: >
+          What were the key clinical developments for Replimune's RP1 program in
+          fiscal 2024?
+        answer: >
+          In fiscal 2024, Replimune achieved several key milestones with RP1: a
+          31.4% overall response rate in anti-PD-1 failed melanoma patients in
+          the IGNYTE trial leading to planned BLA submission, a 34.8% response
+          rate in the ARTACUS trial for organ transplant recipients, while the
+          CERPASS trial showed improved complete response rates in locally
+          advanced CSCC despite not meeting primary endpoints.
+      - question: >
+          How did the results from different clinical trials demonstrate RP1's
+          potential across various indications?
+        answer: >
+          The results demonstrated RP1's diverse potential: strong efficacy in
+          anti-PD-1 failed melanoma (31.4% ORR), promising activity in
+          immunosuppressed transplant patients (34.8% ORR), and improved
+          complete response rates in locally advanced CSCC, showing activity
+          across multiple skin cancer types and patient populations.
+      - question: >
+          What are the near-term regulatory and clinical implications of these
+          results?
+        answer: >
+          The results support a planned BLA submission for RP1 in anti-PD-1 failed
+          melanoma in second half of 2024, continued enrollment in the ARTACUS
+          trial for transplant patients, and further evaluation of complete
+          response benefits in locally advanced CSCC, positioning multiple
+          potential regulatory pathways.
+  - context: >
+      In fiscal year 2024, Replimune advanced its RP2 program, particularly
+      in uveal melanoma where it showed a 29.4% overall response rate in heavily
+      pretreated patients, including responses in those with liver, lung, and
+      bone metastases. The company is finalizing a registrational trial protocol
+      for RP2 in uveal melanoma and plans to initiate a Phase 2 trial in HCC in
+      the second half of 2024, while discontinuing development in head and neck
+      cancer and colorectal cancer.
+    questions_and_answers:
+      - question: |
+          What progress was made with the RP2 program in fiscal 2024?
+        answer: >
+          RP2 showed significant progress in uveal melanoma with a 29.4% overall
+          response rate in heavily pretreated patients, including responses
+          across multiple metastatic sites. The company is finalizing a
+          registrational trial protocol and expanding into HCC while focusing
+          resources by discontinuing certain indications.
+      - question: >
+          How does the data from the uveal melanoma program support RP2's
+          development strategy?
+        answer: >
+          The uveal melanoma data demonstrated RP2's potential in a
+          difficult-to-treat cancer with a 29.4% response rate, including in
+          patients who failed prior immunotherapies, supporting the advancement
+          toward a registrational trial and establishing RP2's potential in rare
+          cancers.
+      - question: >
+          What strategic decisions were made regarding RP2's development
+          pipeline?
+        answer: >
+          Replimune made strategic decisions to focus RP2 development on promising
+          areas like uveal melanoma and HCC while discontinuing programs in head
+          and neck cancer and colorectal cancer, demonstrating a targeted
+          approach to resource allocation based on clinical results.
+  - context: >
+      In fiscal year 2023, Replimune focused on advancing its clinical
+      programs and manufacturing capabilities. The company progressed the IGNYTE
+      trial in anti-PD-1 failed melanoma, initiated the ARTACUS trial in
+      transplant patients, and continued the CERPASS study in CSCC. The company
+      maintained a strong cash position while investing in clinical development
+      and manufacturing infrastructure.
+    questions_and_answers:
+      - question: |
+          What were the main operational achievements in fiscal 2023?
+        answer: >
+          In fiscal 2023, Replimune advanced multiple clinical trials including
+          IGNYTE, ARTACUS, and CERPASS, while strengthening its manufacturing
+          capabilities and maintaining a strong financial position to support
+          ongoing development programs.
+      - question: |
+          How did the company balance resource allocation across its programs?
+        answer: >
+          The company strategically allocated resources across clinical
+          development, manufacturing infrastructure, and maintaining cash
+          reserves, ensuring sufficient support for key programs while building
+          long-term operational capabilities.
+      - question: >
+          What progress was made in manufacturing and operational infrastructure?
+        answer: >
+          Replimune invested in strengthening its manufacturing capabilities and
+          operational infrastructure while advancing clinical programs,
+          positioning the company for potential commercial production and
+          expanded clinical development.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/REPL/10-K/data/*.md

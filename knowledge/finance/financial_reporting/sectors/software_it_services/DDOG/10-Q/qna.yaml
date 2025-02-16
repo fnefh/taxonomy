@@ -1,0 +1,137 @@
+---
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Datadog, Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Operating expenses and margins
+     - Cash flow and liquidity
+     - Geographic revenue distribution
+
+  2. Business Operations
+     - Product development and innovation
+     - Sales and marketing initiatives
+     - Customer acquisition metrics
+     - Infrastructure investments
+
+  3. Market Position
+     - Competitive landscape
+     - Growth strategies
+     - International expansion
+     - Technology leadership
+
+  4. Risk Management
+     - Market conditions
+     - Operational challenges
+     - Regulatory compliance
+     - Technology risks
+seed_examples:
+  - context: >
+      For the quarter ended September 30, 2024, Datadog reported revenue of
+      $690.0 million,  representing a 26% increase from $547.5 million in the
+      same quarter of 2023. The company  achieved operating income of $20.3
+      million compared to an operating loss of $4.2 million  in the year-ago
+      quarter.
+    questions_and_answers:
+      - question: >
+          How did Datadog's financial performance compare to the same quarter
+          last year?
+        answer: >
+          In Q3 2024, Datadog's revenue grew by 26% to reach $690.0 million, up
+          from $547.5  million in Q3 2023. The company showed significant
+          improvement in profitability,  achieving operating income of $20.3
+          million compared to an operating loss of $4.2  million in the same
+          quarter last year. Net income for the quarter was $51.7 million,  more
+          than double the $22.6 million reported in Q3 2023.
+      - question: >
+          What were the key components of Datadog's operating expenses in Q3
+          2024?
+        answer: >
+          In Q3 2024, Datadog's major operating expenses included research and
+          development at  $291.8 million (42% of revenue), sales and marketing
+          at $187.8 million (27% of revenue),  and general and administrative
+          expenses at $52.4 million (8% of revenue). The company  maintained a
+          gross profit margin of 80%, with cost of revenue at $137.8 million.
+      - question: |
+          How has Datadog's geographic revenue distribution evolved?
+        answer: >
+          In Q3 2024, North America continued to be Datadog's largest market,
+          generating revenue  of $484.5 million (70% of total), while
+          international revenue was $205.5 million (30%  of total). This
+          represents continued international growth, with international
+          revenue  increasing from $166.3 million in Q3 2023.
+  - context: >
+      As of September 30, 2024, Datadog maintained strong liquidity with
+      $337.4 million in cash  and cash equivalents and $2.86 billion in
+      marketable securities. The company's deferred  revenue was $795.8 million,
+      indicating strong future revenue visibility.
+    questions_and_answers:
+      - question: |
+          What is Datadog's current financial position and liquidity status?
+        answer: >
+          As of September 30, 2024, Datadog maintained a strong financial position
+          with $337.4  million in cash and cash equivalents and $2.86 billion in
+          marketable securities. The  company's total assets were $4.63 billion,
+          with current deferred revenue of $795.8  million indicating strong
+          future revenue visibility.
+      - question: >
+          How has Datadog's deferred revenue and remaining performance
+          obligations evolved?
+        answer: >
+          As of September 30, 2024, Datadog's deferred revenue was $795.8 million,
+          and the  aggregate transaction price allocated to remaining
+          performance obligations was $1.82  billion. The company recognized
+          $378.6 million in revenue during Q3 2024 that was  included in the
+          deferred revenue balance at the beginning of the period.
+      - question: >
+          What are the key metrics related to Datadog's accounts receivable and
+          collections?
+        answer: >
+          As of September 30, 2024, Datadog's accounts receivable included $88.2
+          million in  unbilled receivables, up from $61.2 million at the end of
+          2023. The company maintains  an allowance for credit losses, and
+          during the first nine months of 2024, charged  $6.8 million of
+          accounts receivable deemed uncollectible against this allowance.
+  - context: >
+      Datadog continues to invest in product development and employee
+      retention, with significant  stock-based compensation and R&D investments.
+      The company had 12.8 million unvested RSUs  and PSUs as of September 30,
+      2024, with a weighted-average grant date fair value of $106.89.
+    questions_and_answers:
+      - question: |
+          How is Datadog investing in employee retention and development?
+        answer: >
+          Datadog maintains comprehensive equity incentive programs, including
+          RSUs, PSUs, and  an Employee Stock Purchase Plan. As of September 30,
+          2024, the company had 12.8 million  unvested RSUs and PSUs with $1.15
+          billion in unrecognized compensation cost. The company  also offers an
+          ESPP where employees can purchase shares at a 15% discount.
+      - question: >
+          What are the key aspects of Datadog's research and development
+          investments?
+        answer: >
+          Datadog continues to prioritize R&D investments, spending $291.8 million
+          (42% of revenue)  in Q3 2024, up from $240.2 million in Q3 2023. The
+          company capitalizes certain software  development costs, with
+          capitalized software development costs of $259.0 million as
+          of  September 30, 2024.
+      - question: |
+          How is Datadog managing its convertible debt obligations?
+        answer: >
+          Datadog has $747.5 million in 0.125% convertible senior notes due 2025.
+          As of September  30, 2024, the notes were classified as short-term
+          debt with a carrying amount of $744.9  million. The company has
+          implemented Capped Calls to partially offset potential dilution,  with
+          an initial conversion price of $92.30 per share and a cap price of
+          $151.04 per share.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/DDOG/10-Q/data/*.md

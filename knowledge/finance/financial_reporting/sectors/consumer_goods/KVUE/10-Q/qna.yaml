@@ -1,0 +1,211 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Kenvue Inc. covering quarters from 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and operating metrics
+     - Segment performance
+     - Profitability measures
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Manufacturing and supply chain
+     - Research and development
+     - Digital transformation
+     - Operational efficiency
+
+  3. Market Position
+     - Brand performance
+     - Geographic presence
+     - Competitive dynamics
+     - Strategic initiatives
+
+  4. Risk Management
+     - Operational risks
+     - Market challenges
+     - Regulatory compliance
+     - Financial controls
+seed_examples:
+  - context: >
+      In Q3 2024, Kenvue reported net sales of $3,899 million with a gross
+      profit of $2,282 million. Operating income was $654 million, while net
+      income reached $383 million. The company maintained strong operational
+      performance across its segments while implementing cost optimization
+      initiatives and advancing its digital transformation strategy.
+    questions_and_answers:
+      - question: |
+          What were Kenvue's key financial metrics in Q3 2024?
+        answer: >
+          In Q3 2024, Kenvue achieved net sales of $3,899 million and gross profit
+          of $2,282 million, with operating income of $654 million and net
+          income of $383 million, demonstrating stable financial performance
+          despite market challenges.
+      - question: >
+          How did the company's operational efficiency initiatives impact
+          performance?
+        answer: >
+          The company focused on operational efficiency through cost optimization
+          initiatives and restructuring activities, incurring $31 million in
+          restructuring expenses during Q3 2024, while maintaining strong gross
+          profit margins and advancing strategic priorities.
+      - question: |
+          What investments did Kenvue make in future growth?
+        answer: >
+          Kenvue invested $97 million in research and development during Q3 2024,
+          a significant increase from $78 million in Q3 2023, while also
+          advancing its new global headquarters project in Summit, New Jersey,
+          which will include state-of-the-art research facilities.
+  - context: >
+      For the first nine months of 2024, Kenvue reported net sales of $11,793
+      million and gross profit of $6,889 million. The company continued its
+      digital-first approach while managing various operational challenges,
+      including the strategic repositioning of the Dr.Ci:Labo brand and
+      implementation of a multi-year restructuring initiative.
+    questions_and_answers:
+      - question: >
+          How did Kenvue's financial performance evolve over the first nine
+          months of 2024?
+        answer: >
+          Kenvue generated net sales of $11,793 million and gross profit of $6,889
+          million in the first nine months of 2024, while managing significant
+          operational changes including restructuring initiatives and strategic
+          brand repositioning.
+      - question: |
+          What strategic changes did Kenvue implement during this period?
+        answer: >
+          The company implemented significant strategic changes, including a new
+          direction for the Dr.Ci:Labo brand with increased focus on brand
+          marketing, and initiated a multi-year restructuring program to
+          optimize operations and enhance efficiency.
+      - question: |
+          How did Kenvue invest in research and development?
+        answer: >
+          Kenvue increased its R&D investment to $302 million in the first nine
+          months of 2024, up from $266 million in the same period of 2023,
+          demonstrating continued commitment to innovation and product
+          development.
+  - context: >
+      Kenvue's operational landscape in 2024 included significant investments
+      in infrastructure and digital capabilities, with the development of a new
+      global headquarters and R&D center in Summit, New Jersey. The company
+      maintained a strong balance sheet with $1,057 million in cash and cash
+      equivalents while managing a total debt of $7,803 million.
+    questions_and_answers:
+      - question: |
+          What major infrastructure investments did Kenvue make?
+        answer: >
+          Kenvue invested in a new global headquarters and R&D center in Summit,
+          New Jersey, encompassing approximately 290,000 square feet, with the
+          corporate office transition beginning in Q1 2025 and the R&D facility
+          completion expected in 2026.
+      - question: |
+          How did Kenvue manage its financial position?
+        answer: >
+          The company maintained a strong financial position with $1,057 million
+          in cash and cash equivalents, while managing its debt structure of
+          $7,803 million through a combination of senior notes and other
+          financing instruments.
+      - question: |
+          What operational challenges did Kenvue address?
+        answer: >
+          Kenvue addressed various operational challenges including the strategic
+          repositioning of brands, implementation of restructuring initiatives,
+          and management of supply chain complexities while maintaining
+          operational efficiency and advancing digital transformation.
+  - context: >
+      In Q2 2024, Kenvue reported net sales of $4,000 million and gross
+      profit of $2,365 million. The company faced significant operational
+      changes, including restructuring expenses of $48 million and impairment
+      charges of $510 million. Operating income was $154 million, while net
+      income reached $58 million. The company continued to implement its
+      multi-year restructuring initiative while maintaining focus on operational
+      efficiency and digital transformation.
+    questions_and_answers:
+      - question: |
+          What were the key financial metrics for Kenvue in Q2 2024?
+        answer: >
+          In Q2 2024, Kenvue achieved net sales of $4,000 million and gross profit
+          of $2,365 million, with operating income of $154 million and net
+          income of $58 million, while managing significant impairment charges
+          and restructuring expenses.
+      - question: |
+          How did restructuring and impairment impact Q2 2024 performance?
+        answer: >
+          The company incurred restructuring expenses of $48 million and
+          significant impairment charges of $510 million in Q2 2024, reflecting
+          ongoing organizational changes and strategic asset evaluations as part
+          of its multi-year restructuring initiative.
+      - question: |
+          What was Kenvue's financial position at the end of Q2 2024?
+        answer: >
+          At the end of Q2 2024, Kenvue maintained a solid financial position with
+          $1,014 million in cash and cash equivalents, while managing total debt
+          of $8,478 million ($1,427 million in short-term loans and $7,051
+          million in long-term debt).
+  - context: >
+      In Q1 2024, Kenvue reported net sales of $3,894 million and gross
+      profit of $2,242 million. The company initiated its restructuring program
+      with expenses of $41 million, while maintaining strong operational
+      performance. Operating income was $550 million, and net income reached
+      $296 million. The period saw continued investment in digital capabilities
+      and research and development.
+    questions_and_answers:
+      - question: |
+          What were Kenvue's financial highlights for Q1 2024?
+        answer: >
+          In Q1 2024, Kenvue generated net sales of $3,894 million and gross
+          profit of $2,242 million, achieving operating income of $550 million
+          and net income of $296 million, while beginning implementation of its
+          restructuring program.
+      - question: |
+          How did the company's restructuring program begin in Q1 2024?
+        answer: >
+          The company launched its restructuring program in Q1 2024, incurring $41
+          million in restructuring expenses, marking the beginning of a
+          multi-year initiative aimed at optimizing operations and enhancing
+          organizational efficiency.
+      - question: |
+          What was the company's investment focus during Q1 2024?
+        answer: >
+          During Q1 2024, Kenvue maintained its investment focus on digital
+          capabilities and research and development, while managing a strong
+          balance sheet with $1,155 million in cash and cash equivalents and
+          continuing progress on its new global headquarters project.
+  - context: >
+      In Q4 2023, Kenvue reported net sales of $3,915 million and gross
+      profit of $2,250 million. The company demonstrated strong operational
+      performance with operating income of $710 million and net income of $438
+      million. The period marked significant progress in the company's
+      post-separation strategy, with continued focus on global expansion and
+      digital transformation initiatives.
+    questions_and_answers:
+      - question: |
+          What were Kenvue's key financial results in Q4 2023?
+        answer: >
+          In Q4 2023, Kenvue achieved net sales of $3,915 million and gross profit
+          of $2,250 million, with strong operational performance reflected in
+          operating income of $710 million and net income of $438 million.
+      - question: |
+          How did the company manage its operational expenses in Q4 2023?
+        answer: >
+          The company effectively managed its operational expenses with selling,
+          general, and administrative expenses of $1,531 million, while
+          maintaining strong gross margins and implementing cost control
+          measures across its operations.
+      - question: |
+          What strategic initiatives did Kenvue pursue during Q4 2023?
+        answer: >
+          During Q4 2023, Kenvue focused on its post-separation strategy,
+          advancing global expansion efforts and digital transformation
+          initiatives, while maintaining a strong balance sheet with $1,062
+          million in cash and cash equivalents.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - sectors/consumer_goods/KVUE/10-Q/data/*.md

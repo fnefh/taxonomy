@@ -1,0 +1,140 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Stride, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and enrollment metrics
+     - Segment performance (General Education and Career Learning)
+     - Operating efficiency
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Technology platform and infrastructure
+     - Curriculum and content development
+     - Instructional services
+     - Support services and operations
+
+  3. Market Position
+     - Competitive landscape
+     - Growth strategies
+     - Brand strength
+     - Market expansion
+
+  4. Risk Management
+     - Regulatory compliance
+     - Cybersecurity measures
+     - Operational risks
+     - Market conditions
+seed_examples:
+  - context: >
+      As of June 30, 2024, Stride operates as a technology-based education
+      company providing comprehensive educational platform services. The company
+      serves 91 schools in 31 states and the District of Columbia in the General
+      Education market, and 56 schools or programs in 27 states and the District
+      of Columbia in the Career Learning market. Stride employs approximately
+      7,800 employees, including 4,600 teachers directly, while managing an
+      additional 3,800 teachers employed by the schools they serve.
+    questions_and_answers:
+      - question: |
+          What is the scope of Stride's educational operations as of 2024?
+        answer: >
+          Stride operates a comprehensive educational platform serving 91 schools
+          in 31 states and DC for General Education, and 56 schools or programs
+          in 27 states and DC for Career Learning. The company employs about
+          7,800 people directly, including 4,600 teachers, and manages an
+          additional 3,800 teachers employed by partner schools.
+      - question: |
+          How does Stride structure its educational offerings?
+        answer: >
+          Stride's platform is divided into two main markets: General Education,
+          focusing on core K-12 subjects, and Career Learning, which develops
+          skills for high-growth industries like IT, healthcare, and business.
+          Both markets offer comprehensive school-as-a-service solutions or
+          stand-alone products and services.
+      - question: |
+          What is Stride's approach to human capital management?
+        answer: >
+          Stride emphasizes diversity and inclusion, with 83% of full-time
+          employees being women and 67% of executive leadership comprised of
+          minorities and women. The company focuses on professional development,
+          offering various training programs and tuition assistance benefits to
+          support employee growth and retention.
+  - context: >
+      Stride's technology platform integrates proprietary and third-party
+      systems to provide a comprehensive educational environment. The platform
+      runs on cloud infrastructure from Amazon Web Services (AWS) and Microsoft
+      Azure, operating 24/7/365 across multiple availability zones. The company
+      maintains a business-centric information security program aligned with
+      NIST cybersecurity guidance and offers hundreds of high-quality online
+      courses with state-customized versions.
+    questions_and_answers:
+      - question: |
+          How does Stride's technology infrastructure support its educational
+          platform?
+        answer: >
+          Stride's platform integrates proprietary and third-party systems running
+          on AWS and Microsoft Azure cloud infrastructure, operating 24/7/365
+          across multiple availability zones. The platform includes content
+          management, learning management, student information, and data
+          reporting systems to deliver a comprehensive educational experience.
+      - question: |
+          What security measures does Stride implement for its technology
+          platform?
+        answer: >
+          Stride maintains a business-centric information security program aligned
+          with NIST cybersecurity guidance across its cloud ecosystems. The
+          company implements comprehensive cybersecurity measures to protect its
+          systems and data while ensuring continuous platform availability.
+      - question: |
+          What is the scope of Stride's curriculum offerings?
+        answer: >
+          Stride offers hundreds of high-quality, engaging online courses,
+          including state-customized versions, electives, and instructional
+          supports. The curriculum is built with guidance from leading
+          educational organizations at national and state levels, covering both
+          general education and career learning pathways.
+  - context: >
+      Stride faces competition from various education companies across
+      different segments. In the K-12 virtual and blended public schools space,
+      main competitors include Pearson PLC (Connections Academy), Lincoln
+      Learning Solutions, StrongMind, and others. The company competes based on
+      factors such as experience in virtual education delivery, comprehensive
+      academic programs, customer satisfaction, teacher qualifications, and
+      student outcomes.
+    questions_and_answers:
+      - question: |
+          Who are Stride's main competitors in the virtual education space?
+        answer: >
+          Stride's main competitors in the K-12 virtual and blended public schools
+          space include Pearson PLC (Connections Academy), Lincoln Learning
+          Solutions, StrongMind, Pansophic Learning, Inspire Charter Schools,
+          and Charter Schools USA, among others. They also compete with digital
+          curriculum providers and traditional textbook publishers.
+      - question: |
+          What are the key competitive factors in Stride's market?
+        answer: >
+          Key competitive factors include extensive experience in virtual
+          education delivery, comprehensive academic programs, customer
+          satisfaction, quality of curriculum and materials, teacher
+          qualifications, support services, integrated K-12 solutions, student
+          outcomes, and regulatory expertise in virtual and blended school
+          environments.
+      - question: |
+          How does Stride differentiate itself in the market?
+        answer: >
+          Stride differentiates itself through its comprehensive platform
+          combining technology, curriculum, and services, extensive experience
+          in virtual education, strong customer satisfaction, and integrated
+          solutions designed to work together. The company's scale and ability
+          to leverage assets across its business also provides competitive
+          advantages.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - sectors/education_services/LRN/10-K/data/*.md

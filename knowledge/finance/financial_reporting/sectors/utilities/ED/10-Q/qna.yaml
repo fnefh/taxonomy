@@ -1,0 +1,164 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Consolidated Edison, Inc. covering fiscal years 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and earnings metrics
+     - Operating expenses
+     - Net income and EPS
+     - Cash flows and liquidity
+
+  2. Business Operations
+     - Utility services (electric, gas, and steam)
+     - Operating efficiency
+     - Infrastructure investments
+     - Service reliability
+
+  3. Market Position
+     - Service territory coverage
+     - Regulatory environment
+     - Growth strategies
+     - Clean energy initiatives
+
+  4. Risk Management
+     - Regulatory compliance
+     - Infrastructure resilience
+     - Environmental risks
+     - Cybersecurity measures
+seed_examples:
+  - context: >
+      In Q3 2024, Con Edison reported operating revenues of $4,092
+      million,  compared to $3,872 million in Q3 2023. Net income for Q3 2024
+      was  $588 million ($1.70 per share), up from $526 million ($1.53 per
+      share)  in Q3 2023. The company's electric revenues were $3,669 million,
+      while  gas revenues were $373 million and steam revenues were $49 million.
+    questions_and_answers:
+      - question: |
+          What were Con Edison's key financial metrics in Q3 2024?
+        answer: >
+          Con Edison reported operating revenues of $4,092 million in Q3
+          2024,  with net income of $588 million ($1.70 per share). Electric
+          revenues  were $3,669 million, gas revenues were $373 million, and
+          steam  revenues were $49 million, showing growth from Q3 2023's
+          total  revenues of $3,872 million and net income of $526 million.
+      - question: |
+          How did Con Edison's operating expenses evolve in Q3 2024?
+        answer: >
+          Total operating expenses in Q3 2024 were $3,230 million, compared
+          to  $3,149 million in Q3 2023. Major components included purchased
+          power  ($743 million), other operations and maintenance ($986
+          million),  depreciation and amortization ($550 million), and taxes
+          other than  income taxes ($857 million).
+      - question: >
+          What were the key drivers of Con Edison's financial performance in Q3
+          2024?
+        answer: >
+          The company's performance was driven by higher electric
+          revenues  ($3,669 million vs $3,469 million in Q3 2023), effective
+          cost  management, and continued infrastructure investments. Operating
+          income  increased to $862 million from $722 million in Q3 2023,
+          despite higher  operating expenses.
+  - context: >
+      In Q2 2024, Con Edison reported operating revenues of $3,220 million,
+      with  electric revenues of $2,550 million, gas revenues of $582 million,
+      and  steam revenues of $88 million. The company maintained strong
+      operational  performance while managing operating expenses of $967 million
+      in other  operations and maintenance, and continued its focus on
+      infrastructure  investments and service reliability.
+    questions_and_answers:
+      - question: |
+          What were Con Edison's key financial metrics in Q2 2024?
+        answer: >
+          Con Edison achieved operating revenues of $3,220 million in Q2
+          2024,  with electric revenues of $2,550 million (up from $2,303
+          million in Q2  2023), gas revenues of $582 million, and steam revenues
+          of $88  million, demonstrating growth in its core utility services.
+      - question: |
+          How did Con Edison manage its operational expenses in Q2 2024?
+        answer: >
+          The company managed operational expenses with other operations
+          and  maintenance costs of $967 million, purchased power expenses of
+          $556  million, and continued focus on cost efficiency. Total
+          operating  expenses were carefully managed while maintaining service
+          quality and  reliability.
+      - question: |
+          What were the key operational priorities in Q2 2024?
+        answer: >
+          Con Edison focused on maintaining reliable utility services across
+          its  electric, gas, and steam operations while investing in
+          infrastructure  improvements. The company continued to advance its
+          clean energy  initiatives and operational efficiency programs.
+  - context: >
+      In Q1 2024, Con Edison reported operating revenues of $4,280
+      million,  including electric revenues of $2,636 million, gas revenues of
+      $1,356  million, and steam revenues of $287 million. The company
+      demonstrated  strong operational performance while managing total
+      operating expenses of  $3,239 million and maintaining its focus on
+      infrastructure reliability  and service quality.
+    questions_and_answers:
+      - question: |
+          What characterized Con Edison's financial performance in Q1 2024?
+        answer: >
+          Con Edison generated operating revenues of $4,280 million in Q1
+          2024,  with electric revenues of $2,636 million, gas revenues of
+          $1,356  million, and steam revenues of $287 million. The company
+          effectively  managed operating expenses while maintaining strong
+          operational  performance.
+      - question: |
+          How did Con Edison manage its operating expenses in Q1 2024?
+        answer: >
+          Total operating expenses were $3,239 million, with major
+          components  including purchased power ($649 million), gas purchased
+          for resale  ($267 million), other operations and maintenance ($888
+          million), and  taxes other than income taxes ($808 million),
+          reflecting effective  cost management.
+      - question: |
+          What were the key operational focuses in Q1 2024?
+        answer: >
+          The company focused on maintaining reliable utility services
+          while  managing seasonal demand variations across its electric, gas,
+          and  steam operations. Con Edison continued to invest in
+          infrastructure  improvements and advance its clean energy initiatives.
+  - context: >
+      For the nine months ended September 30, 2024, Con Edison reported
+      total  operating revenues of $11,587 million and net income of $1,510
+      million.  The company's utility construction expenditures were $3,533
+      million,  reflecting significant infrastructure investments. The balance
+      sheet showed  total assets of $68,645 million as of September 30, 2024.
+    questions_and_answers:
+      - question: >
+          How did Con Edison's year-to-date performance compare to the previous
+          year?
+        answer: >
+          For the nine months ended September 30, 2024, Con Edison
+          reported  operating revenues of $11,587 million compared to $11,219
+          million in  2023. Net income was $1,510 million, compared to $2,182
+          million in  2023, with the difference primarily due to the previous
+          year's gain  on sale of Clean Energy Businesses.
+      - question: |
+          What were Con Edison's major capital investments in 2024?
+        answer: >
+          Con Edison made significant infrastructure investments with
+          utility  construction expenditures of $3,533 million for the nine
+          months ended  September 30, 2024, compared to $3,097 million in the
+          same period of  2023. This reflects the company's ongoing commitment
+          to strengthening  and modernizing its utility infrastructure.
+      - question: |
+          How did Con Edison manage its financial position and liquidity?
+        answer: >
+          As of September 30, 2024, Con Edison maintained a strong
+          financial  position with total assets of $68,645 million. The company
+          issued  $1,525 million of long-term debt during the first nine months
+          of 2024  and maintained a balanced approach to financing its
+          operations through  a combination of operating cash flows and external
+          financing.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/utilities/ED/10-Q/data/*.md

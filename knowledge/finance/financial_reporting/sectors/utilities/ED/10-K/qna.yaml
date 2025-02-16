@@ -1,0 +1,195 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Consolidated Edison, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and earnings metrics
+     - Segment performance
+     - Operating efficiency
+     - Capital investments
+
+  2. Business Operations
+     - Utility services (electric, gas, and steam)
+     - Infrastructure development
+     - Service reliability
+     - Operational excellence
+
+  3. Market Position
+     - Service territory coverage
+     - Regulatory environment
+     - Growth strategies
+     - Clean energy initiatives
+
+  4. Risk Management
+     - Regulatory compliance
+     - Infrastructure resilience
+     - Environmental risks
+     - Cybersecurity measures
+seed_examples:
+  - context: >
+      In fiscal year 2023, Consolidated Edison reported net income of $2,519
+      million  ($7.25 per share) compared with $1,660 million ($4.68 per share)
+      in 2022.  Adjusted earnings were $1,762 million ($5.07 per share) in 2023
+      compared with  $1,620 million ($4.57 per share) in 2022. The company
+      continued to invest in  its energy delivery systems while advancing its
+      clean energy initiatives.
+    questions_and_answers:
+      - question: |
+          What were Con Edison's key financial metrics in fiscal 2023?
+        answer: >
+          Con Edison reported net income of $2,519 million ($7.25 per share) in
+          2023,  up from $1,660 million ($4.68 per share) in 2022. On an
+          adjusted basis,  earnings were $1,762 million ($5.07 per share) in
+          2023, compared to $1,620  million ($4.57 per share) in 2022,
+          demonstrating strong financial performance.
+      - question: |
+          How did Con Edison manage its capital investments in 2023?
+        answer: >
+          In 2023, the Utilities invested $4,379 million to upgrade and reinforce
+          their  energy delivery systems, while Con Edison Transmission invested
+          $49 million  primarily in electric transmission. The company maintains
+          a robust capital  investment plan for future years to strengthen
+          infrastructure and support  clean energy initiatives.
+      - question: |
+          What is Con Edison's approach to financing its operations?
+        answer: >
+          Con Edison plans to meet its capital requirements through
+          internally-generated  funds and the issuance of long-term debt and
+          common equity. The company plans  to issue up to $3,250 million of
+          long-term debt in 2024 and up to $1,000  million in 2025, while
+          planning equity issuance of approximately $1,300  million in 2025.
+  - context: >
+      In fiscal year 2022, Con Edison's market value was approximately $33.7
+      billion  as of June 30, 2022, with 355,045,021 common shares outstanding.
+      The company  focused on strengthening its core utility operations while
+      advancing clean  energy initiatives. Con Edison maintained its position as
+      a leading energy  infrastructure company serving New York City and
+      Westchester County.
+    questions_and_answers:
+      - question: |
+          What was Con Edison's market position in 2022?
+        answer: >
+          Con Edison maintained a strong market position with a market value
+          of  approximately $33.7 billion as of June 2022 and 355,045,021 common
+          shares  outstanding. The company continued to serve as the primary
+          energy  infrastructure provider for New York City and Westchester
+          County.
+      - question: |
+          How did Con Edison advance its clean energy goals in 2022?
+        answer: >
+          The company focused on clean energy initiatives through its
+          regulated  utilities and transmission investments. Con Edison
+          Transmission pursued  projects supporting renewable energy
+          integration, while the utilities  worked on infrastructure
+          modernization to support clean energy adoption.
+      - question: |
+          What were the key operational priorities in 2022?
+        answer: >
+          Con Edison prioritized strengthening its core utility operations,
+          focusing  on service reliability, infrastructure modernization, and
+          operational  efficiency. The company maintained its commitment to
+          safety, reliability,  and customer service while advancing its clean
+          energy objectives.
+  - context: >
+      In fiscal year 2021, Con Edison had a market value of approximately
+      $25.3  billion as of June 30, 2021, with 354,090,402 common shares
+      outstanding. The  company operated through its regulated utility
+      subsidiaries and transmission  business, focusing on infrastructure
+      reliability and clean energy transition  while managing COVID-19 impacts.
+    questions_and_answers:
+      - question: |
+          What characterized Con Edison's market presence in 2021?
+        answer: >
+          Con Edison had a market value of approximately $25.3 billion as of
+          June  2021, with 354,090,402 common shares outstanding. The company
+          maintained  its position as a key energy infrastructure provider
+          through its regulated  utility subsidiaries and transmission business.
+      - question: |
+          How did Con Edison manage operational challenges in 2021?
+        answer: >
+          The company focused on maintaining reliable service while managing
+          COVID-19  impacts, implementing safety protocols, and ensuring
+          operational continuity.  Con Edison continued to invest in
+          infrastructure modernization and clean  energy initiatives despite
+          pandemic-related challenges.
+      - question: |
+          What were the key strategic initiatives in 2021?
+        answer: >
+          Con Edison pursued strategic initiatives focused on
+          infrastructure  reliability, clean energy transition, and operational
+          efficiency. The  company maintained its commitment to safety and
+          service quality while  advancing its environmental goals and managing
+          pandemic-related operational  adjustments.
+  - context: >
+      Con Edison's mission focuses on providing energy services safely,
+      reliably,  and efficiently while supporting a clean energy future. The
+      company operates  through its regulated utility subsidiaries CECONY and
+      O&R, which provide  electric, gas, and steam services, and Con Edison
+      Transmission, which invests  in electric transmission projects supporting
+      the transition to clean, renewable  energy.
+    questions_and_answers:
+      - question: |
+          What is Con Edison's business structure and operational focus?
+        answer: >
+          Con Edison operates through its regulated utility subsidiaries CECONY
+          and O&R,  which provide electric and gas services in New York City,
+          Westchester County,  and southeastern New York, and steam service in
+          parts of Manhattan. Con Edison  Transmission invests in electric
+          transmission projects supporting the clean  energy transition.
+      - question: |
+          How does Con Edison approach service delivery and reliability?
+        answer: >
+          The company focuses on providing energy services safely, reliably,
+          and  efficiently through its regulated utilities. CECONY forecasts a
+          0.7 percent  average annual increase in electric peak demand, while
+          projecting decreases  in gas and steam peak demand of 0.8 and 0.5
+          percent, respectively, over the  next five years.
+      - question: |
+          What are Con Edison's strategic priorities for clean energy?
+        answer: >
+          Con Edison is committed to supporting a clean energy future
+          through  infrastructure investments and transmission projects. The
+          company's  subsidiary, Con Edison Transmission, focuses on electric
+          transmission  projects that support the transition to renewable
+          energy, including its  investment in the Propel NY Energy project.
+  - context: >
+      Con Edison faces various operational and regulatory challenges while
+      advancing  its clean energy goals. The company's utilities operate under
+      approved rate  plans designed to cover service costs and capital
+      investments. In 2023, key  developments included NYSPSC approval of new
+      rate plans for CECONY's electric,  gas, and steam services, and continued
+      focus on climate resilience investments.
+    questions_and_answers:
+      - question: |
+          How does Con Edison manage its regulatory environment?
+        answer: >
+          Con Edison's utilities operate under approved rate plans that cover
+          service  costs and capital investments. In 2023, the NYSPSC approved
+          new rate plans  for CECONY's electric and gas services (2023-2025) and
+          steam service  (2023-2026), providing framework for continued
+          infrastructure investment  and operational improvements.
+      - question: |
+          What initiatives is Con Edison pursuing for climate resilience?
+        answer: >
+          In November 2023, CECONY and O&R filed petitions with the NYSPSC
+          for  approval to make long-term investments of $903 million and $411
+          million,  respectively, between 2025 and 2029 to protect their
+          electric systems from  climate change impacts.
+      - question: |
+          How does Con Edison address infrastructure development needs?
+        answer: >
+          The company maintains a comprehensive infrastructure development
+          program,  including projects like the Reliable Clean City - Idlewild
+          Project in  Queens (estimated cost $1,200 million). The utilities plan
+          significant  investments through 2028 to upgrade and reinforce their
+          energy delivery  systems.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/utilities/ED/10-K/data/*.md

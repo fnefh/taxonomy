@@ -1,0 +1,121 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Replimune Group, Inc. covering quarters from  2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly operating expenses
+     - R&D investments
+     - Cash position and runway
+     - Operating losses and financing activities
+
+  2. Business Operations
+     - Clinical trial progress
+     - Pipeline development
+     - Manufacturing capabilities
+     - Research and development activities
+
+  3. Market Position
+     - Clinical milestones
+     - Program advancement
+     - Strategic initiatives
+     - Growth execution
+
+  4. Risk Management
+     - Clinical development risks
+     - Operational challenges
+     - Financial requirements
+     - Market conditions
+seed_examples:
+  - context: >
+      In Q3 2024, Replimune reported R&D expenses of $43.4M and total
+      operating expenses of $58.9M. The company maintained a strong cash
+      position with $432M in cash and investments. Clinical development
+      continued across multiple programs, with significant progress in the RP1
+      and RP2 trials. The company raised additional capital through a private
+      placement and issuance of prefunded warrants.
+    questions_and_answers:
+      - question: |
+          How did Replimune's financial performance evolve in Q3 2024?
+        answer: >
+          In Q3 2024, Replimune reported R&D expenses of $43.4M and total
+          operating expenses of $58.9M, while maintaining a strong financial
+          position with $432M in cash and investments, supplemented by
+          successful capital raising through private placement and prefunded
+          warrants.
+      - question: |
+          What were the key operational developments during the quarter?
+        answer: >
+          The company continued advancing its clinical programs, particularly the
+          RP1 and RP2 trials, while managing operating expenses and
+          strengthening its financial position through strategic financing
+          activities.
+      - question: >
+          How did the company's capital raising activities support its strategic
+          objectives?
+        answer: >
+          The successful private placement and issuance of prefunded warrants
+          strengthened Replimune's cash position, providing additional resources
+          to support ongoing clinical development programs and operational
+          activities.
+  - context: >
+      In Q2 2024, Replimune focused on advancing its clinical programs while
+      managing R&D expenses of $43.0M and total operating expenses of $57.4M.
+      The company maintained progress in its RP1 melanoma program and RP2 uveal
+      melanoma studies, while preparing for potential regulatory submissions.
+    questions_and_answers:
+      - question: |
+          What were the key financial metrics for Q2 2024?
+        answer: >
+          In Q2 2024, Replimune reported R&D expenses of $43.0M and total
+          operating expenses of $57.4M, demonstrating continued investment in
+          clinical development while maintaining financial discipline.
+      - question: |
+          How did the clinical programs progress during the quarter?
+        answer: >
+          The company advanced its key clinical programs, including the RP1
+          melanoma program and RP2 uveal melanoma studies, while preparing for
+          potential regulatory submissions and maintaining development momentum.
+      - question: |
+          What strategic priorities were evident in the quarter's activities?
+        answer: >
+          The company focused on advancing its lead clinical programs toward
+          potential regulatory submissions while managing expenses and
+          maintaining operational efficiency in preparation for future
+          milestones.
+  - context: >
+      In Q3 2023, Replimune reported R&D expenses of $49.1M and total
+      operating expenses of $63.8M. The company advanced its clinical trials
+      while maintaining a strong cash position. Key developments included
+      progress in the IGNYTE and ARTACUS trials, along with continued
+      development of manufacturing capabilities.
+    questions_and_answers:
+      - question: >
+          How did Replimune's financial and operational metrics compare in Q3
+          2023?
+        answer: >
+          In Q3 2023, Replimune reported R&D expenses of $49.1M and total
+          operating expenses of $63.8M, while advancing its clinical programs
+          and maintaining its manufacturing infrastructure development.
+      - question: |
+          What progress was made in clinical development during Q3 2023?
+        answer: >
+          The company advanced its IGNYTE and ARTACUS clinical trials while
+          continuing to develop its manufacturing capabilities, demonstrating
+          progress across both clinical and operational objectives.
+      - question: >
+          How did the company balance clinical development with operational
+          investments?
+        answer: >
+          Replimune maintained a balanced approach between advancing clinical
+          trials and developing manufacturing capabilities, while managing
+          operating expenses to support long-term growth objectives.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: latest
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/biotechnology/REPL/10-Q/data/*.md
