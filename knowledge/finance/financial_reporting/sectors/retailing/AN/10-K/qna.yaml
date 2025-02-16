@@ -1,0 +1,139 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for AutoNation, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Automotive retail operations
+     - Franchise portfolio and market presence
+     - Business segments (Domestic, Import, Premium Luxury)
+     - Strategic initiatives and growth plans
+
+  2. Financial Performance
+     - Revenue and profitability metrics
+     - Segment performance
+     - Capital allocation strategy
+     - Liquidity and capital resources
+
+  3. Operations and Market Position
+     - Store network and expansion
+     - Parts and service business
+     - Digital capabilities and AutoNation Express
+     - Customer Financial Services
+
+  4. Risk Management and Governance
+     - Industry competition
+     - Regulatory compliance
+     - Environmental stewardship
+     - Corporate governance
+seed_examples:
+  - context: >
+      As of December 31, 2023, AutoNation operated 349 new vehicle franchises
+      from 252 stores across the United States, with a strong presence in the
+      Sunbelt region. The company's store network included 53 AutoNation-branded
+      collision centers, 19 AutoNation USA used vehicle stores, 4 automotive
+      auction operations, and 3 parts distribution centers.
+    questions_and_answers:
+      - question: >
+          What is the scale and scope of AutoNation's retail operations as of
+          2023?
+        answer: >
+          AutoNation operated 349 new vehicle franchises from 252 stores,
+          primarily in major metropolitan markets in the Sunbelt region. The
+          company's operations included 53 collision centers, 19 AutoNation USA
+          used vehicle stores, 4 auction operations, 3 parts distribution
+          centers, a mobile repair business, and an auto finance company.
+      - question: |
+          How is AutoNation's franchise portfolio distributed by segment?
+        answer: >
+          AutoNation's franchises are divided into three segments: Domestic (155
+          franchises including Ford, GM, and Chrysler brands), Import (90
+          franchises including Toyota and Honda), and Premium Luxury (104
+          franchises including Mercedes-Benz, BMW, and Lexus). Premium Luxury
+          represented 38% of total revenue, Import 29%, and Domestic 28%.
+      - question: |
+          What are AutoNation's key markets and geographic presence?
+        answer: >
+          AutoNation has significant presence in Florida (49 stores, 25% of
+          revenue), Texas (46 stores, 19% of revenue), and California (42
+          stores, 19% of revenue). The company also has substantial operations
+          in Colorado, Arizona, Washington, Georgia, and Nevada, operating
+          across 21 states in total.
+  - context: >
+      AutoNation's business strategy focuses on operational excellence,
+      digital transformation, and brand development. The company has invested in
+      AutoNation Express digital capabilities, AutoNation USA store expansion,
+      and various strategic initiatives including AutoNation Finance and
+      AutoNation Mobile Service.
+    questions_and_answers:
+      - question: |
+          What are the key elements of AutoNation's business strategy?
+        answer: >
+          AutoNation's strategy focuses on being the most comprehensive provider
+          of transportation solutions through operational excellence, digital
+          transformation, and brand development. Key initiatives include
+          expanding AutoNation USA stores, developing AutoNation Finance,
+          enhancing digital capabilities through AutoNation Express, and growing
+          the After-Sales service market through mobile service and e-commerce
+          platforms.
+      - question: |
+          How is AutoNation expanding its digital capabilities?
+        answer: >
+          AutoNation has enhanced its AutoNation Express platform to provide a
+          seamless omnichannel experience, allowing customers to complete key
+          transactions online including vehicle selection, pricing, trade-in
+          valuation, financing, protection products, and delivery options. The
+          company leverages proprietary tools and real-time customer data to
+          personalize the customer experience.
+      - question: >
+          What initiatives has AutoNation implemented for growth and
+          diversification?
+        answer: >
+          AutoNation has implemented several growth initiatives including
+          expanding AutoNation USA used vehicle stores, launching AutoNation
+          Finance for retail customer financing, introducing AutoNation Mobile
+          Service for convenient repairs, launching AutoNationParts.com for
+          e-commerce, and investing in strategic partnerships with companies
+          like Waymo and TrueCar.
+  - context: >
+      AutoNation employs approximately 25,300 associates and maintains a
+      strong focus on corporate social responsibility, including environmental
+      stewardship, community engagement through Drive Pink initiative, and
+      workplace diversity and development programs.
+    questions_and_answers:
+      - question: |
+          How does AutoNation approach human capital management?
+        answer: >
+          AutoNation employs 25,300 associates and focuses on creating an
+          inclusive environment through its "Go Be Great" initiative. The
+          company offers comprehensive benefits, extensive training programs,
+          and career development opportunities. Key programs include General
+          Management University for leadership development and specialized
+          training for high-potential associates.
+      - question: |
+          What are AutoNation's key corporate social responsibility initiatives?
+        answer: >
+          AutoNation's CSR initiatives include the Drive Pink campaign, which has
+          raised over $40 million for cancer research and treatment. The company
+          also focuses on environmental stewardship through EV charging
+          stations, LEED-certified facilities, and recycling programs. Community
+          engagement includes associate volunteerism and charitable giving
+          programs.
+      - question: |
+          How does AutoNation address environmental sustainability?
+        answer: >
+          AutoNation's environmental initiatives include expanding EV charging
+          capabilities, offering electric and hybrid vehicles, implementing
+          energy-efficient building practices, pursuing LEED certification, and
+          maintaining comprehensive recycling programs for water, oil, tires,
+          and other materials. The company also has an Environmental, Health and
+          Safety Compliance Program.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/retailing/AN/10-K/data/*.md

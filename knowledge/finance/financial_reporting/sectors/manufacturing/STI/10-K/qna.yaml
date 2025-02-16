@@ -1,0 +1,89 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Solidion Technology, Inc. through fiscal year 2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Technology
+     - Company Background and History
+     - Battery Technology Development
+     - Product Portfolio and Innovation
+     - Intellectual Property Position
+     - Manufacturing Capabilities
+     - Research and Development Focus
+
+  2. Market Opportunity and Strategy
+     - EV Battery Market Growth
+     - Industry Challenges and Solutions
+     - Competitive Advantages
+     - Growth Strategy and Timeline
+     - Target Markets and Applications
+
+  3. Product Development and Commercialization
+     - Anode Materials Development
+     - Solid-State Battery Technology
+     - Generation 1-3 Battery Roadmap
+     - Manufacturing Scale-up Plans
+     - Strategic Partnerships
+
+  4. Risk Factors and Challenges
+     - Technology Development Risks
+     - Market Competition
+     - Regulatory Environment
+     - Intellectual Property Protection
+     - Financial and Operating Risks
+seed_examples:
+  - context: >
+      Solidion Technology, Inc. is a Dallas-based advanced battery technology
+      company focused on developing and commercializing next-generation battery
+      materials and components. The company holds over 520 patents and is
+      recognized as a global leader in both high-capacity anode and high-energy
+      solid-state battery technology.
+    questions_and_answers:
+      - question: >
+          What are Solidion's key technology offerings and competitive
+          advantages in the battery industry?
+        answer: >
+          Solidion offers advanced anode materials with specific capacity from 300
+          to 3,500+ mAh/g and silicon-rich all-solid-state lithium-ion cells.
+          Their competitive advantages include: 1) Process-friendly solid-state
+          electrolytes compatible with current manufacturing processes, enabling
+          faster time-to-market, 2) Strong IP portfolio with over 520 patents
+          (355 US, 165+ foreign), 3) Recognition as a US leader in solid-state
+          electrolytes and top battery startup globally in silicon anode
+          technology, and 4) Ability to deliver extended EV range, improved
+          safety, and lower cost per kWh through their technology.
+      - question: >
+          What is Solidion's product development roadmap and commercialization
+          timeline?
+        answer: >
+          Solidion has a three-generation product development roadmap: 1)
+          Generation 1 (2026): Solid-state lithium-ion cells with silicon-rich
+          anode and polymer-inorganic composite electrolyte, 2) Generation 2
+          (2026): Solid-state lithium metal cells with thin lithium metal anode
+          or anode-less design, 3) Generation 3 (2027): Solid-state
+          lithium-sulfur cells with lithium metal anode and in situ curable
+          polymer-inorganic composite electrolyte. Their anode materials are in
+          the final stage of product development.
+      - question: >
+          What are the key market opportunities and challenges Solidion faces in
+          the EV battery industry?
+        answer: >
+          The EV battery market presents a $300+ billion opportunity by 2030, with
+          projected demand of 5,300 GWh and a supply shortfall of 3,700 GWh. Key
+          challenges include: 1) Scaling production and manufacturing
+          capabilities, 2) Meeting industry demands for increased energy
+          density, fire safety, fast charging, and lower costs, 3) Competition
+          from established battery manufacturers and emerging technologies, 4)
+          Regulatory compliance and intellectual property protection, and 5)
+          Securing necessary funding for commercialization. Solidion's
+          technology aims to address these challenges through their innovative
+          battery solutions and process-friendly manufacturing approach.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/manufacturing/STI/10-K/data/*.md

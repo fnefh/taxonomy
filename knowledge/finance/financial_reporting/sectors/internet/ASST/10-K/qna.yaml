@@ -1,0 +1,85 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Asset Entities Inc. through 2023.
+
+  The reports include detailed information about:
+
+  1. Business Model and Services
+     - Discord Communities and Investment Education
+     - Social Media Marketing and Influencer Network
+     - AE.360.DDM Platform Services
+     - Revenue Streams and Pricing Models
+     - Target Markets and Customer Base
+
+  2. Operational Performance and Growth
+     - Discord Server Membership Growth
+     - Social Media Reach and Engagement
+     - Strategic Acquisitions and Partnerships
+     - Technology Infrastructure
+     - Human Capital and Organization
+
+  3. Financial Results and Position
+     - Revenue and Income Analysis
+     - Cash Flow Management
+     - Capital Structure
+     - Investment Activities
+     - Operating Expenses
+
+  4. Strategic Initiatives and Risk Factors
+     - Growth Strategies
+     - Competitive Landscape
+     - Regulatory Environment
+     - Technology Risks
+     - Market Challenges
+seed_examples:
+  - context: >
+      Asset Entities Inc.'s 2023 annual report details their business model,
+      focusing on three main service categories: Discord communities for
+      investment education, social media marketing, and the AE.360.DDM platform.
+    questions_and_answers:
+      - question: >
+          What are Asset Entities' main service offerings and their respective
+          revenue models as of 2023?
+        answer: >
+          Asset Entities operates three main service categories: 1) Discord
+          Communities offering investment education with subscription fees
+          ranging from $4.99 to $120.00 per month, serving approximately 210,000
+          members across their servers, 2) Social Media Marketing services
+          through their "SiN" (Social Influencer Network) with fees ranging from
+          $2,000 to $50,000 per campaign, 3) AE.360.DDM platform services for
+          Discord server design and management, with fees ranging from $497 to
+          $5,000 per project, plus potential revenue sharing arrangements.
+      - question: >
+          What were the key strategic initiatives and acquisitions undertaken by
+          Asset Entities in 2023?
+        answer: >
+          In 2023, Asset Entities executed several strategic initiatives: 1)
+          Acquired assets of Ternary Inc. and OptionsSwing Inc., adding a
+          cloud-based subscription management solution and investment research
+          service, 2) Launched Ternary V2 platform with enhanced CRM tools and
+          payment processing capabilities, 3) Expanded AE.360.DDM services with
+          new partnerships, including Kappa USA and Matchbox Twenty, 4) Engaged
+          notable figures like Jeff Blue as Head of Entertainment and
+          professional athletes for marketing, 5) Introduced ChatGPT AI bot for
+          customer service.
+      - question: >
+          What are the main risks and challenges facing Asset Entities' business
+          model?
+        answer: >
+          Asset Entities faces several key risks: 1) Limited operating history and
+          negative cash flow, with an accumulated deficit of $5,558,315 as of
+          December 2023, 2) Regulatory challenges, including potential
+          Investment Advisers Act implications for their investment education
+          services, 3) Dependence on social media platforms and Discord for
+          operations, 4) Competition in the investment education and social
+          media marketing spaces, 5) Technology risks related to cybersecurity
+          and platform stability, 6) Reliance on key personnel and social
+          influencers for continued growth.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/internet/ASST/10-K/data/*.md

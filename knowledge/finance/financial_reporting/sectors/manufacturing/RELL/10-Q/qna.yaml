@@ -1,0 +1,89 @@
+---
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Richardson Electronics, Ltd. through Q2 fiscal 2025.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Quarterly Revenue and Profitability
+     - Segment Performance Analysis
+     - Cash Flow and Working Capital Management
+     - Balance Sheet Metrics
+     - Geographic Revenue Distribution
+
+  2. Business Operations
+     - Manufacturing Capabilities (LaFox, IL; Marlborough, MA; Donaueschingen, Germany)
+     - Product Portfolio and Distribution
+     - Inventory Management
+     - Customer Base and Market Presence
+     - Global Infrastructure
+
+  3. Segment Operations
+     - Power and Microwave Technologies (PMT)
+     - Green Energy Solutions (GES)
+     - Canvys
+     - Healthcare
+
+  4. Financial Position and Liquidity
+     - Cash and Cash Equivalents
+     - Revolving Credit Facility
+     - Working Capital Management
+     - Capital Expenditures
+     - Dividend Policy
+seed_examples:
+  - context: >
+      Richardson Electronics' Q2 fiscal 2025 report shows financial
+      performance across multiple business segments, with total net sales of
+      $49.5 million for the quarter ended November 30, 2024. The company
+      maintains a strong balance sheet with $26.6 million in cash and cash
+      equivalents, and operates globally with manufacturing facilities in the US
+      and Germany.
+    questions_and_answers:
+      - question: >
+          What were Richardson Electronics' key financial metrics and
+          performance trends in Q2 fiscal 2025?
+        answer: >
+          In Q2 fiscal 2025 (ended November 30, 2024), Richardson Electronics
+          reported net sales of $49.5 million, a 12.1% increase from $44.1
+          million in Q2 fiscal 2024. The company reported a gross profit of
+          $15.3 million (30.9% margin) compared to $12.5 million (28.4% margin)
+          in the prior year quarter. Operating loss was $0.7 million, an
+          improvement from a $2.0 million loss in Q2 fiscal 2024. The company
+          maintained a strong balance sheet with $26.6 million in cash and cash
+          equivalents, and total stockholders' equity of $156.2 million.
+      - question: >
+          How does Richardson Electronics manage its manufacturing and inventory
+          operations?
+        answer: >
+          Richardson Electronics manufactures approximately 50% of its products at
+          facilities in LaFox, Illinois, Marlborough, Massachusetts, and
+          Donaueschingen, Germany. As of Q2 fiscal 2025, the company maintained
+          net inventories of $110.7 million, consisting of $94.6 million in
+          finished goods, $11.6 million in raw materials, and $4.5 million in
+          work-in-progress. The company actively manages inventory through
+          regular analysis of stock rotation privileges and obsolescence,
+          maintaining inventory reserves of approximately $6.1 million. Their
+          global infrastructure enables same-day shipping for over 90% of
+          in-stock orders received by 6:00 p.m. local time.
+      - question: >
+          What are Richardson Electronics' capital structure and liquidity
+          position as of Q2 fiscal 2025?
+        answer: >
+          As of November 30, 2024, Richardson Electronics maintained a strong
+          liquidity position with $26.6 million in cash and cash equivalents.
+          The company has a $30 million revolving credit facility with PNC Bank
+          (maturing March 2026), which was undrawn at quarter-end. The company
+          generated positive operating cash flow of $5.5 million in Q2 fiscal
+          2025, while maintaining a conservative capital structure with no
+          long-term debt. The company continues to return capital to
+          shareholders through quarterly dividends, paying $0.06 per common
+          share and $0.054 per Class B common share during the quarter.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/manufacturing/RELL/10-Q/data/*.md

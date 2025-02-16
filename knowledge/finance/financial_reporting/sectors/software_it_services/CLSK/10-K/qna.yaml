@@ -1,0 +1,160 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for CleanSpark, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Bitcoin mining operations
+     - Data center infrastructure
+     - Geographic presence
+     - Operational capacity
+
+  2. Financial Performance
+     - Mining revenue and profitability
+     - Operating expenses
+     - Capital expenditures
+     - Growth initiatives
+
+  3. Market Position
+     - Mining capacity and hashrate
+     - Infrastructure development
+     - Competitive advantages
+     - Strategic acquisitions
+
+  4. Risk Factors
+     - Bitcoin price volatility
+     - Operational challenges
+     - Regulatory compliance
+     - Technology risks
+seed_examples:
+  - context: >
+      CleanSpark is a bitcoin mining company operating a large portfolio of
+      data  centers across the United States. As of October 31, 2024, the
+      company had  676 megawatts of developed capacity and 50 MWs of hosted
+      machines, supporting  approximately 31.5 EH/s of bitcoin mining
+      computational power. In fiscal year  2024, CleanSpark mined 7,092
+      bitcoins, a 3% increase over the 6,903 bitcoins  mined in fiscal year
+      2023.
+    questions_and_answers:
+      - question: >
+          What is CleanSpark's current operational capacity and
+          mining  infrastructure?
+        answer: >
+          CleanSpark's operational infrastructure includes: 1) 676 megawatts
+          of  developed capacity across data centers in Georgia, Tennessee,
+          Mississippi,  and Wyoming; 2) 50 MWs of hosted machines in New York
+          supporting 31.5 EH/s  of mining power; 3) Approximately 188,500
+          bitcoin mining machines with a  hashrate capacity of 27.6 EH/s; 4) A
+          fleetwide efficiency of 21.94 J/TH;  5) Currently developing an
+          additional 211.5 MW expected to support  approximately 50 EH/s of
+          mining capacity.
+      - question: >
+          How has CleanSpark's bitcoin mining performance evolved over the
+          past  fiscal year?
+        answer: >
+          In fiscal year 2024, CleanSpark achieved: 1) Mining of 7,092
+          bitcoins,  representing a 3% increase from 6,903 bitcoins in FY2023;
+          2) Operation  of approximately 188,500 mining machines; 3) Hashrate
+          capacity growth  to 27.6 EH/s; 4) Expansion of infrastructure across
+          multiple states;  5) Plans for continued growth through both organic
+          expansion and  strategic acquisitions.
+      - question: >
+          What are CleanSpark's key operational strategies and future growth
+          plans?
+        answer: >
+          CleanSpark's operational strategies include: 1) Expanding
+          infrastructure  across its U.S. data center portfolio; 2) Moving all
+          operational capacity  to wholly owned sites by January 2025 to
+          maximize efficiency; 3) Developing  additional 211.5 MW of capacity to
+          reach 50 EH/s; 4) Focusing on high  uptime and efficiency in data
+          center operations; 5) Pursuing growth through  both organic expansion
+          and strategic acquisitions; 6) Maintaining proprietary  data center
+          infrastructure for optimal bitcoin mining operations.
+  - context: >
+      CleanSpark faces various operational and market risks, including
+      bitcoin  price volatility, regulatory uncertainty, and technological
+      challenges. The  company has a cumulative net loss of $479,218 from
+      inception through  September 30, 2024, and reported a net loss from
+      continuing operations of  $145,777 for fiscal year 2024.
+    questions_and_answers:
+      - question: >
+          What are the main financial challenges and risks facing
+          CleanSpark's  operations?
+        answer: >
+          Key financial challenges include: 1) Dependence on bitcoin price
+          volatility  for profitability; 2) History of operating losses with
+          cumulative net  losses of $479,218 through September 30, 2024; 3) Net
+          loss of $145,777  from continuing operations in FY2024; 4) Need for
+          significant capital  investment for expansion; 5) Competitive pressure
+          in acquiring mining  equipment and securing low-cost electricity; 6)
+          Reliance on third-party  mining pool operators for revenue.
+      - question: |
+          How does CleanSpark manage its operational risks and challenges?
+        answer: >
+          CleanSpark manages operational risks through: 1) Operating its own
+          data  centers to maintain control over infrastructure; 2) Maintaining
+          strict  security protocols for bitcoin storage and operations; 3)
+          Diversifying  geographic presence across multiple states; 4) Focusing
+          on efficiency  with a fleetwide rate of 21.94 J/TH; 5) Strategic
+          planning for growth  and expansion; 6) Monitoring and adapting to
+          market conditions and  bitcoin price fluctuations.
+      - question: >
+          What are the key regulatory and compliance considerations for
+          CleanSpark?
+        answer: >
+          CleanSpark faces several regulatory considerations: 1) Compliance
+          with  SEC reporting requirements as a public company; 2) Monitoring
+          evolving  cryptocurrency regulations across jurisdictions; 3) Managing
+          environmental  and energy regulations at data center locations; 4)
+          Maintaining proper  financial controls and reporting standards; 5)
+          Addressing cybersecurity  and data protection requirements; 6)
+          Ensuring compliance with banking  and financial institution
+          regulations.
+  - context: >
+      CleanSpark relies heavily on its management team and key personnel
+      for  strategic development and operations. The company faces competitive
+      challenges  in acquiring mining equipment, securing energy sources, and
+      maintaining  technological advantages in the rapidly evolving bitcoin
+      mining industry.
+    questions_and_answers:
+      - question: |
+          What role does management and personnel play in CleanSpark's success?
+        answer: >
+          Management and personnel are critical through: 1) Leadership team of
+          six  executive officers including CEO, CFO, and Executive Chairman; 2)
+          Strategic  development and financing responsibilities; 3) Management
+          of growth and  expansion initiatives; 4) Maintaining industry
+          relationships and partnerships;  5) Overseeing technological
+          development and implementation; 6) Ensuring  operational efficiency
+          and risk management.
+      - question: >
+          How does CleanSpark maintain its competitive position in the
+          bitcoin  mining industry?
+        answer: >
+          CleanSpark maintains competitiveness through: 1) Operating its own
+          data  centers for maximum control and efficiency; 2) Strategic
+          geographic  positioning across multiple states; 3) Continuous
+          expansion of mining  capacity and infrastructure; 4) Focus on
+          operational efficiency and  technological advancement; 5) Strategic
+          acquisitions and growth initiatives;  6) Maintaining relationships
+          with key equipment suppliers and partners.
+      - question: >
+          What are CleanSpark's key technological capabilities and
+          infrastructure  advantages?
+        answer: >
+          Key technological capabilities include: 1) Proprietary data
+          center  infrastructure designed for high uptime; 2) Efficient mining
+          operations  with 21.94 J/TH fleetwide efficiency; 3) Scalable
+          infrastructure  supporting 31.5 EH/s of mining power; 4) Strategic
+          partnerships with  major mining equipment manufacturers; 5) Ability to
+          expand and optimize  operations across multiple locations; 6) Advanced
+          monitoring and  management systems for mining operations.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/CLSK/10-K/data/*.md

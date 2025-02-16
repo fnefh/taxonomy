@@ -1,0 +1,108 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Walmart Inc. covering fiscal year 2024-2025.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and profitability metrics
+     - Segment performance
+     - Cash flow and liquidity
+     - Operating metrics
+
+  2. Balance Sheet Analysis
+     - Assets and liabilities
+     - Shareholders' equity
+     - Capital structure
+     - Working capital
+
+  3. Business Operations
+     - Operating activities
+     - Investing activities
+     - Financing activities
+     - Cash management
+
+  4. Risk Management
+     - Market risks
+     - Legal proceedings
+     - Regulatory matters
+     - Financial controls
+seed_examples:
+  - context: >
+      For the first quarter of fiscal year 2024 (ended April 30,
+      2024),  Walmart reported total revenues of $161.5 billion, with net
+      sales  of $159.9 billion and membership and other income of $1.57
+      billion.  The company achieved consolidated net income of $5.3 billion,
+      with  diluted earnings per share of $0.63.
+    questions_and_answers:
+      - question: |
+          What were Walmart's key financial metrics for Q1 FY2024?
+        answer: >
+          Walmart's Q1 FY2024 key metrics include: 1) Total revenues of  $161.5
+          billion; 2) Net sales of $159.9 billion; 3) Membership  and other
+          income of $1.57 billion; 4) Consolidated net income  of $5.3 billion;
+          5) Diluted earnings per share of $0.63; 6)  Operating income of $6.8
+          billion.
+      - question: |
+          How did Walmart's Q1 FY2024 performance compare to Q1 FY2023?
+        answer: >
+          Comparing Q1 FY2024 to Q1 FY2023: 1) Net sales increased from  $151.0B
+          to $159.9B; 2) Total revenues grew from $152.3B to  $161.5B; 3)
+          Operating income improved from $6.2B to $6.8B; 4)  Net income
+          increased significantly from $1.9B to $5.3B; 5)  Diluted EPS rose from
+          $0.21 to $0.63.
+  - context: >
+      As of April 30, 2024, Walmart maintained a strong balance sheet  with
+      total assets of $254.1 billion, including $9.4 billion in  cash and cash
+      equivalents. The company had total current assets  of $77.2 billion and
+      total current liabilities of $96.1 billion.  Long-term debt stood at $35.9
+      billion, with total equity of  $88.1 billion.
+    questions_and_answers:
+      - question: |
+          What is Walmart's financial position as of Q1 FY2024?
+        answer: >
+          Walmart's financial position as of Q1 FY2024 includes: 1) Total  assets
+          of $254.1B; 2) Cash and cash equivalents of $9.4B; 3)  Total current
+          assets of $77.2B; 4) Total current liabilities  of $96.1B; 5)
+          Long-term debt of $35.9B; 6) Total equity of  $88.1B; 7) Inventory of
+          $55.4B.
+      - question: |
+          How does Walmart manage its capital structure and liquidity?
+        answer: >
+          Walmart manages its capital structure through: 1) Maintaining  $15.0B in
+          committed credit lines; 2) Balanced mix of short-term  ($5.5B) and
+          long-term ($37.8B) debt; 3) Active working capital  management with
+          $77.2B in current assets; 4) Strong cash  position of $9.4B; 5)
+          Regular dividend payments ($0.83 per share  in Q1 FY2024).
+  - context: >
+      For Q1 FY2024, Walmart generated $4.2 billion in operating cash  flow,
+      while investing $4.7 billion in capital expenditures. The  company
+      maintains supplier financing programs with $5.2 billion  in outstanding
+      obligations and has implemented various cash  management strategies
+      including working capital optimization.
+    questions_and_answers:
+      - question: |
+          How does Walmart manage its cash flows and working capital?
+        answer: >
+          Walmart's cash flow management includes: 1) Generated $4.2B
+          in  operating cash flow in Q1 FY2024; 2) Invested $4.7B in
+          capital  expenditures; 3) Maintains supplier financing programs
+          with  $5.2B outstanding; 4) Active inventory management ($55.4B);
+          5)  Efficient accounts payable management ($56.1B); 6)
+          Strategic  working capital optimization.
+      - question: |
+          What are Walmart's key investment and financing activities?
+        answer: >
+          Key activities include: 1) $4.7B investment in property and  equipment;
+          2) Net increase in short-term borrowings of $4.6B;  3) Repayment of
+          $1.6B in long-term debt; 4) Dividend payments  of $1.7B; 5) Share
+          repurchases of $1.1B; 6) Maintenance of  $15.0B in committed credit
+          facilities.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/retailing/WMT/10-Q/data/*.md

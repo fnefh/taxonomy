@@ -1,0 +1,143 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for CleanSpark, Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Bitcoin mining metrics
+     - Operating expenses
+     - Growth trends
+
+  2. Business Operations
+     - Mining infrastructure
+     - Operational efficiency
+     - Geographic expansion
+     - Strategic initiatives
+
+  3. Market Position
+     - Competitive landscape
+     - Growth strategies
+     - Technology capabilities
+     - Infrastructure development
+
+  4. Risk Management
+     - Market volatility
+     - Operational risks
+     - Regulatory compliance
+     - Technology challenges
+seed_examples:
+  - context: >
+      For the quarter ended March 31, 2024, CleanSpark reported total
+      revenues  of $111.8 million, primarily from bitcoin mining operations,
+      compared to  $42.5 million in the same quarter of 2023. The company
+      achieved income  from operations of $137.1 million, compared to a loss of
+      $17.5 million  in Q2 2023.
+    questions_and_answers:
+      - question: >
+          How did CleanSpark's financial performance compare to the same
+          quarter  last year?
+        answer: >
+          CleanSpark showed significant improvement in Q2 2024: 1) Total
+          revenue  increased to $111.8 million from $42.5 million in Q2 2023; 2)
+          Bitcoin  mining revenue grew to $111.8 million from $42.5 million; 3)
+          Achieved  operating income of $137.1 million compared to a loss of
+          $17.5 million;  4) Recorded a gain on fair value of bitcoin of $119.7
+          million; 5) Cost  of revenues increased to $34.3 million from $22.1
+          million, reflecting  expanded operations.
+      - question: >
+          What were the key components of CleanSpark's operating expenses in
+          Q2  2024?
+        answer: >
+          CleanSpark's major operating expenses included: 1) Cost of revenues
+          at  $34.3 million; 2) Payroll expenses of $16.8 million, up from $9.8
+          million;  3) Depreciation and amortization of $32.2 million; 4)
+          General and  administrative expenses of $6.8 million; 5) Professional
+          fees of $2.2  million; 6) Loss on disposal of assets of $1.7 million.
+      - question: >
+          How has CleanSpark's balance sheet position changed during the quarter?
+        answer: >
+          CleanSpark's balance sheet showed significant growth with: 1)
+          Total  assets increasing to $1.54 billion from $761.6 million; 2)
+          Stockholders'  equity growing to $1.46 billion from $677.2 million; 3)
+          Improved  liquidity position; 4) Increased investment in mining
+          infrastructure;  5) Strong capital position to support continued
+          growth and operations.
+  - context: >
+      CleanSpark continues to expand its bitcoin mining operations while
+      managing  operational risks and market volatility. The company maintains a
+      focus on  operational efficiency and strategic growth through
+      infrastructure development  and technological advancement.
+    questions_and_answers:
+      - question: >
+          What are CleanSpark's key operational strategies and growth
+          initiatives?
+        answer: >
+          CleanSpark's operational strategies include: 1) Expanding mining
+          capacity  through infrastructure development; 2) Focusing on
+          operational efficiency  and cost management; 3) Strategic geographic
+          diversification across  multiple states; 4) Investment in advanced
+          mining equipment and technology;  5) Optimization of existing
+          facilities; 6) Pursuit of strategic growth  opportunities through
+          acquisitions and partnerships.
+      - question: |
+          How does CleanSpark manage operational risks and market challenges?
+        answer: >
+          CleanSpark manages risks through: 1) Maintaining diversified
+          operations  across multiple locations; 2) Implementing robust security
+          measures for  bitcoin storage; 3) Monitoring and adapting to market
+          conditions;  4) Maintaining strong liquidity position; 5) Regular
+          evaluation and  upgrading of technology infrastructure; 6)
+          Comprehensive risk management  protocols for mining operations.
+      - question: |
+          What are the key factors affecting CleanSpark's quarterly performance?
+        answer: >
+          Key performance factors include: 1) Bitcoin price volatility and
+          market  conditions; 2) Mining difficulty and network hashrate; 3)
+          Operational  efficiency and infrastructure reliability; 4) Energy
+          costs and  availability; 5) Technology upgrades and equipment
+          performance;  6) Regulatory environment and compliance requirements.
+  - context: >
+      CleanSpark faces various challenges and opportunities in the
+      evolving  bitcoin mining industry, including regulatory requirements,
+      technological  changes, and market dynamics. The company continues to
+      invest in  infrastructure and operational improvements.
+    questions_and_answers:
+      - question: >
+          What regulatory and compliance challenges does CleanSpark face in
+          its  quarterly operations?
+        answer: >
+          CleanSpark addresses regulatory challenges through: 1) Compliance
+          with  SEC reporting requirements; 2) Monitoring of cryptocurrency
+          regulations  across jurisdictions; 3) Implementation of internal
+          controls and  reporting procedures; 4) Management of environmental and
+          energy  regulations; 5) Maintenance of proper financial controls; 6)
+          Regular  review and updates of compliance procedures.
+      - question: >
+          How does CleanSpark maintain its competitive advantage in the
+          bitcoin  mining industry?
+        answer: >
+          CleanSpark maintains competitiveness through: 1) Operating
+          efficient  mining facilities with high uptime; 2) Strategic geographic
+          positioning  of operations; 3) Investment in advanced mining
+          technology; 4) Focus  on operational cost management; 5) Continuous
+          infrastructure improvement  and expansion; 6) Strong relationships
+          with equipment suppliers and  partners.
+      - question: >
+          What are CleanSpark's key technological capabilities and
+          infrastructure  investments?
+        answer: >
+          Key technological investments include: 1) Advanced mining equipment  and
+          infrastructure; 2) Efficient power management systems; 3)
+          Robust  security protocols for operations; 4) Monitoring and control
+          systems  for mining facilities; 5) Infrastructure for optimal mining
+          performance;  6) Technology for maximizing operational efficiency.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/CLSK/10-Q/data/*.md

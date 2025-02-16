@@ -1,0 +1,146 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Advanced Micro Devices, Inc. (AMD) covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and profitability metrics
+     - Segment performance
+     - Operating expenses
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Product development
+     - Manufacturing partnerships
+     - Research and development
+     - Market expansion
+
+  3. Market Position
+     - Competitive landscape
+     - Technology leadership
+     - Customer relationships
+     - Strategic initiatives
+
+  4. Risk Management
+     - Market conditions
+     - Supply chain
+     - Technology transitions
+     - Operational challenges
+seed_examples:
+  - context: >
+      For the quarter ended September 28, 2024, AMD reported net revenue of
+      $6.82 billion,  representing a 17.6% increase from $5.80 billion in Q3
+      2023. The company achieved  operating income of $724 million, up
+      significantly from $224 million in the same  quarter last year, with a
+      gross margin of 50.1%.
+    questions_and_answers:
+      - question: >
+          How did AMD's financial performance compare to the same quarter last
+          year?
+        answer: >
+          AMD showed strong growth in Q3 2024 with: 1) Net revenue increasing
+          17.6% to  $6.82 billion from $5.80 billion; 2) Operating income
+          growing to $724 million  from $224 million; 3) Net income rising to
+          $771 million from $299 million;  4) Diluted earnings per share
+          increasing to $0.47 from $0.18; 5) Gross margin  improving to 50.1%
+          with gross profit of $3.42 billion.
+      - question: |
+          What were the key components of AMD's operating expenses in Q3 2024?
+        answer: >
+          AMD's operating expenses included: 1) Research and development costs of
+          $1.64  billion (24% of revenue); 2) Marketing, general and
+          administrative expenses of  $721 million (10.6% of revenue); 3)
+          Amortization of acquisition-related  intangibles of $352 million; 4)
+          Total cost of sales of $3.40 billion, including  $233 million in
+          acquisition-related amortization; 5) Continued investment in  product
+          development and market expansion initiatives.
+      - question: |
+          How has AMD's balance sheet position evolved during the quarter?
+        answer: >
+          AMD maintained a strong financial position with: 1) Cash and cash
+          equivalents  of $3.90 billion; 2) Short-term investments of $647
+          million; 3) Total assets  of $69.64 billion; 4) Strong working capital
+          with current assets of $18.74  billion versus current liabilities of
+          $7.50 billion; 5) Reduced debt with  long-term debt of $1.72 billion
+          and no current portion of long-term debt.
+  - context: >
+      As of September 28, 2024, AMD's balance sheet showed significant growth
+      in accounts  receivable to $7.24 billion and inventories to $5.37 billion.
+      The company continued  to invest in research and development, spending
+      $4.74 billion in the first nine  months of 2024, while maintaining strong
+      cash flow from operations of $1.74 billion.
+    questions_and_answers:
+      - question: |
+          How is AMD managing its working capital and operational efficiency?
+        answer: >
+          AMD's working capital management shows: 1) Accounts receivable growth to
+          $7.24  billion, reflecting increased sales; 2) Strategic inventory
+          management with  $5.37 billion in stock; 3) Strong supplier
+          relationships with accounts payable  of $2.53 billion; 4) Effective
+          cash management with $3.90 billion in cash and  equivalents; 5)
+          Operating cash flow of $1.74 billion for the first nine months  of
+          2024.
+      - question: |
+          What are AMD's key investment areas and capital allocation priorities?
+        answer: >
+          AMD's investment priorities include: 1) Research and development
+          spending of  $4.74 billion in the first nine months of 2024; 2)
+          Capital expenditures of  $428 million for infrastructure and capacity;
+          3) Strategic investments in  property and equipment, now valued at
+          $1.67 billion; 4) Continued investment  in intellectual property and
+          technology development; 5) Balanced approach to  capital allocation
+          between growth investments and shareholder returns.
+      - question: |
+          How does AMD manage its cash and investments?
+        answer: >
+          AMD's cash management strategy includes: 1) Maintaining $3.90 billion in
+          cash  and cash equivalents; 2) Strategic management of short-term
+          investments, reduced  to $647 million from $1.84 billion at year-end;
+          3) Strong operating cash flow  generation of $1.74 billion in nine
+          months; 4) Disciplined working capital  management; 5) Balanced
+          approach to investments in R&D, capital expenditures,  and strategic
+          initiatives.
+  - context: >
+      AMD continues to focus on technology leadership and market expansion,
+      with significant  investments in research and development. The company
+      maintains strong relationships  with manufacturing partners and customers
+      while managing various operational and  market risks.
+    questions_and_answers:
+      - question: >
+          How does AMD invest in research and development to maintain
+          competitiveness?
+        answer: >
+          AMD's R&D investment strategy includes: 1) Significant quarterly
+          investment of  $1.64 billion in Q3 2024; 2) Focus on next-generation
+          processors and graphics  technologies; 3) Development of AI and
+          machine learning capabilities; 4)  Enhancement of existing product
+          lines across all segments; 5) Strategic  allocation of resources to
+          high-growth areas and emerging technologies.
+      - question: >
+          What are AMD's key operational challenges and risk management
+          strategies?
+        answer: >
+          AMD addresses operational challenges through: 1) Strategic management of
+          supply  chain relationships; 2) Careful inventory management in
+          response to market  conditions; 3) Diversification of manufacturing
+          partnerships; 4) Investment  in technology development and innovation;
+          5) Balanced approach to growth and  operational efficiency; 6) Strong
+          focus on working capital management.
+      - question: |
+          How does AMD maintain and strengthen its market position?
+        answer: >
+          AMD strengthens its market position through: 1) Continuous investment in
+          product  innovation and development; 2) Strategic partnerships with
+          key customers and  manufacturers; 3) Focus on high-growth markets
+          including AI and data center;  4) Balanced portfolio across consumer
+          and enterprise segments; 5) Strong  emphasis on operational execution
+          and efficiency.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/semiconductor/AMD/10-Q/data/*.md

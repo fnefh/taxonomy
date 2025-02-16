@@ -1,0 +1,110 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline:
+  - Financial Performance:
+      - Revenue and Profitability
+      - Operating Metrics
+      - Cash Flow Management
+      - Investment Portfolio
+  - Business Operations:
+      - Store Network
+      - Loyalty Program
+      - Lease Management
+      - Inventory Management
+  - Growth Strategy:
+      - Store Expansion
+      - Capital Investments
+      - Market Penetration
+  - Risk Management:
+      - Operational Risks
+      - Financial Risks
+      - Legal and Regulatory Compliance
+seed_examples:
+  - context: >
+      For the thirteen weeks ended November 2, 2024, Ollie's Bargain Outlet
+      reported strong financial performance with net sales of $517.4 million,
+      compared to $480.1 million in the same period last year. The company
+      achieved a gross profit of $214.5 million and net income of $35.9 million.
+      Operating income increased to $44.5 million, demonstrating effective cost
+      management and operational efficiency.
+    questions:
+      - question: What were Ollie's key financial metrics for Q3 2024, and how did they
+          compare to the previous year?
+        answer: In Q3 2024, Ollie's reported net sales of $517.4 million (up from $480.1
+          million in Q3 2023), gross profit of $214.5 million (up from $194.1
+          million), and net income of $35.9 million (up from $31.8 million).
+          Operating income increased to $44.5 million from $39.1 million in the
+          same period last year, showing improved operational performance.
+      - question: How has Ollie's operating efficiency evolved in Q3 2024?
+        answer: Ollie's demonstrated improved operating efficiency in Q3 2024 with
+          operating income increasing to $44.5 million despite higher selling,
+          general, and administrative expenses of $154.5 million. The company
+          maintained strong cost management while growing sales, resulting in an
+          operating margin of approximately 8.6% of net sales.
+      - question: What is Ollie's earnings performance on a per-share basis for Q3 2024?
+        answer: For Q3 2024, Ollie's reported diluted earnings per share of $0.58,
+          compared to $0.51 in Q3 2023. Basic earnings per share were $0.59, up
+          from $0.52 in the same period last year, reflecting improved
+          profitability and effective capital management.
+  - context: >
+      As of November 2, 2024, Ollie's operated 546 retail locations across 31
+      states. The company maintains a strong balance sheet with cash and cash
+      equivalents of $128.7 million and short-term investments of $175.2
+      million. The Ollie's Army loyalty program has shown continued growth, with
+      deferred revenue of $11.6 million related to the program.
+    questions:
+      - question: What is the current scale of Ollie's retail operations and geographic
+          presence?
+        answer: As of November 2, 2024, Ollie's operates 546 retail locations spread
+          across 31 states, demonstrating its significant national presence in
+          the off-price retail sector. The company continues to expand its
+          footprint through strategic store openings in both existing and new
+          markets.
+      - question: How does Ollie's manage its cash and investment portfolio?
+        answer: Ollie's maintains a strong liquidity position with $128.7 million in
+          cash and cash equivalents and $175.2 million in short-term
+          investments. The investment portfolio is diversified across treasury
+          bonds ($121.2 million), municipal bonds ($12.6 million), and corporate
+          bonds ($41.5 million), all with maturities of one year or less.
+      - question: How effective is Ollie's loyalty program in driving customer
+          engagement?
+        answer: The Ollie's Army loyalty program shows strong customer engagement, with
+          deferred revenue of $11.6 million as of Q3 2024, up from $9.4 million
+          in the previous year. The program allows members to accumulate points
+          for discounts on future purchases, with a 45-day maximum redemption
+          period, helping drive repeat customer visits and sales.
+  - context: >
+      Ollie's has significant lease commitments for its retail locations and
+      distribution facilities, with total lease obligations of $555.9 million as
+      of November 2, 2024. The company's capital expenditures for the
+      thirty-nine weeks ended November 2, 2024, were $96.2 million, reflecting
+      investments in store expansion and infrastructure.
+    questions:
+      - question: What are Ollie's major lease commitments and how does it manage its
+          real estate strategy?
+        answer: Ollie's has total lease obligations of $555.9 million, with a
+          weighted-average remaining lease term of 7.3 years and a 4.2%
+          weighted-average discount rate. The company's lease payments are
+          structured with annual commitments ranging from $22.7 million to
+          $111.9 million through 2028, with additional commitments of $232.7
+          million thereafter.
+      - question: How is Ollie's investing in its growth and infrastructure?
+        answer: Ollie's invested $96.2 million in capital expenditures during the first
+          thirty-nine weeks of 2024, compared to $81.4 million in the same
+          period last year. These investments support store expansion,
+          infrastructure improvements, and operational capabilities to
+          facilitate continued growth.
+      - question: What are the key elements of Ollie's financial strategy for
+          sustainable growth?
+        answer: Ollie's financial strategy focuses on balanced growth through new store
+          openings, maintaining strong liquidity ($303.9 million in combined
+          cash and investments), efficient capital allocation, and strategic
+          investments in infrastructure. The company also maintains a
+          disciplined approach to lease management and operational costs while
+          investing in customer engagement through its loyalty program.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/retailing/OLLI/10-Q/data/*.md

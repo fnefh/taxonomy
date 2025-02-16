@@ -1,0 +1,140 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Asana, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Platform capabilities
+     - Work Graph technology
+     - AI integration
+     - Customer base
+     - Go-to-market strategy
+
+  2. Financial Performance
+     - Revenue growth
+     - Operating metrics
+     - Customer acquisition
+     - Market expansion
+     - Investment strategy
+
+  3. Market Position
+     - Competitive landscape
+     - Technology differentiation
+     - Growth strategies
+     - Enterprise focus
+
+  4. Risk Management
+     - Operational risks
+     - Market challenges
+     - Growth management
+     - Technology evolution
+seed_examples:
+  - context: >
+      As of January 31, 2024, Asana had over 150,000 paying customers
+      globally,  including 21,646 Core customers spending $5,000 or more
+      annually, and 607  customers spending $100,000 or more annually. The
+      company employs a hybrid  go-to-market approach combining product-led
+      growth with direct sales efforts.
+    questions_and_answers:
+      - question: >
+          What is Asana's customer base composition and how has it grown
+          over  the past year?
+        answer: >
+          Asana's customer base shows strong growth across segments: 1)
+          Total  paying customers exceeded 150,000, an increase of 11,000 from
+          previous  year; 2) Core customers (spending $5,000+ annually) reached
+          21,646, up  by 2,214; 3) Enterprise customers (spending $100,000+
+          annually) grew to  607, an increase of 101; 4) Customer base spans
+          numerous industries  including technology, retail, education,
+          healthcare, and financial  services; 5) Platform serves organizations
+          of all sizes, from individuals  to global enterprises.
+      - question: |
+          How does Asana approach customer acquisition and expansion?
+        answer: >
+          Asana uses a hybrid go-to-market strategy: 1) Product-led growth
+          through  free trials of Asana Advanced and free Personal offering; 2)
+          Direct  sales team focused on expanding footprint within existing
+          customers;  3) Marketing through owned properties, events, and
+          word-of-mouth;  4) Customer success support in six languages; 5)
+          Global community  connecting over 500,000 users; 6) Strategic focus on
+          landing teams  and expanding across use cases.
+      - question: |
+          What are the key metrics that demonstrate Asana's market penetration?
+        answer: >
+          Key performance indicators include: 1) Over 3 million paid users
+          globally;  2) 21,646 Core customers spending $5,000+ annually; 3) 607
+          customers  spending $100,000+ annually; 4) Presence in over 200
+          countries and  territories; 5) Strong customer expansion demonstrated
+          by dollar-based  net retention rate of 105% for Core customers.
+  - context: >
+      Asana's platform is built on the proprietary Asana Work Graph® data
+      model,  which provides a structured map of work relationships. The company
+      has  integrated AI capabilities (Asana Intelligence) and focuses on
+      enterprise-grade  features for cross-functional team collaboration.
+    questions_and_answers:
+      - question: |
+          What are the key technological differentiators of Asana's platform?
+        answer: >
+          Asana's platform is distinguished by: 1) The Asana Work Graph®,
+          a  proprietary data model mapping work relationships; 2) AI
+          capabilities  (Asana Intelligence) powered by real-time work data; 3)
+          Enterprise-grade  security and scalability; 4) Adaptability to various
+          use cases and  workflows; 5) Intuitive interface supporting multiple
+          work views;  6) Integration capabilities with other enterprise
+          software.
+      - question: |
+          How does Asana leverage AI in its platform?
+        answer: >
+          Asana's AI implementation includes: 1) Asana Intelligence powered
+          by  the Work Graph data model; 2) AI capabilities for insights
+          about  projects and blockers; 3) Automated status updates on key
+          initiatives;  4) Quick context provision for any project; 5) Enhanced
+          clarity and  impact at scale; 6) Real-time work data integration for
+          more reliable  and accurate AI features.
+      - question: |
+          What enterprise capabilities does Asana offer?
+        answer: >
+          Enterprise features include: 1) Cross-functional team collaboration
+          tools;  2) Goal setting and tracking at organization level; 3)
+          Strategic  portfolio management; 4) Resource planning and workload
+          management;  5) Security and permission controls; 6) Scalable
+          architecture for  large organizations.
+  - context: >
+      Asana focuses on long-term growth and customer success, investing in
+      sales,  marketing, R&D, and infrastructure. The company maintains a strong
+      emphasis  on company culture, diversity, and employee development.
+    questions_and_answers:
+      - question: |
+          What are Asana's key investment priorities and growth strategy?
+        answer: >
+          Asana's strategic investments focus on: 1) Sales and marketing
+          expansion;  2) Research and development for new features and AI
+          integration;  3) Infrastructure development; 4) Geographic expansion
+          and operations;  5) Employee hiring and development; 6) Long-term
+          value creation over  short-term profitability.
+      - question: |
+          How does Asana approach workplace culture and employee development?
+        answer: >
+          Asana's workplace initiatives include: 1) Strong focus on
+          diversity,  inclusion, and belonging; 2) Comprehensive DIB onboarding
+          curriculum;  3) Seven Employee Resource Groups with executive
+          sponsorship;  4) Leadership development programs; 5) Competitive
+          compensation and  benefits; 6) Regular employee engagement surveys
+          showing 74%  recommendation rate.
+      - question: |
+          What are the main challenges and risks in Asana's growth strategy?
+        answer: >
+          Key challenges include: 1) Managing rapid growth and scale; 2)
+          Achieving  profitability while investing in growth; 3) Converting free
+          users to  paying customers; 4) Competing in a rapidly evolving
+          market;  5) Maintaining technology leadership with AI advancement; 6)
+          Retaining  and expanding customer base in varying economic conditions.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/ASAN/10-K/data/*.md

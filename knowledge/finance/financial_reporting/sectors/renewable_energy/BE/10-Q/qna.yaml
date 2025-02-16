@@ -1,0 +1,143 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Bloom Energy Corporation covering fiscal years 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and cost structure
+     - Operating expenses
+     - Cash flow and liquidity
+     - Debt management
+     - Working capital
+
+  2. Business Operations
+     - Product and service delivery
+     - Manufacturing capabilities
+     - Geographic expansion
+     - Customer concentration
+     - Supply chain management
+
+  3. Strategic Initiatives
+     - Green financing
+     - IRA benefits
+     - Facility investments
+     - Market expansion
+     - Technology development
+
+  4. Risk Management
+     - Credit and customer risk
+     - Geographic concentration
+     - Operational challenges
+     - Market conditions
+     - Regulatory compliance
+seed_examples:
+  - context: >
+      For Q3 2024, Bloom Energy reported total revenue of $330.4 million,
+      with product revenue of $233.8 million, installation revenue of $32.1
+      million, service revenue of $50.8 million, and electricity revenue of
+      $13.8 million. The company maintained a strong balance sheet with $495.7
+      million in cash and cash equivalents.
+    questions_and_answers:
+      - question: |
+          What were Bloom Energy's key financial metrics for Q3 2024?
+        answer: >
+          In Q3 2024, Bloom Energy generated total revenue of $330.4 million, with
+          product revenue being the largest contributor at $233.8 million. The
+          company reported a gross profit of $78.7 million and a net loss of
+          $14.6 million. Operating expenses totaled $88.4 million, including
+          $36.3 million in R&D, $14.7 million in sales and marketing, and $37.4
+          million in general and administrative expenses.
+      - question: |
+          How does Bloom Energy's revenue mix break down by segment?
+        answer: >
+          Bloom Energy's Q3 2024 revenue was diversified across four segments: 1)
+          Product revenue: $233.8 million (70.8% of total), 2) Installation
+          revenue: $32.1 million (9.7%), 3) Service revenue: $50.8 million
+          (15.4%), and 4) Electricity revenue: $13.8 million (4.1%). This mix
+          reflects their integrated business model combining product sales with
+          ongoing service and installation support.
+      - question: |
+          What is Bloom Energy's liquidity position and capital structure?
+        answer: >
+          As of September 30, 2024, Bloom Energy had $495.7 million in cash and
+          cash equivalents, with additional restricted cash of $53.5 million.
+          The company had total debt of $1.13 billion, including $1.12 billion
+          in recourse debt and $4.6 million in non-recourse debt. In May 2024,
+          they issued $402.5 million in 3% Green Convertible Senior Notes due
+          June 2029, using part of the proceeds to repurchase existing notes.
+  - context: >
+      Bloom Energy's Q3 2024 operational performance showed significant
+      geographic expansion and customer diversification, with U.S. revenue
+      representing 52% of total revenue. The company received IRS acceptance for
+      a $75.3 million Qualifying Advanced Energy Project Credit for their
+      Fremont manufacturing facility.
+    questions_and_answers:
+      - question: |
+          How is Bloom Energy's revenue distributed geographically?
+        answer: >
+          In Q3 2024, Bloom Energy's revenue was geographically diverse with 52%
+          coming from the U.S. and 48% from international markets, primarily in
+          the Asia Pacific region including South Korea, Japan, India, and
+          Taiwan. This represents increased international penetration compared
+          to Q3 2023, when U.S. revenue was 65% of total revenue.
+      - question: |
+          What is Bloom Energy's customer concentration?
+        answer: >
+          In Q3 2024, Bloom Energy had significant customer concentration with
+          three customers accounting for 38%, 20%, and 10% of total revenue
+          respectively. For accounts receivable, two customers represented 59%
+          and 18% of the total balance. This concentration includes strategic
+          relationships with key partners, particularly in the Asia Pacific
+          region.
+      - question: |
+          What progress has Bloom Energy made with government incentives?
+        answer: >
+          In March 2024, Bloom Energy received IRS acceptance for a $75.3 million
+          Qualifying Advanced Energy Project Credit under the Inflation
+          Reduction Act for their Fremont manufacturing facility. The credit is
+          subject to certification requirements, including prevailing wage and
+          apprenticeship requirements, to be satisfied within two years of
+          acceptance.
+  - context: >
+      Bloom Energy's strategic initiatives in 2024 focused on manufacturing
+      efficiency, green financing, and working capital management. The company
+      issued new Green Convertible Senior Notes and continued investing in
+      production capabilities while managing supply chain and operational risks.
+    questions_and_answers:
+      - question: |
+          What are Bloom Energy's key strategic financing initiatives?
+        answer: >
+          Bloom Energy has focused on green financing initiatives, including the
+          issuance of $402.5 million in 3% Green Convertible Senior Notes due
+          June 2029. They used $141.8 million of the proceeds to repurchase 50%
+          of their 2.5% Green Notes due August 2025, demonstrating active
+          management of their debt structure while maintaining alignment with
+          their sustainability goals.
+      - question: |
+          How is Bloom Energy managing working capital and operations?
+        answer: >
+          Bloom Energy's working capital management shows in their balance sheet
+          metrics, with $584.5 million in inventory and $590.8 million in
+          accounts receivable as of Q3 2024. The company has focused on
+          operational efficiency while maintaining sufficient working capital
+          for growth, with management expressing confidence in their cash
+          position for operational needs over the next 12 months.
+      - question: |
+          What are Bloom Energy's key operational risks and challenges?
+        answer: >
+          Key operational challenges include geographic concentration risk with
+          significant revenue from the U.S. and Asia Pacific regions, customer
+          concentration with three customers representing 68% of Q3 2024
+          revenue, and working capital needs for growth. The company also
+          manages supply chain risks through multiple sourcing strategies and
+          maintains comprehensive manufacturing capabilities to mitigate
+          operational risks.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/renewable_energy/BE/10-Q/data/*.md

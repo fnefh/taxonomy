@@ -1,0 +1,135 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Asana, Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Operating expenses
+     - Cash flow and liquidity
+     - Growth metrics
+
+  2. Business Operations
+     - Platform development
+     - Customer acquisition
+     - Market expansion
+     - Infrastructure investments
+
+  3. Market Position
+     - Competitive landscape
+     - Growth strategies
+     - Technology leadership
+     - Enterprise focus
+
+  4. Risk Management
+     - Market conditions
+     - Operational challenges
+     - Technology risks
+     - Regulatory compliance
+seed_examples:
+  - context: >
+      For the quarter ended October 31, 2024, Asana reported revenues of
+      $183.9  million, representing a 10.4% increase from $166.5 million in the
+      same  quarter of 2023. The company maintained strong liquidity with
+      $196.8  million in cash and cash equivalents and $258.5 million in
+      marketable  securities.
+    questions_and_answers:
+      - question: >
+          How did Asana's financial performance compare to the same
+          quarter  last year?
+        answer: >
+          Asana's Q3 2024 performance showed: 1) Revenue grew 10.4% to
+          $183.9  million from $166.5 million in Q3 2023; 2) Gross profit
+          increased to  $164.1 million from $150.5 million; 3) Operating loss
+          improved to  $60.2 million from $63.4 million; 4) Net loss per share
+          decreased to  $0.25 from $0.28; 5) Maintained strong gross margin of
+          89.2%.
+      - question: |
+          What were the key components of Asana's operating expenses in Q3 2024?
+        answer: >
+          Operating expenses included: 1) Research and development at
+          $83.3  million (45% of revenue); 2) Sales and marketing at $104.7
+          million  (57% of revenue); 3) General and administrative at $36.3
+          million  (20% of revenue); 4) Total operating expenses of $224.3
+          million;  5) Continued investment in product development and market
+          expansion.
+      - question: |
+          How has Asana's financial position evolved during the quarter?
+        answer: >
+          Asana maintained a strong financial position with: 1) $196.8 million  in
+          cash and cash equivalents; 2) $258.5 million in
+          marketable  securities; 3) Total assets of $874.2 million; 4) Deferred
+          revenue  of $279.6 million indicating strong future revenue
+          visibility;  5) Available borrowing capacity of $78.4 million under
+          revolving  credit facility.
+  - context: >
+      Asana's deferred revenue reached $282.1 million as of October 31,
+      2024,  with remaining performance obligations of $405.7 million. The
+      company  recognized $49.9 million of revenue during Q3 2024 from the
+      deferred  revenue balance at the beginning of the year.
+    questions_and_answers:
+      - question: >
+          What insights do Asana's deferred revenue metrics provide about
+          future  growth?
+        answer: >
+          Key revenue indicators show: 1) Total remaining performance
+          obligations  of $405.7 million; 2) Expected recognition of 82% of
+          obligations within  12 months; 3) Deferred revenue of $282.1 million;
+          4) Recognition of  $49.9 million from previous deferred revenue in Q3;
+          5) Strong  visibility into future revenue streams.
+      - question: |
+          How does Asana manage its contract acquisition costs?
+        answer: >
+          Contract acquisition management includes: 1) Amortization over
+          three-year  benefit period; 2) Total deferred costs of $39.8 million
+          as of Q3 2024;  3) Capitalization of $7.1 million in new costs during
+          Q3; 4) Quarterly  amortization of $6.7 million; 5) Strategic balance
+          between customer  acquisition and retention costs.
+      - question: >
+          What are Asana's key investment areas and capital allocation
+          priorities?
+        answer: >
+          Investment priorities include: 1) Research and development for
+          platform  enhancement; 2) Sales and marketing initiatives for growth;
+          3) Infrastructure  development with $24.0 million AWS commitment; 4)
+          Operating lease  obligations with $21.6 million in letters of credit;
+          5) Strategic  investments in customer acquisition and retention.
+  - context: >
+      Asana continues to focus on growth while managing operational
+      efficiency.  The company faces various market challenges including
+      competition,  technology evolution, and macroeconomic conditions.
+    questions_and_answers:
+      - question: >
+          What are the main operational challenges Asana faces in its
+          quarterly  execution?
+        answer: >
+          Key challenges include: 1) Managing operating losses while investing  in
+          growth; 2) Balancing R&D investments with profitability goals;  3)
+          Scaling sales and marketing efficiently; 4) Maintaining
+          competitive  position in evolving market; 5) Adapting to macroeconomic
+          conditions  and market volatility.
+      - question: |
+          How does Asana approach risk management in its quarterly operations?
+        answer: >
+          Risk management strategy includes: 1) Maintaining strong
+          liquidity  position; 2) Diversifying investment portfolio with
+          high-grade  securities; 3) Compliance with financial covenants in
+          credit facilities;  4) Regular evaluation of long-lived assets for
+          impairment; 5) Strategic  management of operational and market risks.
+      - question: |
+          What are Asana's growth initiatives and strategic priorities?
+        answer: >
+          Strategic priorities focus on: 1) Expanding platform capabilities
+          and  features; 2) Investing in AI and technology advancement; 3)
+          Growing  enterprise customer base; 4) Expanding international
+          presence;  5) Strengthening competitive position through innovation
+          and market  expansion.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/ASAN/10-Q/data/*.md

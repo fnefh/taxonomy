@@ -1,0 +1,90 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for AMETEK, Inc. through 2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations and Segments
+     - Electronic Instruments Group (EIG)
+     - Electromechanical Group (EMG)
+     - Market Leadership and Competitive Position
+     - Global Operations and Distribution
+     - Research and Development Capabilities
+
+  2. Strategic Growth Initiatives
+     - Operational Excellence Programs
+     - Strategic Acquisitions
+     - Global and Market Expansion
+     - New Product Development
+     - Sustainability and ESG Initiatives
+
+  3. Financial Performance and Results
+     - Revenue and Earnings Growth
+     - Segment Performance
+     - Cash Flow and Capital Allocation
+     - Acquisition Integration
+     - Operating Margins
+
+  4. Risk Management and Governance
+     - Market and Competition Risks
+     - Global Operations Risks
+     - Supply Chain Management
+     - Environmental Compliance
+     - Cybersecurity and Data Protection
+seed_examples:
+  - context: >
+      AMETEK's 2023 annual report details their business model, operational
+      performance, and strategic initiatives, highlighting their position as a
+      leading global manufacturer of electronic instruments and
+      electromechanical devices.
+    questions_and_answers:
+      - question: >
+          What are AMETEK's key business segments and their respective
+          contributions to 2023 performance?
+        answer: >
+          AMETEK operates through two main segments: 1) Electronic Instruments
+          Group (EIG), which is a leader in advanced analytical, test, and
+          measurement instruments for process, aerospace, power, and industrial
+          markets, contributing 71% of sales from process and analytical
+          instrumentation and 29% from aerospace and power instrumentation, 2)
+          Electromechanical Group (EMG), which produces engineered products for
+          medical, automation, aerospace, and defense markets, with 70% of sales
+          from automation and engineered solutions and 30% from aerospace
+          markets. Both segments maintain significant market positions in their
+          respective niche markets through technological advantages and
+          differentiated products.
+      - question: >
+          What were AMETEK's major strategic initiatives and acquisitions in
+          2023?
+        answer: >
+          In 2023, AMETEK executed several strategic initiatives: 1) Completed
+          four acquisitions totaling $2,237.9 million, including Bison Gear &
+          Engineering (March), United Electronic Industries (August), Amplifier
+          Research (October), and Paragon Medical (December), 2) Maintained
+          focus on Operational Excellence initiatives to drive growth and
+          efficiency, 3) Expanded global presence with operations in 20
+          countries, 4) Invested in new product development and innovation
+          across both segments, 5) Advanced sustainability initiatives including
+          emissions reduction and clean technology solutions development.
+      - question: >
+          How does AMETEK maintain its competitive advantages and market
+          leadership?
+        answer: >
+          AMETEK maintains competitive advantages through: 1) Significant market
+          share in targeted niche markets with high-quality, differentiated
+          products, 2) Strong technological and development capabilities,
+          consistently investing in R&D and new product innovation, 3) Efficient
+          and flexible manufacturing operations across global locations
+          including China, Czechia, Malaysia, Mexico, and Serbia, 4) Experienced
+          management team with average 25 years of AMETEK service, 5)
+          Implementation of the AMETEK Growth Model focusing on Operational
+          Excellence, Strategic Acquisitions, Global Market Expansion, and New
+          Product Development.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/manufacturing/AME/10-K/data/*.md

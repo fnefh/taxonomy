@@ -1,0 +1,128 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Carnival Corporation & plc covering fiscal years through 2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Operations
+     - Corporate Structure and Brands
+     - Global Cruise Industry Position
+     - Fleet and Capacity Information
+     - Geographic Markets and Itineraries
+
+  2. Strategic Initiatives and Growth
+     - Brand Differentiation Strategy
+     - Sustainability and Environmental Goals
+     - Fleet Expansion Plans
+     - Port Destinations Development
+
+  3. Operational Infrastructure
+     - Human Capital Management
+     - Supply Chain and Partnerships
+     - Marketing and Distribution
+     - Revenue Management
+
+  4. Financial Performance and Risk Management
+     - Revenue Streams and Pricing
+     - Cost Management
+     - Balance Sheet Strategy
+     - Risk Factors and Mitigation
+seed_examples:
+  - context: >
+      Carnival Corporation & plc's 2024 annual report details the company's
+      business model, brand portfolio, and strategic priorities in the global
+      cruise industry.
+    questions_and_answers:
+      - question: >
+          What is Carnival Corporation & plc's market position and brand
+          portfolio structure as of 2024?
+        answer: >
+          Carnival Corporation & plc is: 1) The world's largest cruise company
+          with a portfolio of nine brands: AIDA Cruises, Carnival Cruise Line,
+          Costa Cruises, Cunard, Holland America Line, P&O Cruises (Australia),
+          P&O Cruises (UK), Princess Cruises, and Seabourn, 2) Operating 94
+          ships with a total passenger capacity of 269,970 berths, representing
+          approximately 80% of the cruise industry capacity along with three
+          other major competitors, 3) Structured in two main segments: North
+          America and Australia (NAA) segment with 64% of capacity, and Europe
+          segment with 36% of capacity, 4) Planning to sunset P&O Cruises
+          (Australia) brand and fold its operations into Carnival Cruise Line in
+          March 2025.
+      - question: >
+          How is Carnival Corporation managing its growth and expansion strategy
+          through 2024-2033?
+        answer: >
+          Carnival's growth strategy includes: 1) A total of six new cruise ships
+          contracted for delivery through 2033, including five newbuilds for
+          Carnival Cruise Line (5,330-6,160 passenger capacity each) and one for
+          Princess Cruises (4,310 passenger capacity), 2) Development of new
+          port destinations, including Celebration Key opening in summer 2025
+          with capacity for four ships simultaneously, and enhancement of Half
+          Moon Cay (renamed RelaxAway) with a new pier opening in summer 2026,
+          3) Strategic focus on brand differentiation and market segmentation
+          across contemporary, premium, and luxury cruise experiences, 4)
+          Investment in sustainability initiatives including technology
+          upgrades, fleet improvements, and alternative fuel types.
+      - question: >
+          What are Carnival Corporation's key operational metrics and revenue
+          management strategies?
+        answer: >
+          Key operational aspects include: 1) Diverse passenger sourcing with 7.9
+          million from U.S. and Canada, 2.7 million from Continental Europe, 1.1
+          million from UK, and 1.0 million from Australia/New Zealand in 2024,
+          2) Strategic itinerary planning with Caribbean (34%), Europe without
+          Mediterranean (16%), Mediterranean (14%), Alaska (6%), and
+          Australia/New Zealand (6%) as main destinations, 3) Revenue management
+          through advance booking systems, dynamic pricing, and value- added
+          packages including beverage, internet, and shore excursion bundles, 4)
+          Onboard revenue generation representing 34% of cruise revenues in 2024
+          through various services and amenities.
+  - context: >
+      The 2024 annual report outlines Carnival Corporation's operational
+      infrastructure, human capital management, and sustainability initiatives.
+    questions_and_answers:
+      - question: >
+          How does Carnival Corporation manage its human capital and operational
+          infrastructure?
+        answer: >
+          Carnival's human capital management includes: 1) A diverse workforce of
+          over 160,000 team members from approximately 150 countries, including
+          100,000 shipboard and 15,000 shoreside employees, 2) Investment in
+          training and development through the CSMART Academy at the Arison
+          Maritime Center, providing advanced simulator-based training for
+          bridge and engineering officers, 3) Strong union relationships with
+          52% of shipboard and 22% of shoreside employees covered by collective
+          bargaining agreements, 4) Focus on creating a diverse, inclusive
+          workplace with career development opportunities.
+      - question: >
+          What are Carnival Corporation's key sustainability and environmental
+          initiatives?
+        answer: >
+          Carnival's sustainability approach includes: 1) A comprehensive roadmap
+          to 2030 focusing on climate action, circular economy, and
+          environmental footprint reduction, 2) Investment in technology
+          upgrades, fleet improvements, and alternative fuel testing, 3)
+          Development of sustainable port operations and community partnerships,
+          4) Implementation of a Responsible and Sustainable Sourcing Policy
+          covering labor, environmental, business ethics, and health and safety
+          risks.
+      - question: >
+          How does Carnival Corporation manage its supply chain and partnerships?
+        answer: >
+          Supply chain management involves: 1) Strategic sourcing from a global
+          supply base with focus on cost, quality, service, innovation, and
+          sustainability, 2) Implementation of a Business Partner Code of
+          Conduct and Responsible and Sustainable Sourcing Policy for all
+          suppliers, 3) Risk mitigation strategies including extended demand
+          planning, early purchase orders, and corporate-wide agreements, 4)
+          Diverse distribution network including travel agents, tour operators,
+          company vacation planners, websites, and onboard future cruise
+          consultants.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/hospitality_tourism/CUK/10-K/data/*.md

@@ -1,0 +1,79 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Carnival Corporation & plc covering fiscal quarters through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Revenue and Profitability Metrics
+     - Operating Expenses and Cost Management
+     - Cash Flow and Liquidity Position
+     - Debt Management and Capital Structure
+
+  2. Strategic Initiatives and Operations
+     - Brand Portfolio Management
+     - Fleet Optimization
+     - Environmental Compliance
+     - Market Positioning
+
+  3. Business Segments and Markets
+     - Geographic Revenue Distribution
+     - Brand Performance
+     - Customer Deposits and Booking Trends
+     - Operational Metrics
+
+  4. Risk Management and Regulatory Compliance
+     - Environmental Regulations
+     - Debt Obligations
+     - Market Risk Exposure
+     - Operational Challenges
+seed_examples:
+  - context: >
+      Carnival Corporation's Q3 2024 quarterly report details strong
+      financial performance, strategic brand realignment, and environmental
+      compliance initiatives.
+    questions_and_answers:
+      - question: >
+          What were Carnival Corporation's key financial metrics and performance
+          indicators for Q3 2024?
+        answer: >
+          Carnival Corporation's Q3 2024 financial performance showed: 1) Total
+          revenue of $7.896 billion, with $5.239 billion from passenger tickets
+          and $2.657 billion from onboard and other revenue, 2) Operating income
+          of $2.178 billion, a significant increase from $1.624 billion in Q3
+          2023, 3) Net income of $1.735 billion compared to $1.074 billion in Q3
+          2023, 4) Earnings per share of $1.37 basic and $1.26 diluted, up from
+          $0.85 and $0.79 respectively in Q3 2023.
+      - question: >
+          What strategic initiatives and operational changes did Carnival
+          Corporation implement in Q3 2024?
+        answer: >
+          Key strategic initiatives in Q3 2024 included: 1) Announcement of
+          sunsetting the P&O Cruises (Australia) brand and folding operations
+          into Carnival Cruise Line in March 2025, aimed at optimizing brand
+          portfolio, 2) Implementation of EU Emissions Trading Scheme (ETS)
+          compliance, with $49 million in emission allowances purchased, 3)
+          Strong customer deposit position of $6.8 billion as of August 31,
+          2024, including $61 million in unredeemed Future Cruise Credits, 4)
+          Continued debt management with total debt reduction to $28.856 billion
+          from $30.572 billion at fiscal year-end 2023.
+      - question: >
+          How is Carnival Corporation managing its environmental compliance and
+          regulatory requirements?
+        answer: >
+          Carnival's environmental compliance management includes: 1) Active
+          participation in the EU Emissions Trading Scheme (ETS) starting
+          January 1, 2024, with a three-year phase-in period, 2) Implementation
+          of a system to track and account for emissions inside EU waters, with
+          costs recorded within fuel expenses, 3) Strategic purchase of emission
+          allowances totaling $49 million as of August 31, 2024, 4) Integration
+          of environmental compliance costs into operational planning and
+          financial reporting structures.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/hospitality_tourism/CUK/10-Q/data/*.md

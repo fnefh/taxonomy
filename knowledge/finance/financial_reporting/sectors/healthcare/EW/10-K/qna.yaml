@@ -1,0 +1,161 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Edwards Lifesciences Corporation covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Products
+     - Transcatheter Aortic Valve Replacement
+     - Transcatheter Mitral and Tricuspid Therapies
+     - Surgical Structural Heart
+     - Critical Care
+     - Research and Development
+     - Manufacturing and Quality
+
+  2. Market Position and Strategy
+     - Global Leadership in Heart Valves
+     - Innovation and Product Development
+     - Clinical Research Programs
+     - Regulatory Approvals
+     - Sales and Marketing
+
+  3. Operations and Risk Management
+     - Manufacturing Facilities
+     - Quality Systems
+     - Supply Chain Management
+     - Regulatory Compliance
+     - Environmental Health and Safety
+
+  4. Financial Performance and Outlook
+     - Revenue by Product Group
+     - Geographic Distribution
+     - Research and Development Investment
+     - Market Conditions
+     - Strategic Priorities
+seed_examples:
+  - context: >
+      Edwards Lifesciences is the global leader in patient-focused medical
+      innovations for structural heart disease and critical care monitoring. The
+      company's product portfolio includes transcatheter heart valves, surgical
+      heart valves, and critical care technologies. In 2023, the company made
+      significant investments in research and development, representing 18% of
+      sales.
+    questions_and_answers:
+      - question: >
+          What are Edwards Lifesciences' main product groups and their strategic
+          focus?
+        answer: >
+          Edwards Lifesciences' main product groups include: 1) Transcatheter
+          Aortic Valve Replacement (SAPIEN family of valves), representing 65%
+          of net sales, 2) Transcatheter Mitral and Tricuspid Therapies,
+          including PASCAL PRECISION and EVOQUE systems, 3) Surgical Structural
+          Heart products, representing 16% of net sales, featuring RESILIA
+          tissue technology, and 4) Critical Care monitoring systems. The
+          company's strategic focus is on patient-focused innovation, with
+          significant R&D investment at 18% of sales in 2023.
+      - question: |
+          How does Edwards Lifesciences maintain its competitive advantage?
+        answer: >
+          Edwards maintains its competitive advantage through: 1) Continuous
+          innovation and significant R&D investment in new technologies, 2)
+          Strong clinical evidence supporting product efficacy, including the
+          PARTNER 3 Trial showing 99% freedom from stroke or mortality, 3)
+          Global manufacturing presence with facilities in the US, Singapore,
+          Costa Rica, and Ireland, 4) Comprehensive quality systems and
+          regulatory compliance, and 5) Strong relationships with leading
+          clinicians and research institutions worldwide.
+      - question: |
+          What are the key regulatory and quality systems in place?
+        answer: >
+          Edwards' regulatory and quality systems include: 1) Compliance with FDA,
+          European Union, and Japanese regulatory requirements, 2)
+          Implementation of ISO 13485:2016 quality standards, 3) Regular
+          inspections by regulatory bodies and independent auditors, 4)
+          Comprehensive quality system covering product design through
+          manufacturing and post-market surveillance, and 5) Modern quality
+          systems using Lean/Six Sigma principles throughout the product
+          lifecycle.
+  - context: >
+      Edwards Lifesciences operates manufacturing facilities globally and
+      maintains complex supply chain relationships. The company's quality
+      systems start with initial design concept and continue through
+      manufacturing, sales, and post-market surveillance. The company faces
+      various operational risks and challenges.
+    questions_and_answers:
+      - question: |
+          How does Edwards manage its manufacturing and supply chain operations?
+        answer: >
+          Edwards' manufacturing and supply chain management includes: 1)
+          Strategic facility locations in the US, Singapore, Costa Rica, and
+          Ireland for different product lines, 2) Rigorous sourcing procedures
+          for animal tissue used in heart valves, obtained only from the US and
+          Australia, 3) Relationships with multiple suppliers for critical
+          materials where possible, 4) Implementation of modern quality systems
+          and continuous improvement concepts, and 5) Regular monitoring of
+          supplier performance and quality metrics.
+      - question: |
+          What are the main operational risks and mitigation strategies?
+        answer: >
+          Key operational risks and mitigation strategies include: 1)
+          Manufacturing complexity requiring rigorous quality controls and
+          regulatory compliance, 2) Supply chain dependencies managed through
+          strategic sourcing and supplier relationships, 3) Information
+          technology security risks addressed through cybersecurity measures, 4)
+          Regulatory compliance managed through comprehensive quality systems,
+          and 5) Environmental health and safety risks monitored through
+          corporate and site-level programs.
+      - question: |
+          How does Edwards approach research and development?
+        answer: >
+          Edwards' R&D approach includes: 1) Significant investment representing
+          18% of 2023 sales, 2) Focus on transcatheter structural heart programs
+          and clinical research, 3) Development of new products to improve
+          procedures and patient outcomes, 4) Partnerships with leading research
+          institutions and clinicians, and 5) Collection of clinical evidence
+          for regulatory submissions and post-market studies.
+  - context: >
+      Edwards Lifesciences announced plans to spin off its Critical Care
+      product group as a separate publicly traded company by the end of 2024.
+      The company maintains a strong focus on innovation and market expansion
+      while managing various business risks and regulatory requirements.
+    questions_and_answers:
+      - question: >
+          What are the key aspects of Edwards' business transformation
+          initiatives?
+        answer: >
+          Edwards' business transformation initiatives include: 1) Planned
+          tax-free spin-off of Critical Care product group by end of 2024, 2)
+          Continued focus on structural heart disease innovations and market
+          expansion, 3) Investment in new technologies for transcatheter valve
+          therapies, 4) Development of next-generation monitoring systems and
+          decision support solutions, and 5) Strategic focus on patient-focused
+          innovation and clinical evidence generation.
+      - question: |
+          How does Edwards address market and competitive challenges?
+        answer: >
+          Edwards addresses market challenges through: 1) Leadership in
+          transcatheter heart valve technologies with the SAPIEN family of
+          valves, 2) Expansion into new markets and therapies, particularly in
+          mitral and tricuspid valve treatment, 3) Strong intellectual property
+          portfolio and continued innovation, 4) Strategic pricing and
+          reimbursement strategies across different healthcare systems, and 5)
+          Focus on cost-effective medical therapies and clinical value
+          demonstration.
+      - question: |
+          What are Edwards' key strategic priorities and growth drivers?
+        answer: >
+          Edwards' strategic priorities include: 1) Advancing leadership in
+          transcatheter aortic valve replacement, 2) Expanding presence in
+          mitral and tricuspid therapies through innovative products, 3)
+          Maintaining surgical heart valve leadership with RESILIA tissue
+          technology, 4) Successfully executing the Critical Care spin-off, and
+          5) Continuing investment in R&D and clinical evidence generation to
+          support future growth.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/healthcare/EW/10-K/data/*.md

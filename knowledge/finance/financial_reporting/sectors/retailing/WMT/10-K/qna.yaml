@@ -1,0 +1,141 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Walmart Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Omni-channel retail operations
+     - Global presence and scale
+     - Strategic priorities
+     - Technology and innovation
+
+  2. Financial Performance
+     - Revenue and profitability
+     - Segment performance
+     - Operating metrics
+     - Growth initiatives
+
+  3. Market Position
+     - Competitive landscape
+     - Strategic advantages
+     - Customer relationships
+     - Digital transformation
+
+  4. Risk Management
+     - Operational risks
+     - Supply chain challenges
+     - Regulatory compliance
+     - Market conditions
+seed_examples:
+  - context: >
+      Walmart is a people-led, technology-powered omni-channel retailer
+      serving approximately 255 million customers weekly through more than
+      10,500 stores in 19 countries. For fiscal year 2024, the company generated
+      total revenues of $648.1 billion, with net sales of $642.6 billion across
+      three segments: Walmart U.S. ($441.8B), Walmart International ($114.6B),
+      and Sam's Club ($86.2B).
+    questions_and_answers:
+      - question: |
+          What are Walmart's key business segments and their performance?
+        answer: >
+          Walmart operates through three segments: 1) Walmart U.S. - largest
+          segment with $441.8B in net sales (69% of total); 2) Walmart
+          International - $114.6B in net sales (18% of total) operating in 18
+          countries; 3) Sam's Club - $86.2B in net sales (13% of total). The
+          company serves approximately 255 million customers weekly through more
+          than 10,500 stores globally and various eCommerce platforms.
+      - question: |
+          How does Walmart approach its omni-channel strategy?
+        answer: >
+          Walmart's omni-channel strategy includes: 1) Integration of retail
+          stores and eCommerce through services like pickup and delivery; 2)
+          Over 8,000 pickup and 7,800 delivery locations globally; 3) Walmart+
+          membership offering enhanced benefits; 4) Digital initiatives
+          including advertising (Walmart Connect), fulfillment services, and
+          data products (Walmart Luminate); 5) Financial services through
+          digital channels and stores.
+      - question: |
+          What is Walmart's pricing and operational strategy?
+        answer: >
+          Walmart's strategy centers on: 1) Everyday Low Prices (EDLP) as
+          cornerstone of business; 2) Everyday Low Cost (EDLC) commitment to
+          control expenses; 3) Making life easier for busy families through
+          price leadership and convenience; 4) Operating with discipline; 5)
+          Digital transformation and technology integration; 6) Building trust
+          as competitive advantage.
+  - context: >
+      Walmart employs approximately 2.1 million associates globally, with 1.6
+      million in the U.S. and 0.5 million internationally. The company focuses
+      on investing in associate growth, well-being, and creating a culture of
+      belonging, with 92% of U.S. associates being hourly and 69% full-time.
+    questions_and_answers:
+      - question: |
+          How does Walmart manage its human capital?
+        answer: >
+          Walmart's human capital management focuses on: 1) Workforce of 2.1
+          million associates (1.6M U.S., 0.5M international); 2) Investment in
+          growth through programs like Walmart Academy and Live Better U; 3)
+          Competitive wages and comprehensive benefits; 4) Digital
+          transformation improving associate experience; 5) Culture of belonging
+          with 52% of global workforce identifying as women and 51% of U.S.
+          associates as people of color.
+      - question: |
+          What are Walmart's key associate development initiatives?
+        answer: >
+          Key initiatives include: 1) Walmart Academy offering retail skills and
+          leadership training; 2) Live Better U providing educational
+          opportunities; 3) 75% of U.S. salaried store, club and supply chain
+          management started in hourly positions; 4) Digital tools for
+          productivity and efficiency; 5) Comprehensive benefits including
+          401(k), healthcare, and stock purchase plans.
+      - question: |
+          How does Walmart approach diversity and inclusion?
+        answer: >
+          Walmart's approach includes: 1) Regular diversity representation
+          reporting; 2) Focus on creating equitable opportunities; 3) Regular
+          review of fair-pay practices; 4) Multiple feedback channels including
+          surveys and ethics channels; 5) 52% of global workforce identifying as
+          women; 6) 51% of U.S. associates identifying as people of color.
+  - context: >
+      Walmart's ESG strategy focuses on creating shared value through
+      opportunity, sustainability, community, and ethics. The company has set
+      ambitious goals including achieving zero emissions in operations by 2040
+      and reducing one billion metric tons of emissions in its value chain by
+      2030.
+    questions_and_answers:
+      - question: |
+          What are Walmart's key ESG priorities and initiatives?
+        answer: >
+          Walmart's ESG priorities include: 1) Opportunity - advancing belonging,
+          diversity, and inclusion; 2) Sustainability - responsible sourcing,
+          emissions reduction, and environmental protection; 3) Community -
+          strengthening local communities through products, disaster support,
+          and volunteerism; 4) Ethics and integrity - building trust at all
+          levels; 5) Zero emissions goal in operations by 2040; 6) Project
+          Gigaton targeting one billion metric tons of emissions reduction in
+          value chain by 2030.
+      - question: |
+          How does Walmart manage its supply chain sustainability?
+        answer: >
+          Walmart manages supply chain sustainability through: 1) Responsible
+          sourcing standards for suppliers; 2) Prevention of forced labor; 3)
+          Women's empowerment initiatives; 4) Safer and healthier product
+          offerings; 5) Emissions reduction in supply chains; 6) Protection and
+          restoration of nature; 7) Waste reduction initiatives.
+      - question: |
+          What are Walmart's community engagement strategies?
+        answer: >
+          Community engagement includes: 1) Providing safer, healthier, and more
+          affordable products; 2) Disaster support and response; 3) Associate
+          volunteerism programs; 4) Local grant initiatives; 5) Community
+          cohesion projects; 6) Focus on building trust among associates,
+          customers, and communities.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/retailing/WMT/10-K/data/*.md

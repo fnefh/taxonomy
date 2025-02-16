@@ -1,0 +1,149 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Advanced Micro Devices, Inc. (AMD) covering fiscal year 2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue by segments (Data Center, Client, Gaming, Embedded)
+     - Segment-specific growth and market share
+     - Operating metrics and profitability
+     - Customer concentration
+
+  2. Business Operations
+     - Product portfolio and innovations
+     - Manufacturing and supply chain
+     - Research and development
+     - Human capital management
+
+  3. Market Position
+     - Competitive landscape
+     - Technology leadership
+     - Strategic partnerships
+     - Market opportunities
+
+  4. Risk Factors
+     - Industry competition
+     - Manufacturing dependencies
+     - Technology transitions
+     - Market conditions
+seed_examples:
+  - context: >
+      For the fiscal year 2023, AMD operates through four primary segments:
+      Data Center, Client, Gaming, and Embedded.  The company's Data Center
+      segment focuses on server CPUs, GPUs, and adaptive computing solutions.
+      The Gaming segment  includes discrete graphics processors and semi-custom
+      game console products, while the Embedded segment provides  embedded CPUs,
+      GPUs, FPGAs, and Adaptive SoC products.
+    questions_and_answers:
+      - question: |
+          What are AMD's main business segments and their primary products?
+        answer: >
+          AMD operates through four main segments: 1) Data Center - providing
+          server CPUs, GPUs, and adaptive computing solutions,  2) Client -
+          offering processors for desktop and notebook PCs, 3) Gaming -
+          producing discrete graphics processors and  semi-custom game console
+          products, and 4) Embedded - delivering embedded CPUs, GPUs, FPGAs, and
+          Adaptive SoC products  for various markets including automotive,
+          industrial, and communications.
+      - question: |
+          How does AMD address the gaming market?
+        answer: >
+          AMD addresses the gaming market through its Gaming segment, which
+          provides discrete graphics processors (GPUs) for PCs  and semi-custom
+          SoC products for game consoles. The company has developed the AMD RDNA
+          3 graphics architecture featuring  chiplet design and AI accelerators.
+          AMD's technology powers major gaming consoles including the Sony
+          PlayStation 5 and  Microsoft Xbox Series S and X, and they've
+          partnered with Valve for the Steam Deck handheld gaming device.
+      - question: |
+          What is AMD's approach to manufacturing and production?
+        answer: >
+          AMD uses a fabless manufacturing strategy, partnering with third-party
+          foundries for wafer production. Their main  manufacturing partners
+          include TSMC for HPC, FPGA, and Adaptive SoC products, and
+          GLOBALFOUNDRIES for certain HPC  products at 12nm and 14nm nodes. For
+          assembly, testing, marking, and packaging (ATMP), AMD works with
+          partners in  the Asia-Pacific region, including two ATMP joint
+          ventures with Tongfu Microelectronics Co., Ltd.
+  - context: >
+      In 2023, AMD continued to focus on high-performance and adaptive
+      computing solutions, with one customer accounting  for 18% of consolidated
+      net revenue, primarily from the Gaming segment. The company employed
+      approximately 26,000  people globally and maintained a strong focus on
+      research and development, particularly in CPU, GPU, and FPGA technologies.
+    questions_and_answers:
+      - question: |
+          What is AMD's customer concentration risk?
+        answer: >
+          AMD has significant customer concentration risk with one customer
+          accounting for 18% of their consolidated net  revenue in 2023,
+          primarily from sales in the Gaming segment. The company acknowledges
+          that the loss of this  customer would have a material adverse effect
+          on their business.
+      - question: |
+          How does AMD invest in research and development?
+        answer: >
+          AMD focuses its R&D activities on designing and developing
+          next-generation processors, FPGAs, Adaptive SoCs,  accelerators, and
+          associated software. Key areas include improving performance and
+          performance-per-watt in advanced  semiconductor processes, designing
+          logic and interface IP, advanced packaging technologies, and
+          heterogeneous  integration technologies. They also invest in software
+          development, including design automation tools and optimized  software
+          libraries.
+      - question: |
+          What is AMD's approach to human capital management?
+        answer: >
+          AMD employs approximately 26,000 people globally and focuses on creating
+          an inclusive culture of innovation.  Their approach includes
+          competitive total rewards, strong employee engagement (with scores in
+          the top 10% of  technology companies), emphasis on diversity and
+          inclusion through Employee Resource Groups, and robust  development
+          programs including mentoring and leadership development initiatives.
+  - context: >
+      AMD competes in highly competitive markets against major players like
+      Intel and NVIDIA. The company maintains  approximately 7,500 U.S. patents
+      and 12,800 patents worldwide, with additional pending applications.
+      Environmental  regulations and compliance are increasingly important
+      aspects of their operations.
+    questions_and_answers:
+      - question: |
+          Who are AMD's main competitors in different market segments?
+        answer: >
+          In the Data Center segment, AMD competes primarily with Intel and NVIDIA
+          for CPU, GPU, and DPU products,  and with Intel for FPGA and Adaptive
+          SoC products. In the Client segment, their main competitor is
+          Intel,  with increasing competition from ARM-based designs. In Gaming,
+          they compete mainly with NVIDIA (market leader)  and Intel in
+          graphics, while maintaining leadership in semi-custom game console
+          products. In the Embedded  segment, they compete with Intel, Lattice
+          Semiconductor, Microsemi, and others in various product categories.
+      - question: |
+          How does AMD protect its intellectual property?
+        answer: >
+          AMD protects its intellectual property through patents, copyrights,
+          trademarks, trade secrets, and mask work  rights. As of December 2023,
+          they held approximately 7,500 U.S. patents and 12,800 patents
+          worldwide, with  5,600 pending applications. The company also
+          maintains numerous cross-licensing and technology exchange  agreements
+          with other companies, and licenses various proprietary and open-source
+          software for their design tools.
+      - question: |
+          What environmental regulations affect AMD's operations?
+        answer: >
+          AMD is subject to various environmental regulations worldwide, including
+          those related to materials used in  products, manufacturing processes,
+          discharge of pollutants, and waste management. They face specific
+          regulations  in regions like the EU and China regarding lead usage and
+          energy consumption limits. The company also manages  environmental
+          liabilities related to historical operations, including cleanup
+          requirements at three Superfund  sites in Sunnyvale, California.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/semiconductor/AMD/10-K/data/*.md

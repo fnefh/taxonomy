@@ -1,0 +1,139 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Synaptics Incorporated covering fiscal quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and profitability metrics
+     - Operating expenses
+     - Balance sheet items
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Product portfolio
+     - Research and development
+     - Operating leases and facilities
+     - Debt management
+
+  3. Market Position
+     - Strategic acquisitions
+     - Technology investments
+     - Customer relationships
+     - Competitive advantages
+
+  4. Risk Management
+     - Legal proceedings
+     - Indemnifications
+     - Debt covenants
+     - Market risks
+seed_examples:
+  - context: >
+      For the quarter ended December 28, 2024, Synaptics reported financial
+      results showing revenue growth and improved profitability metrics. The
+      company maintains a strong balance sheet with significant cash reserves
+      and strategic debt management.
+    questions_and_answers:
+      - question: |
+          What were Synaptics' key financial metrics for Q2 FY2024?
+        answer: >
+          Key financial metrics for Q2 FY2024 include: 1) Net revenue of $267.2
+          million, up from $237.0 million in Q2 FY2023; 2) Gross margin of
+          $122.2 million; 3) Operating expenses of $137.4 million; 4) Net income
+          of $1.8 million or $0.05 per diluted share; 5) Cash and cash
+          equivalents of $596.1 million as of December 2024; 6) Total assets of
+          $2,527.5 million.
+      - question: |
+          How does Synaptics manage its debt and capital structure?
+        answer: >
+          Synaptics manages its debt through: 1) $400 million Senior Notes at 4.0%
+          due 2029; 2) New $450 million Convertible Senior Notes at 0.75% due
+          2031; 3) Increased revolving credit facility from $250 million to $350
+          million with maturity extended to 2029; 4) Strategic debt refinancing
+          including repayment of Term Loan Facility; 5) Maintenance of strong
+          liquidity with $596.1 million in cash and cash equivalents.
+      - question: |
+          What are Synaptics' major operating expenses and investments?
+        answer: >
+          Major operating expenses include: 1) Research and development costs of
+          $83.3 million in Q2 FY2024; 2) Selling, general, and administrative
+          expenses of $49.5 million; 3) Acquired intangibles amortization of
+          $3.8 million; 4) Operating lease expenses of $3.2 million; 5)
+          Strategic investments in technology and product development; 6)
+          Ongoing facilities and infrastructure costs.
+  - context: >
+      Synaptics maintains significant intellectual property assets and
+      technology investments, including acquired intangibles across various
+      technology categories. The company continues to invest in research and
+      development while managing operational efficiency.
+    questions_and_answers:
+      - question: |
+          What is the composition of Synaptics' intangible assets?
+        answer: >
+          Synaptics' intangible assets as of December 2024 include: 1) Audio and
+          video technology valued at $44.9 million net; 2) Wireless connectivity
+          technology at $134.3 million net; 3) Video interface technology at
+          $41.4 million net; 4) Customer relationships at $17.6 million net; 5)
+          Total net carrying value of $242.0 million; 6) Weighted average life
+          of 4.9 years for total intangible assets.
+      - question: |
+          How does Synaptics manage its operational facilities and leases?
+        answer: >
+          Synaptics manages facilities through: 1) Operating leases for worldwide
+          office and R&D facilities; 2) Total lease liabilities of $48.4 million
+          as of December 2024; 3) Weighted average remaining lease term of 6.15
+          years; 4) Operating lease expense of $3.2 million in Q2 FY2024; 5)
+          Future minimum lease payments structured through fiscal 2034; 6)
+          Strategic facility planning for research and development needs.
+      - question: |
+          What are Synaptics' key business risks and mitigation strategies?
+        answer: >
+          Key risks and mitigation strategies include: 1) Intellectual property
+          protection through patents, trade secrets, and licensing; 2)
+          Indemnification agreements with officers and directors; 3) Management
+          of potential infringement claims and legal proceedings; 4) Compliance
+          with debt covenants including leverage ratio and interest coverage
+          requirements; 5) Strategic management of international operations; 6)
+          Regular monitoring of cybersecurity and operational risks.
+  - context: >
+      Synaptics has undertaken significant financial transactions including
+      debt refinancing and strategic investments. The company maintains strong
+      relationships with customers and suppliers while managing working capital
+      efficiently.
+    questions_and_answers:
+      - question: >
+          How does Synaptics manage its working capital and customer
+          relationships?
+        answer: >
+          Working capital management includes: 1) Accounts receivable of $146.5
+          million net as of December 2024; 2) Inventory management with net
+          inventory of $119.5 million; 3) Customer obligations of $53.8 million;
+          4) Strategic supplier relationships and inventory obligations; 5)
+          Efficient cash conversion cycle; 6) Strong customer credit management
+          with allowance for credit losses.
+      - question: |
+          What are Synaptics' recent strategic financial initiatives?
+        answer: >
+          Recent strategic initiatives include: 1) Issuance of $450 million in
+          Convertible Senior Notes at 0.75%; 2) Expansion of revolving credit
+          facility to $350 million; 3) Implementation of share repurchase
+          program; 4) Strategic use of proceeds for debt refinancing and working
+          capital; 5) Investment in research and development capabilities; 6)
+          Maintenance of strong liquidity position.
+      - question: |
+          How does Synaptics ensure compliance with financial covenants?
+        answer: >
+          Compliance measures include: 1) Maintaining consolidated total net
+          leverage ratio below 3.75 to 1.00; 2) Ensuring net interest coverage
+          ratio above 2.75 to 1.0; 3) Regular monitoring of financial metrics
+          and covenants; 4) Strategic management of debt levels and cash
+          position; 5) Quarterly reporting and certification of compliance; 6)
+          Maintenance of sufficient liquidity buffers.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/semiconductor/SYNA/10-Q/data/*.md

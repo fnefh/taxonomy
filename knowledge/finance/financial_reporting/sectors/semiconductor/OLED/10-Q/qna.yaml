@@ -1,0 +1,150 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Universal Display Corporation (OLED) covering fiscal quarters in
+  2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue growth and geographic distribution
+     - Operating expenses and profitability
+     - Cash position and investments
+     - Customer concentration
+
+  2. Business Operations
+     - OLED technology and materials
+     - Manufacturing capabilities
+     - Research and development
+     - Strategic partnerships
+
+  3. Market Position
+     - Global market presence
+     - Patent portfolio and IP strategy
+     - Customer relationships
+     - Technology leadership
+
+  4. Risk Management
+     - Supply chain dependencies
+     - Patent-related challenges
+     - Geographic concentration
+     - Market competition
+seed_examples:
+  - context: >
+      For Q3 2024, Universal Display Corporation reported total revenue of
+      $161.6 million,  representing a 14.6% increase from $141.1 million in Q3
+      2023. The company maintained  strong profitability with significant
+      customer concentration in South Korea and China,  which together accounted
+      for approximately 97% of total revenue.
+    questions_and_answers:
+      - question: >
+          What were Universal Display Corporation's key financial metrics for Q3
+          2024?
+        answer: >
+          In Q3 2024, Universal Display achieved revenue of $161.6 million, up
+          14.6% from  Q3 2023's $141.1 million. Geographic revenue distribution
+          showed South Korea at  $95.1 million (59%) and China at $61.4 million
+          (38%). The company maintained a  strong cash position with $79.6
+          million in cash and equivalents, plus $471.9 million  in short-term
+          investments and $378.8 million in long-term U.S. Government bonds.
+      - question: >
+          How concentrated is Universal Display's customer base, and what risks
+          does this present?
+        answer: >
+          Universal Display has significant customer concentration with four major
+          customers  accounting for 88% of total revenue in Q3 2024: Customer A
+          (41%), Customer B (24%),  Customer C (17%), and Customer D (6%). This
+          concentration, primarily in South Korea  and China (97% of revenue),
+          presents potential risks if any major customer reduces  orders or
+          shifts suppliers.
+      - question: >
+          What strategic investments has Universal Display made in manufacturing
+          capabilities?
+        answer: >
+          Universal Display has made significant investments in manufacturing
+          capabilities,  including the purchase and operation of a manufacturing
+          site in Shannon, Ireland  through its subsidiary OMM. The company
+          partners with PPG for production services  and has committed $47.7
+          million in inventory purchase commitments as of September  30, 2024,
+          demonstrating its focus on supply chain management and capacity
+          expansion.
+  - context: >
+      Universal Display Corporation's intellectual property portfolio
+      continues to expand,  with significant patent acquisitions including over
+      550 OLED-related patents from  Merck KGaA for $66.0 million in April 2023,
+      complementing previous acquisitions  from BASF and Fujifilm.
+    questions_and_answers:
+      - question: >
+          How has Universal Display strengthened its patent portfolio through
+          acquisitions?
+        answer: >
+          Universal Display has significantly expanded its patent portfolio
+          through strategic  acquisitions, including over 550 OLED-related
+          patents from Merck KGaA for $66.0  million in April 2023, over 500
+          patents from BASF acquired for €86.8 million, and  additional patents
+          from Fujifilm. These acquisitions cover OLED materials, lighting,  and
+          display stack technology.
+      - question: >
+          What is the company's approach to managing and monetizing its
+          intellectual property?
+        answer: >
+          The company manages its IP through a combination of patent acquisitions,
+          internal  development, and strategic licensing agreements. It
+          amortizes acquired technology  over 10 years and actively defends its
+          patent portfolio through legal proceedings.  The company also
+          maintains research agreements with academic institutions
+          like  Princeton University and USC for ongoing innovation.
+      - question: >
+          How does Universal Display protect its competitive position in the
+          OLED market?
+        answer: >
+          Universal Display protects its competitive position through a
+          multi-faceted  approach: maintaining a strong patent portfolio
+          (including recent acquisitions),  investing in R&D ($4.6 million in Q3
+          2024), forming strategic partnerships with  manufacturers like PPG,
+          and expanding manufacturing capabilities in Ireland. The  company also
+          actively monitors and responds to patent-related challenges in
+          various  jurisdictions.
+  - context: >
+      Universal Display's operational performance in Q3 2024 showed continued
+      investment  in growth, with $175.9 million in inventory, $191.2 million in
+      property and equipment,  and ongoing expansion of manufacturing
+      capabilities through its PPG partnership and  Irish facility.
+    questions_and_answers:
+      - question: >
+          What operational investments has Universal Display made to support
+          growth?
+        answer: >
+          Universal Display has made substantial operational investments,
+          including $191.2  million in property and equipment (up from $175.2
+          million in December 2023),  maintaining $175.9 million in inventory,
+          and expanding its Irish manufacturing  facility. The company also
+          invested in research and development, with $4.6 million  spent in Q3
+          2024, up from $1.5 million in Q3 2023.
+      - question: >
+          How does Universal Display manage its supply chain and manufacturing
+          partnerships?
+        answer: >
+          The company manages its supply chain through a strategic partnership
+          with PPG  Industries, which handles material production and facility
+          operations. The New  OLED Materials Agreement with PPG runs through
+          December 2024 and includes  operation of the Shannon, Ireland
+          manufacturing facility. The company maintains  $47.7 million in
+          purchase commitments to ensure material supply.
+      - question: >
+          What are the key operational risks and how does the company address
+          them?
+        answer: >
+          Key operational risks include reliance on PPG as the primary supplier,
+          geographic  concentration of customers in Asia (98% of revenue), and
+          potential patent  challenges. The company addresses these risks
+          through long-term supplier  agreements, strategic inventory management
+          ($175.9 million in inventory), and  active defense of its intellectual
+          property portfolio.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/semiconductor/OLED/10-Q/data/*.md

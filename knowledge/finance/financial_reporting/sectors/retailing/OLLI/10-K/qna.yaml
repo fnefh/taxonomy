@@ -1,0 +1,146 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Ollie's Bargain Outlet Holdings, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Company profile and history
+     - Business model and strategy
+     - Store operations and expansion
+     - Merchandise procurement and distribution
+     - Customer loyalty program (Ollie's Army)
+
+  2. Financial Performance
+     - Revenue and profitability metrics
+     - Store growth and performance
+     - Product category mix
+     - Capital allocation and investments
+
+  3. Market Position
+     - Competitive landscape
+     - Growth opportunities
+     - Brand strategy
+     - Marketing and advertising
+
+  4. Risk Management
+     - Operational risks
+     - Market conditions
+     - Regulatory compliance
+     - Cybersecurity
+seed_examples:
+  - context: >
+      Ollie's is America's largest retailer of closeout merchandise and
+      excess inventory, operating 512 stores across 30 states as of February 3,
+      2024. The company's differentiated "Good Stuff Cheap" strategy offers
+      brand name products at 20-70% below traditional retail prices. Brand name
+      closeout merchandise represented approximately 65% of retail value of 2023
+      merchandise purchases, while non-closeout goods and private label products
+      collectively represented approximately 35%.
+    questions_and_answers:
+      - question: >
+          What is Ollie's business model and how does it create value for
+          customers?
+        answer: >
+          Ollie's business model is built on: 1) Buying and selling closeout
+          merchandise and excess inventory at 20-70% below traditional retail
+          prices; 2) Offering a broad selection of brand name products (65% of
+          purchases) complemented by private label items; 3) Creating a unique
+          treasure hunt shopping experience with constantly changing assortment;
+          4) Operating no-frills warehouse format stores averaging 33,000 square
+          feet; 5) Maintaining strong relationships with over 1,100 suppliers to
+          source deals.
+      - question: >
+          How has Ollie's expanded its store footprint and what are its growth
+          plans?
+        answer: >
+          Ollie's expansion strategy includes: 1) Growing from 468 to 512 stores
+          in 2023, with 45 new store openings; 2) Targeting more than 1,300
+          potential locations nationwide based on internal estimates; 3)
+          Focusing on second generation sites ranging from 25,000 to 35,000
+          square feet; 4) Achieving average payback period of approximately two
+          years for new stores; 5) Operating three distribution centers with a
+          fourth center under construction to support up to 750 stores.
+      - question: |
+          What is Ollie's Army and how does it contribute to customer loyalty?
+        answer: >
+          Ollie's Army loyalty program features: 1) 14.0 million members as of
+          February 2024, growing 5.9% from 2022; 2) Members account for over 82%
+          of net sales and spend 40% more per trip than non-members; 3) Rewards
+          include 10% off coupons for every $250 spent and rank-based discounts;
+          4) Exclusive events like Ollie's Army Night drive engagement; 5)
+          Program data helps segment and target marketing initiatives.
+  - context: >
+      For fiscal year 2023, Ollie's reported strong financial performance
+      across key metrics. The company's product mix showed Consumables at 23.8%,
+      Home at 35.7%, Seasonal at 18.7%, and Other at 21.8% of net sales. The
+      company maintains consistent margins across primary product categories
+      while focusing on strategic growth initiatives.
+    questions_and_answers:
+      - question: >
+          How is Ollie's merchandise mix structured and what drives category
+          performance?
+        answer: >
+          Ollie's merchandise mix includes: 1) Home category as largest segment at
+          35.7% of sales; 2) Consumables growing to 23.8% from 21.6% in 2022; 3)
+          Seasonal items at 18.7% reflecting strategic timing of purchases; 4)
+          Other categories at 21.8% including books, electronics, and clothing;
+          5) Consistent margins maintained across categories through disciplined
+          buying strategy.
+      - question: |
+          What are the key elements of Ollie's merchandising strategy?
+        answer: >
+          The strategy encompasses: 1) Maintaining deep relationships with over
+          1,100 suppliers; 2) Specialized merchant team organized by department;
+          3) Quick decision-making on opportunistic purchases; 4) Mix of
+          closeout deals (65%) and private label/non-closeout goods (35%); 5)
+          Regular evaluation of private label quality and brand-like excitement.
+      - question: |
+          How does Ollie's approach inventory management and distribution?
+        answer: >
+          Ollie's manages inventory through: 1) Three distribution centers
+          handling 95% of merchandise; 2) Store deliveries 1-2 times per week
+          based on size and volume; 3) York, PA facility expanded to 804,000
+          square feet; 4) New Princeton, IL center under construction for 2024
+          opening; 5) Infrastructure capable of supporting up to 750 stores.
+  - context: >
+      Ollie's faces various operational and market risks as detailed in their
+      annual report. Key areas include competition in the closeout retail
+      sector, cybersecurity challenges, and regulatory compliance. The company
+      employs multiple strategies to address these risks while maintaining its
+      growth trajectory.
+    questions_and_answers:
+      - question: |
+          What are the primary risks facing Ollie's business operations?
+        answer: >
+          Key risks include: 1) Execution of opportunistic buying strategy in
+          competitive market; 2) Fluctuations in comparable store sales and
+          quarterly results; 3) Consumer confidence and spending patterns; 4)
+          Competition from various retail formats; 5) Store location
+          identification and lease negotiations; 6) Distribution center
+          operations and supply chain disruptions.
+      - question: |
+          How does Ollie's approach human capital management and development?
+        answer: >
+          Ollie's human capital strategy includes: 1) Over 11,500 associates with
+          5,500 full-time and 6,000 part-time; 2) Ollie's Leadership Institute
+          for career advancement; 3) Over 60% of field positions filled by
+          internal promotions; 4) Comprehensive benefits including 401(k) match
+          and health insurance; 5) Focus on workplace safety and inclusive
+          environment.
+      - question: |
+          What regulatory and compliance measures does Ollie's maintain?
+        answer: >
+          Ollie's maintains compliance through: 1) Adherence to state and federal
+          labor laws; 2) Implementation of privacy and safety regulations; 3)
+          Environmental and consumer protection standards; 4) Foreign Corrupt
+          Practices Act compliance for international sourcing; 5) Regular
+          evaluation of disclosure controls and procedures.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/retailing/OLLI/10-K/data/*.md

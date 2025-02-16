@@ -1,0 +1,99 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline:
+  - Business Overview and Technology - OLED Technologies and Materials - Revenue
+    Streams - Key Partnerships and Licenses - Manufacturing and R&D
+  - Financial Performance - Revenue and Profitability - Cost Structure - Cash
+    Position and Liquidity
+  - Market Position - Competitive Landscape - Patents and IP Portfolio -
+    Geographic Presence
+  - Risk Management - Technology Risks - Market and Competition Risks -
+    Operational Risks - Cybersecurity
+seed_examples:
+  - context: >
+      Universal Display Corporation reported its financial results for the
+      fiscal year 2023, highlighting revenue performance across different
+      segments and key operational metrics.
+    question: What were Universal Display Corporation's key financial metrics and
+      performance highlights for fiscal year 2023?
+    answer: >
+      For fiscal year 2023, Universal Display Corporation reported:
+
+      - Total revenue of $576.4 million, with material sales of $322.0 million and royalty/license fees of $238.4 million
+
+      - Net income of $203.0 million
+
+      - Gross margin of 77%
+
+      - Strong liquidity position with $799.6 million in cash, cash equivalents, and investments
+
+      - Research and development expenses increased to $130.5 million, reflecting continued investment in innovation
+  - context: >
+      The company maintains significant intellectual property assets and
+      partnerships with major display manufacturers, which are critical to its
+      business model.
+    question: What are Universal Display Corporation's key business relationships
+      and intellectual property assets?
+    answer: >
+      Universal Display Corporation maintains:
+
+      - Over 6,000 issued and pending patents related to OLED technologies
+
+      - Key commercial agreements with major manufacturers including:
+        - Samsung Display Co. (SDC) through 2027 with two-year extension option
+        - LG Display through 2025
+        - BOE Technology Group (new long-term agreements in 2023)
+        - Partnerships with CSOT, Visionox, and Tianma
+      - Manufacturing partnership with PPG for OLED materials production
+
+      - New manufacturing facility in Shannon, Ireland to double production capacity
+  - context: >
+      The company faces various risks and challenges in maintaining its
+      market position and technological leadership in the OLED industry.
+    question: What are the primary risks and challenges facing Universal Display
+      Corporation?
+    answer: >
+      Key risks include:
+
+      - Patent and IP protection challenges, with some fundamental patents having expired
+
+      - Strong competition in OLED technologies and materials development
+
+      - Dependence on a limited number of customers for majority of revenue
+
+      - Reliance on PPG as sole manufacturer of OLED materials
+
+      - Market fluctuations and economic downturns affecting consumer electronics industry
+
+      - Cybersecurity threats to intellectual property and operations
+
+      - International operations risks, particularly in Asia-Pacific region
+
+      - Supply chain and raw material cost/availability challenges
+  - context: >
+      The company has made significant investments in research and
+      development, new facilities, and strategic initiatives.
+    question: What are Universal Display Corporation's key strategic initiatives and
+      investments?
+    answer: >
+      Major strategic initiatives include:
+
+      - Expansion of manufacturing capacity through new Shannon, Ireland facility
+
+      - Formation of OVJP Corporation to commercialize Organic Vapor Jet Printing technology
+
+      - Increased R&D investment to $130.5 million in 2023
+
+      - Development of new OLED materials, including blue emitters
+
+      - Adesis subsidiary providing contract research services with 138 scientists
+
+      - Focus on expanding OLED technology applications in displays and lighting
+
+      - Strategic patent acquisitions, including from Merck KGaA in 2023 
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/semiconductor/OLED/10-K/data/*.md

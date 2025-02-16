@@ -1,0 +1,84 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Principal Financial Group, Inc. through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Revenue and Earnings Analysis
+     - Segment Performance Metrics
+     - Investment Portfolio Performance
+     - Cash Flow and Liquidity
+
+  2. Business Operations and Strategy
+     - Segment Operations Updates
+     - Market Conditions Impact
+     - Strategic Initiatives Progress
+     - Risk Management Activities
+
+  3. Balance Sheet and Capital Management
+     - Asset and Liability Management
+     - Capital Structure
+     - Investment Portfolio Composition
+     - Regulatory Capital Requirements
+
+  4. Risk Factors and Market Conditions
+     - Market Risk Exposures
+     - Credit Risk Management
+     - Regulatory Compliance
+     - Economic Environment Impact
+seed_examples:
+  - context: >
+      Principal Financial Group's Q3 2024 quarterly report details the
+      company's financial performance, showing significant changes in revenue
+      composition and earnings across business segments.
+    questions_and_answers:
+      - question: >
+          What were Principal Financial Group's key financial metrics and
+          performance indicators for Q3 2024?
+        answer: >
+          Principal Financial Group's Q3 2024 financial results showed: 1) Total
+          revenues of $3,011.6 million, with premiums and other considerations
+          at $1,412.9 million, fees and other revenues at $1,091.1 million, and
+          net investment income at $1,167.6 million, 2) Net loss of $220.0
+          million attributable to Principal Financial Group, Inc., impacted by
+          market conditions and liability remeasurements, 3) Total assets of
+          $322.9 billion as of September 30, 2024, with $102.6 billion in total
+          investments and $180.7 billion in separate account assets, showing the
+          company's strong market position and diverse investment portfolio.
+      - question: >
+          How did Principal Financial Group's investment portfolio and cash
+          flows perform in Q3 2024?
+        answer: >
+          Principal Financial Group's investment and cash flow performance in Q3
+          2024 showed: 1) Net investment income of $1,167.6 million, with a
+          diversified portfolio including $69.1 billion in fixed maturities
+          available-for-sale, $20.0 billion in mortgage loans, and $7.8 billion
+          in other investments, 2) Net cash provided by operating activities of
+          $3,143.9 million for the nine months ended September 30, 2024, 3)
+          Investment activities included $8.8 billion in purchases and $7.8
+          billion in sales and maturities of fixed maturities and equity
+          securities, demonstrating active portfolio management and strong
+          liquidity position.
+      - question: >
+          What were the major changes in Principal Financial Group's capital
+          structure and stockholders' equity during Q3 2024?
+        answer: >
+          Principal Financial Group's capital structure and equity changes in Q3
+          2024 included: 1) Total stockholders' equity of $11,281.4 million as
+          of September 30, 2024, with retained earnings of $16,847.0 million and
+          accumulated other comprehensive loss of $4,585.0 million, 2) Treasury
+          stock purchases of $739.0 million during the first nine months of
+          2024, reflecting ongoing capital management activities, 3) Dividend
+          payments to common stockholders of $492.7 million, demonstrating
+          commitment to shareholder returns while maintaining strong capital
+          position. The company also maintained strong financial strength
+          ratings and regulatory capital levels.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/insurance/PFG/10-Q/data/*.md

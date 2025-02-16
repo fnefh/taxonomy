@@ -1,0 +1,84 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Asset Entities Inc. through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Revenue Growth and Trends
+     - Operating Expenses Analysis
+     - Cash Flow Management
+     - Earnings Per Share
+     - Stock-Based Compensation
+
+  2. Business Operations and Growth
+     - Discord Community Metrics
+     - Social Media Marketing Services
+     - AE.360.DDM Platform Performance
+     - Research and Development Activities
+     - Strategic Partnerships
+
+  3. Capital Structure and Financing
+     - Equity Offerings and Stock Issuance
+     - Preferred Stock Transactions
+     - Treasury Stock Management
+     - Share Repurchase Programs
+     - Capital Allocation
+
+  4. Risk Management and Controls
+     - Liquidity Position
+     - Internal Controls
+     - Market Risk Exposure
+     - Regulatory Compliance
+     - Related Party Transactions
+seed_examples:
+  - context: >
+      Asset Entities Inc.'s Q3 2024 report details their financial
+      performance, showing significant revenue growth and continued investment
+      in platform development and marketing initiatives.
+    questions_and_answers:
+      - question: >
+          What were Asset Entities' key financial metrics and operational
+          highlights for Q3 2024?
+        answer: >
+          In Q3 2024, Asset Entities demonstrated significant growth with: 1)
+          Revenue of $202,921, a 237% increase from Q3 2023 ($60,135), 2)
+          Operating expenses of $1,518,290, including $133,031 in contract labor
+          and $677,074 in general and administrative expenses, 3) Research and
+          development expenses of $336,719 for the first nine months, focused on
+          platform development, 4) Advertising expenses of $453,976 for the nine
+          months, reflecting increased marketing initiatives, 5) Net loss of
+          $1,315,369 for the quarter, with loss per share of $0.41.
+      - question: >
+          How has Asset Entities' capital structure and liquidity position
+          evolved during Q3 2024?
+        answer: >
+          Asset Entities' capital structure and liquidity as of Q3 2024 showed: 1)
+          Cash position of $2,098,406, down from $2,924,323 at year-end 2023, 2)
+          Successful issuance of 330 shares of Series A Convertible Preferred
+          Stock, raising net proceeds of $2,647,500, 3) Total stockholders'
+          equity of $2,255,495, 4) Completion of a 1-for-5 reverse stock split
+          effective July 1, 2024, 5) Management's assessment that current funds
+          are sufficient for planned operations for at least 12 months, despite
+          an accumulated deficit of $9,994,891.
+      - question: >
+          What strategic initiatives and operational changes did Asset Entities
+          implement in Q3 2024?
+        answer: >
+          During Q3 2024, Asset Entities executed several strategic initiatives:
+          1) Increased investment in research and development with $336,719
+          spent on platform development, 2) Enhanced marketing efforts with
+          $453,976 in advertising expenses, 3) Expanded intangible assets to
+          $309,500 through software purchases, up from $100,000 at year-end
+          2023, 4) Implemented stock-based compensation programs totaling
+          $910,583 for the nine months, 5) Maintained focus on three core
+          service categories: Discord communities, social media marketing, and
+          AE.360.DDM platform services.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/internet/ASST/10-Q/data/*.md

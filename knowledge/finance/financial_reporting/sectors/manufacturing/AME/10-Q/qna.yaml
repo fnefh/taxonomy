@@ -1,0 +1,86 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for AMETEK, Inc. through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Revenue and Earnings Growth
+     - Segment Performance (EIG and EMG)
+     - Geographic Distribution
+     - Cash Flow and Working Capital
+     - Operating Margins and Profitability
+
+  2. Business Segment Operations
+     - Electronic Instruments Group (EIG)
+       * Process and Analytical Instrumentation
+       * Aerospace and Power
+     - Electromechanical Group (EMG)
+       * Automation and Engineered Solutions
+       * Aerospace Components
+
+  3. Market and Geographic Analysis
+     - Regional Performance
+     - International Operations
+     - Market Trends
+     - Customer Diversification
+     - Product Mix Evolution
+
+  4. Capital Structure and Risk Management
+     - Cash and Debt Position
+     - Capital Allocation
+     - Working Capital Management
+     - Warranty Obligations
+     - Contract Assets and Liabilities
+seed_examples:
+  - context: >
+      AMETEK's Q3 2024 financial report shows strong performance across both
+      business segments, with total net sales reaching $1.71 billion and
+      operating income of $445.9 million. The company maintains a diverse
+      geographic presence with significant operations in the United States,
+      European Union, Asia, and other regions.
+    questions_and_answers:
+      - question: >
+          What were AMETEK's key financial metrics and segment performance in Q3
+          2024?
+        answer: >
+          In Q3 2024, AMETEK achieved net sales of $1.71 billion, with operating
+          income of $445.9 million and net income of $340.2 million. The
+          Electronic Instruments Group (EIG) contributed $1.13 billion in sales,
+          with Process and Analytical Instrumentation generating $779.8 million
+          and Aerospace and Power contributing $354.8 million. The
+          Electromechanical Group (EMG) recorded sales of $574.0 million, with
+          Automation and Engineered Solutions accounting for $413.8 million and
+          Aerospace components contributing $160.2 million.
+      - question: >
+          How does AMETEK's geographic revenue distribution reflect its global
+          market presence?
+        answer: >
+          In Q3 2024, AMETEK's geographic revenue distribution showed: U.S. sales
+          of $894.8 million (52.4% of total), Asia sales of $361.9 million
+          (21.2%), European Union sales of $232.3 million (13.6%), and United
+          Kingdom sales of $56.4 million (3.3%). Other foreign countries
+          contributed $163.1 million (9.5%). This diverse geographic presence
+          demonstrates AMETEK's strong global market position and balanced
+          revenue streams across major regions.
+      - question: >
+          What are the key trends in AMETEK's working capital and cash flow
+          management?
+        answer: >
+          For the nine months ended September 30, 2024, AMETEK generated strong
+          operating cash flow of $1.28 billion, up from $1.19 billion in the
+          same period of 2023. The company maintained efficient working capital
+          management with receivables of $968.2 million and inventories of $1.08
+          billion. Contract assets increased by $10.6 million while contract
+          liabilities decreased by $36.7 million, reflecting timing of customer
+          advanced payments. The company's cash position remained strong at
+          $396.3 million, with total debt reduced by $998.1 million during the
+          period.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/manufacturing/AME/10-Q/data/*.md

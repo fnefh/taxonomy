@@ -1,0 +1,102 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Richardson Electronics, Ltd. through fiscal year 2024.
+
+  The reports include detailed information about:
+
+  1. Business Model and Operations
+     - Core Engineering and Manufacturing Capabilities
+     - Global Infrastructure and Market Presence
+     - Manufacturing Facilities (LaFox, IL; Marlborough, MA; Donaueschingen, Germany)
+     - Product Portfolio and Manufacturing Partners
+     - Target Markets and Customer Base
+
+  2. Business Segments
+     - Power and Microwave Technologies (PMT)
+       * RF and Microwave Components
+       * Power Grid Solutions
+       * Technical Services
+     - Green Energy Solutions (GES)
+       * Energy Storage Solutions
+       * Power Management Applications
+       * Renewable Energy Technologies
+     - Canvys
+       * Custom Display Solutions
+       * OEM Manufacturing Services
+       * Touch Screen Technologies
+     - Healthcare
+       * Diagnostic Imaging Parts
+       * Equipment Repair and Refurbishment
+       * Technical Training Services
+
+  3. Financial Performance and Results
+     - Revenue by Segment and Geography
+     - Gross Margin Analysis
+     - Operating Income and Expenses
+     - Cash Flow and Working Capital
+     - Capital Structure and Investments
+
+  4. Strategic Initiatives and Risk Management
+     - Global Market Expansion
+     - Product Development and Innovation
+     - Supply Chain Management
+     - Tariff Impact Mitigation
+     - Inventory Management
+     - Human Capital Resources
+seed_examples:
+  - context: >
+      Richardson Electronics' fiscal 2024 annual report shows performance
+      across multiple business segments, with total net sales of $196.5 million
+      and operations spanning North America, Asia/Pacific, Europe, and Latin
+      America. The company maintains a diverse product portfolio serving various
+      industries including alternative energy, healthcare, aviation, and
+      semiconductor markets.
+    questions_and_answers:
+      - question: >
+          What are Richardson Electronics' key business segments and their
+          performance in fiscal 2024?
+        answer: >
+          Richardson Electronics operates through four main segments: 1) Power and
+          Microwave Technologies (PMT) with sales of $128.7 million, focusing on
+          RF, wireless, and power applications; 2) Green Energy Solutions (GES)
+          with sales of $23.2 million, serving renewable energy and power
+          management markets; 3) Canvys with sales of $32.4 million, providing
+          custom display solutions; and 4) Healthcare with sales of $12.1
+          million, offering diagnostic imaging replacement parts and equipment.
+          PMT remains the largest segment, though it saw a 21.7% decrease from
+          2023, while Healthcare grew by 5.7%.
+      - question: >
+          How does Richardson Electronics' manufacturing and distribution
+          capability support its business model?
+        answer: >
+          Richardson Electronics manufactures approximately 55% of its products at
+          facilities in LaFox, Illinois, Marlborough, Massachusetts, and
+          Donaueschingen, Germany, with the remainder produced by manufacturing
+          partners worldwide. The company maintains a global infrastructure with
+          distribution facilities in multiple countries, including the US,
+          Netherlands, Germany, and Singapore, plus satellite warehouses in
+          Brazil, China, Thailand, and the UK. This network enables same-day
+          shipping for over 90% of in-stock orders received by 6:00 p.m. local
+          time, supporting their strategy of providing specialized technical
+          expertise and engineered solutions globally.
+      - question: >
+          What are the key financial metrics and trends for Richardson
+          Electronics in fiscal 2024?
+        answer: >
+          In fiscal 2024, Richardson Electronics reported net sales of $196.5
+          million, a 25.2% decrease from $262.7 million in fiscal 2023. Gross
+          margin was 30.5% compared to 31.9% in the previous year. Operating
+          income decreased to $0.3 million from $25.0 million in 2023. The
+          company maintained a strong balance sheet with $24.3 million in cash
+          and cash equivalents, distributed across global operations: North
+          America ($7.1M), Europe ($7.3M), Asia/Pacific ($8.8M), and Latin
+          America ($1.1M). The company also established a $30 million revolving
+          credit facility, though no amounts were outstanding at year-end.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/manufacturing/RELL/10-K/data/*.md

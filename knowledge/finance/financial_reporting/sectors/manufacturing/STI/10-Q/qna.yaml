@@ -1,0 +1,86 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Solidion Technology, Inc. through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Corporate Structure and Business Operations
+     - Merger with Honeycomb Battery Company
+     - Business Focus and Technology Development
+     - Research and Development Activities
+     - Manufacturing Capabilities
+     - Geographic Presence
+
+  2. Financial Performance and Position
+     - Revenue and Operating Results
+     - Cash Flow and Liquidity
+     - Capital Structure
+     - Operating Expenses
+     - Research and Development Investments
+
+  3. Strategic Developments and Initiatives
+     - Private Placements and Financing
+     - Warrant Activities
+     - Stock-Based Compensation
+     - Strategic Partnerships
+     - Business Expansion Plans
+
+  4. Risk Factors and Challenges
+     - Going Concern Considerations
+     - Liquidity Management
+     - Market and Competition
+     - Technology Development Risks
+     - Regulatory Compliance
+seed_examples:
+  - context: >
+      For Q3 2024, Solidion Technology reported significant developments in
+      its business structure and financial position. The company completed a
+      merger with Honeycomb Battery Company and implemented strategic financing
+      initiatives, while continuing to invest in research and development of
+      advanced battery technologies.
+    questions_and_answers:
+      - question: >
+          What were the key financial metrics and operational highlights for
+          Solidion Technology in Q3 2024?
+        answer: >
+          In Q3 2024, Solidion Technology reported: 1) Operating loss of $4.19
+          million, with R&D expenses of $459,805 and SG&A expenses of $3.73
+          million, 2) Cash position of $1.19 million as of September 30, 2024,
+          3) Successful completion of private placements raising $7.85 million,
+          and 4) Continued investment in patent development with net patents
+          valued at $1.92 million. The company maintained focus on developing
+          and commercializing battery materials, components, and cell
+          technologies.
+      - question: >
+          How has Solidion's capital structure evolved following the merger with
+          Honeycomb Battery Company?
+        answer: >
+          Following the merger in February 2024, Solidion's capital structure
+          underwent significant changes: 1) Issued 70 million shares as merger
+          consideration, with potential for 22.5 million additional earnout
+          shares, 2) Completed private placements resulting in 117.3 million
+          shares outstanding as of September 30, 2024, 3) Maintains multiple
+          warrant series (Public, Private, Series A-D) totaling over 70 million
+          potential shares, and 4) Implemented a 2023 Equity Incentive Plan with
+          9.5 million shares initially reserved for issuance.
+      - question: >
+          What are the primary challenges and risks facing Solidion Technology
+          as of Q3 2024?
+        answer: >
+          Key challenges include: 1) Going concern issues due to recurring net
+          losses ($14.38 million for nine months ended September 30, 2024) and
+          limited cash reserves ($1.19 million), 2) Need for additional capital
+          to sustain operations and fund development activities, 3) Technology
+          development risks in the competitive battery industry, 4) Scaling
+          production and manufacturing capabilities, and 5) Market uncertainties
+          and regulatory compliance requirements. The company is actively
+          pursuing financing options and strategic partnerships to address these
+          challenges.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/manufacturing/STI/10-Q/data/*.md

@@ -1,0 +1,140 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Automatic Data Processing, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - HCM technology and solutions
+     - Strategic priorities
+     - Innovation and AI integration
+     - Global presence and scale
+
+  2. Financial Performance
+     - Revenue growth and profitability
+     - Operating metrics
+     - Client funds management
+     - Capital allocation
+
+  3. Market Position
+     - Competitive advantages
+     - Technology leadership
+     - Client relationships
+     - Global infrastructure
+
+  4. Risk Management
+     - Cybersecurity measures
+     - Operational risks
+     - Regulatory compliance
+     - Technology evolution
+seed_examples:
+  - context: >
+      For fiscal year 2024, ADP reported revenues of $19.2 billion,
+      representing a 7% increase from the previous year. The company serves over
+      1.1 million clients and pays over 42 million workers in over 140 countries
+      and territories, maintaining its position as a leading global provider of
+      cloud-based HCM solutions.
+    questions_and_answers:
+      - question: >
+          What were ADP's key financial results and operational metrics for
+          fiscal year 2024?
+        answer: >
+          ADP's fiscal 2024 performance showed: 1) Revenue growth of 7% to $19.2
+          billion (6% organic constant currency); 2) Earnings before income
+          taxes margin expansion of 70 bps; 3) Diluted earnings per share growth
+          of 11% to $9.10; 4) Strong client retention at 92%; 5) Return of $3.4
+          billion to shareholders through dividends ($2.2B) and share
+          repurchases ($1.2B).
+      - question: |
+          How has ADP's client base and market presence evolved?
+        answer: >
+          ADP maintains a strong global presence with: 1) Over 1.1 million clients
+          worldwide; 2) Services for more than 42 million workers across 140+
+          countries; 3) U.S. pays per control growth of 2% year-over-year; 4)
+          PEO average worksite employees increase of 2%; 5) ES new business
+          bookings growth of 7%; 6) Continued expansion of global footprint and
+          partnerships.
+      - question: |
+          What are ADP's key strategic priorities and growth initiatives?
+        answer: >
+          ADP focuses on three strategic priorities: 1) Leading with best-in-class
+          HCM technology, including AI integration and platform enhancements; 2)
+          Providing unmatched expertise and outsourcing solutions through
+          comprehensive service and implementation capabilities; 3) Leveraging
+          global scale through expanded footprint and technology partnerships;
+          4) Continuous investment in innovation and R&D; 5) Focus on client
+          satisfaction and retention.
+  - context: >
+      ADP has made significant investments in AI and innovation, launching
+      ADP Assist in January 2024, a cross-platform solution powered by
+      generative AI. The company processes vast amounts of workforce data, with
+      its DataCloud analyzing data from more than one million organizations
+      across the U.S.
+    questions_and_answers:
+      - question: |
+          How is ADP leveraging AI and technology in its solutions?
+        answer: >
+          ADP's technology initiatives include: 1) ADP Assist, a generative
+          AI-powered solution for HR processes and insights; 2) DataCloud
+          analytics processing data from 1M+ organizations; 3) Skills Graph
+          analyzing 44M+ employee records and 140M+ resumes; 4) AI-powered tools
+          for payroll validation and compliance; 5) Integration of generative AI
+          in service delivery and implementation.
+      - question: |
+          What are ADP's key data and analytics capabilities?
+        answer: >
+          ADP's data capabilities encompass: 1) Analysis of workforce data from
+          over 1M organizations; 2) Skills Graph covering 20+ industries and
+          500+ geographic areas; 3) Model-Based Benchmarks for 9,000+ job
+          titles; 4) Real-time compensation insights and market coverage; 5)
+          Advanced analytics for talent assessment and organizational
+          benchmarking.
+      - question: |
+          How does ADP approach innovation and product development?
+        answer: >
+          ADP's innovation strategy includes: 1) Continuous investment in R&D
+          ($955.7M in FY2024); 2) Development of next-gen platforms for HCM and
+          payroll; 3) Focus on AI-driven automation and insights; 4) Client-zero
+          program for testing and validation; 5) Strategic partnerships and
+          marketplace integrations; 6) Commitment to responsible AI development
+          and ethics.
+  - context: >
+      ADP maintains comprehensive cybersecurity and risk management programs,
+      processing large amounts of sensitive data and client funds. The company
+      collected significant funds from client accounts and transmitted them to
+      employees, tax authorities, and other payees, while managing various
+      operational and market risks.
+    questions_and_answers:
+      - question: |
+          How does ADP manage cybersecurity and data protection?
+        answer: >
+          ADP's security framework includes: 1) 24/7/365 global monitoring team;
+          2) Layered technical safeguards and controls; 3) Comprehensive
+          incident response plans; 4) Regular third-party assessments and
+          audits; 5) Robust security awareness training program; 6) Integration
+          with law enforcement and security organizations.
+      - question: |
+          What are ADP's key risk management practices?
+        answer: >
+          Risk management practices encompass: 1) Enterprise-wide risk assessment
+          and monitoring; 2) Strict client funds management protocols; 3)
+          Comprehensive business continuity planning; 4) Regular evaluation of
+          third-party risks; 5) Active board and audit committee oversight; 6)
+          Continuous compliance monitoring across jurisdictions.
+      - question: |
+          How does ADP ensure operational resilience and compliance?
+        answer: >
+          ADP maintains operational resilience through: 1) Global business
+          resiliency program; 2) Regular testing of disaster recovery and
+          business continuity plans; 3) Multiple data centers and cloud
+          infrastructure; 4) Strict regulatory compliance processes; 5) Regular
+          updates to security protocols and standards; 6) Comprehensive employee
+          training and awareness programs.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/ADP/10-K/data/*.md

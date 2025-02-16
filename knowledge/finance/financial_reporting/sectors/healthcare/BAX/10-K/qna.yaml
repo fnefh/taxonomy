@@ -1,0 +1,171 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Baxter International Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Strategic Actions
+     - Company profile and operations
+     - Strategic portfolio review
+     - Kidney Care business spinoff
+     - New operating model implementation
+     - BPS business sale
+     - Hillrom acquisition
+
+  2. Business Segments and Operations
+     - Medical Products and Therapies
+     - Healthcare Systems and Technologies
+     - Pharmaceuticals
+     - Kidney Care
+     - Global manufacturing footprint
+     - Distribution network
+
+  3. Market Position and Strategy
+     - Innovation initiatives
+     - Market expansion
+     - Operational excellence
+     - Capital allocation
+     - Competition
+     - Healthcare cost containment
+
+  4. Risk Management and Compliance
+     - Regulatory environment
+     - Cybersecurity
+     - Supply chain risks
+     - Global operations
+     - Legal and compliance matters
+     - Intellectual property
+seed_examples:
+  - context: >
+      In 2023, Baxter announced major strategic actions following a
+      comprehensive portfolio review, including the planned spinoff of its
+      Kidney Care business, implementation of a new operating model, and the
+      sale of its BioPharma Solutions business for $3.96 billion. The company
+      also completed the integration of Hillrom, acquired in December 2021 for
+      $10.48 billion.
+    questions_and_answers:
+      - question: >
+          What are the key strategic actions Baxter announced in 2023 and their
+          expected impact?
+        answer: >
+          In 2023, Baxter announced three major strategic actions: 1) A planned
+          spinoff of the Kidney Care business into an independent public
+          company, targeted for July 2024, which represented about 30% of
+          consolidated net sales, 2) Implementation of a new operating model to
+          simplify operations and align manufacturing with commercial
+          activities, resulting in four segments: Medical Products and
+          Therapies, Healthcare Systems and Technologies, Pharmaceuticals, and
+          Kidney Care, and 3) The sale of the BioPharma Solutions business for
+          $3.96 billion, with proceeds primarily used for debt reduction.
+      - question: >
+          How has Baxter's business structure evolved following recent strategic
+          changes?
+        answer: >
+          Baxter's business structure changed significantly in 2023 with the
+          implementation of a new operating model. The company moved from
+          geographic segments (Americas, EMEA, APAC) and a global Hillrom
+          segment to four business segments: Medical Products and Therapies
+          (including IV solutions and surgical products), Healthcare Systems and
+          Technologies (formerly Hillrom, including connected care solutions),
+          Pharmaceuticals (specialty injectables and anesthetics), and Kidney
+          Care (dialysis therapies and services).
+      - question: |
+          What are Baxter's key strategic priorities for future growth?
+        answer: >
+          Baxter's strategic priorities focus on four pillars: 1) Innovation -
+          accelerating growth through new connected care and core therapies
+          offerings, 2) Market Expansion - expanding geographic presence and
+          channel penetration, 3) Operational Excellence - implementing the new
+          operating model to streamline operations and enhance efficiency, and
+          4) Capital Allocation - focusing on debt reduction to achieve a 2.75x
+          net leverage target by 2025, maintaining dividend payments, and being
+          selective with acquisitions during the deleveraging period.
+  - context: >
+      Baxter operates in a highly regulated global healthcare environment
+      with manufacturing facilities in over 20 countries and sales in over 100
+      countries. The company faces various operational risks including supply
+      chain challenges, regulatory compliance requirements, and cybersecurity
+      threats.
+    questions_and_answers:
+      - question: >
+          What are the key operational risks Baxter faces in its global business?
+        answer: >
+          Baxter faces several key operational risks: 1) Supply chain challenges,
+          including raw material and component shortages, particularly for
+          resins and electromechanical devices, 2) Complex regulatory
+          requirements across multiple jurisdictions, including FDA and EU
+          Medical Device Regulation compliance, 3) Cybersecurity threats to
+          information systems and connected medical devices, 4) Manufacturing
+          and quality control challenges across 60 principal manufacturing
+          locations, and 5) Global trade and economic uncertainties, including
+          tariffs and currency fluctuations.
+      - question: >
+          How does Baxter manage its global manufacturing and distribution
+          network?
+        answer: >
+          Baxter manages its global operations through approximately 60 principal
+          manufacturing locations across multiple countries, with facilities
+          owned or leased in the Americas, Europe, Asia, and Australia. The
+          company operates shared distribution facilities worldwide, including
+          six major facilities in the US and Puerto Rico, and over 100
+          international distribution centers. Baxter regularly evaluates its
+          facilities and conducts expansion projects based on market needs.
+      - question: |
+          What is Baxter's approach to cybersecurity risk management?
+        answer: >
+          Baxter manages cybersecurity risks through its Global Cybersecurity and
+          Compliance Program, overseen by the Audit Committee and Quality,
+          Compliance and Technology Committee. The program is led by a Chief
+          Information Security Officer and includes regular monitoring, employee
+          training, third-party risk management, incident response planning, and
+          engagement with industry experts and regulatory agencies.
+  - context: >
+      Baxter's Healthcare Systems and Technologies segment (formerly Hillrom)
+      generated $3.01 billion in net sales in 2023, while the Kidney Care
+      segment contributed $4.45 billion. The company is focused on innovation in
+      connected care solutions and core therapies while managing cost pressures
+      and reimbursement challenges.
+    questions_and_answers:
+      - question: >
+          How do Baxter's major business segments perform and what are their key
+          focus areas?
+        answer: >
+          Baxter's segments showed varied performance in 2023: The Healthcare
+          Systems and Technologies segment generated $3.01 billion in net sales,
+          focusing on connected care solutions and smart bed systems. The Kidney
+          Care segment contributed $4.45 billion (30% of total sales), offering
+          dialysis therapies and services. The Medical Products and Therapies
+          segment provides IV solutions and surgical products, while the
+          Pharmaceuticals segment focuses on specialty injectables and
+          anesthetics.
+      - question: >
+          What challenges does Baxter face in healthcare cost containment and
+          reimbursement?
+        answer: >
+          Baxter faces significant challenges in healthcare cost containment and
+          reimbursement, including: 1) Downward pricing pressure from public and
+          private payers, 2) Global healthcare cost containment efforts through
+          price controls and competitive tenders, 3) Impact of healthcare
+          reforms and Medicare/Medicaid changes on pricing and demand, 4)
+          Regional challenges such as China's volume-based procurement policies,
+          and 5) Dependence on government healthcare program reimbursement for
+          certain products and services.
+      - question: |
+          How is Baxter positioning itself for future growth in connected care?
+        answer: >
+          Baxter is positioning for growth in connected care through: 1)
+          Leveraging the Hillrom acquisition to expand its connected care
+          portfolio, including smart bed systems and patient monitoring
+          technologies, 2) Investing in innovation for new digital and connected
+          care solutions, 3) Expanding geographic reach of Healthcare Systems
+          and Technologies products, 4) Focusing on workflow efficiency and
+          cost-effective care delivery, and 5) Developing integrated solutions
+          that combine core therapies with connected care capabilities.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/healthcare/BAX/10-K/data/*.md

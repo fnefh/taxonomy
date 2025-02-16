@@ -1,0 +1,130 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Barnes & Noble Education, Inc. covering fiscal quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and operating metrics
+     - Segment performance and profitability
+     - Cash flow and liquidity
+     - Capital structure and financing
+
+  2. Business Operations
+     - Physical and virtual bookstore operations
+     - BNC First Day programs
+     - Merchandise inventory management
+     - Store network and expansion
+
+  3. Market Position
+     - Educational content distribution
+     - Campus retail leadership
+     - Strategic partnerships
+     - Digital transformation
+
+  4. Risk Management
+     - Operational challenges
+     - Market competition
+     - Financial stability
+     - Regulatory compliance
+seed_examples:
+  - context: >
+      For the second quarter ended October 26, 2024, BNED reported total
+      sales  of $602.1 million, with product sales of $559.7 million and rental
+      income  of $42.4 million. The company achieved a net income of $49.7
+      million,  demonstrating significant improvement in profitability despite a
+      slight  decline in total sales compared to the prior year.
+    questions_and_answers:
+      - question: >
+          How did BNED's financial performance compare to the same quarter last
+          year?
+        answer: >
+          BNED's Q2 FY2025 showed mixed results with total sales slightly
+          declining  to $602.1 million from $610.4 million in Q2 FY2024.
+          However, profitability  significantly improved with net income
+          doubling to $49.7 million from  $24.2 million in the prior year,
+          driven by lower operating expenses and  reduced interest expense.
+      - question: |
+          What were the key operational metrics for the quarter?
+        answer: >
+          The company operated 1,162 physical and virtual bookstores serving
+          over  5.7 million students. Merchandise inventories were efficiently
+          managed at  $315.5 million, down from $364.3 million in the prior
+          year, while textbook  rental inventories remained stable at $49.7
+          million.
+      - question: |
+          How has BNED's capital structure evolved during the quarter?
+        answer: >
+          BNED strengthened its capital structure through multiple
+          initiatives,  including a $50 million Private Equity Investment, a $45
+          million Rights  Offering, and $9.6 million from ATM facility sales.
+          Long-term borrowings  were reduced to $177.6 million from $233.9
+          million year-over-year.
+  - context: >
+      In the first half of fiscal 2025 (26 weeks ended October 26, 2024),
+      BNED  reported total sales of $865.6 million and implemented significant
+      strategic  initiatives, including the expansion of its BNC First Day
+      programs and  continued focus on digital transformation.
+    questions_and_answers:
+      - question: |
+          What were the key financial metrics for the first half of fiscal 2025?
+        answer: >
+          For the 26-week period, BNED generated total sales of $865.6
+          million,  slightly down from $874.5 million in the prior year. The
+          company reported  a net loss of $49.7 million, primarily due to a
+          $55.2 million loss on  debt extinguishment, while achieving gross
+          profit of $184.8 million.
+      - question: |
+          How has BNED's business model evolved with digital transformation?
+        answer: >
+          BNED has continued to expand its BNC First Day programs, offering
+          both  First Day Complete for institution-wide adoption and First Day
+          for  single-course implementation. These programs provide students
+          with  physical and digital materials, improving accessibility and
+          affordability  while driving higher unit sales and sell-through for
+          bookstores.
+      - question: |
+          What are the main operational challenges and risk factors?
+        answer: >
+          Key challenges include managing seasonality in textbook sales,
+          adapting  to changing student preferences, maintaining adequate
+          liquidity for  inventory purchases, and competing with third-party
+          textbook providers.  The company also faces risks from potential
+          regulatory changes affecting  affordable textbook access models.
+  - context: >
+      BNED's Q2 FY2025 demonstrated strong operational execution with
+      improved  gross margins and significant progress in strategic initiatives,
+      including  strengthened liquidity position and reduced debt levels.
+    questions_and_answers:
+      - question: |
+          How has BNED's liquidity position changed during the quarter?
+        answer: >
+          The company's liquidity position improved with cash and cash
+          equivalents  of $11.6 million, while successfully reducing long-term
+          borrowings.  Strategic financing activities, including the Private
+          Equity Investment  and Rights Offering, strengthened the balance sheet
+          and provided  additional working capital.
+      - question: |
+          What are the key drivers of BNED's improved profitability?
+        answer: >
+          Improved profitability was driven by reduced selling and
+          administrative  expenses ($72.9 million vs $86.0 million), lower
+          interest expense  ($5.5 million vs $10.7 million), and efficient
+          inventory management.  The company also benefited from restructuring
+          initiatives and strategic  cost controls.
+      - question: |
+          How is BNED positioned for future growth?
+        answer: >
+          BNED is well-positioned with its expanded BNC First Day
+          programs,  serving 5.7 million students through 1,162 locations. The
+          company's  strengthened balance sheet, reduced debt, and strategic
+          focus on  digital transformation and affordable course material
+          solutions  provide a foundation for sustainable growth.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/retailing/BNED/10-Q/data/*.md

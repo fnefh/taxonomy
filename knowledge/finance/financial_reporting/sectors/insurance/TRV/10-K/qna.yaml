@@ -1,0 +1,93 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for The Travelers Companies, Inc. through fiscal year 2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Operations
+     - Company Structure and Organization
+     - Property and Casualty Insurance Operations
+     - Market Position and Competition
+     - Distribution Channels and Methods
+     - Geographic Presence
+
+  2. Business Segments and Performance
+     - Business Insurance
+     - Bond & Specialty Insurance
+     - Personal Insurance
+     - Product Lines and Services
+     - Net Retention Policies
+
+  3. Risk Management and Underwriting
+     - Pricing Strategies
+     - Underwriting Discipline
+     - Catastrophe Exposure Management
+     - Credit Risk Management
+     - Reinsurance Programs
+
+  4. Financial Performance and Strategy
+     - Revenue Composition
+     - Market Share Analysis
+     - Capital Management
+     - Investment Portfolio
+     - Growth Initiatives
+seed_examples:
+  - context: >
+      The Travelers Companies' 2023 annual report details the company's
+      business structure, market position, and operational segments, showing its
+      leadership in the property and casualty insurance industry.
+    questions_and_answers:
+      - question: >
+          What are Travelers' main business segments and their relative
+          contribution to net written premiums in 2023?
+        answer: >
+          Travelers operates through three main business segments: 1) Business
+          Insurance, which generated $20,430 million in net written premiums,
+          representing the largest segment with products including workers'
+          compensation, commercial automobile, and commercial property, 2) Bond
+          & Specialty Insurance, which contributed $3,842 million through
+          fidelity and surety bonds, management liability, and professional
+          liability coverage, and 3) Personal Insurance, which generated $15,929
+          million through automobile and homeowners insurance products. The
+          company maintains a strong domestic presence while also operating
+          internationally in Canada, the United Kingdom, and Ireland.
+      - question: >
+          How does Travelers approach risk management and underwriting across
+          its business segments?
+        answer: >
+          Travelers employs a disciplined approach to risk management and
+          underwriting that includes: 1) Utilizing underwriting, claims,
+          engineering, and actuarial expertise along with proprietary and
+          third-party data for risk selection and pricing, 2) Implementing
+          specific net retention policies per risk, such as limiting net
+          retention to $21.2 million per insured for third-party liability and
+          $20.0 million per occurrence for property exposures in Business
+          Insurance, 3) Managing catastrophe exposure through various analyses
+          and modeling processes, including limiting writing in certain markets
+          and selective underwriting actions, 4) Employing sophisticated pricing
+          segmentation and automated underwriting platforms, particularly in
+          Select Accounts for small business customers.
+      - question: >
+          What are the key competitive advantages and market strategies that
+          Travelers employs?
+        answer: >
+          Travelers' competitive advantages and market strategies include: 1) A
+          broad distribution network of thousands of independent agencies and
+          brokers, supported by 87 field offices and customer service centers,
+          2) Significant investments in real-time interface capabilities with
+          independent agencies and brokers to enhance ease and speed of doing
+          business, 3) Specialized industry knowledge and customized coverage
+          offerings for targeted markets, particularly in Middle Market and
+          National Accounts, 4) Strong financial strength and stability,
+          allowing for consistent decision-making and long-term relationships
+          with agents and customers, 5) A disciplined approach to underwriting
+          that emphasizes product returns and profitable growth over market
+          share.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/insurance/TRV/10-K/data/*.md

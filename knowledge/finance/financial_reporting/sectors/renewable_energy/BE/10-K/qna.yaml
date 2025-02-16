@@ -1,0 +1,152 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Bloom Energy Corporation covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Energy Server and Electrolyzer products
+     - Manufacturing capabilities
+     - Research and development
+     - Intellectual property
+     - Supply chain management
+
+  2. Market Position
+     - Industry sectors and competition
+     - Value propositions
+     - Sales and marketing strategies
+     - Strategic partnerships
+     - Geographic expansion
+
+  3. Operations and Technology
+     - Manufacturing facilities
+     - Service and maintenance
+     - Product development
+     - Quality control
+     - Supply chain management
+
+  4. Financial Performance
+     - Revenue streams
+     - Cost structure
+     - Capital allocation
+     - Growth investments
+     - Risk management
+seed_examples:
+  - context: >
+      Bloom Energy is a leader in solid oxide fuel cell technology,
+      manufacturing innovative energy platforms including the Bloom Energy
+      Server and Bloom Electrolyzer. As of 2023, the company had approximately
+      1.2 gigawatts of Energy Servers accepted in more than 1,200 locations
+      across 7 countries, with significant operations in the U.S. and South
+      Korea.
+    questions_and_answers:
+      - question: >
+          What are Bloom Energy's key products and their technological
+          advantages?
+        answer: >
+          Bloom Energy's main products are the Energy Server and the Electrolyzer,
+          both built on their proprietary solid oxide platform. The Energy
+          Server converts fuel (natural gas, biogas, or hydrogen) into
+          electricity through a non-combustion electrochemical process, offering
+          higher efficiency than traditional power generation. The Bloom
+          Electrolyzer produces hydrogen more efficiently than lower-temperature
+          alternatives, requiring less electricity due to its high-temperature
+          operation at 700-900 degrees Celsius.
+      - question: |
+          How extensive is Bloom Energy's manufacturing and R&D capability?
+        answer: >
+          Bloom Energy operates primary manufacturing facilities in Fremont,
+          California and Newark, Delaware, with the Delaware facility having 2
+          gigawatts per year production capacity. The company has 325 active
+          patents in the U.S. and 145 internationally, with a research team
+          including 57 PhDs. In 2023, they consolidated operations to improve
+          efficiency and opened a multi-gigawatt manufacturing facility in
+          Fremont representing a $200 million investment.
+      - question: |
+          What is Bloom Energy'smarket presence and strategic partnerships?
+        answer: >
+          The U.S. is Bloom's largest market, serving customers across utilities,
+          data centers, agriculture, retail, hospitals, and manufacturing. South
+          Korea is their second-largest market with over 492 megawatts deployed.
+          They have a strategic partnership with SK ecoplant, which includes
+          purchase commitments of 750 megawatts through 2027 and joint ventures
+          in manufacturing and hydrogen innovation.
+  - context: >
+      Bloom Energy's business strategy focuses on addressing key energy
+      market challenges including grid reliability, sustainability, and rapid
+      deployment needs. The company has expanded its product applications and
+      geographic presence while investing in manufacturing scale and efficiency.
+    questions_and_answers:
+      - question: |
+          What are Bloom Energy's key value propositions?
+        answer: >
+          Bloom Energy offers four key value propositions: 1) Resiliency through
+          on-site generation and modular design with 99%+ availability, 2)
+          Sustainability with lower carbon emissions and near-zero criteria
+          pollutants, 3) Predictability in power costs through long-term
+          contracts, and 4) Quick time to power with rapid deployment
+          capability. Their systems can be installed in months compared to years
+          for traditional power infrastructure.
+      - question: |
+          How does Bloom Energy approach innovation and product development?
+        answer: >
+          Bloom Energy maintains a strong focus on R&D with a world-class team of
+          solid oxide fuel cell scientists and technology experts. They have
+          continuously improved their technology, reducing costs and increasing
+          output and fuel cell life by over 2.5 times since their first
+          generation. Their research spans advanced materials, processing, and
+          packaging challenges, protected by a significant patent portfolio.
+      - question: |
+          What is Bloom Energy's approach to sustainability?
+        answer: >
+          Bloom Energy takes a cradle-to-grave approach to sustainability,
+          focusing on resource efficiency, responsible design, and materials
+          management. Less than 2% of an Energy Server's weight goes to
+          landfill, with most components being recycled or refurbished. They
+          also participate in responsibly sourced gas programs and align with
+          TCFD and SASB disclosure frameworks, publishing annual sustainability
+          reports since 2021.
+  - context: >
+      Bloom Energy's operations are supported by comprehensive manufacturing,
+      service, and supply chain capabilities. The company has invested
+      significantly in scaling production while maintaining quality and
+      efficiency.
+    questions_and_answers:
+      - question: |
+          How does Bloom Energy manage its service operations?
+        answer: >
+          Bloom Energy provides comprehensive operations and maintenance
+          agreements for all installed Energy Servers worldwide, with 136
+          dedicated field service personnel. They operate two Remote Monitoring
+          and Control Centers providing 24/7 coverage, monitoring over 500
+          system performance parameters in real-time. Their service includes
+          preventative maintenance, remote monitoring, and full refurbishment
+          capabilities.
+      - question: |
+          What is Bloom Energy's supply chain strategy?
+        answer: >
+          Bloom Energy has developed a global supply chain with high-quality
+          suppliers supporting automotive, semiconductor, and traditional
+          manufacturing. They maintain multiple sources for most materials
+          except for specialized technologies, with suppliers across Asia,
+          Europe, and India. The company has multi-year agreements with key
+          suppliers for continuity and pricing stability, while working to
+          reduce costs through improved manufacturing technologies and scale.
+      - question: |
+          How does Bloom Energy approach market expansion?
+        answer: >
+          Bloom Energy uses a combination of direct and indirect sales channels,
+          with most U.S. sales through their direct sales force segmented by
+          vertical and account type. They have expanded internationally,
+          particularly in South Korea through SK ecoplant, and have growing
+          presence in Europe and Asia. The company offers various purchase and
+          financing options, including direct sales, Power Purchase Agreements,
+          and Managed Services Agreements.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/renewable_energy/BE/10-K/data/*.md

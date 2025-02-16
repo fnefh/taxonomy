@@ -1,0 +1,143 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for SINTX Technologies, Inc. covering fiscal years 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Revenue and Earnings
+     - Operating Expenses
+     - Cash Flow Management
+     - Capital Structure
+     - Financing Activities
+
+  2. Strategic Initiatives and Transformation
+     - Business Focus Realignment
+     - Workforce Restructuring
+     - Armor Division Exit
+     - Medical Device Strategy
+     - Operational Efficiency
+
+  3. Business Operations and Markets
+     - Advanced Ceramics Manufacturing
+     - Product Applications
+     - Research and Development
+     - Manufacturing Facilities
+     - Market Segments
+
+  4. Risk Management and Outlook
+     - Going Concern Considerations
+     - Nasdaq Compliance
+     - Strategic Alternatives
+     - Facility Optimization
+     - Future Growth Opportunities
+seed_examples:
+  - context: >
+      SINTX Technologies reported Q3 2024 financial results and announced
+      significant strategic changes, including a workforce reduction and the
+      decision to cease armor plant operations. The company is evaluating a
+      potential shift in focus towards the medical device sector.
+    questions_and_answers:
+      - question: >
+          What were the key financial results and strategic decisions from
+          SINTX's Q3 2024?
+        answer: >
+          SINTX's Q3 2024 highlights include: 1) Total revenue of $799,000,
+          comprising $367,000 in product revenue and $432,000 in grant revenue,
+          2) Operating loss of $6.4 million, including $4.5 million armor
+          division impairment charge, 3) Implementation of workforce reduction
+          from 40 to 23 employees with $407,000 in restructuring costs, 4) Cash
+          position of $4.8 million as of September 30, 2024, and 5) Strategic
+          evaluation of medical device sector focus.
+      - question: |
+          How is SINTX managing its business transformation initiatives?
+        answer: >
+          SINTX is managing transformation through: 1) Appointment of Eric Olson
+          as CEO to lead strategic evaluation, 2) Engagement of Ascendiant
+          Partners to evaluate strategic transactions, 3) Potential refocus on
+          medical device sector leveraging ceramics expertise, 4) Workforce
+          reduction to improve operational efficiency, and 5) Exit from armor
+          business with $4.5 million impairment charge.
+      - question: >
+          What are the key operational metrics and capital management priorities?
+        answer: >
+          Key operational aspects include: 1) Product revenue growth to $367,000
+          in Q3 2024, up from $168,000 in Q3 2023, 2) Grant revenue of $432,000
+          demonstrating research capabilities, 3) Operating expenses of $7.0
+          million including restructuring and impairment charges, 4) Cash
+          management through cost reduction initiatives and facility
+          optimization, and 5) Capital raising through public offerings and ATM
+          facility.
+  - context: >
+      SINTX Technologies maintains advanced ceramics manufacturing
+      capabilities while exploring strategic alternatives and managing various
+      business risks. The company's potential focus on medical devices and
+      ongoing R&D investments demonstrate its commitment to transformation.
+    questions_and_answers:
+      - question: |
+          How is SINTX positioning its manufacturing and R&D capabilities?
+        answer: >
+          SINTX's capabilities include: 1) FDA-registered, cGMP and ANVISA RDC 665
+          compliant Salt Lake City facility, 2) ISO 9001:2015, ISO 13485:2016,
+          and ASD9100D certifications, 3) Expertise in silicon nitride and other
+          advanced ceramics, 4) Manufacturing capabilities in both subtractive
+          and additive processes, and 5) Continued R&D investment in
+          medical-grade materials and applications.
+      - question: |
+          What are the main business risks and mitigation strategies?
+        answer: >
+          Key risks and strategies include: 1) Going concern uncertainty addressed
+          through cost reduction and strategic alternatives, 2) Nasdaq
+          compliance maintained with continued monitoring requirements, 3) Cash
+          burn managed through workforce reduction and operational streamlining,
+          4) Facility costs addressed through lease liability negotiations, and
+          5) Market risks managed through potential medical device sector focus.
+      - question: |
+          How does SINTX approach working capital and cash management?
+        answer: >
+          SINTX's approach includes: 1) Cash position of $4.8 million as of
+          September 30, 2024, 2) Capital raised through multiple public
+          offerings totaling over $6 million in 2024, 3) Operational cost
+          reduction through workforce and facility optimization, 4) Strategic
+          evaluation of business focus and potential transactions, and 5)
+          Inventory management with reduction from $888,000 to $463,000
+          year-over-year.
+  - context: >
+      SINTX Technologies is evaluating a strategic shift towards the medical
+      device sector while implementing cost reduction initiatives and
+      maintaining its advanced ceramics expertise. The company continues to
+      explore various strategic alternatives for growth.
+    questions_and_answers:
+      - question: |
+          What are SINTX's growth opportunities and strategic direction?
+        answer: >
+          Growth opportunities include: 1) Potential focus on medical device
+          applications leveraging ceramics expertise, 2) Development of
+          innovative surgical and orthopedic products, 3) Expansion of R&D
+          partnerships in healthcare sector, 4) Optimization of manufacturing
+          capabilities for medical applications, and 5) Strategic partnerships
+          and potential M&A opportunities.
+      - question: |
+          How is SINTX addressing its operational challenges?
+        answer: >
+          SINTX is addressing challenges through: 1) Strategic workforce reduction
+          to optimize costs, 2) Exit from non-core armor business, 3) Evaluation
+          of facility lease obligations, 4) Focus on high-margin medical device
+          opportunities, and 5) Maintenance of critical manufacturing
+          certifications and capabilities.
+      - question: |
+          What are the key metrics investors should monitor?
+        answer: >
+          Key metrics include: 1) Product revenue growth of 118% year- over-year
+          in Q3 2024, 2) Grant revenue stability at $432,000 demonstrating
+          research capabilities, 3) Cash position and burn rate
+          post-restructuring, 4) Progress on strategic alternatives evaluation,
+          and 5) Development of medical device sector initiatives.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/healthcare/SINT/10-Q/data/*.md

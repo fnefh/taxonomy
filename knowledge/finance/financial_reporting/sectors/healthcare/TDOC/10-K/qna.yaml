@@ -1,0 +1,148 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Teladoc Health, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Operations
+     - Virtual Care Leadership
+     - Integrated Care and BetterHelp Segments
+     - Global Footprint and Distribution
+     - Technology Platform and Innovation
+     - Clinical Capabilities
+
+  2. Market Position and Growth Strategy
+     - Virtual First Strategy
+     - Service Expansion
+     - Member Engagement
+     - International Growth
+     - Direct-to-Consumer Channel
+     - Strategic Investments
+
+  3. Operational Infrastructure
+     - Technology Platform
+     - Clinical Quality
+     - Regulatory Compliance
+     - Data Security
+     - Provider Network
+
+  4. Risk Management and Compliance
+     - Healthcare Regulations
+     - Privacy and Security
+     - International Operations
+     - Corporate Practice of Medicine
+     - Fraud and Abuse Laws
+seed_examples:
+  - context: >
+      Teladoc Health reported on its business model and operational segments,
+      highlighting its position as the global leader in whole person virtual
+      care and its mission to transform healthcare experiences.
+    questions_and_answers:
+      - question: |
+          What are Teladoc's main business segments and revenue streams?
+        answer: >
+          Teladoc operates through two main segments: 1) Integrated Care segment,
+          which provides B2B virtual medical services including general medical,
+          expert medical, specialty medical, chronic condition management, and
+          mental health services, primarily generating revenue through access
+          fees (PMPM basis), 2) BetterHelp segment, which offers D2C mental
+          health services through a network of over 40,000 licensed clinicians,
+          generating revenue from monthly subscription fees. In 2023, 88% of
+          consolidated revenue came from access fees, with the remainder from
+          visit fees and hardware sales.
+      - question: |
+          How does Teladoc's technology platform support its operations?
+        answer: >
+          Teladoc's technology platform features: 1) API-driven architecture
+          enabling seamless integration with healthcare ecosystem partners, 2)
+          Capacity to handle 100,000+ visits per day, 3) HITRUST certification
+          and compliance with international privacy regulations, 4) Integration
+          of smart devices and AI for personalized health insights, 5)
+          White-label capabilities for key partnerships, and 6) Proprietary
+          software for hospital systems including EMR integration.
+      - question: |
+          What are Teladoc's key growth strategies?
+        answer: >
+          Teladoc's growth strategies include: 1) Positioning virtual care as
+          first point of healthcare access through comprehensive platform, 2)
+          Expanding services across clinical conditions and care settings,
+          including Primary360 and chronic care management, 3) Increasing member
+          engagement through enhanced user experience and unified mobile app, 4)
+          Expanding penetration among existing clients through cross-selling, 5)
+          Growing international presence through strategic partnerships, and 6)
+          Driving D2C channel growth, particularly through BetterHelp.
+  - context: >
+      Teladoc Health detailed its operational infrastructure and quality
+      measures, emphasizing its commitment to clinical excellence and regulatory
+      compliance across global operations.
+    questions_and_answers:
+      - question: |
+          How does Teladoc ensure clinical quality and regulatory compliance?
+        answer: >
+          Teladoc maintains quality and compliance through: 1) The Institute for
+          Patient Safety and Quality of Virtual Care, the first HHS-recognized
+          PSO for virtual care, 2) Comprehensive provider credentialing and
+          state licensure management, 3) Proprietary clinical guidelines and
+          quality analytics, 4) Compliance with state-specific telehealth and
+          corporate practice of medicine laws, 5) Robust privacy and security
+          measures including HIPAA, GDPR, and international data protection
+          compliance.
+      - question: |
+          What is Teladoc's approach to provider network management?
+        answer: >
+          Teladoc manages its provider network through: 1) Services agreement with
+          Teladoc Health Medical Group for clinical operations, 2) Compliance
+          with state-specific corporate practice of medicine laws, 3) Management
+          of non-clinical functions including network operations and billing, 4)
+          Provider credentialing and quality monitoring systems, and 5)
+          Integration of over 40,000 licensed clinicians for BetterHelp
+          platform.
+      - question: |
+          How does Teladoc address international market opportunities?
+        answer: >
+          Teladoc's international strategy includes: 1) Headquarters in Barcelona
+          with satellite locations in Europe, South America, and Asia, 2) 24/7
+          service delivery capability globally, 3) Partnerships with global
+          financial services and health insurance companies, 4) Compliance with
+          country-specific healthcare and data protection regulations, 5)
+          White-label solutions for international partners.
+  - context: >
+      Teladoc Health emphasized its focus on member engagement and
+      technological innovation, highlighting investments in user experience and
+      data analytics to drive utilization and outcomes.
+    questions_and_answers:
+      - question: |
+          What are Teladoc's key member engagement strategies?
+        answer: >
+          Teladoc drives member engagement through: 1) Proprietary engagement
+          science using predictive analytics and behavioral modeling, 2)
+          "Surround sound" capabilities for targeted member communications, 3)
+          Unified mobile app providing access to all virtual health services, 4)
+          Integration of smart devices and AI-driven nudges for behavior change,
+          5) Personalized user experiences across multiple access points.
+      - question: |
+          How does Teladoc leverage data and analytics?
+        answer: >
+          Teladoc's data strategy includes: 1) Analysis of millions of virtual
+          visits to improve clinical quality, 2) AI and machine learning for
+          personalized health insights, 3) Integration of multiple data sources
+          for longitudinal patient understanding, 4) Predictive analytics for
+          member engagement optimization, 5) Analytics-driven quality
+          improvement through provider dashboards.
+      - question: |
+          What are the key metrics investors should monitor?
+        answer: >
+          Key performance indicators include: 1) Member base (approximately 90
+          million U.S. members as of December 2023), 2) Visit volume (18.4
+          million telehealth visits in 2023), 3) Revenue mix (88% from access
+          fees), 4) International expansion progress, 5) Cross-selling success
+          within existing client base, and 6) BetterHelp segment growth and
+          customer acquisition costs.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/healthcare/TDOC/10-K/data/*.md

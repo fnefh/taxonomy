@@ -1,0 +1,148 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Synaptics Incorporated covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Core IoT applications
+     - Enterprise and Automotive products
+     - Mobile product applications
+     - Technology leadership
+     - Product portfolio
+
+  2. Financial Performance
+     - Revenue and profitability
+     - Market segments
+     - Growth strategies
+     - Operating metrics
+
+  3. Market Position
+     - Competitive advantages
+     - Technology innovation
+     - Customer relationships
+     - Strategic acquisitions
+
+  4. Risk Management
+     - Supply chain risks
+     - Cybersecurity
+     - International operations
+     - Intellectual property
+seed_examples:
+  - context: >
+      Synaptics is a leading worldwide developer and fabless supplier of
+      premium mixed signal semiconductor solutions. The company focuses on three
+      foundational elements of IoT: sensing, processing, and connecting. Their
+      product portfolio includes wireless connectivity solutions, AI processors,
+      voice and audio solutions, display drivers, and touch interface products.
+    questions_and_answers:
+      - question: |
+          What are Synaptics' main product categories and target markets?
+        answer: >
+          Synaptics operates in three main markets: 1) Core IoT applications with
+          wireless connectivity, AI processors, and SoC solutions; 2) Enterprise
+          and Automotive products including touchpads, fingerprint sensors, and
+          display drivers; 3) Mobile applications for smartphones and tablets.
+          Key products include: a) Wireless connectivity solutions (Wi-Fi,
+          Bluetooth, GPS); b) Astra™ family of AI processors; c) AudioSmart® and
+          DisplayLink® solutions; d) Natural ID® fingerprint sensors; e)
+          TouchPad™ and ClearPad® interface solutions.
+      - question: |
+          How does Synaptics maintain its technological leadership?
+        answer: >
+          Synaptics maintains technological leadership through: 1) Extensive
+          intellectual property portfolio and engineering expertise; 2)
+          Continuous R&D investment in new technologies; 3) Strategic
+          acquisitions to enhance capabilities; 4) Focus on reducing size, cost,
+          and power consumption of solutions; 5) Development of AI-enabled edge
+          computing solutions; 6) Partnerships with key suppliers and
+          manufacturers.
+      - question: |
+          What is Synaptics' business strategy and growth focus?
+        answer: >
+          Synaptics' strategy includes: 1) Extending technological leadership
+          through R&D and strategic acquisitions; 2) Capitalizing on IoT market
+          growth, especially in AI and connectivity solutions; 3) Pursuing
+          strategic relationships with customers and partners; 4) Maintaining
+          fabless semiconductor model for scalability; 5) Focus on premium mixed
+          signal semiconductor solutions; 6) Expanding market share in core IoT,
+          enterprise, and automotive sectors.
+  - context: >
+      Synaptics faces various risks and challenges in its business
+      operations, including supply chain dependencies, technological changes,
+      and market competition. The company has implemented comprehensive risk
+      management strategies and maintains strong focus on cybersecurity and
+      intellectual property protection.
+    questions_and_answers:
+      - question: |
+          What are the key risks facing Synaptics' business operations?
+        answer: >
+          Key risks include: 1) Supply chain dependencies on third-party
+          manufacturers and suppliers; 2) Intense competition in semiconductor
+          industry; 3) Rapid technological changes requiring continuous
+          innovation; 4) Cybersecurity threats and data protection challenges;
+          5) International operations risks including geopolitical tensions; 6)
+          Intellectual property protection and potential infringement claims; 7)
+          Customer concentration and market cyclicality.
+      - question: |
+          How does Synaptics manage its cybersecurity risks?
+        answer: >
+          Synaptics' cybersecurity management includes: 1) Comprehensive risk
+          management program following industry standards; 2) Cross-functional
+          approach to information security; 3) Regular monitoring and threat
+          analysis; 4) Annual security awareness training for employees; 5)
+          Board oversight through Audit Committee; 6) Information Security
+          Management Steering Committee; 7) Incident response planning and
+          regular security assessments.
+      - question: |
+          What measures does Synaptics take to protect intellectual property?
+        answer: >
+          Synaptics protects IP through: 1) Patents, trade secrets, trademarks,
+          and copyrights; 2) Confidentiality agreements with employees and
+          partners; 3) Regular monitoring of potential infringement; 4)
+          Strategic management of patent portfolio; 5) Enforcement of IP rights
+          through legal action when necessary; 6) Careful evaluation of
+          third-party technology licenses.
+  - context: >
+      Synaptics operates globally with facilities and operations across
+      multiple countries. The company maintains a fabless semiconductor model
+      and has strategic relationships with manufacturers and suppliers primarily
+      in Asia. Recent acquisitions include GPS technology from Broadcom and Emza
+      Visual Sense.
+    questions_and_answers:
+      - question: |
+          How does Synaptics manage its global operations and manufacturing?
+        answer: >
+          Synaptics manages global operations through: 1) Fabless semiconductor
+          model with manufacturing partners in Asia; 2) Research and development
+          facilities across US, Europe, and Asia; 3) Strategic relationships
+          with key suppliers and manufacturers; 4) Regional sales and support
+          offices worldwide; 5) Focus on supply chain diversification and risk
+          management; 6) Regular monitoring of geopolitical and economic
+          conditions.
+      - question: |
+          What are Synaptics' recent strategic acquisitions and investments?
+        answer: >
+          Recent strategic moves include: 1) Acquisition of GPS technology from
+          Broadcom for $30.0 million; 2) Additional $130.0 million investment in
+          Broadcom technology licensing; 3) Acquisition of Emza Visual Sense for
+          $15.8 million; 4) Focus on expanding AI and connectivity capabilities;
+          5) Strategic investments in edge computing and IoT solutions; 6)
+          Continuous evaluation of acquisition opportunities for growth.
+      - question: |
+          How does Synaptics approach research and development?
+        answer: >
+          Synaptics' R&D approach includes: 1) Continuous investment in new
+          technologies and product development; 2) Focus on AI, edge computing,
+          and IoT solutions; 3) Global research facilities with specialized
+          teams; 4) Collaboration with customers on product development; 5)
+          Strategic partnerships for technology advancement; 6) Balance between
+          short-term product improvements and long-term innovation.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/semiconductor/SYNA/10-K/data/*.md

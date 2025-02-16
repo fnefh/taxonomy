@@ -1,0 +1,86 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Principal Financial Group, Inc. covering fiscal years through 2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Operations
+     - Corporate Structure and Leadership
+     - Business Segments and Services
+     - Market Position and Competitive Advantages
+     - Global Presence and Distribution Channels
+
+  2. Financial Performance and Strategy
+     - Assets Under Management and Administration
+     - Revenue Streams and Growth Drivers
+     - Investment Management Capabilities
+     - Strategic Initiatives and Focus Areas
+
+  3. Operational Infrastructure
+     - Risk Management and Controls
+     - Technology and Innovation
+     - Distribution Networks
+     - Product Development and Management
+
+  4. Regulatory Compliance and Risk Management
+     - Regulatory Framework
+     - Financial Strength Ratings
+     - Risk Factors and Mitigation
+     - Corporate Governance
+seed_examples:
+  - context: >
+      Principal Financial Group's 2023 annual report details its position as
+      a leader in global financial services, with significant assets under
+      management and a diverse portfolio of products and services.
+    questions_and_answers:
+      - question: >
+          What are Principal Financial Group's main business segments and their
+          key offerings as of 2023?
+        answer: >
+          Principal Financial Group operates through three main business segments:
+          1) Retirement and Income Solutions - offering defined contribution
+          plans, pension risk transfer services, individual annuities, and
+          banking services with $462.9 billion in defined contribution plan
+          assets, 2) Principal Asset Management - providing global investment
+          solutions through focused investment teams managing $499.5 billion in
+          assets across equity, fixed income, real estate, and other alternative
+          investments, 3) Benefits and Protection - offering specialty benefits
+          including group dental, vision, life insurance, and disability
+          insurance, serving over 117,000 group dental and vision policies
+          covering 2.9 million employees.
+      - question: >
+          How does Principal Financial Group maintain its competitive position
+          in the market?
+        answer: >
+          Principal Financial Group maintains its competitive position through
+          three key advantages: 1) Favored customer access through valuable
+          distribution relationships, including specialized sales forces and
+          partnerships, 2) Integration capabilities of solutions and services
+          across business segments, allowing comprehensive financial solutions,
+          3) Focus on high-growth markets, particularly in the small and
+          medium-sized business segment. The company's strong financial strength
+          ratings (A+ from A.M. Best, AA- from Fitch, A1 from Moody's, and A+
+          from S&P) also support its market position by demonstrating financial
+          stability and ability to meet policyholder obligations.
+      - question: >
+          What are Principal Financial Group's key international operations and
+          strategic initiatives?
+        answer: >
+          Principal Financial Group's international operations include: 1) Latin
+          America presence through Brasilprev in Brazil (25.005% ownership)
+          managing $82.4 billion in AUM, operations in Chile with $42.3 billion
+          in AUM, and Mexico with $22.0 billion in AUM, 2) Asia operations
+          including joint ventures in China (CCB PAM with 25% ownership), Hong
+          Kong with $10.9 billion in AUM, and Southeast Asia through PAM and
+          PIAM joint ventures with $22.4 billion in AUM, 3) Strategic focus on
+          locations with growing middle classes, favorable demographics, and
+          increasing long-term savings, particularly in defined contribution
+          retirement markets.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/insurance/PFG/10-K/data/*.md

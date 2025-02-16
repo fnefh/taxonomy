@@ -1,0 +1,127 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for AutoNation, Inc. covering fiscal quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue by segment and product line
+     - Profitability metrics
+     - Cash flow and liquidity
+     - Capital allocation
+
+  2. Business Operations
+     - Retail network performance
+     - Segment analysis (Domestic, Import, Premium Luxury)
+     - After-Sales services
+     - Digital initiatives
+
+  3. Growth Strategy
+     - Store network expansion
+     - AutoNation USA development
+     - Digital transformation
+     - Strategic investments
+
+  4. Risk Management
+     - Market conditions
+     - Competitive landscape
+     - Regulatory compliance
+     - Financial controls
+seed_examples:
+  - context: >
+      For Q3 2024, AutoNation reported total revenue of $6.59 billion and net
+      income of $185.8 million. The company's operations included 328 new
+      vehicle franchises from 243 stores, 52 collision centers, 23 AutoNation
+      USA used vehicle stores, and various other automotive operations.
+    questions_and_answers:
+      - question: |
+          What were AutoNation's key financial metrics for Q3 2024?
+        answer: >
+          In Q3 2024, AutoNation generated total revenue of $6.59 billion, with
+          new vehicle sales of $3.17 billion, used vehicle sales of $1.90
+          billion, parts and service revenue of $1.17 billion, and finance and
+          insurance revenue of $335.4 million. Net income was $185.8 million,
+          with diluted earnings per share of $4.61.
+      - question: |
+          How did AutoNation's segment performance compare in Q3 2024?
+        answer: >
+          Premium Luxury led with revenue of $2.43 billion (36.8% of total),
+          followed by Import at $2.05 billion (31.1%), and Domestic at $1.77
+          billion (27.0%). Premium Luxury generated the highest new vehicle
+          revenue at $1.22 billion, while parts and service revenue was
+          strongest in Premium Luxury at $422.8 million.
+      - question: |
+          What was AutoNation's operational footprint as of Q3 2024?
+        answer: >
+          AutoNation operated 328 new vehicle franchises from 243 stores, selling
+          32 different brands with core brands representing 88% of new vehicle
+          sales. The company also operated 52 collision centers, 23 AutoNation
+          USA used vehicle stores, 4 auction operations, 3 parts distribution
+          centers, a mobile repair business, and an auto finance company.
+  - context: >
+      AutoNation's Q3 2024 results reflected strong operational execution
+      despite market challenges. The company continued to invest in strategic
+      growth initiatives while maintaining disciplined cost management and
+      capital allocation.
+    questions_and_answers:
+      - question: |
+          How did AutoNation's revenue mix evolve in Q3 2024?
+        answer: >
+          New vehicle sales represented 48.2% of total revenue, used vehicle sales
+          28.9%, parts and service 17.8%, and finance and insurance 5.1%. The
+          company saw particularly strong performance in parts and service, with
+          revenue increasing to $1.17 billion, while maintaining high margins in
+          finance and insurance operations.
+      - question: |
+          What were the key operational metrics for Q3 2024?
+        answer: >
+          Gross profit was $1.18 billion with a margin of 18.0%. Operating income
+          was $350.7 million, with selling, general, and administrative expenses
+          of $811.3 million. The company maintained strong cost discipline while
+          investing in digital capabilities and store network expansion.
+      - question: |
+          How did AutoNation manage its capital in Q3 2024?
+        answer: >
+          AutoNation maintained a strong balance sheet with total assets of $12.91
+          billion. The company continued its share repurchase program, investing
+          $5.7 million in Q3 2024. Total shareholders' equity was $2.37 billion,
+          with retained earnings of $5.15 billion as of September 30, 2024.
+  - context: >
+      AutoNation's business strategy focuses on operational excellence,
+      digital transformation, and brand development. The company continues to
+      expand its AutoNation USA stores and enhance its digital capabilities
+      through AutoNation Express.
+    questions_and_answers:
+      - question: |
+          What are AutoNation's key strategic initiatives?
+        answer: >
+          AutoNation's strategic initiatives include expanding AutoNation USA used
+          vehicle stores, enhancing digital capabilities through AutoNation
+          Express, growing After-Sales services, developing AutoNation Finance,
+          and investing in mobile repair services. The company also focuses on
+          operational efficiency and customer experience improvements.
+      - question: |
+          How is AutoNation addressing market challenges?
+        answer: >
+          AutoNation is addressing market challenges through diversification of
+          revenue streams, focus on high-margin After-Sales services, expansion
+          of used vehicle operations, and investment in digital capabilities.
+          The company maintains strong cost controls while investing in growth
+          initiatives and strategic opportunities.
+      - question: |
+          What is AutoNation's approach to digital transformation?
+        answer: >
+          AutoNation continues to enhance its digital capabilities through
+          AutoNation Express, offering customers a seamless omnichannel
+          experience for vehicle selection, pricing, trade-in valuation,
+          financing, and delivery options. The company leverages data analytics
+          and proprietary tools to personalize customer experiences and improve
+          operational efficiency.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/retailing/AN/10-Q/data/*.md
