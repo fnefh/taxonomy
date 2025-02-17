@@ -1,0 +1,102 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  Quarterly reports for Opendoor Technologies Inc. (NYSE: OPEN)
+  from Q3 2023 to Q3 2024, covering:
+
+  - Financial Performance
+    - Revenue and profitability metrics
+    - Real estate inventory management
+    - Cash position and liquidity
+  - Business Operations
+    - Market presence and scale
+    - Inventory acquisition and sales
+    - Operational efficiency
+  - Strategic Developments
+    - Growth initiatives
+    - Technology investments
+    - Risk management
+  - Capital Structure
+    - Debt management
+    - Equity offerings
+    - Stock-based compensation
+seed_examples:
+  - context: >
+      In Q3 2024, Opendoor demonstrated strong operational execution with
+      revenue  of $1.377 billion, up from $980 million in Q3 2023. The company's
+      gross profit  was $105 million with a gross margin of 7.6%. Real estate
+      inventory stood at  $2.145 billion as of September 30, 2024, with 1,006
+      homes under contract  for purchase at an aggregate price of $332 million.
+      The company maintained  a strong liquidity position with $829 million in
+      cash and cash equivalents.
+    questions_and_answers:
+      - question: What were Opendoor's key financial metrics in Q3 2024?
+        answer: In Q3 2024, Opendoor generated revenue of $1.377 billion, achieved a
+          gross profit of $105 million with a 7.6% gross margin, and maintained
+          $829 million in cash and cash equivalents. The company's real estate
+          inventory was valued at $2.145 billion at quarter-end.
+      - question: How did Opendoor's revenue performance in Q3 2024 compare to the
+          previous year?
+        answer: Opendoor's revenue in Q3 2024 was $1.377 billion, representing a
+          significant increase from $980 million in Q3 2023, demonstrating
+          strong growth in their business operations year-over-year.
+      - question: What was Opendoor's inventory position and purchase pipeline at the
+          end of Q3 2024?
+        answer: As of September 30, 2024, Opendoor had $2.145 billion in real estate
+          inventory and was under contract to purchase 1,006 additional homes
+          for an aggregate purchase price of $332 million, indicating active
+          inventory management and continued market engagement.
+  - context: >
+      Opendoor's operational efficiency and inventory management remained
+      strong  in Q3 2024. The company's real estate inventory consisted of $275
+      million  in work in progress, $1.416 billion in homes listed for sale, and
+      $454  million in homes under contract for sale. The company recorded
+      inventory  valuation adjustments of $10 million in Q3 2024, demonstrating
+      disciplined  inventory management. Operating expenses totaled $172
+      million, showing  improved cost control compared to $175 million in Q3
+      2023.
+    questions_and_answers:
+      - question: How does Opendoor categorize its real estate inventory, and what were
+          the values in Q3 2024?
+        answer: As of Q3 2024, Opendoor's real estate inventory was categorized into
+          three segments $275 million in work in progress, $1.416 billion in
+          homes listed for sale, and $454 million in homes under contract for
+          sale, totaling $2.145 billion.
+      - question: What were Opendoor's inventory valuation adjustments in Q3 2024?
+        answer: In Q3 2024, Opendoor recorded inventory valuation adjustments of $10
+          million, compared to $17 million in Q3 2023, indicating improved
+          inventory management and pricing accuracy.
+      - question: How did Opendoor's operating expenses change year-over-year in Q3 2024?
+        answer: Opendoor's operating expenses in Q3 2024 were $172 million, showing a
+          slight improvement from $175 million in Q3 2023, reflecting the
+          company's focus on operational efficiency and cost management.
+  - context: >
+      Opendoor continued to strengthen its capital structure and
+      strategic  positioning in Q3 2024. The company maintained $1.054 billion
+      in total  cash, cash equivalents, and restricted cash. In May 2024,
+      Opendoor entered  into an at-the-market (ATM) equity offering agreement
+      for up to $200  million, though no shares were issued during Q3. The
+      company's technology  investments continued with $30 million spent on
+      technology and development,  while maintaining strong risk management
+      practices.
+    questions_and_answers:
+      - question: What steps did Opendoor take to enhance its capital structure in 2024?
+        answer: In 2024, Opendoor established an at-the-market (ATM) equity offering
+          agreement for up to $200 million in May, while maintaining a strong
+          liquidity position with $1.054 billion in total cash, cash
+          equivalents, and restricted cash as of Q3 2024.
+      - question: How much did Opendoor invest in technology and development in Q3 2024?
+        answer: Opendoor invested $30 million in technology and development during Q3
+          2024, demonstrating continued commitment to technological advancement
+          while showing improved efficiency compared to $42 million in Q3 2023.
+      - question: What was Opendoor's cash position at the end of Q3 2024?
+        answer: At the end of Q3 2024, Opendoor had a total cash position of $1.054
+          billion, consisting of $829 million in cash and cash equivalents and
+          $225 million in restricted cash, maintaining strong liquidity for
+          operations.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/OPEN/10-Q/data/*.md

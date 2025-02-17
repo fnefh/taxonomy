@@ -1,0 +1,125 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  Quarterly reports for Rocket Companies, Inc. (NYSE: RKT) from
+  Q3 2023 to Q3 2024, covering:
+
+  - Financial Performance
+    - Revenue and profitability metrics
+    - Loan origination volumes
+    - Servicing portfolio performance
+  - Business Operations
+    - Direct to Consumer segment
+    - Partner Network segment
+    - Technology and innovation
+  - Strategic Developments
+    - Market position
+    - Growth initiatives
+    - Risk management
+seed_examples:
+  - context: >
+      In Q3 2024, Rocket Companies demonstrated strong operational
+      performance with total  revenue of $646.9 million. The company's gain on
+      sale of loans reached $844.4  million, including $337.7 million in fair
+      value of originated MSRs. Their mortgage  servicing portfolio showed
+      resilience with servicing fee income of $373.8 million,  though they
+      experienced a change in fair value of MSRs of $(878.3) million.
+      The  company maintained a strong cash position with $1.23 billion in cash
+      and cash  equivalents as of September 30, 2024.
+    questions_and_answers:
+      - question: What were the key financial metrics for Rocket Companies in Q3 2024?
+        answer: In Q3 2024, Rocket Companies reported total revenue of $646.9 million,
+          with gain on sale of loans reaching $844.4 million, including $337.7
+          million in fair value of originated MSRs. The company generated
+          servicing fee income of $373.8 million, though they experienced a
+          change in fair value of MSRs of $(878.3) million. Their cash position
+          remained strong at $1.23 billion as of September 30, 2024,
+          demonstrating solid liquidity management.
+      - question: How did Rocket Companies' mortgage servicing business perform in Q3
+          2024?
+        answer: Rocket Companies' mortgage servicing business showed mixed results in Q3
+          2024. While servicing fee income was robust at $373.8 million, the
+          company experienced a significant change in fair value of MSRs of
+          $(878.3) million. The total MSR portfolio was valued at $6.81 billion
+          as of September 30, 2024, reflecting the company's substantial
+          servicing operations despite market volatility.
+      - question: What trends are visible in Rocket Companies' loan origination business?
+        answer: Rocket Companies showed strong momentum in loan originations during Q3
+          2024, with mortgage loans held for sale increasing to $11.0 billion
+          from $6.5 billion at year-end 2023. The company's IRLCs stood at
+          $228.2 million, indicating healthy pipeline activity. Their gain on
+          sale margin remained strong, with gain on sale of loans reaching
+          $844.4 million for the quarter.
+  - context: >
+      Rocket Companies continues to innovate through its digital platform and
+      diverse  revenue streams. Their technology infrastructure processed
+      billions of customer  interactions, with Rocket Money subscription revenue
+      reaching $65.9 million in Q3  2024, up from $46.4 million in Q3 2023. The
+      company's closing fees through Amrock  increased to $29.2 million from
+      $21.2 million year-over-year, while real estate  network referral fees
+      were $14.4 million. Their commitment to AI-fueled  homeownership strategy
+      drives continued platform enhancement and client experience  improvements.
+    questions_and_answers:
+      - question: How is Rocket Companies diversifying its revenue streams beyond
+          mortgage origination?
+        answer: Rocket Companies is successfully diversifying its revenue through
+          multiple channels. Rocket Money subscription revenue grew
+          significantly to $65.9 million in Q3 2024, up from $46.4 million in Q3
+          2023. Amrock's closing fees increased to $29.2 million from $21.2
+          million year-over-year, while real estate network referral fees
+          contributed $14.4 million. This diversification demonstrates the
+          company's successful expansion beyond traditional mortgage services.
+      - question: What role does technology play in Rocket Companies' business model?
+        answer: Technology is central to Rocket Companies' business model, with their
+          AI-fueled homeownership strategy driving operations. Their platform
+          processes billions of customer interactions, enabling efficient loan
+          processing, servicing, and client engagement. The company's
+          digital-first approach spans across all business segments, from
+          mortgage origination to personal finance services through Rocket
+          Money, demonstrating their commitment to technological innovation.
+      - question: How is Rocket Companies' subscription-based business performing?
+        answer: Rocket Companies' subscription-based business, primarily through Rocket
+          Money, showed strong growth with revenue increasing to $65.9 million
+          in Q3 2024 from $46.4 million in Q3 2023, representing a 42%
+          year-over-year increase. This growth demonstrates successful client
+          acquisition and retention in their personal finance segment,
+          contributing to revenue diversification.
+  - context: >
+      Rocket Companies maintains a robust balance sheet with total assets of
+      $25.1  billion as of September 30, 2024. Their funding strategy includes
+      $8.5 billion in  funding facilities and $4.0 billion in Senior Notes. The
+      company's risk  management approach encompasses market risk through
+      forward commitments and  interest rate management, while maintaining
+      strong liquidity with $1.23 billion  in cash and cash equivalents. Their
+      variable interest entity structure and  consolidated CFE demonstrate
+      sophisticated financial management.
+    questions_and_answers:
+      - question: How does Rocket Companies manage its capital structure and funding?
+        answer: Rocket Companies maintains a diversified capital structure with $8.5
+          billion in funding facilities and $4.0 billion in Senior Notes as of
+          Q3 2024. Their strong liquidity position includes $1.23 billion in
+          cash and cash equivalents. The company utilizes various funding
+          sources including warehouse facilities and securitization structures,
+          demonstrating sophisticated financial management and access to
+          multiple capital sources.
+      - question: What risk management strategies does Rocket Companies employ?
+        answer: Rocket Companies employs comprehensive risk management strategies
+          including the use of forward commitments for hedging, sophisticated
+          interest rate risk management through MSRs and IRLCs, and maintaining
+          strong liquidity buffers. Their variable interest entity structure and
+          consolidated CFE demonstrate advanced financial risk management. The
+          company also maintains robust controls over loan origination and
+          servicing operations.
+      - question: How has Rocket Companies' balance sheet evolved in recent quarters?
+        answer: Rocket Companies' balance sheet has shown significant growth, with total
+          assets increasing to $25.1 billion as of September 30, 2024. Notable
+          changes include an increase in mortgage loans held for sale to $11.0
+          billion from $6.5 billion at year-end 2023, and growth in MSRs to
+          $6.81 billion. The company has maintained strong liquidity while
+          expanding its operational capacity and market presence.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/RKT/10-Q/data/*.md

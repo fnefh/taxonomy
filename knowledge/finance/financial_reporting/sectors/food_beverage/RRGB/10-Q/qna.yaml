@@ -1,0 +1,154 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Red Robin Gourmet Burgers, Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and profitability metrics
+     - Operating costs and margins
+     - Balance sheet strength
+     - Cash flow management
+
+  2. Operational Metrics
+     - Restaurant operations
+     - Cost management initiatives
+     - Efficiency improvements
+     - Property portfolio
+
+  3. Strategic Developments
+     - Asset optimization
+     - Debt management
+     - Growth initiatives
+     - Risk mitigation
+seed_examples:
+  - context: >
+      For Q1 2024 ended April 21, 2024, Red Robin reported total revenues of
+      $388.5 million, with restaurant revenue of $378.6 million and franchise
+      revenue of $5.3 million. The company recorded a net loss of $9.5 million
+      ($0.61 per diluted share), while completing a strategic sale-leaseback
+      transaction of ten restaurant properties for $23.9 million, resulting in a
+      net gain of $7.4 million.
+    questions_and_answers:
+      - question: >
+          How did Red Robin's financial performance evolve in Q1 2024 compared
+          to the previous year?
+        answer: >
+          In Q1 2024, Red Robin's total revenues decreased to $388.5 million from
+          $417.8 million in Q1 2023, with restaurant revenue declining to $378.6
+          million from $406.9 million. The company reported a net loss of $9.5
+          million ($0.61 per share) compared to a net loss of $3.3 million
+          ($0.20 per share) in Q1 2023. Operating costs remained significant
+          with labor costs increasing to $149.0 million from $145.4 million,
+          while cost of sales improved to $90.2 million from $99.7 million.
+      - question: >
+          What strategic initiatives did Red Robin implement to optimize its
+          operations and balance sheet?
+        answer: >
+          Red Robin executed a significant sale-leaseback transaction in Q1 2024,
+          selling ten restaurant properties for $23.9 million, resulting in a
+          net gain of $7.4 million. The company used the proceeds to reduce its
+          term loan balance, with total borrowings decreasing to $162.0 million
+          from $182.6 million at year-end 2023. These actions demonstrate the
+          company's focus on optimizing its real estate portfolio and
+          strengthening its balance sheet.
+      - question: >
+          How is Red Robin managing its operating costs and efficiency
+          initiatives?
+        answer: >
+          Red Robin demonstrated cost management efforts across several areas,
+          with cost of sales decreasing to $90.2 million from $99.7 million
+          year-over-year. However, labor costs increased to $149.0 million, and
+          occupancy costs rose to $31.4 million from $29.8 million. The company
+          maintained focus on operational efficiency with other operating costs
+          decreasing to $66.5 million from $72.1 million, while investing in
+          selling, general, and administrative initiatives with expenses
+          increasing to $39.4 million.
+  - context: >
+      Red Robin's balance sheet as of April 21, 2024, showed total assets of
+      $717.1 million, including property and equipment of $233.5 million and
+      operating lease assets of $361.9 million. The company maintained $30.6
+      million in cash and cash equivalents, while managing long-term debt of
+      $162.0 million. Total stockholders' deficit was $29.1 million, reflecting
+      ongoing operational challenges and strategic investments.
+    questions_and_answers:
+      - question: |
+          How has Red Robin's financial position evolved through Q1 2024?
+        answer: >
+          Red Robin's financial position showed mixed trends in Q1 2024. Cash and
+          cash equivalents increased to $30.6 million from $23.6 million at
+          year-end 2023, while total assets decreased to $717.1 million from
+          $741.9 million. The company reduced its long-term debt to $162.0
+          million from $182.6 million through strategic initiatives, though
+          stockholders' deficit increased to $29.1 million from $20.4 million,
+          reflecting ongoing operational challenges.
+      - question: >
+          What measures is Red Robin taking to manage its debt and capital
+          structure?
+        answer: >
+          Red Robin actively managed its capital structure by reducing term loan
+          borrowings to $162.0 million through proceeds from the sale-leaseback
+          transaction. The company maintains a $25.0 million revolving credit
+          facility with no outstanding balance, while effectively managing its
+          debt covenants. The credit facility, maturing in March 2027, provides
+          financial flexibility with the option to increase by an additional
+          $40.0 million subject to lender participation.
+      - question: >
+          How is Red Robin managing its lease obligations and real estate
+          strategy?
+        answer: >
+          Red Robin maintains significant lease obligations with operating lease
+          assets of $361.9 million and total lease obligations of $428.5
+          million. The company executed a strategic sale-leaseback transaction
+          for ten properties, demonstrating active management of its real estate
+          portfolio. Operating lease costs were $23.0 million for Q1 2024, with
+          additional variable lease costs of $5.9 million, reflecting the
+          company's significant real estate footprint and ongoing optimization
+          efforts.
+  - context: >
+      As of April 21, 2024, Red Robin operated 413 company-owned restaurants
+      across 39 states and had 92 franchised locations in 14 states and one
+      Canadian province. The company's operational focus includes cost
+      management initiatives, efficiency improvements, and strategic asset
+      optimization, while managing various market and operational challenges
+      including labor costs and occupancy expenses.
+    questions_and_answers:
+      - question: |
+          What is Red Robin's current operational footprint and market presence?
+        answer: >
+          Red Robin maintains a significant market presence with 413 company-owned
+          restaurants across 39 states and 92 franchised locations in 14 states
+          and one Canadian province as of April 21, 2024. The company generates
+          revenue primarily through restaurant operations ($378.6 million in Q1
+          2024), supplemented by franchise revenue ($5.3 million) and other
+          revenue sources, demonstrating its established position in the casual
+          dining segment.
+      - question: >
+          How is Red Robin addressing operational challenges and efficiency
+          improvements?
+        answer: >
+          Red Robin is addressing operational challenges through various
+          initiatives including cost management efforts that reduced cost of
+          sales and other operating expenses. The company is managing labor
+          costs ($149.0 million in Q1 2024) and occupancy expenses ($31.4
+          million) while implementing efficiency improvements. Strategic
+          initiatives include portfolio optimization through sale-leaseback
+          transactions and focus on core operations.
+      - question: |
+          What are the key risks and opportunities facing Red Robin's business?
+        answer: >
+          Red Robin faces several key risks including rising labor and occupancy
+          costs, competitive market conditions, and operational challenges
+          reflected in declining revenues. However, opportunities exist through
+          strategic initiatives such as real estate optimization, cost
+          management programs, and operational efficiency improvements. The
+          company's established market presence and brand recognition provide a
+          foundation for potential recovery and growth.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/food_beverage/RRGB/10-Q/data/*.md

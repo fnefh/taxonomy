@@ -1,0 +1,125 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: |
+  Annual reports for PepsiCo, Inc. (NASDAQ: PEP) from 2020 to 2024, covering:
+  - Business Segments & Operations
+    - Global divisions and markets
+    - Product portfolio and brands
+    - Distribution networks
+  - Financial Performance & Strategy
+    - Revenue and profitability
+    - Market position
+    - Strategic investments
+  - Innovation & Sustainability
+    - Research and development
+    - Environmental initiatives
+    - Product innovation
+seed_examples:
+  - context: >
+      PepsiCo operates through seven segments: Frito-Lay North America
+      (FLNA),  Quaker Foods North America (QFNA), PepsiCo Beverages North
+      America (PBNA),  Latin America (LatAm), Europe, Africa, Middle East and
+      South Asia (AMESA),  and Asia Pacific, Australia and New Zealand and China
+      Region (APAC).  Effective 2025, the company is realigning its segments
+      with FLNA and QFNA  combining into PepsiCo Foods North America, and
+      international operations  reorganizing into Latin America Foods, EMEA,
+      Other International Foods,  and International Beverages Franchise.
+    questions_and_answers:
+      - question: What are PepsiCo's main business segments and how are they being
+          restructured?
+        answer: PepsiCo currently operates through seven segments - FLNA, QFNA, PBNA,
+          LatAm, Europe, AMESA, and APAC. Starting in 2025, the company is
+          implementing a major restructuring where FLNA and QFNA will merge into
+          PepsiCo Foods North America, while international operations will be
+          reorganized into Latin America Foods, EMEA, Other International Foods
+          (including APAC and India), and International Beverages Franchise.
+      - question: How does PepsiCo's distribution network operate?
+        answer: PepsiCo utilizes multiple distribution systems including
+          Direct-Store-Delivery (DSD), customer warehouse, distributor networks,
+          and e-commerce. The DSD system delivers products directly to retail
+          stores with in-store merchandising. Customer warehouse delivery is
+          used for less fragile products, while third-party distributors help
+          reach foodservice and vending customers. The company also sells
+          through company-owned and third-party e-commerce platforms.
+      - question: What are PepsiCo's major brands across different segments?
+        answer: PepsiCo owns numerous valuable brands across beverages and convenient
+          foods. Key brands include Pepsi, Mountain Dew, Gatorade, and Aquafina
+          in beverages; Lay's, Doritos, Cheetos, and Ruffles in snacks; and
+          Quaker, Cap'n Crunch, and Rice-A-Roni in foods. The company also
+          manages joint ventures like Lipton (with Unilever) and licenses brands
+          like Ocean Spray in certain markets.
+  - context: >
+      PepsiCo's research and development activities focus on innovation
+      and  meeting customer needs globally. Key areas include developing
+      new  technologies and ingredients, improving manufacturing processes,
+      reducing  environmental impact, offering products with functional
+      ingredients and  positive nutrition, developing sustainable packaging, and
+      expanding  beyond-the-bottle portfolio. The company maintains research
+      centers  worldwide and leverages artificial intelligence and data
+      analytics for  consumer insights.
+    questions_and_answers:
+      - question: What are PepsiCo's main areas of research and development focus?
+        answer: PepsiCo's R&D focuses on several key areas including new product
+          technologies and ingredients, manufacturing process improvements,
+          environmental impact reduction, functional ingredients and nutrition,
+          sustainable packaging development, beyond-the-bottle portfolio
+          expansion, and leveraging AI and data analytics for consumer insights.
+          The company maintains global research centers in countries including
+          Brazil, China, India, Ireland, Mexico, Russia, South Africa, the UK,
+          and the US.
+      - question: How is PepsiCo addressing sustainability in its operations?
+        answer: PepsiCo is addressing sustainability through multiple initiatives
+          including reducing water use in operations and agricultural practices,
+          developing recyclable and sustainable packaging, reducing plastic
+          usage, improving manufacturing processes to reduce environmental
+          impact, and advancing sustainable farming practices in their supply
+          chain. The company also focuses on reducing added sugars, sodium, and
+          saturated fat in products while increasing positive nutrition
+          ingredients.
+      - question: What competitive advantages does PepsiCo maintain in the market?
+        answer: PepsiCo maintains competitive advantages through strong brand
+          recognition and loyalty, extensive distribution network, innovation
+          capabilities, and effective marketing. The company holds significant
+          leadership positions in the convenient food industry globally and
+          represents about 18% of the U.S. liquid refreshment beverage category.
+          Key competitive factors include product quality, variety, innovation,
+          distribution reach, shelf space, and marketing effectiveness.
+  - context: >
+      PepsiCo faces various regulatory requirements globally, including
+      food  safety, labeling, environmental protection, competition, and data
+      privacy  laws. The company manages supply chain challenges through
+      fixed-price  contracts, derivative instruments, and multiple supplier
+      relationships.  Major customers include Walmart (14% of consolidated net
+      revenue in 2024)  and independent bottlers, with financial incentives
+      provided to support  distribution and promotion.
+    questions_and_answers:
+      - question: How does PepsiCo manage its supply chain and key relationships?
+        answer: PepsiCo manages its supply chain through multiple strategies including
+          fixed-price contracts, purchase orders, derivative instruments, and
+          maintaining relationships with multiple suppliers across different
+          geographies. The company provides financial incentives to customers
+          and bottlers for distribution and promotion, including volume-based
+          rebates, product placement fees, and advertising support. Walmart and
+          its affiliates represent 14% of consolidated net revenue.
+      - question: What are the key regulatory challenges PepsiCo faces?
+        answer: PepsiCo faces various regulatory challenges including food safety and
+          labeling requirements, environmental protection laws, competition and
+          trade practices regulations, data privacy laws, and increasing taxes
+          on certain products based on ingredients or attributes. The company
+          must comply with different regulations across more than 200 countries
+          and territories, including specific requirements for product content,
+          packaging, and marketing.
+      - question: How is PepsiCo adapting to changing market conditions?
+        answer: PepsiCo is adapting to market changes through digital transformation,
+          expanding e-commerce capabilities, investing in R&D for product
+          innovation, and responding to consumer health and sustainability
+          trends. The company is also restructuring its organizational segments
+          to better align with market opportunities and implementing new
+          technologies including AI and data analytics to enhance consumer
+          insights and research.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/food_beverage/PEP/10-K/data/*.md

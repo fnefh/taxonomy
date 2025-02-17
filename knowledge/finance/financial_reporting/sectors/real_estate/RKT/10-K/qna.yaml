@@ -1,0 +1,141 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  Annual reports for Rocket Companies, Inc. (NYSE: RKT) from
+  2020 to 2023, covering:
+
+  - Business Model & Technology
+    - Digital-first mortgage platform
+    - AI and automation capabilities
+    - Brand recognition and marketing
+  - Market Position
+    - Competitive advantages
+    - Industry leadership
+    - Client experience
+  - Operations & Strategy
+    - Loan origination and servicing
+    - Risk management
+    - Growth initiatives
+seed_examples:
+  - context: >
+      Rocket Companies is a Detroit-based fintech company focused on
+      mortgage, real estate,  and personal finance. Their flagship business,
+      Rocket Mortgage, has provided over  $1.7 trillion in home loans since
+      inception. The company operates through a digital-first  platform powered
+      by AI and automation, with a strong focus on client experience
+      as  evidenced by their net promoter score of 74 in 2023. Their technology
+      infrastructure  includes 10 petabytes of data and processes that generate
+      over 50 million call logs  annually, with AI generating approximately 3.7
+      billion customer interactions and  assessments in a single year.
+    questions_and_answers:
+      - question: What are the key components of Rocket Companies' business model and
+          technology infrastructure?
+        answer: Rocket Companies operates as a digital-first fintech platform centered
+          on mortgage and real estate services. Their technology infrastructure
+          includes 10 petabytes of data, processes generating over 50 million
+          call logs annually, and AI systems that facilitate approximately 3.7
+          billion customer interactions per year. Their flagship business,
+          Rocket Mortgage, has originated over $1.7 trillion in home loans since
+          inception, demonstrating their scale and market presence.
+      - question: How does Rocket Companies leverage AI and automation in their
+          operations?
+        answer: Rocket Companies utilizes AI extensively throughout their operations,
+          particularly in knowledge engineering, machine learning, automation,
+          and personalization for home buying, selling, and financing. Their
+          system has been designed to integrate across business functions,
+          continuously monitoring in-progress transactions and leveraging
+          proprietary, data-driven decision engines to optimize task allocation.
+          The company's AI infrastructure processes billions of customer
+          interactions annually and is positioned to lead the next wave of
+          industry transformation.
+      - question: What metrics demonstrate Rocket Companies' success in client
+          experience and satisfaction?
+        answer: Rocket Companies has achieved a net promoter score of 74 for full year
+          2023, placing them among companies recognized for best-in-class
+          service. Through Rocket Mortgage, they have won 21 J.D. Power Awards
+          since 2010 across mortgage origination and servicing. Their mortgage
+          servicing portfolio maintains a 97% net client retention rate on an
+          annual basis, demonstrating strong client loyalty and satisfaction
+          levels that rival subscription-based models across industries.
+  - context: >
+      Rocket Companies operates through multiple interconnected businesses
+      including  Rocket Mortgage, Rocket Homes, Rocket Money, Rocket Loans, and
+      Amrock. Their  mortgage origination business includes Direct-To-Consumer
+      and Partner Network  segments. The company generates revenue primarily
+      through gain on sale of loans,  loan origination fees, mortgage servicing
+      fees, and other financial services.  Their servicing portfolio maintains a
+      97% net client retention rate, demonstrating  strong client relationships
+      and lifetime value.
+    questions_and_answers:
+      - question: How does Rocket Companies generate revenue across its various business
+          segments?
+        answer: Rocket Companies generates revenue through multiple streams including
+          gain on sale of loans, loan origination fees, points and costs,
+          mortgage servicing fees, and ancillary services. Their mortgage
+          business operates through Direct-To-Consumer and Partner Network
+          segments. Additional revenue comes from complementary businesses like
+          Rocket Homes (real estate services), Rocket Money (personal finance
+          app), Rocket Loans (personal lending), and Amrock (title and
+          settlement services).
+      - question: What distinguishes Rocket Companies' mortgage servicing business model?
+        answer: Rocket Companies' mortgage servicing business is characterized by a 97%
+          net client retention rate, which demonstrates strong client
+          relationships. They employ a client-centric philosophy and technology
+          through their servicing platform, offering digital experiences
+          designed around client needs. This includes features like personalized
+          videos explaining complex topics, loan information access, and home
+          value insights, all contributing to positive, regular touchpoints with
+          clients.
+      - question: How does Rocket Companies maintain competitive advantages in the
+          mortgage industry?
+        answer: Rocket Companies maintains competitive advantages through their national
+          "Rocket" brand recognition, digital-first approach, and extensive
+          technology infrastructure. They are the only company of scale with
+          significant digital-first brand recognition in their industry. Their
+          in-house marketing agency creates targeted campaigns, while their
+          scale and data analytics provide advantages in marketing efficiency
+          and client acquisition.
+  - context: >
+      Rocket Companies faces various risks including cybersecurity threats,
+      technology  disruptions, and market conditions. The company's success
+      depends heavily on  maintaining technological advantages and protecting
+      against cyber threats. They  operate in a highly regulated industry with
+      intense competition. Market risks  include interest rate fluctuations,
+      changes in real estate market conditions,  and macroeconomic factors
+      affecting consumer demand for mortgages.
+    questions_and_answers:
+      - question: What are the primary risks facing Rocket Companies' business
+          operations?
+        answer: The primary risks facing Rocket Companies include cybersecurity threats,
+          technology disruptions, regulatory compliance challenges, and market
+          conditions. They must protect sensitive client information, maintain
+          technological advantages, comply with extensive regulations across all
+          50 states, and manage risks related to interest rate fluctuations and
+          real estate market conditions. The company also faces intense
+          competition from both traditional financial institutions and other
+          fintech companies.
+      - question: How does Rocket Companies manage technology and cybersecurity risks?
+        answer: Rocket Companies manages technology and cybersecurity risks through
+          multiple approaches including investment in proprietary technology,
+          rigorous security protocols, and continuous monitoring of systems.
+          They maintain information security controls, implement preventive
+          measures against cyberattacks, and regularly update their technology
+          infrastructure. The company also focuses on protecting client data and
+          maintaining compliance with privacy and cybersecurity-related laws and
+          requirements.
+      - question: What impact do interest rates and market conditions have on Rocket
+          Companies' business?
+        answer: Interest rates and market conditions significantly impact Rocket
+          Companies' business performance. Changes in interest rates affect both
+          loan origination volume and the value of mortgage servicing rights
+          (MSRs). Higher rates typically reduce refinancing demand but increase
+          MSR values due to lower prepayment rates. Market conditions, including
+          economic factors, housing market health, and consumer confidence,
+          directly affect loan demand and the company's revenue generation
+          capacity.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/RKT/10-K/data/*.md

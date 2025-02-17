@@ -1,0 +1,106 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  Quarterly reports for PennyMac Mortgage Investment Trust
+  (NYSE: PMT) from Q3 2023 to Q3 2024, covering:
+
+  - Financial Performance
+    - Revenue and profitability metrics
+    - Investment income and expenses
+    - Cash flow and liquidity position
+  - Business Segments
+    - Credit sensitive strategies
+    - Interest rate sensitive strategies
+    - Correspondent production
+    - Corporate operations
+  - Strategic Developments
+    - Investment portfolio management
+    - Risk management
+    - Capital structure
+seed_examples:
+  - context: >
+      In Q3 2024, PennyMac Mortgage Investment Trust demonstrated solid
+      financial  performance with net investment income of $80.9 million. The
+      company  maintained a strong balance sheet with $344.4 million in cash
+      and  $102.8 million in short-term investments. Total assets stood
+      at  $13.1 billion as of September 30, 2024, with significant
+      investments  in mortgage servicing rights valued at $3.8 billion and
+      mortgage-backed  securities of $4.2 billion pledged to creditors.
+    questions_and_answers:
+      - question: What were PMT's key financial metrics in Q3 2024?
+        answer: In Q3 2024, PMT generated net investment income of $80.9 million,
+          maintained $344.4 million in cash and $102.8 million in short-term
+          investments. The company's total assets were $13.1 billion, with
+          significant positions in mortgage servicing rights ($3.8 billion) and
+          mortgage-backed securities ($4.2 billion).
+      - question: How did PMT's earnings per share perform in Q3 2024?
+        answer: PMT reported earnings per common share of $0.36 for Q3 2024, compared to
+          $0.51 in Q3 2023. The company maintained a stable dividend of $0.40
+          per common share during the quarter.
+      - question: What was PMT's cash position and how did it change during Q3 2024?
+        answer: As of September 30, 2024, PMT had $344.4 million in cash, representing
+          an increase from $281.1 million at the beginning of 2024. The
+          company's total cash and short-term investments position was
+          approximately $447.1 million.
+  - context: >
+      PMT operates through four distinct business segments: credit
+      sensitive  strategies, interest rate sensitive strategies, correspondent
+      production,  and corporate. The credit sensitive segment focuses on CRT
+      arrangements  and subordinate MBS, while the interest rate sensitive
+      segment manages  MSRs, Agency and senior non-Agency MBS. The correspondent
+      production  segment serves as an intermediary between lenders and capital
+      markets,  primarily selling loans to GSEs or for Ginnie Mae
+      securitizations.
+    questions_and_answers:
+      - question: What are PMT's main business segments and their primary functions?
+        answer: PMT operates through four segments 1) Credit sensitive strategies
+          focusing on CRT arrangements and subordinate MBS, 2) Interest rate
+          sensitive strategies managing MSRs and Agency/non-Agency MBS, 3)
+          Correspondent production serving as a lender-capital markets
+          intermediary, and 4) Corporate segment handling management and
+          administrative functions.
+      - question: How does PMT's correspondent production segment operate?
+        answer: The correspondent production segment acts as an intermediary between
+          lenders and capital markets by purchasing, pooling, and reselling
+          prime credit quality loans. These loans are primarily sold to GSEs
+          (Fannie Mae and Freddie Mac) or to PLS for securitization through
+          Ginnie Mae.
+      - question: What types of investments does PMT's interest rate sensitive segment
+          manage?
+        answer: The interest rate sensitive strategies segment manages investments in
+          mortgage servicing rights (MSRs), Agency and senior non-Agency
+          mortgage-backed securities (MBS), and conducts related interest rate
+          hedging activities to manage risk exposure.
+  - context: >
+      PMT's investment portfolio and capital structure showed
+      strategic  management in Q3 2024. The company had $5.7 billion in assets
+      sold  under agreements to repurchase and $2.8 billion in notes
+      payable  secured by credit risk transfer and mortgage servicing assets.
+      During  the nine months ended September 30, 2024, PMT demonstrated
+      active  portfolio management with $1.2 billion in mortgage-backed
+      securities  sales and repayments, while maintaining strong liquidity
+      through  various financing activities.
+    questions_and_answers:
+      - question: How did PMT manage its investment portfolio in Q3 2024?
+        answer: During Q3 2024, PMT actively managed its portfolio with $1.2 billion in
+          mortgage-backed securities sales and repayments. The company
+          maintained $5.7 billion in assets sold under repurchase agreements and
+          $2.8 billion in notes payable secured by credit risk transfer and
+          mortgage servicing assets.
+      - question: What financing activities did PMT engage in during 2024?
+        answer: In 2024, PMT engaged in various financing activities, including $91.9
+          billion in assets sold under agreements to repurchase, $1.8 billion in
+          mortgage loan participation agreements, and $1.3 billion in notes
+          payable secured by credit risk transfer and mortgage servicing assets.
+      - question: How does PMT maintain its REIT status?
+        answer: To maintain its REIT status, PMT is required to distribute at least 90%
+          of its taxable income to shareholders in the form of qualifying
+          distributions. The company paid dividends of $0.40 per common share in
+          Q3 2024 and maintained consistent dividend distributions throughout
+          the year.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/PMT/10-Q/data/*.md

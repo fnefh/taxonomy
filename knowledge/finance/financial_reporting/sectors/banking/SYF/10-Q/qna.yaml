@@ -117,6 +117,6 @@ seed_examples:
           maintaining business sustainability.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: latest
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
     - knowledge/finance/financial_reporting/sectors/banking/SYF/10-Q/data/*.md

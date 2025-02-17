@@ -1,0 +1,119 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  Annual reports for Opendoor Technologies Inc. (NYSE: OPEN)
+  from  2020-2023, covering:
+
+  - Business Model & Operations
+    - Digital real estate platform
+    - Home buying and selling process
+    - Market presence and expansion
+    - Technology and pricing capabilities
+  - Financial Performance
+    - Revenue and profitability metrics
+    - Growth trajectory
+    - Market share and penetration
+  - Strategic Initiatives
+    - Growth priorities
+    - Product development
+    - Risk management
+  - Industry Position
+    - Competitive landscape
+    - Market dynamics
+    - Regulatory environment
+seed_examples:
+  - context: >
+      Opendoor is the largest digital platform for residential real estate
+      transactions,  operating in 50 markets as of December 31, 2023. The
+      company's mission is to power  life's progress, one move at a time. Since
+      launch, customers have demonstrated their  desire for Opendoor's digital,
+      on-demand real estate solution with over 246,000 homes  bought and sold
+      across the United States. In 2023, they sold over 18,700 homes
+      and  generated $6.9 billion in revenue, maintaining an average Net
+      Promoter Score of nearly  80 from sellers since 2021.
+    questions_and_answers:
+      - question: What is Opendoor's market presence and scale of operations as of 2023?
+        answer: As of December 31, 2023, Opendoor operated in 50 markets across the
+          United States, having bought and sold over 246,000 homes since launch.
+          In 2023 alone, the company sold over 18,700 homes and generated $6.9
+          billion in revenue, demonstrating significant scale in the digital
+          real estate transaction space.
+      - question: How does Opendoor measure customer satisfaction and what has been
+          their performance?
+        answer: Opendoor measures customer satisfaction through Net Promoter Score
+          (NPS), maintaining an average NPS of nearly 80 from sellers since
+          2021, which indicates strong customer satisfaction with their digital,
+          on-demand real estate solution.
+      - question: What is Opendoor's core business model and value proposition?
+        answer: Opendoor operates as a digital platform for residential real estate
+          transactions, transforming the traditional home buying and selling
+          process into a simple and certain online experience. Their value
+          proposition is to make it possible to buy, sell, and move at the tap
+          of a button, addressing the traditionally complex, uncertain, and
+          time-consuming nature of real estate transactions.
+  - context: >
+      Opendoor's industry-leading pricing capabilities are fundamental to
+      their business model.  The company has invested heavily in their pricing
+      function, which uses proprietary data  and advanced algorithms to produce
+      competitive offers while managing acquisition volumes  and risk. Their
+      pricing system incorporates hundreds of data points, including
+      approximately  690,000 assessments with over 150 data points per home,
+      leading to approximately 2.1 billion  annotations and adjustments to MLS
+      and tax assessor data.
+    questions_and_answers:
+      - question: What are the key components of Opendoor's pricing capabilities?
+        answer: Opendoor's pricing capabilities combine algorithmic valuation estimates,
+          confidence level assessments, and validation through virtual and
+          in-person assessments. The system uses proprietary data from
+          approximately 690,000 home assessments, each collecting over 150 data
+          points, resulting in about 2.1 billion annotations and adjustments to
+          MLS and tax assessor data.
+      - question: How does Opendoor's pricing system adapt to market conditions?
+        answer: The pricing system features responsive feedback loops that enable
+          dynamic adjustments to macro- and micro-economic conditions. The
+          algorithms use machine learning to drive pricing decisions through
+          modeling of observed home sale prices, demand forecasting, outlier
+          detection, risk assessment, and inventory management.
+      - question: What role does data play in Opendoor's pricing strategy?
+        answer: Data is central to Opendoor's pricing strategy, combining proprietary
+          offline data from home assessments, AI-extracted information from
+          customer interactions, and real-time demand data from home visits and
+          visitor feedback. This comprehensive data approach enables them to
+          calibrate both acquisition pricing and resale strategy.
+  - context: >
+      Opendoor's strategic growth priorities focus on three key areas:
+      increasing penetration  in existing markets, expanding to new markets, and
+      expanding product offerings. The company  has demonstrated ability to
+      capture over 4% market share in multiple markets, with older  market
+      cohorts showing deeper penetration. Their market launch playbook enables
+      efficient  expansion through centralized core functions, while their
+      product strategy aims to build  the best end-to-end digital experience for
+      home sellers and buyers.
+    questions_and_answers:
+      - question: What are Opendoor's main strategic growth priorities?
+        answer: Opendoor's strategic growth priorities consist of three main areas 1)
+          Increasing penetration in existing markets to improve awareness,
+          trust, and operational efficiencies, 2) Expanding to new markets
+          toward their goal of nationwide coverage, and 3) Expanding product
+          offerings to build the best end-to-end digital experience for home
+          sellers and buyers.
+      - question: How does Opendoor approach market expansion and penetration?
+        answer: Opendoor has developed a scalable market launch playbook that
+          centralizes core pricing, operations, and customer service functions,
+          enabling efficient expansion with limited in-market physical presence.
+          They have demonstrated ability to capture over 4% market share in
+          multiple markets, with older markets showing deeper penetration.
+      - question: What is Opendoor's product development strategy?
+        answer: Opendoor's product development strategy focuses on building the best
+          end-to-end digital experience for home sellers and buyers. This
+          includes refining their seller experience, driving additional scale
+          and efficiencies, expanding options available to sellers, enhancing
+          the buyer experience, and integrating the seller and buyer journey.
+          They plan to launch additional products related to real estate
+          transactions and ancillary services over time.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/OPEN/10-K/data/*.md

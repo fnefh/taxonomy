@@ -128,6 +128,6 @@ seed_examples:
           measures to protect its information technology systems and data.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: latest
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
-    - sectors/consumer_goods/KVUE/10-K/data/*.md
+    - knowledge/finance/financial_reporting/sectors/consumer_goods/KVUE/10-K/data/*.md

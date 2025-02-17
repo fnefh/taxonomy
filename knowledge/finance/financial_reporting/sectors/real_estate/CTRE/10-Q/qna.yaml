@@ -1,0 +1,150 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for CareTrust REIT, Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Rental income and interest revenue
+     - Operating expenses and margins
+     - Cash flow management
+
+  2. Strategic Developments
+     - Portfolio expansion
+     - Investment activities
+     - Property acquisitions
+     - Capital structure optimization
+
+  3. Business Operations
+     - Property portfolio management
+     - Healthcare facility operations
+     - Tenant relationships
+     - Asset performance
+
+  4. Risk Management
+     - Market conditions
+     - Property impairments
+     - Financial stability
+     - Operational challenges
+seed_examples:
+  - context: >
+      For Q3 2024, CareTrust REIT reported strong financial performance with
+      total revenues of $77.4 million, including rental income of $57.2 million
+      and interest and other income of $20.2 million. The company demonstrated
+      solid operational execution with net income of $33.3 million, while
+      maintaining strategic investments in healthcare properties and other real
+      estate investments.
+    questions_and_answers:
+      - question: >
+          How did CareTrust's financial performance compare to the previous
+          quarter and what were the key drivers?
+        answer: >
+          In Q3 2024, CareTrust achieved total revenues of $77.4 million,
+          consisting of $57.2 million in rental income (up from $51.2 million in
+          Q3 2023) and $20.2 million in interest and other income (up from $4.7
+          million). Net income increased significantly to $33.3 million from
+          $8.7 million in Q3 2023, despite an $8.4 million impairment charge on
+          real estate investments. Operating expenses were well-managed at $43.0
+          million, including $14.0 million in depreciation and amortization.
+      - question: >
+          What progress has CareTrust made in expanding its investment portfolio?
+        answer: >
+          CareTrust significantly expanded its portfolio through strategic
+          investments, with real estate investments increasing to $1.75 billion
+          and other real estate related investments growing to $740.7 million as
+          of Q3 2024. The company's investment activities included property
+          acquisitions, preferred equity investments, and real estate secured
+          loans, demonstrating a diversified approach to portfolio growth.
+      - question: >
+          How is CareTrust managing its capital structure and operational
+          efficiency?
+        answer: >
+          CareTrust maintains a strong financial position with $377.1 million in
+          cash and cash equivalents, reduced debt levels with the repayment of a
+          $200 million term loan, and effective working capital management. The
+          company generated $169.0 million in operating cash flow for the first
+          nine months of 2024, while successfully raising capital through stock
+          issuance and maintaining quarterly dividends of $0.29 per share.
+  - context: >
+      During Q3 2024, CareTrust demonstrated active portfolio management and
+      investment strategy execution, owning 226 healthcare facilities across 31
+      states with 24,512 operational beds and units. The company maintained a
+      diversified investment approach with significant holdings in both owned
+      properties and real estate related investments.
+    questions_and_answers:
+      - question: >
+          How is CareTrust balancing its investment strategy between owned
+          properties and other real estate investments?
+        answer: >
+          CareTrust maintains a balanced investment approach with $1.75 billion in
+          owned real estate investments and $740.7 million in other real estate
+          related investments, including preferred equity investments, real
+          estate secured loans, and mezzanine loans. This diversification
+          strategy provides multiple revenue streams while maintaining focus on
+          the healthcare sector.
+      - question: |
+          What are the key operational metrics and performance indicators?
+        answer: >
+          Key operational metrics include a portfolio of 226 healthcare facilities
+          across 31 states with 24,512 operational beds and units, demonstrating
+          significant scale and geographic diversification. The company
+          maintains strong revenue generation with $57.2 million in quarterly
+          rental income and $20.2 million in interest and other income, while
+          managing operating expenses effectively.
+      - question: |
+          How does CareTrust approach property portfolio management?
+        answer: >
+          CareTrust actively manages its property portfolio through strategic
+          acquisitions and dispositions, maintaining a focus on healthcare
+          facilities including SNFs, ALFs, and multi-service campuses. The
+          company evaluates property performance, implements necessary
+          improvements, and manages tenant relationships while maintaining
+          geographic diversification with highest concentration in California
+          and Texas.
+  - context: >
+      CareTrust's Q3 2024 results reflect successful execution of its growth
+      strategy, with significant capital raising activities including stock
+      issuance and strategic deployment of capital across various investment
+      opportunities. The company maintains a strong balance sheet while pursuing
+      growth in both owned properties and real estate related investments.
+    questions_and_answers:
+      - question: >
+          What are the key elements of CareTrust's growth strategy and market
+          positioning?
+        answer: >
+          CareTrust's growth strategy focuses on expanding its healthcare property
+          portfolio through strategic acquisitions and investments, maintaining
+          a diversified approach between owned properties and real estate
+          related investments. The company's market position is supported by its
+          presence in 31 states, focus on healthcare facilities, and balanced
+          investment approach combining property ownership with lending and
+          preferred equity investments.
+      - question: |
+          How is CareTrust managing market risks and competitive challenges?
+        answer: >
+          CareTrust manages market risks through portfolio diversification,
+          maintaining strong liquidity with $377.1 million in cash, and
+          strategic capital allocation. The company actively monitors property
+          performance, recognizing impairments when necessary ($8.4 million in
+          Q3 2024), while maintaining a conservative approach to leverage with
+          reduced debt levels and strong cash flow generation.
+      - question: >
+          What are CareTrust's key priorities and focus areas for future
+          quarters?
+        answer: >
+          CareTrust's priorities include continuing strategic portfolio expansion
+          through both property acquisitions and real estate related
+          investments, maintaining operational efficiency, and optimizing
+          capital structure. The company focuses on healthcare sector
+          opportunities while maintaining financial flexibility through strong
+          liquidity and balanced investment approach, supported by active
+          capital markets access and disciplined investment strategy.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/CTRE/10-Q/data/*.md

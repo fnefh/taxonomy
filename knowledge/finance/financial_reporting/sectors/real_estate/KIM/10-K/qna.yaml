@@ -1,0 +1,165 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  Annual financial reports for Kimco Realty (NYSE: KIM) from
+  fiscal years 2020-2023, covering:
+
+  - Business Operations and Portfolio
+    - Largest owner and operator of open-air shopping centers in the U.S.
+    - Geographic diversification and tenant mix
+    - Property management and leasing strategies
+  - Strategic Initiatives
+    - Sustainable growth through core portfolio optimization
+    - Development and redevelopment activities
+    - Mixed-use property opportunities
+  - Market Position
+    - Competitive advantages and industry relationships
+    - Geographic and tenant diversification
+    - Management expertise and experience
+  - ESG Programs and Initiatives
+    - Environmental sustainability goals
+    - Social responsibility and community engagement
+    - Corporate governance practices
+  - Risk Management
+    - Market and economic risk factors
+    - Operational and development risks
+    - Cybersecurity and technology risks
+seed_examples:
+  - context: >
+      Kimco Realty is the nation's largest owner and operator of open-air
+      shopping centers, with a strong focus on geographic and tenant
+      diversification. As of December 31, 2023, no single shopping center
+      accounted for more than 1.3% of annualized base rental revenues, and the
+      company's five largest tenants represented less than 11.3% of annualized
+      base rental revenues.
+    questions_and_answers:
+      - question: What are the key aspects of Kimco's portfolio diversification strategy?
+        answer: Kimco maintains a highly diversified portfolio through two main
+          approaches 1) Geographic distribution of properties across the United
+          States, with no single shopping center accounting for more than 1.3%
+          of annualized base rental revenues, and 2) A diverse tenant base where
+          the five largest tenants combined represent less than 11.3% of
+          annualized base rental revenues. This diversification helps reduce
+          operating and leasing risks while ensuring stable income streams.
+      - question: How does Kimco's tenant mix contribute to portfolio stability?
+        answer: Kimco's tenant mix strategy focuses on maintaining a balanced portfolio
+          of retailers, with no single tenant dominating the revenue stream. The
+          company's largest tenant represents only 3.7% of annualized base
+          rental revenues, demonstrating strong tenant diversification. This
+          approach helps mitigate tenant-specific risks and ensures stable cash
+          flows across the portfolio.
+      - question: What competitive advantages does Kimco derive from its market
+          leadership position?
+        answer: As the nation's largest owner and operator of open-air shopping centers,
+          Kimco benefits from economies of scale, strong market presence, and
+          significant bargaining power with tenants. Their scale allows them to
+          optimize operating costs, implement best practices across the
+          portfolio, and maintain strong relationships with national and
+          regional retailers through their broad network of industry contacts.
+  - context: >
+      The company has identified strategic priorities for sustainable growth,
+      including portfolio optimization, development opportunities, and ESG
+      initiatives. Kimco has established a near-term greenhouse gas emissions
+      reduction target of 30% from a 2018 baseline by 2030 and aims to achieve
+      net zero Scope 1 and 2 GHG emissions by 2050.
+    questions_and_answers:
+      - question: What are Kimco's key environmental sustainability goals and
+          initiatives?
+        answer: Kimco has established two major environmental sustainability goals 1) A
+          near-term target to reduce Scope 1 and 2 greenhouse gas emissions by
+          30% from a 2018 baseline by 2030, and 2) A long-term goal to achieve
+          net zero Scope 1 and 2 GHG emissions by 2050. The company has also
+          implemented green financing initiatives, including a $500 million
+          green bond offering and a $2.0 billion green credit facility tied to
+          emissions reduction targets.
+      - question: How does Kimco approach mixed-use development opportunities?
+        answer: Kimco actively pursues mixed-use development opportunities, leveraging
+          their expertise in retail properties while expanding into residential,
+          office, and hotel components. They carefully evaluate each project's
+          potential, considering market conditions, projected returns, and
+          strategic fit within their portfolio. The company may develop
+          non-retail components themselves, partner with specialized developers,
+          or sell rights to third parties based on project requirements.
+      - question: What strategies does Kimco employ for portfolio optimization?
+        answer: Kimco optimizes its portfolio through strategic acquisitions,
+          dispositions, and redevelopment initiatives. They focus on properties
+          in markets with strong demographics, high barriers to entry, and
+          potential for economic growth. The company also implements operational
+          improvements, enhances property amenities, and pursues strategic
+          partnerships to maximize asset value and maintain competitive
+          positioning.
+  - context: >
+      Kimco's management team brings extensive retail and public company
+      leadership experience. The company maintains close relationships with
+      major national and regional retailers through its broad industry network.
+      Kimco has been recognized as a Great Place to Work® for six consecutive
+      years and achieved the highest score on the Human Rights Campaign
+      Foundation's 2023-2024 Corporate Equality Index.
+    questions_and_answers:
+      - question: How does Kimco's management expertise and corporate culture contribute
+          to its competitive advantage?
+        answer: Kimco's competitive advantage is strengthened by several key factors 1)
+          A seasoned management team with deep industry knowledge and extensive
+          retail and public company leadership experience, 2) Well-established
+          relationships with retailers, brokers, and vendors through years of
+          operational experience, 3) Strong corporate culture evidenced by six
+          consecutive years as a Great Place to Work® and recognition for LGBTQ+
+          workplace inclusion, and 4) A hybrid work model that promotes
+          work-life balance and employee engagement while maintaining
+          productivity.
+      - question: What initiatives has Kimco implemented to support employee development
+          and engagement?
+        answer: Kimco prioritizes employee development through comprehensive programs
+          including regular training sessions, Coffee Connections with the
+          executive team, the BRAVO recognition program, and LABS (Leaders
+          Advancing Business Strategy) program. The company also provides
+          competitive benefits, educational assistance, wellness programs, and
+          supports community involvement through volunteer days and matching
+          charitable contributions.
+      - question: How does Kimco's organizational structure support its business
+          objectives?
+        answer: Kimco maintains an efficient organizational structure with 660 employees
+          across 26 offices, including 31% at corporate headquarters and the
+          remainder in regional offices. The company promotes an "open door"
+          environment encouraging feedback and innovation, while supporting
+          physical and mental health through wellness programs and maintaining a
+          hybrid work model that balances face-to-face interactions with
+          workplace flexibility.
+  - context: >
+      In 2022, Kimco demonstrated its commitment to risk management and
+      operational resilience through comprehensive cybersecurity measures,
+      climate risk assessment, and strategic portfolio management. The company
+      identified and actively manages various physical and transition risks
+      related to climate change, while maintaining strong IT security protocols
+      and business continuity plans.
+    questions_and_answers:
+      - question: How does Kimco approach climate-related risks and opportunities?
+        answer: Kimco evaluates climate risks at both corporate and individual asset
+          levels, focusing on physical risks (windstorms, sea level rise,
+          flooding, wildfires, heat and water stress) and transition risks
+          (regulation and reputation). The company mitigates these risks through
+          additional insurance coverage, geographic diversification, and
+          implementing green lease provisions that align landlord and tenant
+          sustainability priorities.
+      - question: What measures has Kimco implemented to address cybersecurity threats?
+        answer: Kimco maintains comprehensive cybersecurity measures including employee
+          security awareness training, internal phishing exercises, and prompt
+          investigation protocols. The company actively monitors and manages IT
+          networks and related systems, implements various security measures,
+          and maintains response protocols for potential security incidents.
+          They also work with third-party cybersecurity professionals and
+          maintain insurance coverage for cyber-related risks.
+      - question: How does Kimco manage operational and market-related risks?
+        answer: Kimco manages operational and market risks through multiple strategies
+          1) Maintaining a geographically diversified portfolio to limit
+          exposure to local market conditions, 2) Implementing comprehensive
+          property management and maintenance programs, 3) Maintaining strong
+          tenant relationships and credit monitoring, and 4) Pursuing strategic
+          growth opportunities while maintaining conservative financial policies
+          and strong balance sheet metrics.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/KIM/10-K/data/*.md

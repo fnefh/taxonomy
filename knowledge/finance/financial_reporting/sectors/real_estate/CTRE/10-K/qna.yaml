@@ -1,0 +1,152 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for CareTrust REIT, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Property portfolio performance
+     - Rental revenue and income metrics
+     - Investment and acquisition activity
+     - Capital structure and financing
+
+  2. Business Operations
+     - Healthcare property management
+     - Tenant relationships and lease structures
+     - Property types and geographic distribution
+     - Development and redevelopment initiatives
+
+  3. Market Position
+     - Healthcare REIT sector leadership
+     - Strategic growth initiatives
+     - Competitive advantages
+     - Industry trends and opportunities
+
+  4. Risk Management
+     - Tenant credit quality monitoring
+     - Regulatory compliance
+     - Market conditions and challenges
+     - ESG initiatives and sustainability
+seed_examples:
+  - context: >
+      As of December 31, 2023, CareTrust REIT owned 226 healthcare properties
+      across 28 states, consisting of 151 skilled nursing facilities, 34
+      assisted living facilities, 2 independent living facilities, and 25
+      multi-service campuses. The company reported total rental income of $198.6
+      million for 2023, with the highest concentration of properties by rental
+      income located in California (30%) and Texas (22%). The portfolio included
+      23,928 operational beds and units, with significant tenant relationships
+      including Ensign accounting for 33% of annualized contractual rental
+      income.
+    questions_and_answers:
+      - question: >
+          What is the composition and geographic distribution of CareTrust's
+          property portfolio?
+        answer: >
+          As of December 31, 2023, CareTrust's portfolio comprised 226 healthcare
+          properties across 28 states, including 151 SNFs, 34 ALFs, 2 ILFs, and
+          25 multi-service campuses, totaling 23,928 operational beds and units.
+          The portfolio is concentrated in California and Texas, which account
+          for 30% and 22% of rental income respectively.
+      - question: >
+          How diversified is CareTrust's tenant base and what are the key tenant
+          relationships?
+        answer: >
+          While CareTrust maintains a diversified tenant base across multiple
+          operators, Ensign represents a significant relationship, accounting
+          for 33% of annualized contractual rental income. The company leases 94
+          facilities to Ensign subsidiaries under multiple master lease
+          agreements, with annualized contractual rental income of $67.8
+          million.
+      - question: >
+          What was CareTrust's financial performance in terms of rental income
+          for 2023?
+        answer: >
+          CareTrust generated total rental income of $198.6 million in 2023, with
+          SNFs contributing 73% ($145.6 million), multi-service campuses 18%
+          ($35.8 million), and ALFs/ILFs 9% ($17.2 million) of the total rental
+          income.
+  - context: >
+      During 2023, CareTrust demonstrated active portfolio management and
+      growth, acquiring properties worth $244.8 million, including 10 skilled
+      nursing facilities, 1 multi-service campus, and 5 assisted living
+      facilities, adding 1,751 beds/units. The company also made other real
+      estate investments totaling $105.5 million through mortgage loans,
+      mezzanine loans, and preferred equity investments. The company maintained
+      strong occupancy rates across its portfolio with SNFs at 75%,
+      multi-service campuses at 75%, and ALFs/ILFs at 75%.
+    questions_and_answers:
+      - question: >
+          What acquisition and investment activity did CareTrust undertake in
+          2023?
+        answer: >
+          In 2023, CareTrust completed $244.8 million in property acquisitions,
+          including 10 SNFs, 1 multi-service campus, and 5 ALFs, adding 1,751
+          beds/units. Additionally, the company invested $105.5 million in other
+          real estate investments, comprising $51.6 million in mortgage loans,
+          $52.2 million in mezzanine loans, and $1.8 million in preferred
+          equity.
+      - question: >
+          How did CareTrust's portfolio occupancy perform across different
+          property types?
+        answer: >
+          CareTrust maintained consistent occupancy rates of 75% across all
+          property types in 2023, including SNFs, multi-service campuses, and
+          ALFs/ILFs, demonstrating stable operational performance across its
+          portfolio.
+      - question: |
+          What strategies does CareTrust employ for portfolio optimization?
+        answer: >
+          CareTrust actively manages its portfolio through strategic acquisitions,
+          dispositions, and investments. In 2023, while acquiring new
+          properties, the company also sold one SNF and four ALFs for net
+          proceeds of $18.3 million, resulting in a net gain of $2.2 million,
+          demonstrating its commitment to portfolio optimization.
+  - context: >
+      CareTrust REIT emphasizes sustainability and corporate responsibility,
+      implementing various ESG initiatives in 2023. The company published its
+      third annual Corporate Sustainability Report, expanded environmental data
+      collection to 100 properties, conducted a portfolio-wide climate risk
+      assessment, and maintained a tenant incentive program for sustainable
+      improvements. The company also demonstrated strong corporate governance
+      with a board bringing expertise in healthcare, real estate, and business
+      development, while maintaining a focus on human capital with high employee
+      satisfaction rates and comprehensive benefits.
+    questions_and_answers:
+      - question: >
+          How does CareTrust approach environmental sustainability in its
+          operations?
+        answer: >
+          CareTrust demonstrates commitment to sustainability through multiple
+          initiatives, including publishing its third annual ESG Report,
+          expanding environmental data collection to 100 properties, conducting
+          portfolio-wide climate risk assessments, and maintaining a tenant
+          incentive program that provided $567,304 in environmental improvements
+          from September 2022 to September 2023.
+      - question: >
+          What measures does CareTrust take to support and develop its human
+          capital?
+        answer: >
+          CareTrust invests significantly in employee development and
+          satisfaction, achieving an 86% overall satisfaction rate in 2023. The
+          company offers competitive compensation and benefits, supports
+          professional development, and provides flexible work arrangements. As
+          of December 31, 2023, the company employed 17 full-time employees with
+          a focus on retention and continuous learning.
+      - question: |
+          How does CareTrust address governance and risk management?
+        answer: >
+          CareTrust maintains strong governance through a board with deep
+          expertise in healthcare, real estate, and business development. The
+          company actively monitors tenant credit quality, regulatory
+          compliance, and market conditions while implementing comprehensive ESG
+          policies and programs to manage risks and promote sustainable
+          practices.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/real_estate/CTRE/10-K/data/*.md

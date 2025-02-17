@@ -134,4 +134,4 @@ document:
   repo: https://github.com/protoneutron/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
-    - sectors/food_beverage/HAIN/10-Q/data/*.md
+    - knowledge/finance/financial_reporting/sectors/food_beverage/HAIN/10-Q/data/*.md

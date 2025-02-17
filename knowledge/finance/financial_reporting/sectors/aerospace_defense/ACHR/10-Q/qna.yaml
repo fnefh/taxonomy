@@ -156,6 +156,6 @@ seed_examples:
           cash equivalents and total assets of $539.6 million.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: latest
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
     - knowledge/finance/financial_reporting/sectors/aerospace_defense/ACHR/10-Q/data/*.md

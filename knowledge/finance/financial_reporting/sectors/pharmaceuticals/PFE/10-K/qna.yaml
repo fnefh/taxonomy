@@ -1,0 +1,154 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Pfizer Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations
+     - Commercial divisions and structure
+     - Product portfolio and pipeline
+     - Research and development
+     - Global market presence
+
+  2. Strategic Initiatives
+     - Seagen acquisition
+     - Business development
+     - Innovation focus
+     - ESG priorities
+
+  3. Market Position
+     - Therapeutic areas
+     - Competitive advantages
+     - Growth opportunities
+     - Partnership strategies
+
+  4. Risk Management
+     - Regulatory compliance
+     - Market dynamics
+     - Operational challenges
+     - Financial stability
+seed_examples:
+  - context: >
+      In 2023, Pfizer completed the strategic acquisition of Seagen for its
+      oncology portfolio and reorganized its commercial operations into three
+      divisions: Pfizer Oncology Division, Pfizer U.S. Commercial Division, and
+      Pfizer International Commercial Division, while maintaining focus on
+      delivering breakthroughs that change patients' lives.
+    questions_and_answers:
+      - question: >
+          What are the key elements of Pfizer's commercial organization and how
+          has it evolved?
+        answer: >
+          Pfizer's commercial organization was restructured in 2024 to include
+          three main divisions: the Pfizer Oncology Division combining U.S.
+          Oncology commercial organizations from Pfizer and Seagen; the Pfizer
+          U.S. Commercial Division encompassing Primary Care (internal medicine,
+          vaccines, COVID-19 products) and Specialty Care (inflammation &
+          immunology, rare diseases, hospital products); and the Pfizer
+          International Commercial Division covering ex-U.S. markets. This
+          structure aims to improve focus, speed, and execution across the
+          organization.
+      - question: >
+          How has Pfizer strengthened its product portfolio through strategic
+          initiatives?
+        answer: >
+          Pfizer significantly strengthened its portfolio through the $27.8
+          billion acquisition of Seagen in December 2023, adding four in-line
+          medicines (Padcev, Adcetris, Tukysa, Tivdak) and expanding its
+          oncology capabilities across multiple modalities including ADCs, small
+          molecules, bispecifics, and immunotherapies. The company maintains a
+          diverse portfolio across therapeutic areas including oncology,
+          internal medicine, vaccines, rare diseases, and inflammation &
+          immunology.
+      - question: |
+          What distinguishes Pfizer's approach to research and development?
+        answer: >
+          Pfizer's R&D approach focuses on delivering highly differentiated
+          medicines and vaccines where they have unique opportunities to help
+          patients in need. Their priorities include advancing capabilities for
+          long-term R&D leadership, developing new partnership models with
+          creativity and urgency, and translating advanced science into
+          impactful therapies. This is supported by their core principles of
+          "Science Will Win" and commitment to breakthrough innovations.
+  - context: >
+      Pfizer's business model focuses on research-based biopharmaceuticals,
+      applying global resources to develop therapies that extend and improve
+      lives through discovery, development, manufacture, and commercialization
+      of products worldwide, while maintaining strong ESG commitments.
+    questions_and_answers:
+      - question: >
+          How does Pfizer approach value creation and market access for its
+          products?
+        answer: >
+          Pfizer focuses on demonstrating value through improved treatment
+          outcomes and reduced healthcare costs. They actively engage with
+          patients, physicians, and payors to optimize access and pricing
+          arrangements, while maintaining revenue stability within legal and
+          pricing structures. Their approach includes evaluating contracting
+          methods with payors and working with healthcare providers and local
+          communities to expand reliable, affordable healthcare access globally.
+      - question: |
+          What are Pfizer's core business principles and strategic priorities?
+        answer: >
+          Pfizer operates under five core principles: Trust is Everything, Science
+          Will Win, Disruption Calls for Innovation, Time is Life, and Execution
+          Makes the Difference. Their strategic priorities include advancing
+          their product pipeline, maximizing existing product value, pursuing
+          strategic business development, and integrating ESG priorities into
+          corporate strategy, focusing on product innovation, access, quality,
+          diversity, climate change, and business ethics.
+      - question: |
+          How does Pfizer manage its global operations and market presence?
+        answer: >
+          Pfizer manages global operations through a structured approach to
+          different markets, with dedicated commercial divisions for U.S. and
+          international operations. They maintain a significant presence in
+          developed and emerging markets, collaborating with healthcare
+          providers, governments, and local communities. Their global structure
+          supports both innovation-driven growth in established markets and
+          expanded access in developing regions.
+  - context: >
+      Pfizer's commitment to innovation and strategic growth is demonstrated
+      through significant investments in R&D, business development, and
+      operational excellence, while maintaining focus on risk management and
+      regulatory compliance across global markets.
+    questions_and_answers:
+      - question: >
+          How does Pfizer manage risk and regulatory compliance across its
+          global operations?
+        answer: >
+          Pfizer maintains comprehensive risk management and compliance programs
+          across operations, including monitoring healthcare reforms, pricing
+          regulations, intellectual property protection, and market access
+          requirements in different jurisdictions. They actively manage various
+          risks including regulatory changes, market dynamics, cybersecurity
+          threats, and operational challenges while maintaining strong
+          governance practices and regulatory compliance standards.
+      - question: |
+          What are Pfizer's key growth drivers and market opportunities?
+        answer: >
+          Pfizer's growth strategy focuses on multiple drivers including internal
+          pipeline development, strategic acquisitions like Seagen, expansion in
+          key therapeutic areas, and maximizing commercial opportunities across
+          their portfolio. They pursue growth through innovation in high-need
+          areas, strategic partnerships, and market expansion while maintaining
+          operational efficiency and strong commercial execution across their
+          global footprint.
+      - question: >
+          How does Pfizer approach environmental, social, and governance (ESG)
+          priorities?
+        answer: >
+          Pfizer integrates ESG priorities into their corporate strategy, focusing
+          on six key areas: product innovation, equitable access and pricing,
+          product quality and safety, diversity and inclusion, climate change,
+          and business ethics. Their approach includes specific commitments and
+          goals in each area, with regular monitoring and reporting of progress
+          through their Impact Report and other disclosures.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/pharmaceuticals/PFE/10-K/data/*.md

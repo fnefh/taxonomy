@@ -207,6 +207,6 @@ seed_examples:
           compared to traditional lithium-ion batteries.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: latest
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
     - knowledge/finance/financial_reporting/sectors/automobiles/QS/10-K/data/*.md

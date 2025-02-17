@@ -136,6 +136,6 @@ seed_examples:
           demonstrating successful diversification of revenue streams.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: latest
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
     - knowledge/finance/financial_reporting/sectors/banking/SBCF/10-Q/data/*.md
