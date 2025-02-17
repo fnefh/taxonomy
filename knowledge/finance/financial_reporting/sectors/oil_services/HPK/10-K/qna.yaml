@@ -1,0 +1,136 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for HighPeak Energy, Inc. through fiscal year 2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations and Assets
+     - Property Portfolio and Acreage
+     - Drilling Activities and Development
+     - Production Facilities and Infrastructure
+     - Marketing and Customer Base
+     - Competitive Position
+
+  2. Operational Strategy and Development
+     - Development Plans and Activities
+     - Drilling Programs and Well Statistics
+     - Infrastructure and Facilities
+     - Production and Delivery Commitments
+     - Operational Control and Safety
+
+  3. Regulatory Environment and Compliance
+     - Environmental Regulations
+     - Safety and Health Requirements
+     - Permits and Authorizations
+     - Risk Management
+     - Regulatory Compliance
+
+  4. Human Capital and Organization
+     - Employee Base and Structure
+     - Health and Safety Programs
+     - Diversity and Inclusion
+     - Talent Development
+     - Organizational Culture
+seed_examples:
+  - context: >
+      As of December 31, 2023, HighPeak Energy's properties consisted of
+      143,187 gross (131,636 net) acres with an average working interest of
+      approximately 92%. The company's acreage position includes 86,198 gross
+      (81,813 net) developed acres and 56,989 gross (49,823 net) undeveloped
+      acres. Approximately 64% of the net acreage was held by production as of
+      December 31, 2023.
+    questions_and_answers:
+      - question: >
+          What is the size and composition of HighPeak Energy's property
+          portfolio as of year-end 2023?
+        answer: >
+          As of December 31, 2023, HighPeak Energy's property portfolio consisted
+          of: 1) Total acreage of 143,187 gross (131,636 net) acres with a 92%
+          average working interest, 2) Developed acreage of 86,198 gross (81,813
+          net) acres, 3) Undeveloped acreage of 56,989 gross (49,823 net) acres,
+          4) Approximately 64% of net acreage held by production, demonstrating
+          significant operational control and development potential.
+      - question: >
+          How does HighPeak Energy manage its undeveloped acreage expirations
+          and retention strategy?
+        answer: >
+          HighPeak Energy manages its undeveloped acreage through: 1) Strategic
+          planning for 27,424 net acres expiring in 2024, intending to retain
+          substantially all through completion operations of existing wells and
+          drilling new wells, 2) Implementing a development plan to retain
+          remaining undeveloped acreage through lease renewals or extensions, 3)
+          Prioritizing development activities to maintain control of strategic
+          acreage positions, 4) Focusing on converting undeveloped acreage to
+          held by production status through active drilling programs.
+  - context: >
+      For the year ended December 31, 2023, HighPeak Energy completed 57
+      gross (49.5 net) development wells and 70 gross (63.3 net)
+      exploratory/extension wells, all of which were productive. The company was
+      running a three-rig program and had 10 gross (9.1 net) wells in the
+      process of being drilled and 18 gross (13.4 net) wells either waiting on
+      completion or in various stages of completion operations.
+    questions_and_answers:
+      - question: >
+          What were HighPeak Energy's drilling activities and operational
+          highlights for 2023?
+        answer: >
+          HighPeak Energy's 2023 drilling activities included: 1) Completion of 57
+          gross (49.5 net) development wells, all productive, 2) Completion of
+          70 gross (63.3 net) exploratory/extension wells, all productive, 3)
+          Operating a three-rig drilling program, 4) Having 10 gross (9.1 net)
+          wells in the drilling process and 18 gross (13.4 net) wells in various
+          stages of completion, 5) Maintaining a 100% success rate on completed
+          wells, demonstrating operational efficiency and geological expertise.
+      - question: >
+          How does HighPeak Energy manage its production facilities and
+          infrastructure?
+        answer: >
+          HighPeak Energy manages its production infrastructure through: 1)
+          Operating salt-water disposal wells and related facilities, 2)
+          Maintaining saltwater disposal pipeline systems throughout Flat Top
+          and Signal Peak areas, 3) Utilizing storage tanks, separation
+          equipment, flowlines, and metering equipment, 4) Implementing various
+          artificial lift methods including electrical submersible pumps, rod
+          pumps, and plunger lifts, 5) Leveraging its contiguous acreage
+          position to optimize capital expenditures for production facilities
+          and water handling infrastructure.
+  - context: >
+      HighPeak Energy's operations are subject to extensive environmental and
+      safety regulations, including those related to hydraulic fracturing,
+      emissions control, and waste handling. The company employed forty-eight
+      full-time employees as of December 31, 2023, and maintains a strong focus
+      on safety, diversity, and talent development.
+    questions_and_answers:
+      - question: >
+          How does HighPeak Energy address environmental compliance and safety
+          regulations in its operations?
+        answer: >
+          HighPeak Energy manages environmental compliance through: 1) Adherence
+          to federal, state, and local environmental regulations including Clean
+          Air Act, Clean Water Act, and Safe Drinking Water Act requirements, 2)
+          Implementation of spill prevention and control measures, 3)
+          Maintenance of necessary permits and authorizations for drilling,
+          construction, and production activities, 4) Regular monitoring and
+          reporting of greenhouse gas emissions and other environmental impacts,
+          5) Compliance with hydraulic fracturing regulations and disclosure
+          requirements.
+      - question: >
+          What is HighPeak Energy's approach to human capital management and
+          organizational development?
+        answer: >
+          HighPeak Energy's human capital management approach includes: 1)
+          Maintaining a workforce of 48 full-time employees focused on safe
+          operations, 2) Fostering a collaborative, inclusive, and safety-minded
+          work environment, 3) Implementing comprehensive safety programs and
+          employee engagement initiatives, 4) Providing equal employment and
+          advancement opportunities based on merit and experience, 5) Offering
+          developmental programs and cross-training opportunities to build
+          employee skills and advance careers.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/oil_services/HPK/10-K/data/*.md

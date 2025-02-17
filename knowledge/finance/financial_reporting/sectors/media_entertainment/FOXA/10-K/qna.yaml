@@ -1,0 +1,91 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Fox Corporation through fiscal year 2024.
+
+  The reports include detailed information about:
+
+  1. Business Segments and Operations
+     - Cable Network Programming (FOX News Media, FOX Sports)
+     - Television (FOX Network, FOX Television Stations, Tubi)
+     - Credible and FOX Studio Lot
+     - Content Strategy and Distribution
+     - Market Leadership and Brand Portfolio
+
+  2. Content and Programming
+     - News and Sports Programming
+     - Entertainment Content
+     - Digital Platforms and Streaming
+     - Live and "Appointment-Based" Content
+     - Original Productions and Acquisitions
+
+  3. Market Position and Distribution
+     - Network Ratings and Viewership
+     - Affiliate Relationships
+     - Digital Platform Growth
+     - Geographic Coverage
+     - Advertising Sales
+
+  4. Financial Performance and Strategy
+     - Revenue Streams and Growth
+     - Operating Expenses
+     - Capital Allocation
+     - Strategic Investments
+     - Risk Management
+seed_examples:
+  - context: >
+      Fox Corporation operates through multiple business segments, with Cable
+      Network Programming and Television as its primary reportable segments. The
+      company's portfolio includes FOX News Media, FOX Sports, FOX
+      Entertainment, FOX Television Stations, and Tubi, focusing on live news,
+      sports, and entertainment content delivery across traditional and digital
+      platforms.
+    questions_and_answers:
+      - question: >
+          What are Fox Corporation's key business segments and their respective
+          market positions?
+        answer: >
+          Fox Corporation operates through two main reportable segments: 1) Cable
+          Network Programming, which includes FOX News Media (maintaining #1
+          position in cable news for over 20 consecutive years in primetime) and
+          FOX Sports networks (FS1, FS2, Big Ten Network), reaching over 65
+          million U.S. households, 2) Television segment, comprising the FOX
+          Network (available in virtually all U.S. markets), 29 owned and
+          operated stations (including 18 FOX affiliates), and Tubi (leading
+          AVOD service). Additional segments include Credible (consumer finance
+          marketplace) and the FOX Studio Lot.
+      - question: >
+          How does Fox Corporation maintain its competitive advantage in content
+          and programming?
+        answer: >
+          Fox maintains its competitive advantage through: 1) Focus on live and
+          "appointment-based" content, particularly in news and sports, 2)
+          Premium sports rights including NFL, MLB, NASCAR, and FIFA World Cup,
+          3) Leadership in news programming with FOX News as the #1 cable
+          network in primetime and total day viewing, 4) Original entertainment
+          content through FOX Entertainment, including successful shows like
+          Krapopolis and Next Level Chef, 5) Digital expansion through Tubi,
+          which offers over 260,000 movies and TV episodes and achieved over 40%
+          growth in total view time in fiscal 2024.
+      - question: >
+          What are Fox Corporation's key strategic initiatives and growth
+          drivers?
+        answer: >
+          Fox's strategic initiatives include: 1) Maintaining leadership in live
+          news, sports, and entertainment programming through long-term rights
+          agreements and original content development, 2) Expanding digital
+          distribution through Tubi and other platforms, reaching younger and
+          more diverse audiences, 3) Strengthening local market presence through
+          FOX Television Stations, which cover 14 of the 15 largest DMAs, 4)
+          Investing in technology and content creation capabilities, including
+          the FOX Studio Lot's production facilities, 5) Pursuing strategic
+          investments and partnerships, such as the stake in Flutter
+          Entertainment and the upcoming Venu Sports joint venture with ESPN and
+          Warner Bros. Discovery.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/media_entertainment/FOXA/10-K/data/*.md

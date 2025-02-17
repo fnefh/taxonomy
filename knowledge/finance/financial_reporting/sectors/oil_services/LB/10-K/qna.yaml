@@ -1,0 +1,131 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Bath & Body Works, Inc. (formerly L Brands) through fiscal year 2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview and Strategy
+     - Company Profile and Evolution
+     - Growth Strategies
+     - Competitive Strengths
+     - Brand and Product Portfolio
+     - Store Operations and Digital Presence
+
+  2. Operational Performance
+     - Store Network and Expansion
+     - Digital and Technology Initiatives
+     - Supply Chain and Logistics
+     - Product Development and Innovation
+     - International Operations
+
+  3. Financial Performance and Position
+     - Revenue and Profitability
+     - Cost Structure
+     - Balance Sheet Metrics
+     - Capital Allocation
+     - Liquidity Management
+
+  4. Risk Factors and Management
+     - Market and Competition
+     - Operational Risks
+     - Cybersecurity and Data Privacy
+     - Regulatory Compliance
+     - Supply Chain Resilience
+seed_examples:
+  - context: >
+      Bath & Body Works, founded in 1963 in Columbus, Ohio, has evolved from
+      an apparel-based specialty retailer to a segment leader in home fragrance,
+      body care, and soap and sanitizer products. As of February 3, 2024, the
+      company operated 1,850 stores in the U.S. and Canada, with products also
+      sold in 485 stores and 28 e-commerce sites across 40+ countries through
+      franchise, license and wholesale arrangements. The company's loyalty
+      program had approximately 37 million active members, with nearly 80% of
+      U.S. sales coming from loyalty members.
+    questions_and_answers:
+      - question: |
+          What is Bath & Body Works' current business model and market presence?
+        answer: >
+          Bath & Body Works operates as: 1) A segment leader in home fragrance,
+          body care, and soap/sanitizer products, 2) Maintains 1,850
+          company-operated stores in U.S. and Canada, 3) Has international
+          presence through 485 partner-operated stores and 28 e-commerce sites
+          in 40+ countries, 4) Operates a successful loyalty program with 37
+          million active members driving nearly 80% of U.S. sales, 5) Focuses on
+          exclusive fragrances and product innovation with launches every 4-6
+          weeks.
+      - question: |
+          How has Bath & Body Works evolved since its founding?
+        answer: >
+          Bath & Body Works has transformed from: 1) Founded in 1963 as an
+          apparel-based retailer in Columbus, Ohio, 2) Evolved into a
+          fragrance-focused specialty retailer, 3) Developed market leadership
+          in home fragrance, body care, and soap/sanitizer categories, 4)
+          Expanded to an omnichannel model with strong digital presence, 5)
+          Built a global presence through company-operated stores and
+          international partnerships.
+  - context: >
+      The company's growth strategy focuses on brand elevation through
+      innovation, extending reach through new categories and international
+      growth, enhanced customer engagement through loyalty and personalization,
+      seamless omnichannel experience, and operational excellence. In 2023, the
+      company opened 94 new off-mall stores and one mall store, while closing 39
+      mall and 8 off-mall stores, resulting in net square footage growth of 4%.
+      More than two-thirds of stores feature the White Barn store design, which
+      has demonstrated potential to increase sales and profitability.
+    questions_and_answers:
+      - question: |
+          What are Bath & Body Works' key growth strategies?
+        answer: >
+          Bath & Body Works' growth strategy includes: 1) Brand elevation through
+          product innovation and merchandising upgrades, 2) Market expansion via
+          new category adjacencies and international growth, 3) Enhanced
+          customer engagement through loyalty program and personalization, 4)
+          Omnichannel integration of digital platforms and stores, 5)
+          Operational excellence initiatives to drive efficiency.
+      - question: |
+          How is Bath & Body Works executing its store network strategy?
+        answer: >
+          The company's store strategy involves: 1) Expanding off-mall presence
+          with 94 new off-mall stores opened in 2023, 2) Strategic closure of
+          underperforming locations (47 stores closed in 2023), 3) Achieving 4%
+          net square footage growth, 4) Converting stores to White Barn design
+          to drive sales and profitability, 5) Maintaining over two-thirds of
+          stores in White Barn format, with plans to convert remaining viable
+          locations.
+  - context: >
+      The company's competitive strengths include its industry-leading brand,
+      trusted products, in-store experience, digital capabilities, and loyalty
+      program. Product development and sourcing strategy focus on quality and
+      innovation, with a predominantly domestic, vertically integrated supply
+      chain enabling quick response to market trends. The company maintains
+      distribution centers in central Ohio and utilizes third-party facilities
+      throughout North America, including a new 1.1 million square foot direct
+      channel fulfillment center near Columbus.
+    questions_and_answers:
+      - question: |
+          What are Bath & Body Works' key competitive advantages?
+        answer: >
+          Bath & Body Works' competitive advantages include: 1) Strong brand
+          recognition and broad market appeal, 2) Leadership in home fragrance,
+          body care, and soap/sanitizer categories, 3) Distinctive in-store
+          experience and customer service, 4) Advanced digital and omnichannel
+          capabilities, 5) Large loyalty program with 37 million active members,
+          6) Agile product development and innovation process, 7) Efficient,
+          vertically integrated supply chain.
+      - question: |
+          How does Bath & Body Works manage its supply chain and distribution?
+        answer: >
+          The company's supply chain strategy includes: 1) Predominantly domestic,
+          vertically integrated operations, 2) Strategic vendor relationships
+          within Beauty Park near Columbus distribution centers, 3) Multiple
+          distribution facilities in central Ohio, 4) Network of third-party
+          distribution centers across North America, 5) New 1.1 million square
+          foot direct channel fulfillment center supporting e-commerce growth.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/oil_services/LB/10-K/data/*.md

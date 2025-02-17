@@ -1,0 +1,154 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Liberty Energy Inc. covering fiscal years 2021-2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations
+     - Hydraulic fracturing services and technology
+     - Wireline services and proppant delivery solutions
+     - Sand mine operations and natural gas compression
+     - Geographic presence across North American shale basins
+
+  2. ESG and Innovation
+     - Environmental initiatives and technologies
+     - Safety performance and employee programs
+     - Community engagement and social responsibility
+     - Technology development and intellectual property
+
+  3. Operational Framework
+     - Industry cyclicality and seasonality
+     - Regulatory environment and compliance
+     - Risk management and safety protocols
+     - Human capital management
+
+  4. Market Position
+     - Competitive advantages
+     - Technology leadership
+     - Customer relationships
+     - Strategic initiatives
+seed_examples:
+  - context: >
+      For fiscal year 2023, Liberty Energy operated as a leading integrated
+      energy services  company with over 40 active hydraulic fracturing fleets
+      across all major shale basins  in North America. The company has
+      demonstrated strong commitment to technological innovation and
+      environmental stewardship through its next-generation frac fleets and ESG
+      initiatives.
+    questions_and_answers:
+      - question: >
+          What are Liberty Energy's main service offerings and operational
+          footprint?
+        answer: >
+          Liberty Energy provides integrated energy services including hydraulic
+          fracturing, wireline services, proppant delivery solutions, sand mine
+          operations, and natural gas compression services. They operate in all
+          major North American shale basins including the Permian Basin,
+          Williston Basin, Eagle Ford Shale, Haynesville Shale, Appalachian
+          Basin, and others, with over 40 active fracturing fleets as of 2023.
+      - question: >
+          How has Liberty Energy demonstrated its commitment to environmental
+          sustainability?
+        answer: >
+          Liberty Energy has demonstrated environmental commitment through
+          multiple initiatives including: introducing Tier II dual-fuel
+          technology in 2013, developing Quiet Fleet technology in 2016,
+          implementing Tier IV DGB engines that reduce emissions, launching
+          digiFrac electric pumps with 25% lower CO2e emissions, and
+          establishing Liberty Power Innovations for natural gas solutions. They
+          also offer wet sand handling technology to reduce environmental impact
+          and improve efficiency.
+      - question: >
+          What distinguishes Liberty Energy's approach to human capital
+          management?
+        answer: >
+          Liberty Energy prioritizes employee development through comprehensive
+          programs including the Liberty Frac Academy for training, competitive
+          compensation with restricted stock units, comprehensive benefits
+          including health insurance and parental leave, educational assistance
+          for degrees, and community investment initiatives. They maintain
+          strong safety standards with incident rates consistently below
+          industry average from 2021 to 2023.
+  - context: >
+      Liberty Energy has developed significant intellectual property and
+      technological capabilities, holding approximately 500 patents and patent
+      licenses. Their approach combines proprietary databases of U.S.
+      unconventional wells with advanced analytics to optimize fracture design
+      and enhance customer production economics.
+    questions_and_answers:
+      - question: >
+          What are the key components of Liberty Energy's technological
+          advantage?
+        answer: >
+          Liberty Energy's technological advantage is built on proprietary
+          databases of U.S. unconventional wells, approximately 500 patents and
+          patent licenses, advanced multi-variable statistical analysis
+          capabilities, and innovative equipment designs including digiFrac
+          electric pumps, Quiet Fleet technology, and wet sand handling systems.
+          They use these capabilities to optimize fracture design and enhance
+          customer production economics.
+      - question: >
+          How does Liberty Energy manage cyclicality and seasonality in their
+          business?
+        answer: >
+          Liberty Energy manages industry cyclicality through careful liquidity
+          and debt management to maintain operational flexibility and continued
+          investment throughout commodity cycles. They address seasonality
+          challenges, particularly in regions like Canada and the DJ Basin, by
+          maintaining geographic diversity across basins and adapting operations
+          to weather conditions while maintaining strong customer relationships.
+      - question: >
+          What regulatory frameworks most significantly impact Liberty Energy's
+          operations?
+        answer: >
+          Liberty Energy operates under numerous environmental and safety
+          regulations including RCRA for waste handling, CERCLA for
+          environmental response, OSHA for worker safety, Clean Water Act for
+          water discharges, and various state and local regulations. They
+          maintain comprehensive compliance programs and focus on meeting or
+          exceeding regulatory requirements across their operations.
+  - context: >
+      In 2023, Liberty Energy expanded its environmental initiatives through
+      Liberty Power Innovations LLC (LPI) and the acquisition of Siren Energy &
+      Logistics, while maintaining approximately 5,500 employees with strong
+      safety performance and no unionized labor.
+    questions_and_answers:
+      - question: >
+          How has Liberty Energy expanded its environmental initiatives in
+          recent years?
+        answer: >
+          Liberty Energy has expanded environmental initiatives through launching
+          Liberty Power Innovations LLC (LPI) in 2023, acquiring Siren Energy &
+          Logistics to enhance natural gas compression and CNG delivery
+          capabilities, deploying digiFleets with lower emissions profiles, and
+          establishing the Bettering Human Lives Foundation in 2024 to promote
+          clean cooking solutions globally.
+      - question: >
+          What are Liberty Energy's key workforce metrics and management
+          approaches?
+        answer: >
+          As of 2023, Liberty Energy employed approximately 5,500 non-unionized
+          workers, emphasizing internal promotion and development through the
+          Liberty Frac Academy. They maintain competitive compensation,
+          comprehensive benefits, and strong safety standards, resulting in
+          incident rates below industry average. The company also supports
+          community initiatives through scholarships and matching employee
+          charitable contributions.
+      - question: |
+          How does Liberty Energy maintain competitive advantage in the market?
+        answer: >
+          Liberty Energy maintains competitive advantage through technological
+          innovation, vertical integration of services (including sand mines and
+          proppant delivery), comprehensive training programs, strong customer
+          relationships, and strategic geographic presence across all major
+          North American shale basins. Their focus on ESG initiatives and
+          proprietary technologies like digiFrac and digiPrime further
+          differentiates them in the market.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/oil_services/LBRT/10-K/data/*.md

@@ -1,0 +1,130 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Warner Bros. Discovery, Inc. through fiscal year 2023.
+
+  The reports include detailed information about:
+
+  1. Business Model and Operations
+     - Studios Segment (Film, TV, Gaming)
+     - Networks Segment (Linear, Sports)
+     - DTC Segment (Streaming Services)
+     - Content Creation and Distribution
+     - Global Market Presence
+
+  2. Strategic Initiatives and Growth
+     - Streaming Platform Development
+     - Content Investment Strategy
+     - Brand Portfolio Management
+     - International Expansion
+     - Digital Transformation
+
+  3. Financial Performance and Results
+     - Revenue Streams Analysis
+     - Segment Performance
+     - Operating Expenses
+     - Merger Integration
+     - Capital Structure
+
+  4. Risk Management and Challenges
+     - Industry Competition
+     - Content Production Risks
+     - Technology Infrastructure
+     - Regulatory Compliance
+     - Market Dynamics
+seed_examples:
+  - context: >
+      Warner Bros. Discovery operates through three main segments: Studios,
+      Networks, and Direct-to-Consumer (DTC). The Studios segment, which
+      includes Warner Bros. Motion Picture Group, DC Studios, and Warner Bros.
+      Television Group, produced significant hits in 2023 including Barbie (the
+      #1 movie globally), Wonka, and Hogwarts Legacy (the #1 game globally). The
+      Networks segment operates major brands including CNN, TNT, and Discovery
+      Channel, while the DTC segment reached 97.7 million subscribers through
+      services like Max and discovery+.
+    questions_and_answers:
+      - question: >
+          What are Warner Bros. Discovery's main business segments and their key
+          revenue drivers?
+        answer: >
+          Warner Bros. Discovery operates through three segments: 1) Studios
+          segment (93% content revenue, 7% other revenue) including film,
+          television, gaming, and consumer products, with major successes like
+          Barbie and Hogwarts Legacy, 2) Networks segment (54% distribution, 39%
+          advertising, 5% content, 2% other revenue) operating brands like CNN,
+          TNT, and Discovery Channel, 3) DTC segment operating streaming
+          services Max and discovery+ with 97.7 million subscribers. Each
+          segment leverages the company's extensive content library and
+          intellectual property portfolio.
+      - question: >
+          How does Warner Bros. Discovery manage its content creation and
+          distribution strategy?
+        answer: >
+          The company manages content through: 1) Studios producing content across
+          film (Warner Bros. Pictures, New Line Cinema), television (Warner
+          Bros. Television, Warner Bros. Animation), and gaming (Warner Bros.
+          Games), 2) Networks distributing content through multiple channels
+          including entertainment (TNT, TBS), news (CNN), and lifestyle (HGTV,
+          Food Network), 3) DTC platforms Max and discovery+ offering streaming
+          access to the company's content library, 4) Global distribution
+          through Content Sales and Home Entertainment divisions, 5) Licensing
+          and merchandising through Global Consumer Products and Themed
+          Entertainment.
+      - question: >
+          What are the key operational challenges and industry trends affecting
+          Warner Bros. Discovery?
+        answer: >
+          Key challenges include: 1) Impact of WGA and SAG-AFTRA strikes in 2023
+          affecting production schedules and content delivery, 2) Pressure on
+          linear distribution and soft advertising markets in the U.S., 3)
+          Competitive streaming landscape requiring significant content
+          investment, 4) Integration of WarnerMedia Business following the 2022
+          merger, 5) Need to balance traditional revenue streams with digital
+          transformation initiatives.
+  - context: >
+      In 2023, Warner Bros. Discovery focused on strategic initiatives
+      including the launch of Max streaming service, integration of WarnerMedia
+      assets, and expansion of global operations. The company maintained strong
+      performance in theatrical releases while navigating industry challenges
+      including labor strikes and market pressures.
+    questions_and_answers:
+      - question: >
+          What are Warner Bros. Discovery's key strategic initiatives and growth
+          drivers?
+        answer: >
+          Strategic initiatives include: 1) Launch and expansion of Max streaming
+          service combining HBO Max and discovery+ content, 2) International
+          growth through regional content and distribution partnerships, 3)
+          Investment in premium content across film, television, and gaming, 4)
+          Expansion of themed entertainment with new ventures like Warner Bros.
+          Studio Tour Tokyo, 5) Focus on franchise development through DC
+          Studios and other intellectual property.
+      - question: >
+          How does Warner Bros. Discovery leverage its brand portfolio and
+          intellectual property?
+        answer: >
+          The company leverages its portfolio through: 1) Major entertainment
+          brands including Warner Bros., HBO, DC, CNN, and Discovery Channel, 2)
+          Iconic franchises like Batman, Superman, Harry Potter, and Game of
+          Thrones, 3) Cross-platform content distribution across theatrical,
+          television, and streaming, 4) Consumer products and themed
+          entertainment experiences, 5) Gaming and interactive entertainment
+          development based on owned intellectual property.
+      - question: >
+          What are the company's international operations and market expansion
+          strategies?
+        answer: >
+          International strategy includes: 1) Operation of global networks and
+          platforms across multiple regions, 2) Regional content production and
+          distribution through Warner Bros. International Television Production,
+          3) Sports rights management through TNT Sports (formerly WBD Sports)
+          including Eurosport in Europe, 4) International streaming service
+          expansion starting with Latin America, 5) Strategic partnerships and
+          local market presence through brands like TVN in Poland.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/media_entertainment/WBD/10-K/data/*.md

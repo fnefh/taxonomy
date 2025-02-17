@@ -1,0 +1,119 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Fox Corporation through Q2 fiscal 2025.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Revenue and Earnings Analysis
+     - Operating Expenses and Margins
+     - Cash Flow and Working Capital
+     - Balance Sheet Metrics
+     - Segment Performance
+
+  2. Business Operations and Strategy
+     - Cable Network Programming Performance
+     - Television Segment Operations
+     - Digital Platform Growth (Tubi)
+     - Content Investment and Distribution
+     - Strategic Partnerships
+
+  3. Market Position and Growth
+     - Advertising Revenue Trends
+     - Affiliate Fee Performance
+     - Digital Platform Expansion
+     - Sports Rights and Programming
+     - News Media Leadership
+
+  4. Risk Management and Controls
+     - Market Competition
+     - Content Costs
+     - Regulatory Compliance
+     - Technology Infrastructure
+     - Capital Structure
+seed_examples:
+  - context: >
+      For Q2 fiscal 2025 (ended December 31, 2024), Fox Corporation reported
+      total revenues of $5,078 million, with operating expenses of $3,776
+      million and net income attributable to stockholders of $373 million. The
+      company maintained strong liquidity with $3,322 million in cash and cash
+      equivalents.
+    questions_and_answers:
+      - question: >
+          What were Fox Corporation's key financial metrics and performance
+          indicators for Q2 fiscal 2025?
+        answer: >
+          Fox Corporation's Q2 FY2025 performance showed: 1) Total revenues of
+          $5,078 million, up 20% from $4,234 million in Q2 FY2024, 2) Operating
+          expenses of $3,776 million compared to $3,393 million in the prior
+          year quarter, 3) Net income attributable to stockholders of $373
+          million, up from $109 million, 4) Diluted earnings per share of $0.81
+          compared to $0.23, and 5) Strong liquidity position with $3,322
+          million in cash and cash equivalents.
+      - question: >
+          How did Fox Corporation's balance sheet and capital structure evolve
+          during Q2 fiscal 2025?
+        answer: >
+          As of December 31, 2024, Fox's financial position included: 1) Total
+          assets of $23,022 million, up from $21,972 million at fiscal year-end
+          2024, 2) Current assets of $8,237 million, including $3,492 million in
+          receivables and $1,171 million in inventories, 3) Total borrowings of
+          $7,200 million ($600 million current, $6,600 million non-current), 4)
+          Total equity of $11,611 million, with $11,495 million attributable to
+          Fox Corporation stockholders.
+      - question: >
+          What were the key operational expenses and investments during the
+          quarter?
+        answer: >
+          Key operational metrics included: 1) Operating expenses of $3,776
+          million, primarily for content and programming, 2) Selling, general
+          and administrative expenses of $525 million, 3) Depreciation and
+          amortization of $97 million, 4) Restructuring and impairment charges
+          of $170 million, and 5) Interest expense of $80 million, partially
+          offset by other income of $81 million.
+  - context: >
+      Fox Corporation's Q2 fiscal 2025 results reflect continued investment
+      in content and digital platforms, with significant developments in sports
+      programming rights and digital expansion through Tubi. The company
+      maintained its leadership position in news programming while advancing
+      strategic initiatives across segments.
+    questions_and_answers:
+      - question: >
+          How is Fox Corporation managing its content investment and digital
+          platform strategy?
+        answer: >
+          Fox's content and digital strategy includes: 1) Continued investment in
+          premium sports rights and news programming, 2) Expansion of Tubi's
+          digital platform and content offerings, 3) Strategic focus on live and
+          "appointment-based" content across platforms, 4) Development of
+          original programming through FOX Entertainment, and 5) Integration of
+          digital capabilities across traditional broadcast and cable networks.
+      - question: >
+          What are the key revenue drivers and growth initiatives across
+          segments?
+        answer: >
+          Revenue drivers include: 1) Affiliate fee revenue from cable network
+          programming and television segments, 2) Advertising revenue across
+          broadcast, cable, and digital platforms, 3) Growth in Tubi's
+          advertising revenue and user engagement, 4) Sports programming revenue
+          from major sports rights agreements, and 5) Digital platform expansion
+          and monetization initiatives.
+      - question: >
+          How is Fox Corporation addressing market competition and industry
+          challenges?
+        answer: >
+          Fox addresses competitive challenges through: 1) Focus on live news and
+          sports programming that maintains strong viewership, 2) Investment in
+          digital platforms and streaming capabilities, particularly through
+          Tubi, 3) Strategic partnerships and content agreements to enhance
+          programming offerings, 4) Cost management initiatives while
+          maintaining investment in key content areas, and 5) Balance sheet
+          strength to support strategic initiatives.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/media_entertainment/FOXA/10-Q/data/*.md

@@ -1,0 +1,124 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for HighPeak Energy, Inc. through Q2 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Position
+     - Operating Revenues and Expenses
+     - Cash Flow and Liquidity
+     - Balance Sheet Metrics
+     - Capital Structure and Debt
+
+  2. Operational Performance
+     - Production Volumes and Mix
+     - Operating Costs and Efficiency
+     - Capital Expenditures
+     - Development Activities
+
+  3. Market Position and Strategy
+     - Competitive Environment
+     - Growth Initiatives
+     - Risk Management
+     - Strategic Alternatives Review
+
+  4. Business Environment and Risk Factors
+     - Market Conditions
+     - Regulatory Environment
+     - Industry Challenges
+     - Forward-Looking Considerations
+seed_examples:
+  - context: >
+      For Q2 2024, HighPeak Energy reported total operating revenues of
+      $275.3 million, primarily from crude oil sales of $274.6 million.
+      Operating costs and expenses totaled $186.0 million, including $127.7
+      million in depletion, depreciation and amortization. The company achieved
+      net income of $29.7 million ($0.21 per diluted share) and declared a
+      dividend of $0.04 per share.
+    questions_and_answers:
+      - question: |
+          What were HighPeak Energy's key financial metrics for Q2 2024?
+        answer: >
+          HighPeak Energy's key Q2 2024 financial metrics included: 1) Total
+          operating revenues of $275.3 million, with crude oil sales accounting
+          for $274.6 million, 2) Operating costs and expenses of $186.0 million,
+          including $127.7 million in DD&A, 3) Net income of $29.7 million or
+          $0.21 per diluted share, 4) Quarterly dividend of $0.04 per share,
+          demonstrating continued profitability and shareholder returns.
+      - question: >
+          How does HighPeak Energy's Q2 2024 performance compare to the previous
+          year?
+        answer: >
+          Comparing Q2 2024 to Q2 2023: 1) Operating revenues increased from
+          $240.8 million to $275.3 million, primarily driven by higher crude oil
+          sales, 2) DD&A expenses increased from $93.0 million to $127.7
+          million, reflecting expanded operations, 3) Net income decreased
+          slightly from $31.8 million to $29.7 million, impacted by higher DD&A
+          and interest expenses, 4) Quarterly dividend increased from $0.025 to
+          $0.04 per share.
+  - context: >
+      As of June 30, 2024, HighPeak Energy maintained a strong balance sheet
+      with $157.9 million in cash and cash equivalents, total assets of $3.06
+      billion, and stockholders' equity of $1.57 billion. The company's crude
+      oil and natural gas properties, net of accumulated depletion, were valued
+      at $2.79 billion. Total debt consisted of $120.0 million in current
+      maturities and $979.3 million in long-term debt, net.
+    questions_and_answers:
+      - question: |
+          What is HighPeak Energy's financial position as of Q2 2024?
+        answer: >
+          HighPeak Energy's financial position as of June 30, 2024 included: 1)
+          Cash and cash equivalents of $157.9 million, 2) Total assets of $3.06
+          billion, with net oil and gas properties of $2.79 billion, 3) Total
+          debt of $1.10 billion, comprising $120.0 million current and $979.3
+          million long-term, 4) Stockholders' equity of $1.57 billion,
+          demonstrating a solid capital structure.
+      - question: |
+          How does HighPeak Energy manage its capital and liquidity?
+        answer: >
+          HighPeak Energy manages its capital and liquidity through: 1)
+          Maintaining substantial cash reserves ($157.9 million as of Q2 2024),
+          2) Structured debt management with both Term Loan Credit Agreement and
+          Senior Credit Facility, 3) Active capital expenditure program focused
+          on development activities, 4) Regular dividend payments while
+          maintaining financial flexibility, 5) Share repurchase program
+          implementation, having repurchased 979,000 shares in the first half of
+          2024.
+  - context: >
+      For the first six months of 2024, HighPeak Energy generated $373.8
+      million in operating cash flow and invested $324.6 million in capital
+      expenditures, primarily for additions to crude oil and natural gas
+      properties. The company faces various risks including refinancing needs,
+      market volatility, and operational challenges, while pursuing strategic
+      alternatives and maintaining focus on operational efficiency.
+    questions_and_answers:
+      - question: >
+          What are HighPeak Energy's operational and strategic priorities in
+          2024?
+        answer: >
+          HighPeak Energy's operational and strategic priorities include: 1)
+          Maintaining strong cash flow generation, with $373.8 million from
+          operations in H1 2024, 2) Executing disciplined capital investment
+          program, having invested $324.6 million in H1 2024, 3) Evaluating
+          strategic alternatives to enhance shareholder value, 4) Managing
+          refinancing requirements and maintaining financial flexibility, 5)
+          Focusing on operational efficiency and cost control in a dynamic
+          market environment.
+      - question: |
+          What are the key risks and challenges facing HighPeak Energy?
+        answer: >
+          Key risks and challenges include: 1) Refinancing requirements for
+          current debt obligations, 2) Market volatility affecting commodity
+          prices and demand, 3) Operational risks related to drilling and
+          completion activities, 4) Regulatory changes and environmental
+          compliance requirements, 5) Competition in the Permian Basin and
+          broader energy sector, 6) Political and economic uncertainties
+          affecting the oil and gas industry.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/oil_services/HPK/10-Q/data/*.md

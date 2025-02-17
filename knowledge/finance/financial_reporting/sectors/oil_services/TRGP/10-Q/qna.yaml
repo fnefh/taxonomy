@@ -1,0 +1,134 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Targa Resources Corp. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue from commodity sales and midstream services
+     - Operating costs and margins
+     - Capital structure and debt management
+     - Investment and growth initiatives
+
+  2. Operational Metrics
+     - Gathering and processing volumes
+     - Transportation and logistics performance
+     - Asset utilization and efficiency
+     - Infrastructure development
+
+  3. Market Position
+     - Commodity price impacts
+     - Customer relationships
+     - Competitive advantages
+     - Strategic growth initiatives
+
+  4. Risk Management
+     - Commodity price exposure
+     - Operational challenges
+     - Regulatory compliance
+     - Market dynamics
+seed_examples:
+  - context: >
+      For the quarter ended September 30, 2024, Targa Resources Corp.
+      reported total revenues of $3.85 billion, with $3.22 billion from
+      commodity sales and $634.8 million from midstream services. The company
+      demonstrated strong operational performance with income from operations of
+      $728.2 million, reflecting robust midstream activity and effective cost
+      management.
+    questions_and_answers:
+      - question: >
+          How did Targa Resources' financial performance compare to the previous
+          quarter?
+        answer: >
+          Targa Resources generated total revenues of $3.85 billion in Q3 2024,
+          including $3.22 billion from commodity sales and $634.8 million from
+          midstream services. The company achieved income from operations of
+          $728.2 million, up from $505.1 million in Q3 2023, demonstrating
+          strong operational execution despite market fluctuations.
+      - question: |
+          What were the key operational metrics and cost management initiatives?
+        answer: >
+          The company effectively managed operations with operating expenses of
+          $301.0 million and G&A expenses of $102.6 million. Product purchases
+          and fuel costs were $2.37 billion, while depreciation and amortization
+          reached $355.4 million, reflecting continued investment in
+          infrastructure and operational capabilities.
+      - question: |
+          How has Targa Resources' capital structure evolved?
+        answer: >
+          Targa Resources maintained a strong balance sheet with $127.2 million in
+          cash and cash equivalents, total assets of $21.9 billion, and managed
+          debt obligations with $653.3 million in current debt and $13.6 billion
+          in long-term debt. The company's total equity position stood at $4.46
+          billion, supporting ongoing operations and growth initiatives.
+  - context: >
+      Targa Resources' Q3 2024 results demonstrated continued strength in its
+      midstream operations, with significant investments in property, plant and
+      equipment of $17.43 billion and intangible assets of $2.07 billion,
+      supporting its extensive infrastructure network and service capabilities.
+    questions_and_answers:
+      - question: |
+          What strategic investments has Targa Resources made in infrastructure?
+        answer: >
+          Targa Resources has invested significantly in its infrastructure, with
+          property, plant and equipment valued at $17.43 billion and intangible
+          assets of $2.07 billion. The company also maintains strategic
+          investments in unconsolidated affiliates worth $177.3 million,
+          demonstrating its commitment to expanding its midstream capabilities
+          and market presence.
+      - question: |
+          How is Targa Resources managing its working capital and liquidity?
+        answer: >
+          The company maintains strong liquidity with $2.03 billion in current
+          assets, including $1.30 billion in trade receivables and $414.9
+          million in inventories. Working capital management remains effective
+          with current liabilities of $2.63 billion, supported by robust cash
+          flow from operations and strategic debt management.
+      - question: |
+          What operational efficiencies has Targa Resources achieved?
+        answer: >
+          Targa Resources demonstrated operational efficiency through effective
+          cost management, with product purchases and fuel costs representing
+          61.4% of revenues, while maintaining strong fee-based income from
+          midstream services. The company's operational performance is supported
+          by continued investment in infrastructure and optimization of asset
+          utilization.
+  - context: >
+      During Q3 2024, Targa Resources continued to strengthen its market
+      position through efficient operations and strategic risk management,
+      maintaining a balanced portfolio of commodity-based and fee-based revenues
+      while managing market exposures through hedging activities.
+    questions_and_answers:
+      - question: |
+          How has Targa Resources' revenue mix evolved?
+        answer: >
+          Targa Resources maintained a diverse revenue stream with $3.22 billion
+          from commodity sales and $634.8 million from midstream services fees
+          in Q3 2024. This balanced approach, combining commodity-based and
+          fee-based revenues, helps stabilize cash flows while capturing upside
+          from commodity price movements.
+      - question: |
+          What measures has Targa Resources taken to manage market risks?
+        answer: >
+          The company actively manages market risks through a combination of
+          operational and financial strategies, including maintaining $75.0
+          million in current risk management assets and $35.3 million in
+          long-term risk management assets. These measures help protect against
+          commodity price volatility while maintaining operational flexibility.
+      - question: |
+          How is Targa Resources positioned for future growth?
+        answer: >
+          Targa Resources is well-positioned for growth with substantial
+          infrastructure assets, strong operational performance, and strategic
+          investments in key areas. The company's robust balance sheet, diverse
+          revenue streams, and continued investment in infrastructure support
+          its ability to capture future growth opportunities in the midstream
+          sector.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/oil_services/TRGP/10-Q/data/*.md

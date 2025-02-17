@@ -1,0 +1,150 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Amgen Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations
+     - Pharmaceutical product portfolio
+     - Research and development pipeline
+     - Manufacturing and distribution
+     - Global market presence
+
+  2. Strategic Initiatives
+     - Acquisition activities
+     - Pipeline development
+     - Market expansion
+     - Innovation focus
+
+  3. Product Portfolio
+     - Key marketed products
+     - Patent protection
+     - Clinical developments
+     - Market positioning
+
+  4. Risk Management
+     - Regulatory compliance
+     - Patent exclusivity
+     - Market competition
+     - Industry dynamics
+seed_examples:
+  - context: >
+      In fiscal year 2023, Amgen completed its strategic acquisition of
+      Horizon Therapeutics for $27.8 billion, strengthening its rare disease
+      portfolio with first-in-class medicines including TEPEZZA, KRYSTEXXA, and
+      UPLIZNA. The company maintains a presence in approximately 100 countries
+      and continues to focus on areas of high unmet medical need.
+    questions_and_answers:
+      - question: >
+          What strategic acquisitions has Amgen completed recently and how do
+          they align with the company's strategy?
+        answer: >
+          Amgen completed the acquisition of Horizon Therapeutics in October 2023
+          for $27.8 billion, which aligns with their core strategy of delivering
+          innovative medicines for serious diseases. The acquisition strengthens
+          Amgen's rare disease portfolio by adding first-in-class,
+          early-in-lifecycle medicines including TEPEZZA for thyroid eye
+          disease, KRYSTEXXA for chronic refractory gout, and UPLIZNA for
+          neuromyelitis optica spectrum disorder.
+      - question: >
+          How does Amgen structure its global business operations and market
+          presence?
+        answer: >
+          Amgen operates in one business segment (human therapeutics) with a
+          presence in approximately 100 countries worldwide. The company
+          maintains the largest concentration of sales and marketing forces in
+          the United States and Europe, while also operating in Japan, China,
+          Latin America, and the Middle East through affiliates, acquisitions,
+          or collaborations with partners like Astellas Pharma, BeiGene, and
+          Kyowa Kirin.
+      - question: |
+          What are Amgen's key distribution channels and customer relationships?
+        answer: >
+          In the United States, Amgen primarily distributes through pharmaceutical
+          wholesale distributors, with three major wholesalers (McKesson,
+          Cencora, and Cardinal Health) accounting for 79% of worldwide gross
+          revenues in 2023. Outside the U.S., the company sells to healthcare
+          providers and wholesale distributors, while also maintaining strategic
+          partnerships in the Asia Pacific region with companies like Astellas
+          Pharma and BeiGene.
+  - context: >
+      Amgen's product portfolio includes several market-leading medicines
+      such as Prolia, ENBREL, Otezla, and XGEVA, supported by extensive patent
+      protection and ongoing clinical developments. The company's pipeline
+      includes promising candidates like tarlatamab, which received FDA
+      Breakthrough Therapy Designation for SCLC treatment.
+    questions_and_answers:
+      - question: |
+          What are Amgen's key marketed products and their primary indications?
+        answer: >
+          Amgen's key products include Prolia for osteoporosis, ENBREL for
+          rheumatoid arthritis and psoriasis, Otezla for plaque psoriasis and
+          psoriatic arthritis, XGEVA for prevention of skeletal-related events,
+          Repatha for cardiovascular disease and cholesterol management, and
+          KYPROLIS for multiple myeloma. The portfolio expanded in 2023 with the
+          addition of Horizon's products including TEPEZZA for thyroid eye
+          disease and KRYSTEXXA for chronic refractory gout.
+      - question: >
+          How does Amgen protect its intellectual property and maintain market
+          exclusivity?
+        answer: >
+          Amgen maintains extensive patent protection for its products, including
+          composition patents, formulation patents, and method of use patents.
+          Key patents include protection for Prolia/XGEVA until 2025 in the
+          U.S., ENBREL until 2029, and Repatha until 2030. The company also
+          pursues additional protection through supplemental protection
+          certificates in Europe and continues to develop new formulations and
+          methods of treatment.
+      - question: |
+          What are the significant developments in Amgen's product pipeline?
+        answer: >
+          A key pipeline development is tarlatamab, which received FDA
+          Breakthrough Therapy Designation for SCLC treatment, with a PDUFA date
+          of June 12, 2024. The Phase 2 DeLLphi-301 study showed promising
+          results with 40% ORR and 14.3 months mOS. Additionally,
+          LUMAKRAS/LUMYKRAS continues development with the CodeBreaK 300 trial
+          for colorectal cancer and maintains accelerated approval for NSCLC
+          under a new postmarketing requirement.
+  - context: >
+      Amgen focuses on delivering innovative medicines while maintaining
+      strong operational efficiency and market leadership in biotechnology. The
+      company's research and development efforts span multiple therapeutic
+      areas, supported by extensive manufacturing capabilities and global
+      distribution networks.
+    questions_and_answers:
+      - question: |
+          How does Amgen approach research and development in biotechnology?
+        answer: >
+          Amgen, which helped launch the biotechnology industry over 40 years ago,
+          maintains a robust pipeline of potential first-in-class medicines at
+          all stages of development. The company focuses on areas of high unmet
+          medical need, leveraging its expertise to develop solutions that
+          improve people's lives while reducing the social and economic burden
+          of disease.
+      - question: >
+          What distinguishes Amgen's manufacturing and distribution capabilities?
+        answer: >
+          Amgen maintains sophisticated manufacturing capabilities for
+          biotechnology products, with facilities worldwide. The company's
+          distribution network includes direct sales to healthcare providers and
+          wholesale distributors, complemented by strategic partnerships in key
+          markets. They also utilize direct-to-consumer channels in the U.S.,
+          including print, television, and online media for certain products.
+      - question: |
+          How does Amgen manage market risks and competition?
+        answer: >
+          Amgen manages market risks through geographic diversification, strong
+          patent protection, and strategic partnerships. The company monitors
+          financial conditions of large customers, sets credit limits, and may
+          require letters of credit or credit insurance. They also maintain a
+          balanced portfolio of products across multiple therapeutic areas and
+          continue to invest in innovation and pipeline development to maintain
+          competitive advantage.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/pharmaceuticals/AMGN/10-K/data/*.md

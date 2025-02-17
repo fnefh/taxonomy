@@ -1,0 +1,147 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Ironwood Pharmaceuticals, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations
+     - GI-focused product portfolio
+     - Commercial partnerships
+     - Research and development pipeline
+     - Market presence
+
+  2. Strategic Initiatives
+     - LINZESS commercialization
+     - VectivBio acquisition
+     - Pipeline development
+     - Strategic partnerships
+
+  3. Product Development
+     - Clinical programs
+     - Regulatory approvals
+     - Pipeline advancement
+     - Research initiatives
+
+  4. Risk Management
+     - Market competition
+     - Regulatory compliance
+     - Patent protection
+     - Financial stability
+seed_examples:
+  - context: >
+      In 2023, Ironwood Pharmaceuticals focused on three core priorities:
+      maximizing LINZESS, strengthening their innovative GI portfolio through
+      the VectivBio acquisition, and delivering sustained profits. The company
+      achieved significant milestones including FDA approval of LINZESS for
+      pediatric FC patients and advancement of key pipeline programs.
+    questions_and_answers:
+      - question: >
+          What were Ironwood's key commercial and strategic achievements in 2023?
+        answer: >
+          Ironwood achieved several significant milestones in 2023, including
+          $430.5 million in LINZESS U.S. collaborative revenue (up $31.7 million
+          from 2022), FDA approval of LINZESS for pediatric patients ages 6-17
+          with functional constipation, and completion of the VectivBio
+          acquisition to strengthen their GI portfolio. The company also
+          advanced multiple pipeline programs, including Phase III trials for
+          apraglutide in SBS-IF and continued development of CNP-104 and
+          IW-3300.
+      - question: >
+          How has Ironwood structured its commercial partnerships and market
+          presence?
+        answer: >
+          Ironwood maintains strategic partnerships with leading pharmaceutical
+          companies for global commercialization of LINZESS/CONSTELLA, including
+          AbbVie in the U.S. and most global markets, AstraZeneca in China, and
+          Astellas in Japan. The company generates approximately 98% of revenue
+          from U.S. operations, with the remainder from international
+          partnerships, demonstrating strong domestic market focus while
+          leveraging partners for global reach.
+      - question: >
+          What are the key elements of Ironwood's product portfolio and pipeline?
+        answer: >
+          Ironwood's portfolio is led by LINZESS, approved for IBS-C and CIC in
+          adults and FC in pediatric patients ages 6-17. The pipeline includes
+          apraglutide for rare GI diseases (acquired through VectivBio), CNP-104
+          for primary biliary cholangitis (through COUR collaboration), and
+          IW-3300 for visceral pain conditions. The company maintains a focused
+          strategy on GI diseases with significant unmet needs.
+  - context: >
+      Through the VectivBio acquisition, Ironwood expanded its rare disease
+      portfolio with apraglutide, a next-generation GLP-2 analog in Phase III
+      development for SBS-IF. The company also advanced multiple clinical
+      programs and maintained strong commercial performance of LINZESS.
+    questions_and_answers:
+      - question: >
+          How is Ironwood advancing its development pipeline and clinical
+          programs?
+        answer: >
+          Ironwood is conducting the Phase III STARS trial for apraglutide in
+          SBS-IF with topline results expected in March 2024, and the Phase II
+          STARGAZE study in aGvHD. The company completed Phase I studies for
+          IW-3300 and is continuing Phase II proof of concept studies in IC/BPS.
+          Additionally, through the COUR collaboration, CNP-104 is being
+          evaluated in PBC patients with topline data expected in Q3 2024.
+      - question: |
+          What strategic value did the VectivBio acquisition bring to Ironwood?
+        answer: >
+          The VectivBio acquisition strengthened Ironwood's GI portfolio by adding
+          apraglutide, a potential treatment for rare GI diseases, particularly
+          SBS-IF. The acquisition, partially funded with a $400 million
+          revolving credit facility, expanded Ironwood's presence in rare
+          diseases and added several earlier-stage assets, aligning with their
+          strategy of focusing on areas of significant unmet need in GI
+          diseases.
+      - question: |
+          How does Ironwood approach research and development in GI diseases?
+        answer: >
+          Ironwood focuses on developing innovative treatments for GI diseases
+          with significant unmet needs, leveraging their expertise in GC-C
+          agonists and expanding into new mechanisms through strategic
+          acquisitions and partnerships. The company maintains a balanced
+          approach between commercial products (LINZESS), late-stage development
+          (apraglutide), and earlier-stage programs (IW-3300, CNP-104), while
+          actively seeking external innovation opportunities.
+  - context: >
+      Ironwood's business model focuses on GI diseases, combining commercial
+      success with LINZESS and strategic development of new treatments through
+      internal programs and external partnerships, while maintaining financial
+      discipline and operational efficiency.
+    questions_and_answers:
+      - question: |
+          What distinguishes Ironwood's approach to the GI therapeutic market?
+        answer: >
+          Ironwood has established itself as a focused GI healthcare company by
+          successfully commercializing LINZESS (the first FDA-approved GC-C
+          agonist), developing a pipeline of innovative GI treatments, and
+          strategically expanding through acquisitions and partnerships. The
+          company leverages its expertise in GI diseases to advance treatments
+          in areas of significant unmet need, maintaining a balance between
+          commercial products and development programs.
+      - question: |
+          How does Ironwood manage market risks and competition?
+        answer: >
+          Ironwood manages risks through portfolio diversification, strategic
+          partnerships with major pharmaceutical companies, and focus on patent
+          protection. The company maintains strong commercial performance of
+          LINZESS while developing new treatment options, and carefully manages
+          financial resources through a combination of revenue generation,
+          strategic financing, and operational efficiency.
+      - question: |
+          What are Ironwood's key priorities and focus areas for future growth?
+        answer: >
+          Ironwood's priorities include maximizing LINZESS commercial potential,
+          advancing late-stage pipeline programs (particularly apraglutide for
+          SBS-IF), developing new treatment options through internal programs
+          and partnerships, and maintaining financial discipline. The company
+          focuses on expanding its GI portfolio through both internal
+          development and strategic transactions while delivering sustainable
+          profits and cash flow.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/pharmaceuticals/IRWD/10-K/data/*.md

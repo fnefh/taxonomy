@@ -1,0 +1,151 @@
+version: 3
+domain: annual_reporting
+created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for The Williams Companies, Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Operations
+     - Interstate natural gas pipeline systems
+     - Gathering and processing facilities
+     - Storage and transportation assets
+     - Gulf of Mexico operations
+
+  2. Operational Framework
+     - Business segment performance
+     - Infrastructure development
+     - Customer relationships
+     - Regulatory compliance
+
+  3. Strategic Initiatives
+     - Acquisition activities
+     - Growth projects
+     - Market expansion
+     - Clean energy transition
+
+  4. Risk Management
+     - Operational risks
+     - Market dynamics
+     - Environmental compliance
+     - Industry challenges
+seed_examples:
+  - context: >
+      The Williams Companies operates as a leading energy infrastructure
+      company with over 33,000 miles of pipelines, 35 natural gas processing
+      facilities, and extensive storage capacity. The company's operations span
+      across 24 states, serving more than 700 customers through its diverse
+      portfolio of natural gas and NGL assets.
+    questions_and_answers:
+      - question: >
+          What are Williams Companies' key infrastructure assets and operational
+          footprint?
+        answer: >
+          Williams Companies operates an extensive energy infrastructure network
+          including over 33,000 miles of pipelines across 24 states, 35 natural
+          gas processing facilities, 9 NGL fractionation facilities,
+          approximately 25 million barrels of NGL storage capacity, and 405.4
+          Bcf of natural gas storage capacity. Their operations serve more than
+          700 customers through various segments including Transmission & Gulf
+          of Mexico, Northeast G&P, West, and Gas & NGL Marketing Services.
+      - question: >
+          How are Williams Companies' business segments structured and what are
+          their key functions?
+        answer: >
+          Williams Companies operates through four main segments: Transmission &
+          Gulf of Mexico (interstate pipelines and Gulf Coast operations),
+          Northeast G&P (Marcellus and Utica shale operations), West (Rocky
+          Mountain and other regional operations), and Gas & NGL Marketing
+          Services (marketing and trading operations). Each segment serves
+          specific geographic markets and provides specialized services from
+          gathering and processing to transmission and storage.
+      - question: >
+          What distinguishes Williams Companies' customer relationships and
+          contract structure?
+        answer: >
+          Williams Companies maintains strong customer relationships through
+          long-term contracts, with most interstate pipeline businesses fully
+          contracted under firm reservation agreements with high-credit-quality
+          customers. Their gathering and processing agreements typically range
+          from month-to-month to life-of-lease terms, often including minimum
+          volume commitments and cost-of-service mechanisms to support return on
+          invested capital.
+  - context: >
+      In 2023, Williams Companies continued to expand its infrastructure
+      through strategic acquisitions including MountainWest Pipelines, Gulf
+      Coast Storage assets, and operations in the DJ Basin, while maintaining
+      focus on reliable service delivery and environmental stewardship.
+    questions_and_answers:
+      - question: |
+          What strategic acquisitions has Williams Companies completed recently?
+        answer: >
+          Williams Companies completed several strategic acquisitions including
+          MountainWest Pipelines (February 2023) adding 2,000 miles of
+          interstate pipeline and 56 Bcf of storage, Gulf Coast Storage assets
+          (January 2024) providing 115 Bcf of storage capacity, and DJ Basin
+          acquisitions (November 2023) expanding their midstream presence. These
+          acquisitions strengthen their position in key markets and enhance
+          their service capabilities.
+      - question: >
+          How does Williams Companies manage its gathering and processing
+          operations?
+        answer: >
+          Williams Companies operates gathering and processing assets under
+          primarily fee-based contracts (90% of NGL production volumes in 2023)
+          and some commodity-based contracts (10%). They provide services to
+          approximately 230 customers, with their top ten customers accounting
+          for about 70% of gathering and processing fee revenues. Their
+          operations focus on gas-directed drilling basins with broad geographic
+          diversity.
+      - question: >
+          What are Williams Companies' key regulatory considerations and
+          compliance measures?
+        answer: >
+          As an operator of interstate natural gas pipelines, Williams Companies
+          is subject to FERC regulation for rates and charges in interstate
+          commerce. They maintain comprehensive compliance programs for
+          environmental and safety regulations, including EPA requirements and
+          state-level oversight. Their operations require various permits and
+          adherence to strict safety and environmental standards.
+  - context: >
+      Williams Companies focuses on providing infrastructure for the clean
+      energy economy, with significant investments in natural gas assets that
+      support reliable energy delivery while maintaining strong environmental
+      and safety standards across their operations.
+    questions_and_answers:
+      - question: >
+          How is Williams Companies positioning itself for the clean energy
+          transition?
+        answer: >
+          Williams Companies positions itself as a leader in providing
+          infrastructure for the clean energy economy, focusing on natural gas
+          as a reliable fuel source. They continue to invest in and expand their
+          natural gas infrastructure while maintaining high environmental and
+          safety standards. Their assets play a crucial role in delivering
+          natural gas for clean-power generation, heating, and industrial use.
+      - question: >
+          What operational metrics demonstrate Williams Companies' market
+          leadership?
+        answer: >
+          Williams Companies demonstrates market leadership through their
+          extensive infrastructure network, including major pipeline systems
+          like Transco (19.1 MMdth/d capacity), Northwest Pipeline (3.8 MMdth/d
+          capacity), and MountainWest (8.0 MMdth/d capacity). They maintain
+          strong operational performance with high utilization rates and
+          reliable service delivery across their asset portfolio.
+      - question: >
+          How does Williams Companies manage market risks and maintain financial
+          stability?
+        answer: >
+          Williams Companies manages market risks through diversified operations
+          across multiple basins, long-term contracts with credit-worthy
+          customers, and a balanced mix of fee-based and commodity-based
+          services. Their gathering and processing businesses have limited
+          direct exposure to crude oil prices, and they maintain strategic
+          hedging programs for commodity price risk management.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/oil_services/WMB/10-K/data/*.md

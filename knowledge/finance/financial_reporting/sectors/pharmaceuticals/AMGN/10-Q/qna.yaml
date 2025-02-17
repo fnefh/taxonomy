@@ -1,0 +1,144 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Amgen Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Product sales growth
+     - Operating expenses
+     - Cash flow management
+
+  2. Strategic Developments
+     - Horizon integration progress
+     - Pipeline advancements
+     - Market expansion
+     - Operational efficiency
+
+  3. Business Operations
+     - Product portfolio performance
+     - Manufacturing and distribution
+     - Research and development
+     - Global market presence
+
+  4. Risk Management
+     - Financial risk mitigation
+     - Market dynamics
+     - Regulatory compliance
+     - Integration challenges
+seed_examples:
+  - context: >
+      For Q3 2024, Amgen reported strong financial performance with total
+      revenues of $8.5 billion, including product sales of $8.2 billion, and net
+      income of $2.8 billion. The company completed the integration of Horizon
+      Therapeutics, strengthening its position in rare diseases with key
+      products like TEPEZZA and KRYSTEXXA.
+    questions_and_answers:
+      - question: >
+          How did Amgen's financial performance compare to the previous quarter
+          and what were the key drivers?
+        answer: >
+          In Q3 2024, Amgen achieved total revenues of $8.5 billion, with product
+          sales of $8.2 billion compared to $6.5 billion in Q3 2023. Net income
+          increased to $2.8 billion from $1.7 billion in the prior year quarter.
+          The growth was driven by strong product sales and the integration of
+          Horizon Therapeutics' portfolio, while operating expenses were managed
+          effectively at $6.5 billion.
+      - question: >
+          What progress has Amgen made in integrating the Horizon Therapeutics
+          acquisition?
+        answer: >
+          Amgen completed the purchase price allocation of the $27.8 billion
+          Horizon acquisition in Q3 2024, with final adjustments resulting in a
+          $25 million increase to goodwill. The integration added key assets
+          including $19.6 billion in developed-product-technology rights and
+          $1.1 billion in IPR&D, with acquired products like TEPEZZA, KRYSTEXXA,
+          and UPLIZNA being integrated into Amgen's rare disease portfolio.
+      - question: |
+          How is Amgen managing its financial position and capital allocation?
+        answer: >
+          Amgen maintains a strong financial position with $9.0 billion in cash
+          and cash equivalents as of Q3 2024. The company effectively manages
+          its capital structure with strategic debt management, including $3.6
+          billion in debt repayment during the first nine months of 2024.
+          Stockholder returns included quarterly dividends of $2.25 per share,
+          while maintaining investment in R&D at $1.5 billion for the quarter.
+  - context: >
+      During Q3 2024, Amgen demonstrated operational efficiency while
+      integrating Horizon's assets, with operating income of $2.0 billion and
+      continued investment in research and development. The company maintained
+      strong cash flow generation while managing integration costs and ongoing
+      operations.
+    questions_and_answers:
+      - question: >
+          How is Amgen balancing operational efficiency with integration costs
+          and investments?
+        answer: >
+          Amgen achieved operating income of $2.0 billion in Q3 2024 while
+          managing integration costs and maintaining R&D investment of $1.5
+          billion. The company's operational efficiency is reflected in
+          controlled operating expenses and effective inventory management, with
+          inventory levels decreasing from $9.5 billion to $7.4 billion since
+          December 2023, demonstrating successful integration and supply chain
+          optimization.
+      - question: |
+          What are the key operational metrics and performance indicators?
+        answer: >
+          Key operational metrics include strong product sales growth of 24.5%
+          year-over-year to $8.2 billion, operating margin of 24.1%, and robust
+          cash flow from operations of $6.7 billion for the first nine months of
+          2024. The company maintains efficient working capital management with
+          trade receivables of $7.3 billion and effective control of operating
+          expenses.
+      - question: |
+          How is Amgen managing its research and development initiatives?
+        answer: >
+          Amgen invested $1.5 billion in R&D during Q3 2024, representing 17% of
+          total revenues, focusing on advancing its pipeline and integrating
+          acquired research programs. The company maintains a balanced approach
+          to R&D investment while managing integration activities, ensuring
+          continued progress in core therapeutic areas and newly acquired rare
+          disease programs.
+  - context: >
+      Amgen's Q3 2024 results reflect successful execution of its growth
+      strategy, with strong performance across its expanded product portfolio
+      and continued focus on operational excellence. The company maintains a
+      robust balance sheet while investing in future growth opportunities.
+    questions_and_answers:
+      - question: >
+          What are the key elements of Amgen's growth strategy and market
+          positioning?
+        answer: >
+          Amgen's growth strategy focuses on expanding its product portfolio
+          through strategic acquisitions like Horizon Therapeutics,
+          strengthening its position in rare diseases, and maintaining
+          leadership in core therapeutic areas. The company's market position is
+          supported by a diverse product portfolio, global presence, and
+          continued investment in R&D and commercial capabilities.
+      - question: |
+          How is Amgen managing market risks and competitive challenges?
+        answer: >
+          Amgen manages market risks through portfolio diversification, strong
+          financial management with $9.0 billion in cash reserves, and strategic
+          capital allocation. The company maintains competitive advantage
+          through continued investment in R&D, efficient operations, and
+          strategic acquisitions, while managing integration risks and market
+          dynamics in key therapeutic areas.
+      - question: |
+          What are Amgen's key priorities and focus areas for future quarters?
+        answer: >
+          Amgen's priorities include completing the integration of Horizon
+          Therapeutics, optimizing the combined product portfolio, advancing the
+          R&D pipeline, and maintaining operational efficiency. The company
+          focuses on maximizing the value of acquired assets, continuing
+          investment in innovation, and delivering strong financial performance
+          while returning value to shareholders through dividends.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/pharmaceuticals/AMGN/10-Q/data/*.md

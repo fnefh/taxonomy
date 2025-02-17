@@ -1,0 +1,125 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Warner Bros. Discovery, Inc. through Q3 2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance and Results
+     - Revenue Streams and Composition
+     - Operating Expenses and Margins
+     - Cash Flow and Liquidity
+     - Segment Performance
+     - Earnings Analysis
+
+  2. Business Operations and Strategy
+     - Studios Segment Performance
+     - Networks Segment Operations
+     - DTC Platform Growth
+     - Content Investment and Distribution
+     - Strategic Initiatives
+
+  3. Market Position and Growth
+     - Content Portfolio Performance
+     - Streaming Service Metrics
+     - Advertising Revenue Trends
+     - International Operations
+     - Strategic Partnerships
+
+  4. Risk Management and Controls
+     - Industry Challenges
+     - Content Production Risks
+     - Financial Controls
+     - Regulatory Compliance
+     - Capital Structure
+seed_examples:
+  - context: >
+      For Q3 2024, Warner Bros. Discovery reported total revenues of $9,623
+      million, with distribution revenue of $4,920 million, advertising revenue
+      of $1,682 million, content revenue of $2,721 million, and other revenue of
+      $300 million. The company achieved operating income of $281 million and
+      net income of $141 million, demonstrating improved profitability despite
+      market challenges.
+    questions_and_answers:
+      - question: >
+          What were Warner Bros. Discovery's key financial metrics and revenue
+          composition for Q3 2024?
+        answer: >
+          In Q3 2024, Warner Bros. Discovery's financial performance included: 1)
+          Total revenues of $9,623 million, with distribution revenue
+          contributing 51.1% ($4,920M), content revenue 28.3% ($2,721M),
+          advertising revenue 17.5% ($1,682M), and other revenue 3.1% ($300M),
+          2) Operating income of $281 million, up from $97 million in Q3 2023,
+          3) Net income of $141 million compared to a loss of $407 million in Q3
+          2023, 4) Diluted earnings per share of $0.05, improving from a loss of
+          $0.17 per share.
+      - question: >
+          How did Warner Bros. Discovery manage its operating expenses and cost
+          structure in Q3 2024?
+        answer: >
+          Operating expenses management in Q3 2024 showed: 1) Total costs and
+          expenses of $9,342 million, down from $9,882 million in Q3 2023, 2)
+          Costs of revenues at $5,181 million, representing 53.8% of total
+          revenues, 3) Selling, general and administrative expenses of $2,385
+          million, 4) Depreciation and amortization of $1,762 million, 5)
+          Reduced restructuring charges of $9 million compared to $269 million
+          in Q3 2023, demonstrating progress in cost optimization initiatives.
+      - question: >
+          What is Warner Bros. Discovery's financial position and balance sheet
+          strength as of Q3 2024?
+        answer: >
+          The company's financial position as of Q3 2024 included: 1) Cash and
+          cash equivalents of $3,336 million, 2) Total assets of $106,333
+          million, including $20,039 million in content rights and games, 3)
+          Total debt of $40,209 million ($3,043M current, $37,166M non-current),
+          4) Stockholders' equity of $35,100 million, 5) Strong content
+          investment with film and television rights valued at $20,039 million.
+  - context: >
+      Warner Bros. Discovery's Q3 2024 results reflect continued focus on
+      content investment, streaming platform growth, and operational efficiency.
+      The company maintains a diverse revenue mix across its Studios, Networks,
+      and DTC segments while managing industry challenges including evolving
+      consumer preferences and market competition.
+    questions_and_answers:
+      - question: >
+          How is Warner Bros. Discovery managing its content investment and
+          distribution strategy?
+        answer: >
+          The company's content strategy includes: 1) Balanced investment across
+          Studios (film, television, gaming), Networks (linear, sports), and DTC
+          (streaming) segments, 2) Focus on high-quality content creation with
+          $20,039 million invested in content rights and games, 3) Strategic
+          distribution across multiple platforms including theatrical, linear
+          networks, and streaming services, 4) International expansion of
+          content distribution and localization efforts, 5) Integration of
+          content libraries and production capabilities across segments.
+      - question: >
+          What are the key operational metrics and performance indicators across
+          business segments?
+        answer: >
+          Operational performance metrics include: 1) Distribution revenue of
+          $4,920 million reflecting strong content licensing and affiliate fees,
+          2) Advertising revenue of $1,682 million across linear and digital
+          platforms, 3) Content revenue of $2,721 million from theatrical
+          releases, licensing, and home entertainment, 4) Strategic focus on
+          cost management with reduced operating expenses, 5) Continued
+          investment in digital transformation and streaming platform
+          development.
+      - question: >
+          How is Warner Bros. Discovery addressing market challenges and
+          industry trends?
+        answer: >
+          The company addresses challenges through: 1) Diversified revenue streams
+          across multiple segments and platforms, 2) Strategic cost management
+          and operational efficiency initiatives, 3) Investment in digital and
+          streaming capabilities to address changing consumer preferences, 4)
+          Focus on high-quality content creation and distribution across
+          platforms, 5) Strong balance sheet management with $3,336 million in
+          cash and strategic debt reduction efforts.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/media_entertainment/WBD/10-Q/data/*.md

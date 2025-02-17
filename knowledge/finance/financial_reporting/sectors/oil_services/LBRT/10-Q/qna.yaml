@@ -1,0 +1,141 @@
+version: 3
+domain: quarterly_reporting
+created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Liberty Energy Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Operating costs and margins
+     - Cash flow and liquidity
+     - Capital expenditure and investments
+
+  2. Operational Metrics
+     - Service fleet utilization
+     - Geographic market activity
+     - Customer demand trends
+     - Operational efficiency
+
+  3. Strategic Developments
+     - Technology implementation
+     - ESG initiatives progress
+     - Market expansion efforts
+     - Business segment performance
+
+  4. Risk Management
+     - Market conditions
+     - Operational challenges
+     - Regulatory compliance
+     - Industry dynamics
+seed_examples:
+  - context: >
+      For the quarter ended September 30, 2024, Liberty Energy reported total
+      revenue  of $1.14 billion with net income of $73.8 million, demonstrating
+      resilient  performance despite market fluctuations. The company maintained
+      strong operational  execution while continuing to advance its
+      technological and environmental initiatives.
+    questions_and_answers:
+      - question: >
+          How did Liberty Energy's financial performance compare to the previous
+          quarter?
+        answer: >
+          Liberty Energy generated $1.14 billion in total revenue and $73.8
+          million in net income for Q3 2024, with diluted earnings per share of
+          $0.44. While revenue slightly decreased from $1.22 billion in Q3 2023,
+          the company maintained strong operational efficiency with operating
+          income of $107.3 million despite industry challenges.
+      - question: >
+          What were the key operational metrics and capital allocation
+          priorities?
+        answer: >
+          The company maintained strong operational execution with cost of
+          services at $840.3 million and general and administrative expenses at
+          $58.6 million. Capital allocation focused on fleet maintenance and
+          upgrades, with property and equipment increasing to $1.83 billion,
+          while maintaining a strong balance sheet with only $123 million in
+          long-term debt.
+      - question: |
+          How has Liberty Energy's market position evolved during the quarter?
+        answer: >
+          Liberty Energy maintained its strong market position through continued
+          investment in advanced technologies and equipment, as evidenced by
+          increased property and equipment assets. The company also demonstrated
+          financial strength through stockholder returns, including dividends of
+          $0.21 per share, while maintaining operational flexibility and
+          investing in growth initiatives.
+  - context: >
+      Liberty Energy's Q3 2024 results reflected ongoing commitment to
+      technological advancement and operational efficiency, with significant
+      investments in property and equipment reaching $1.83 billion, up from
+      $1.65 billion at year-end 2023, while maintaining strategic investments in
+      emerging technologies through stakes in Oklo Inc. and Tamboran Resources
+      Corporation.
+    questions_and_answers:
+      - question: >
+          What strategic investments has Liberty Energy made to enhance its
+          competitive position?
+        answer: >
+          Liberty Energy has made strategic investments including increasing its
+          property and equipment assets to $1.83 billion, maintaining
+          investments in Oklo Inc. ($16.6 million) and Tamboran Resources
+          Corporation ($18.2 million), and expanding its lease assets for
+          operational flexibility. These investments reflect the company's
+          commitment to technological advancement and operational capabilities.
+      - question: >
+          How is Liberty Energy managing its balance sheet and financial
+          flexibility?
+        answer: >
+          The company maintains strong financial flexibility with $23 million in
+          cash, moderate long-term debt of $123 million, and total stockholders'
+          equity of $1.97 billion. Working capital management remains effective
+          with current assets of $922.5 million against current liabilities of
+          $748.6 million, supporting ongoing operations and strategic
+          initiatives.
+      - question: |
+          What operational efficiencies has Liberty Energy achieved?
+        answer: >
+          Liberty Energy demonstrated operational efficiency through controlled
+          cost management with cost of services at 73.8% of revenue, while
+          maintaining investment in depreciation and amortization of $126.4
+          million, reflecting ongoing fleet maintenance and upgrades. The
+          company also optimized its lease structure with strategic use of both
+          finance and operating leases.
+  - context: >
+      During Q3 2024, Liberty Energy continued to focus on operational
+      excellence while maintaining strong customer relationships, as evidenced
+      by revenue from both traditional and related-party customers, totaling
+      $1.14 billion for the quarter.
+    questions_and_answers:
+      - question: |
+          How has Liberty Energy's customer relationship management evolved?
+        answer: >
+          Liberty Energy maintained strong customer relationships with $1.11
+          billion in standard revenue and $26.6 million in related-party revenue
+          for Q3 2024. The company's ability to maintain substantial revenue
+          streams from both traditional and related-party customers demonstrates
+          strong market presence and service quality.
+      - question: |
+          What measures has Liberty Energy taken to manage operating costs?
+        answer: >
+          The company effectively managed operating costs through controlled cost
+          of services ($840.3 million), strategic G&A expense management ($58.6
+          million), and efficient asset utilization as reflected in depreciation
+          and amortization costs ($126.4 million). These measures helped
+          maintain operating income at $107.3 million despite market challenges.
+      - question: |
+          How is Liberty Energy positioned for future growth?
+        answer: >
+          Liberty Energy is well-positioned for growth with strong financial
+          metrics, strategic investments in technology and equipment, and
+          effective cost management. The company maintains financial flexibility
+          with moderate debt levels, while continuing to invest in operational
+          capabilities and returning value to shareholders through dividends and
+          share repurchases.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/oil_services/LBRT/10-Q/data/*.md
