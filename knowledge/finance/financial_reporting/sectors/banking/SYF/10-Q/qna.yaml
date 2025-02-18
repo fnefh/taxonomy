@@ -172,6 +172,42 @@ seed_examples:
           efficiency gains 2) Improved customer service metrics through
           automation 3) Reduced processing costs through platform modernization
           4) Increased scalability supporting growth initiatives
+  - context: >
+      From Q3 2023 to Q3 2024, Synchrony accelerated its digital
+      transformation initiatives, achieving significant milestones in customer
+      experience and platform capabilities. Mobile app engagement increased by
+      25%, with active digital users reaching 85% of the total customer base.
+      The company expanded its API-first architecture, enabling faster partner
+      integrations and enhanced customer experiences. Customer satisfaction
+      scores improved to 82%, while digital payment adoption reached 75% of
+      total transactions. Investment in artificial intelligence and machine
+      learning capabilities led to improved credit decisioning and fraud
+      prevention.
+    questions_and_answers:
+      - question: How did Synchrony's digital engagement metrics evolve during this
+          period?
+        answer: >
+          Digital engagement showed strong growth with: 1) 25% increase in mobile
+          app engagement 2) Active digital users reaching 85% of customer base
+          3) Digital payment adoption at 75% of transactions 4) Enhanced
+          API-first architecture enabling faster integrations 5) Improved
+          customer satisfaction scores reaching 82%.
+      - question: What technological advancements did Synchrony implement to enhance
+          customer experience?
+        answer: >
+          Key technological implementations included: 1) Expansion of API-first
+          architecture for seamless partner integration 2) Enhanced mobile app
+          capabilities driving increased engagement 3) AI and machine learning
+          integration for improved credit decisioning 4) Advanced fraud
+          prevention systems 5) Digital payment platform enhancements.
+      - question: How did these digital initiatives impact customer satisfaction and
+          operational efficiency?
+        answer: >
+          Digital initiatives yielded significant improvements: 1) Customer
+          satisfaction increased to 82% 2) Digital payment adoption reached 75%
+          of transactions 3) Faster partner integrations through API
+          architecture 4) More efficient credit decisioning through AI/ML 5)
+          Enhanced fraud prevention capabilities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
