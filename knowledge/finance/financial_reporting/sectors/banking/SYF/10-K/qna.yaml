@@ -68,6 +68,17 @@ seed_examples:
           enhanced its deposit products by offering them through retail,
           affinity relationships, and commercial customers, as well as through
           third-party securities brokerage firms.
+      - question: >
+          What key performance metrics demonstrate Synchrony's customer
+          engagement success from 2021 to 2023?
+        answer: >
+          Synchrony's customer engagement success is evidenced by: 1) Growth in
+          active accounts from 72.4 million to 73.5 million; 2) Increase in
+          digital channel adoption with 58% of applications processed digitally;
+          3) 75% of customers with balances using digital service channels; 4)
+          Sustained growth in purchase volume indicating strong customer
+          activity; 5) Enhanced customer retention through improved digital
+          experiences and service offerings.
   - context: >
       Synchrony's revenue mix evolved across its five sales platforms from
       2021 to 2023, with notable shifts in platform contributions. The Digital
@@ -110,6 +121,18 @@ seed_examples:
           development teams. Additionally, Synchrony maintained strong partner
           relationships, with its five largest partners having relationships
           spanning over 16 years.
+      - question: >
+          How did Synchrony's platform-specific performance metrics demonstrate
+          business growth from 2021 to 2023?
+        answer: >
+          Platform performance metrics showed: 1) Digital platform leading growth
+          with 5% increase in contribution to 30% of total revenue; 2)
+          Diversified & Value platform showing strong momentum with 3% increase
+          to 23% share; 3) Health & Wellness expanding network reach while
+          growing share to 16%; 4) Home & Auto maintaining significant
+          contribution at 26% despite slight decrease; 5) Overall balanced
+          growth across platforms demonstrating successful diversification
+          strategy.
   - context: >
       Synchrony's operational evolution from 2021 to 2023 included
       significant investments in technology, customer experience, and risk
@@ -151,6 +174,17 @@ seed_examples:
           changes reflect Synchrony's strategy to diversify its product
           offerings while maintaining strong performance in its core credit card
           business.
+      - question: >
+          How did Synchrony's partner network and integration capabilities
+          expand from 2021 to 2023?
+        answer: >
+          Partner network expansion included: 1) Strengthening of existing
+          partnerships through technology integration and enhanced capabilities;
+          2) Addition of new strategic partners across all five platforms; 3)
+          Implementation of improved integration tools and APIs for seamless
+          partner onboarding; 4) Development of customized solutions for
+          partner-specific needs; 5) Enhanced data sharing and analytics
+          capabilities to support partner growth.
   - context: >
       From 2021 to 2023, Synchrony significantly enhanced its risk management
       framework and credit performance metrics. Net charge-off rates normalized

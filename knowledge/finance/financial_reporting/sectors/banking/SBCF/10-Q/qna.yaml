@@ -68,6 +68,17 @@ seed_examples:
           $93.9 million to $84.8 million, reflecting improved operational
           efficiency with reductions in salaries and wages, outsourced data
           processing costs, and other operating expenses.
+      - question: >
+          How did Seacoast's overall profitability metrics and capital position
+          perform during this period?
+        answer: >
+          Seacoast's profitability and capital metrics showed: 1) Maintained
+          earnings per share at $0.36 despite interest margin pressure; 2)
+          Improved efficiency ratio through reduced operating expenses; 3)
+          Strong capital ratios with total risk-based capital ratio above
+          regulatory requirements; 4) Return on average assets remained stable
+          despite market challenges; 5) Effective capital management supporting
+          continued growth and stability.
   - context: >
       Balance sheet trends from Q3 2023 through Q3 2024 demonstrate
       Seacoast's focus on growth and risk management. Total assets increased
@@ -101,6 +112,17 @@ seed_examples:
           2024. FHLB borrowings increased from $110.0 million to $245.0 million,
           reflecting strategic balance sheet management in response to market
           conditions.
+      - question: >
+          How has Seacoast's investment portfolio strategy evolved to manage
+          interest rate risk and liquidity needs?
+        answer: >
+          Investment portfolio strategy evolution included: 1) Increased
+          allocation to available-for-sale securities from $1.8B to $2.2B; 2)
+          Strategic positioning to balance yield and liquidity requirements; 3)
+          Maintained diverse mix of government and agency securities; 4)
+          Enhanced duration management to address interest rate risk; 5)
+          Optimized portfolio composition to support overall balance sheet
+          strategy.
   - context: >
       Operational efficiency and strategic initiatives from Q3 2023 to Q3
       2024 highlight Seacoast's focus on cost management and digital
