@@ -1,28 +1,36 @@
 version: 3
 domain: annual_reporting
 created_by: fnefh
-document_outline:
-  - Business Overview:
-      - Company profile and segments
-      - Retail operations and store network
-      - BNC First Day programs and digital initiatives
-      - Wholesale operations and distribution
-      - Strategic partnerships and relationships
-  - Financial Performance:
-      - Revenue streams and growth drivers
-      - Operational metrics and KPIs
-      - Seasonality and working capital
-      - Capital structure and financing
-  - Market Position:
-      - Competitive landscape
-      - Industry trends and challenges
-      - Growth strategy and opportunities
-      - Technology and innovation
-  - Risk Management:
-      - Operational risks
-      - Market and competitive risks
-      - Technology and cybersecurity risks
-      - Regulatory compliance
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Barnes & Noble Education, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Company profile and segments
+     - Retail operations and store network
+     - BNC First Day programs and digital initiatives
+     - Wholesale operations and distribution
+     - Strategic partnerships and relationships
+
+  2. Financial Performance
+     - Revenue streams and growth drivers
+     - Operational metrics and KPIs
+     - Seasonality and working capital
+     - Capital structure and financing
+
+  3. Market Position
+     - Competitive landscape
+     - Industry trends and challenges
+     - Growth strategy and opportunities
+     - Technology and innovation
+
+  4. Risk Management
+     - Operational risks
+     - Market and competitive risks
+     - Technology and cybersecurity risks
+     - Regulatory compliance
 seed_examples:
   - context: >
       Barnes & Noble Education, Inc. (BNED) is one of the largest contract
@@ -32,7 +40,7 @@ seed_examples:
       physical bookstores and 538 virtual bookstores. The company's BNC First
       Day programs have shown significant growth, with total revenue increasing
       by $127 million (37%) to $474 million in fiscal 2024.
-    questions:
+    questions_and_answers:
       - question: What are the key components of BNED's business model and how does it
           generate revenue?
         answer: BNED generates revenue through multiple channels - operating physical
@@ -66,7 +74,7 @@ seed_examples:
       through MBS subsidiary, is one of the largest textbook wholesalers in the
       country, serving approximately 2,750 physical bookstores and providing
       inventory management solutions.
-    questions:
+    questions_and_answers:
       - question: How does BNED's wholesale segment complement its retail operations?
         answer: The Wholesale segment provides significant operational advantages by
           enabling more efficient textbook sourcing and distribution, offering
@@ -97,7 +105,7 @@ seed_examples:
       and evolving distribution models. The company has implemented strategic
       initiatives to address these challenges, including expanding its First Day
       programs and enhancing its digital capabilities.
-    questions:
+    questions_and_answers:
       - question: What are the key market trends affecting BNED's business model?
         answer: Key trends include the increasing adoption of digital and open
           educational resources, pressure to reduce course material costs,
@@ -131,7 +139,7 @@ seed_examples:
       selling and administrative expenses of $341.2 million. Net loss for the
       year was $36.8 million, reflecting ongoing investments in digital
       transformation and the impact of industry challenges.
-    questions:
+    questions_and_answers:
       - question: |
           What were BNED's key financial metrics for fiscal 2024?
         answer: >
@@ -166,7 +174,7 @@ seed_examples:
       network. Integration with campus systems and student information platforms
       remained a key priority, supporting growth in digital course material
       delivery and First Day programs.
-    questions:
+    questions_and_answers:
       - question: |
           What were BNED's major technology investments in fiscal 2024?
         answer: >

@@ -1,25 +1,33 @@
 version: 3
 domain: quarterly_reporting
 created_by: fnefh
-document_outline:
-  - Financial Performance:
-      - Revenue and Profitability
-      - Operating Metrics
-      - Cash Flow Management
-      - Investment Portfolio
-  - Business Operations:
-      - Store Network
-      - Loyalty Program
-      - Lease Management
-      - Inventory Management
-  - Growth Strategy:
-      - Store Expansion
-      - Capital Investments
-      - Market Penetration
-  - Risk Management:
-      - Operational Risks
-      - Financial Risks
-      - Legal and Regulatory Compliance
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for Ollie's Bargain Outlet Holdings, Inc. covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and Profitability
+     - Operating Metrics
+     - Cash Flow Management
+     - Investment Portfolio
+
+  2. Business Operations
+     - Store Network
+     - Loyalty Program
+     - Lease Management
+     - Inventory Management
+
+  3. Growth Strategy
+     - Store Expansion
+     - Capital Investments
+     - Market Penetration
+
+  4. Risk Management
+     - Operational Risks
+     - Financial Risks
+     - Legal and Regulatory Compliance
 seed_examples:
   - context: >
       For the thirteen weeks ended November 2, 2024, Ollie's Bargain Outlet
@@ -28,7 +36,7 @@ seed_examples:
       achieved a gross profit of $214.5 million and net income of $35.9 million.
       Operating income increased to $44.5 million, demonstrating effective cost
       management and operational efficiency.
-    questions:
+    questions_and_answers:
       - question: What were Ollie's key financial metrics for Q3 2024, and how did they
           compare to the previous year?
         answer: In Q3 2024, Ollie's reported net sales of $517.4 million (up from $480.1
@@ -53,7 +61,7 @@ seed_examples:
       equivalents of $128.7 million and short-term investments of $175.2
       million. The Ollie's Army loyalty program has shown continued growth, with
       deferred revenue of $11.6 million related to the program.
-    questions:
+    questions_and_answers:
       - question: What is the current scale of Ollie's retail operations and geographic
           presence?
         answer: As of November 2, 2024, Ollie's operates 546 retail locations spread
@@ -80,7 +88,7 @@ seed_examples:
       of November 2, 2024. The company's capital expenditures for the
       thirty-nine weeks ended November 2, 2024, were $96.2 million, reflecting
       investments in store expansion and infrastructure.
-    questions:
+    questions_and_answers:
       - question: What are Ollie's major lease commitments and how does it manage its
           real estate strategy?
         answer: Ollie's has total lease obligations of $555.9 million, with a

@@ -54,6 +54,16 @@ seed_examples:
           Operating income improved from $6.2B to $6.8B; 4)  Net income
           increased significantly from $1.9B to $5.3B; 5)  Diluted EPS rose from
           $0.21 to $0.63.
+      - question: >
+          What insights can be drawn from Walmart's Q1 FY2024 revenue
+          composition?
+        answer: >
+          Revenue composition analysis shows: 1) Core retail sales represented 99%
+          of total revenue at $159.9B; 2) Membership and other income
+          contributed $1.57B, demonstrating strong recurring revenue; 3)
+          Diversified revenue streams across segments; 4) Healthy mix of
+          traditional retail and value-added services; 5) Growing contribution
+          from membership programs indicating customer loyalty.
   - context: >
       As of April 30, 2024, Walmart maintained a strong balance sheet  with
       total assets of $254.1 billion, including $9.4 billion in  cash and cash
@@ -77,6 +87,16 @@ seed_examples:
           long-term ($37.8B) debt; 3) Active working capital  management with
           $77.2B in current assets; 4) Strong cash  position of $9.4B; 5)
           Regular dividend payments ($0.83 per share  in Q1 FY2024).
+      - question: >
+          What does Walmart's working capital position indicate about its
+          operations?
+        answer: >
+          Working capital analysis reveals: 1) Current ratio of 0.80 showing
+          efficient working capital management; 2) Significant inventory
+          position of $55.4B reflecting scale of operations; 3) Strong supplier
+          relationships enabling favorable payment terms; 4) Effective cash
+          conversion cycle management; 5) Strategic balance between operational
+          needs and financial efficiency.
   - context: >
       For Q1 FY2024, Walmart generated $4.2 billion in operating cash  flow,
       while investing $4.7 billion in capital expenditures. The  company
@@ -101,6 +121,16 @@ seed_examples:
           $1.6B in long-term debt; 4) Dividend payments  of $1.7B; 5) Share
           repurchases of $1.1B; 6) Maintenance of  $15.0B in committed credit
           facilities.
+      - question: |
+          How effective is Walmart's supplier financing program?
+        answer: >
+          Supplier financing effectiveness shows: 1) $5.2B in outstanding
+          obligations indicating strong program adoption; 2) Improved supplier
+          payment terms and relationships; 3) Enhanced working capital
+          efficiency for both Walmart and suppliers; 4) Strategic balance
+          between payables management and supplier support; 5) Successful
+          integration of financing program with overall cash management
+          strategy.
   - context: >
       For the third quarter of fiscal year 2024 (ended October 31, 2024),
       Walmart reported total revenues of $169.8 billion, an increase of 5.2%
