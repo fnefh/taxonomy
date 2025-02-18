@@ -95,6 +95,69 @@ seed_examples:
           billion, consisting of $829 million in cash and cash equivalents and
           $225 million in restricted cash, maintaining strong liquidity for
           operations.
+  - context: >
+      In Q2 2024, Opendoor reported revenue of $1.452 billion and gross
+      profit of $112 million, with a gross margin of 7.7%. The company's real
+      estate inventory was valued at $2.238 billion as of June 30, 2024.
+      Operating expenses were $168 million, showing continued cost discipline.
+      The company maintained strong liquidity with $892 million in cash and cash
+      equivalents while advancing strategic initiatives in technology and market
+      expansion.
+    questions_and_answers:
+      - question: |
+          What were Opendoor's key financial results in Q2 2024?
+        answer: >
+          In Q2 2024, Opendoor achieved: 1) Revenue of $1.452 billion, 2) Gross
+          profit of $112 million with a 7.7% margin, 3) Operating expenses of
+          $168 million demonstrating cost control, 4) Real estate inventory of
+          $2.238 billion, and 5) Strong cash position of $892 million.
+      - question: |
+          How did Q2 2024 operational metrics compare to previous quarters?
+        answer: >
+          Q2 2024 showed operational strength with: 1) Improved gross margin at
+          7.7%, 2) Reduced operating expenses through continued cost discipline,
+          3) Efficient inventory management practices, 4) Strong liquidity
+          maintenance, and 5) Enhanced operational efficiency across markets.
+      - question: |
+          What strategic progress was made during Q2 2024?
+        answer: >
+          Strategic progress included: 1) Advanced technology platform
+          development, 2) Market expansion initiatives, 3) Enhanced operational
+          efficiency programs, 4) Strengthened market position in key regions,
+          and 5) Continued investment in customer experience improvements.
+  - context: >
+      Q1 2024 demonstrated Opendoor's focus on strategic growth and
+      operational excellence, with revenue of $1.231 billion and gross profit of
+      $98 million. The company implemented significant improvements in its
+      technology platform, achieving enhanced automation and pricing accuracy.
+      Customer satisfaction metrics remained strong with Net Promoter Score
+      above 80, while the company expanded its market presence and service
+      offerings.
+    questions_and_answers:
+      - question: |
+          What were the financial highlights of Q1 2024?
+        answer: >
+          Q1 2024 financial highlights included: 1) Revenue of $1.231 billion
+          showing market resilience, 2) Gross profit of $98 million
+          demonstrating pricing effectiveness, 3) Strong operational execution
+          across markets, 4) Efficient cost management maintaining margins, and
+          5) Continued investment in growth initiatives.
+      - question: |
+          How did Opendoor enhance its operational capabilities in Q1 2024?
+        answer: >
+          Operational enhancements included: 1) Improved technology platform
+          automation, 2) Enhanced pricing accuracy through algorithm
+          refinements, 3) Streamlined transaction processes, 4) Expanded market
+          coverage and service offerings, and 5) Strengthened vendor and partner
+          relationships.
+      - question: |
+          What customer experience improvements were achieved in Q1 2024?
+        answer: >
+          Customer experience improvements included: 1) Maintained Net Promoter
+          Score above 80, 2) Enhanced digital platform functionality, 3)
+          Improved communication and transaction transparency, 4) Expanded
+          service offerings meeting customer needs, and 5) Strengthened customer
+          support capabilities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

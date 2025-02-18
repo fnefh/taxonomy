@@ -106,7 +106,7 @@ seed_examples:
           proceeds of $18.3 million, resulting in a net gain of $2.2 million,
           demonstrating its commitment to portfolio optimization.
   - context: >
-      CareTrust REIT emphasizes sustainability and corporate responsibility,
+      CareTrust REIT emphasized sustainability and corporate responsibility,
       implementing various ESG initiatives in 2023. The company published its
       third annual Corporate Sustainability Report, expanded environmental data
       collection to 100 properties, conducted a portfolio-wide climate risk
@@ -145,6 +145,79 @@ seed_examples:
           compliance, and market conditions while implementing comprehensive ESG
           policies and programs to manage risks and promote sustainable
           practices.
+  - context: >
+      CareTrust REIT demonstrated strong financial performance in 2023 with
+      net income of $48.3 million and FFO of $102.1 million. The company
+      maintained a robust balance sheet with total assets of $1.8 billion and
+      total debt of $683.4 million as of December 31, 2023. The company's
+      investment-grade credit ratings and conservative leverage profile
+      supported its growth strategy while maintaining financial flexibility.
+    questions_and_answers:
+      - question: |
+          What were CareTrust's key financial metrics for 2023?
+        answer: >
+          CareTrust achieved net income of $48.3 million and FFO of $102.1 million
+          in 2023. The company's balance sheet showed total assets of $1.8
+          billion and total debt of $683.4 million, reflecting a conservative
+          leverage profile. The company maintained investment-grade credit
+          ratings while generating strong cash flows from its healthcare
+          property portfolio.
+      - question: |
+          How does CareTrust manage its capital structure and financing?
+        answer: >
+          CareTrust maintains a conservative capital structure with a balanced
+          approach to leverage and financing. The company utilizes a mix of debt
+          instruments including senior unsecured notes and revolving credit
+          facilities, while maintaining investment-grade credit ratings. Their
+          financing strategy focuses on maintaining flexibility for growth while
+          managing interest rate exposure and debt maturities.
+      - question: |
+          What drives CareTrust's revenue and profitability?
+        answer: >
+          CareTrust's revenue and profitability are driven by stable rental income
+          from triple-net leased healthcare properties, strategic acquisitions,
+          and effective asset management. The company's focus on high-quality
+          tenants, strategic property locations, and long-term lease structures
+          contributes to consistent cash flow generation and sustainable growth
+          in funds from operations.
+  - context: >
+      CareTrust's strategic growth initiatives in 2023 focused on portfolio
+      expansion, tenant relationship development, and market penetration. The
+      company implemented a targeted acquisition strategy, investing in markets
+      with favorable demographics and healthcare demand. Additionally, CareTrust
+      strengthened its tenant relationships through proactive asset management
+      and support programs, while maintaining focus on operational excellence
+      and risk management.
+    questions_and_answers:
+      - question: |
+          What characterizes CareTrust's acquisition and growth strategy?
+        answer: >
+          CareTrust's growth strategy focuses on targeted acquisitions in markets
+          with strong demographics and healthcare demand. The company evaluates
+          opportunities based on property quality, tenant strength, and market
+          fundamentals. Their approach includes both single-property
+          acquisitions and portfolio transactions, with emphasis on properties
+          that complement their existing portfolio and tenant relationships.
+      - question: |
+          How does CareTrust develop and maintain tenant relationships?
+        answer: >
+          CareTrust builds strong tenant relationships through proactive asset
+          management, operator support programs, and strategic partnership
+          development. The company maintains regular communication with
+          operators, monitors operational performance, and provides capital for
+          property improvements when needed. Their tenant relationship strategy
+          focuses on supporting operator success while maintaining appropriate
+          risk management practices.
+      - question: |
+          What market opportunities is CareTrust pursuing for future growth?
+        answer: >
+          CareTrust pursues growth opportunities in markets with favorable
+          demographic trends, strong healthcare demand, and attractive
+          investment characteristics. The company targets markets with aging
+          populations, established healthcare infrastructure, and barriers to
+          entry. Their market selection process includes analysis of local
+          healthcare dynamics, regulatory environment, and competitive
+          landscape.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

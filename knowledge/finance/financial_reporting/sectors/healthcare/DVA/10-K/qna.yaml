@@ -165,6 +165,83 @@ seed_examples:
           protection requirements across global operations, and 6) Managing
           joint venture relationships and physician partnerships within
           regulatory frameworks.
+  - context: >
+      In fiscal year 2023, DaVita reported consolidated revenues of $12.0
+      billion and operating income of $1.6 billion. The company's U.S. dialysis
+      business served approximately 200,800 patients through 2,675 outpatient
+      centers, while maintaining strong operational metrics including a 71%
+      normalized treatment rate. Capital expenditures totaled $404 million,
+      primarily for routine center maintenance, technology investments, and new
+      center development.
+    questions_and_answers:
+      - question: |
+          What were DaVita's key financial and operational metrics in FY2023?
+        answer: >
+          DaVita achieved consolidated revenues of $12.0 billion and operating
+          income of $1.6 billion in FY2023. The company's U.S. dialysis business
+          maintained strong operational performance with approximately 200,800
+          patients served through 2,675 outpatient centers. Capital expenditures
+          of $404 million supported routine maintenance, technology investments,
+          and growth initiatives, while maintaining a 71% normalized treatment
+          rate.
+      - question: |
+          How did DaVita allocate capital and invest in growth?
+        answer: >
+          DaVita's capital allocation in 2023 included: 1) $404 million in capital
+          expenditures focused on center maintenance, technology infrastructure,
+          and new center development, 2) Strategic investments in integrated
+          kidney care capabilities and value-based programs, 3) International
+          expansion through targeted market growth, and 4) Technology
+          investments to enhance patient care delivery and operational
+          efficiency.
+      - question: |
+          What operational efficiencies were achieved in 2023?
+        answer: >
+          DaVita demonstrated operational efficiency through: 1) Maintaining a 71%
+          normalized treatment rate across its network, 2) Optimizing center
+          operations and resource utilization, 3) Implementing technology
+          solutions to improve workflow and patient care coordination, 4)
+          Managing costs while maintaining quality standards, and 5) Expanding
+          integrated care capabilities to enhance care delivery and outcomes.
+  - context: >
+      DaVita's technology and innovation initiatives in 2023 focused on
+      enhancing patient care delivery, improving operational efficiency, and
+      expanding digital health capabilities. The company invested in artificial
+      intelligence applications, telehealth platforms, and data analytics tools
+      while advancing its home dialysis technology and remote monitoring
+      solutions. These initiatives supported improved clinical outcomes, patient
+      engagement, and care coordination across the network.
+    questions_and_answers:
+      - question: |
+          What are DaVita's key technology and innovation priorities?
+        answer: >
+          DaVita's technology priorities include: 1) Artificial intelligence
+          applications for clinical decision support and predictive analytics,
+          2) Telehealth platforms to enhance patient access and care delivery,
+          3) Data analytics tools for operational optimization and clinical
+          outcomes improvement, 4) Home dialysis technology advancement for
+          enhanced patient care, and 5) Remote monitoring solutions to support
+          care coordination and patient engagement.
+      - question: |
+          How is DaVita leveraging digital health capabilities?
+        answer: >
+          DaVita's digital health initiatives encompass: 1) Expanded telehealth
+          services for patient consultations and care management, 2) Enhanced
+          patient engagement platforms for education and communication, 3)
+          Integration of remote monitoring technologies for home dialysis
+          patients, 4) Development of digital tools for care team collaboration,
+          and 5) Implementation of data-driven solutions for clinical quality
+          improvement.
+      - question: |
+          What outcomes have technology investments achieved?
+        answer: >
+          Technology investments have delivered: 1) Improved clinical outcomes
+          through enhanced monitoring and early intervention capabilities, 2)
+          Increased operational efficiency through automation and workflow
+          optimization, 3) Enhanced patient engagement and satisfaction through
+          digital platforms, 4) Better care coordination across the provider
+          network, and 5) Advanced analytics capabilities for quality
+          improvement and resource allocation.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

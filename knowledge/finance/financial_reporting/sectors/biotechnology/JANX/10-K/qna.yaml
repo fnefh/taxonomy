@@ -126,6 +126,76 @@ seed_examples:
           platforms, designed to overcome traditional TCE limitations through
           tumor-specific activation, reduced toxicity risk, and improved
           half-life, targeting clinically validated targets in solid tumors.
+  - context: >
+      Janux has established a robust manufacturing strategy leveraging
+      third-party manufacturers and suppliers for its TRACTr and TRACIr product
+      candidates. The company's manufacturing processes closely resemble those
+      used for standard monoclonal antibodies, with high expression levels in
+      CHO cells and standard purification techniques. The TRACTr and TRACIr
+      molecules demonstrate advantageous properties including high solubility,
+      minimal aggregation, and good stability, potentially enabling lower
+      manufacturing costs compared to traditional monoclonal antibodies.
+    questions_and_answers:
+      - question: |
+          What are the key features of Janux's manufacturing approach?
+        answer: >
+          Janux utilizes third-party manufacturers and standard monoclonal
+          antibody manufacturing processes, with their TRACTr and TRACIr
+          molecules showing high expression in CHO cells, efficient purification
+          through protein A chromatography, and favorable properties for
+          manufacturing including high solubility and stability.
+      - question: >
+          How does Janux's manufacturing strategy support its development
+          programs?
+        answer: >
+          The company's manufacturing strategy enables efficient production of
+          clinical trial materials through established processes, while the
+          favorable properties of their molecules potentially allow for lower
+          manufacturing costs and scalability for future commercial production.
+      - question: >
+          What manufacturing advantages do TRACTr and TRACIr molecules offer
+          compared to traditional antibodies?
+        answer: >
+          TRACTr and TRACIr molecules demonstrate high solubility, minimal
+          aggregation, and good stability, allowing for standard manufacturing
+          processes at modest scale and low protein concentrations, potentially
+          resulting in substantially lower production costs than traditional
+          monoclonal antibodies.
+  - context: >
+      Through its strategic collaboration with Merck, Janux has secured
+      significant potential revenue streams and development support. The
+      agreement includes an $8 million upfront payment for each of two
+      collaboration targets (total $16 million), potential regulatory and
+      development milestone payments of up to $142.5 million per target ($285
+      million total), and sales milestone payments of up to $350 million per
+      licensed product. Additionally, Merck will pay tiered royalties ranging
+      from low single-digit to low teens percentage rates on net sales of
+      licensed products.
+    questions_and_answers:
+      - question: |
+          What are the key financial terms of Janux's collaboration with Merck?
+        answer: >
+          The Merck collaboration includes $16 million in upfront payments ($8
+          million per target), potential milestone payments of up to $285
+          million for development and regulatory achievements, up to $350
+          million in sales milestones per product, and tiered royalties ranging
+          from low single-digit to low teens percentages on net sales.
+      - question: |
+          How does the Merck collaboration support Janux's financial position?
+        answer: >
+          The collaboration provides immediate non-dilutive funding through
+          upfront payments, potential future milestone payments to support
+          development activities, and long-term revenue potential through
+          royalties, while Merck funds certain research and development
+          activities.
+      - question: >
+          What does the structure of the Merck deal indicate about the potential
+          value of Janux's technology platform?
+        answer: >
+          The substantial financial terms, including significant upfront payments,
+          milestone opportunities exceeding $600 million, and tiered royalties,
+          reflect Merck's confidence in Janux's technology platform and its
+          potential to generate valuable therapeutic candidates.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

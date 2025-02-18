@@ -93,6 +93,56 @@ seed_examples:
           commercial scale 3) Establishment of regulatory pathways through
           multiple designations 4) Strategic focus on indications with clear
           market opportunity
+  - context: >
+      From 2021 to 2023, Caribou Biosciences maintained a strong financial
+      position while strategically investing in its clinical programs and
+      platform technology. The company's cash management and financing
+      activities supported its advancing pipeline while maintaining operational
+      flexibility.
+    questions_and_answers:
+      - question: How did the company's financial position evolve during this period?
+        answer: >
+          The financial position evolved through: 1) Maintenance of strong cash
+          reserves exceeding $300 million 2) Strategic deployment of capital
+          across three clinical programs 3) Successful completion of financing
+          activities including ATM program 4) Efficient cash management with
+          runway into 2025
+      - question: What were the key areas of investment?
+        answer: >
+          Major investments focused on: 1) Clinical trial execution and expansion
+          across CB-010, CB-011, and CB-012 programs 2) Manufacturing capability
+          enhancement for clinical supply 3) Research and development of chRDNA
+          platform 4) Intellectual property portfolio expansion
+      - question: How did operating expenses reflect strategic priorities?
+        answer: >
+          Operating expenses aligned with: 1) Increased clinical trial activities
+          and patient enrollment 2) Enhanced manufacturing capabilities and
+          process development 3) Continued investment in research and platform
+          advancement 4) Measured expansion of organizational capabilities
+  - context: >
+      Throughout 2021-2023, Caribou Biosciences significantly strengthened
+      its intellectual property portfolio around its chRDNA technology platform
+      while expanding its manufacturing capabilities and operational
+      infrastructure.
+    questions_and_answers:
+      - question: How did the IP portfolio evolve?
+        answer: >
+          The IP portfolio expanded through: 1) Issuance of multiple patents
+          covering chRDNA technology 2) Broadened coverage of manufacturing
+          processes and methods 3) Protection of specific therapeutic
+          applications 4) Strategic filing of new patent applications
+      - question: What manufacturing capabilities were developed?
+        answer: >
+          Manufacturing developments included: 1) Optimization of processes for
+          clinical supply 2) Implementation of quality control systems 3)
+          Enhancement of analytical capabilities 4) Development of scalable
+          production methods
+      - question: How did operational infrastructure expand?
+        answer: >
+          Operational expansion included: 1) Growth of technical and clinical
+          teams 2) Enhancement of quality management systems 3) Implementation
+          of robust supply chain management 4) Development of information
+          technology infrastructure
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

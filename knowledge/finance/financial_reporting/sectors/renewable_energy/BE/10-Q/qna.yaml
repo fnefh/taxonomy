@@ -136,6 +136,73 @@ seed_examples:
           manages supply chain risks through multiple sourcing strategies and
           maintains comprehensive manufacturing capabilities to mitigate
           operational risks.
+  - context: >
+      Through Q3 2024, Bloom Energy advanced its manufacturing capabilities
+      and IRA benefits realization. The company received IRS acceptance for a
+      $75.3 million Qualifying Advanced Energy Project Credit for their Fremont
+      facility, subject to certification requirements including prevailing wage
+      and apprenticeship standards. Manufacturing efficiency improvements led to
+      enhanced production capacity, with the Fremont facility demonstrating
+      increased output and automation. The company also expanded its supply
+      chain resilience through strategic partnerships and multi-sourcing
+      initiatives across Asia, Europe, and India.
+    questions_and_answers:
+      - question: >
+          What progress has Bloom Energy made in securing and implementing IRA
+          benefits?
+        answer: >
+          IRA progress included: 1) Secured $75.3M Qualifying Advanced Energy
+          Project Credit for Fremont facility 2) Implementation of prevailing
+          wage and apprenticeship requirements for certification 3) Strategic
+          planning for additional IRA benefit opportunities 4) Integration of
+          IRA requirements into manufacturing processes.
+      - question: |
+          How has manufacturing efficiency and capacity evolved through Q3 2024?
+        answer: >
+          Manufacturing evolution showed: 1) Enhanced production capacity at
+          Fremont facility 2) Implementation of advanced automation systems 3)
+          Improved production line efficiency and output 4) Strategic
+          investments in manufacturing technology and processes.
+      - question: |
+          What developments occurred in supply chain management and resilience?
+        answer: >
+          Supply chain developments included: 1) Expansion of strategic supplier
+          partnerships 2) Implementation of multi-sourcing strategies across
+          Asia, Europe, and India 3) Enhanced inventory management systems 4)
+          Improved supplier qualification and quality control processes.
+  - context: >
+      During Q3 2024, Bloom Energy demonstrated significant advancement in
+      its technology platform and product performance. The company's Energy
+      Servers achieved enhanced operational metrics with improved power density
+      and efficiency. The integration of advanced monitoring capabilities
+      through Remote Monitoring and Control Centers enabled real-time tracking
+      of over 500 performance parameters. Product development focused on
+      increased durability and reduced maintenance requirements, while the
+      company expanded its intellectual property portfolio and advanced its
+      hydrogen technology initiatives.
+    questions_and_answers:
+      - question: >
+          What improvements were achieved in Energy Server performance and
+          monitoring?
+        answer: >
+          Performance improvements included: 1) Enhanced power density and
+          operational efficiency 2) Real-time monitoring of 500+ performance
+          parameters 3) Improved durability and reliability metrics 4) Reduced
+          maintenance requirements through design optimization.
+      - question: |
+          How did Bloom Energy advance its hydrogen technology initiatives?
+        answer: >
+          Hydrogen initiatives progressed through: 1) Enhanced electrolyzer
+          efficiency and performance 2) Expanded hydrogen fuel capability in
+          Energy Servers 3) Advanced integration with renewable energy sources
+          4) Development of new hydrogen-related intellectual property.
+      - question: |
+          What developments occurred in product technology and innovation?
+        answer: >
+          Technology developments included: 1) Expansion of intellectual property
+          portfolio 2) Implementation of advanced monitoring and control systems
+          3) Enhanced product reliability and performance metrics 4) Development
+          of next-generation product features and capabilities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

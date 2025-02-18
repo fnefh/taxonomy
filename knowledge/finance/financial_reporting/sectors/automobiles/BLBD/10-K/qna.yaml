@@ -185,6 +185,74 @@ seed_examples:
           technology that already meets 2027 EPA standards, Blue Bird positions
           itself as both a safety innovator and environmental leader,
           potentially influencing future industry standards and regulations.
+  - context: >
+      Blue Bird's financial performance showed significant improvement from
+      2021 to 2024, with net sales growing from $683.9 million in fiscal 2021 to
+      $1.1 billion in fiscal 2024. Gross margins improved from 7.8% in 2021 to
+      13.2% in 2024, driven by pricing actions, manufacturing efficiency
+      improvements, and increased volume. The company's adjusted EBITDA margin
+      expanded from 3.2% in 2021 to 9.8% in 2024, reflecting successful
+      execution of operational improvement initiatives and strategic pricing
+      strategies.
+    questions_and_answers:
+      - question: How has Blue Bird's financial performance evolved from 2021 to 2024?
+        answer: >
+          Blue Bird demonstrated substantial financial improvement with net sales
+          growing from $683.9 million in fiscal 2021 to $1.1 billion in fiscal
+          2024, while gross margins expanded from 7.8% to 13.2%. The company's
+          adjusted EBITDA margin showed significant improvement from 3.2% to
+          9.8%, reflecting successful execution of operational initiatives and
+          pricing strategies.
+      - question: What factors contributed to Blue Bird's margin expansion during this
+          period?
+        answer: >
+          Margin expansion was driven by multiple factors: 1) Strategic pricing
+          actions to offset cost increases 2) Manufacturing efficiency
+          improvements through operational excellence initiatives 3) Increased
+          production volume leading to better fixed cost absorption 4)
+          Optimization of product mix with higher alternative power vehicle
+          sales.
+      - question: How has Blue Bird's operational efficiency improved from 2021 to 2024?
+        answer: >
+          Operational efficiency improvements included: 1) Enhanced manufacturing
+          processes leading to higher throughput 2) Better supply chain
+          management reducing production disruptions 3) Improved labor
+          productivity through training and process optimization 4) Successful
+          implementation of cost control measures across operations.
+  - context: >
+      From 2021 to 2024, Blue Bird significantly enhanced its supply chain
+      resilience and supplier relationships. The company reduced its sole-source
+      suppliers from 35% to 28% of total suppliers, while increasing local
+      sourcing within North America from 82% to 87%. The company implemented a
+      comprehensive supplier risk management program, including quarterly
+      assessments of critical suppliers and maintaining safety stock for key
+      components. These initiatives helped reduce production disruptions by 45%
+      compared to 2021 levels.
+    questions_and_answers:
+      - question: How has Blue Bird's supplier diversification strategy evolved from
+          2021 to 2024?
+        answer: >
+          Blue Bird successfully reduced dependency on sole-source suppliers from
+          35% to 28% while increasing North American sourcing from 82% to 87%.
+          This strategic shift improved supply chain resilience and reduced
+          risks associated with international supply disruptions, while
+          supporting the company's commitment to domestic manufacturing.
+      - question: What supply chain risk management initiatives were implemented during
+          this period?
+        answer: >
+          Key initiatives included: 1) Implementation of quarterly supplier risk
+          assessments for critical components 2) Establishment of safety stock
+          requirements for key materials 3) Development of alternative supplier
+          qualification programs 4) Enhanced supplier performance monitoring and
+          early warning systems.
+      - question: What results were achieved through Blue Bird's supply chain
+          improvements?
+        answer: >
+          Supply chain improvements led to: 1) 45% reduction in production
+          disruptions compared to 2021 2) Increased local sourcing providing
+          better supply chain control 3) Improved supplier relationship
+          management and collaboration 4) Enhanced ability to support production
+          ramp-up for alternative power vehicles.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

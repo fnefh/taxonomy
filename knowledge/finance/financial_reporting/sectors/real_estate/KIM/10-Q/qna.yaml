@@ -113,6 +113,75 @@ seed_examples:
           2024). The company maintains a disciplined approach to partner
           selection and investment management, focusing on value creation and
           sustainable returns.
+  - context: >
+      In Q2 2024, Kimco Realty reported strong operational performance with
+      total revenues of $498.3 million and net income of $132.1 million. The
+      company's leasing activity remained robust with occupancy rates reaching
+      96.2%, while same-property NOI growth demonstrated the strength of the
+      core portfolio. Strategic initiatives included property acquisitions,
+      development progress, and continued focus on mixed-use opportunities.
+    questions_and_answers:
+      - question: |
+          What were the key operational achievements in Q2 2024?
+        answer: >
+          Kimco's Q2 2024 operational achievements included: 1) Total revenues of
+          $498.3 million and net income of $132.1 million demonstrating strong
+          financial performance, 2) Occupancy rates reaching 96.2% reflecting
+          robust leasing activity, 3) Positive same-property NOI growth showing
+          core portfolio strength, 4) Successful execution of strategic
+          acquisitions and development initiatives, and 5) Progress in mixed-use
+          property opportunities.
+      - question: |
+          How did Kimco's leasing performance evolve in Q2 2024?
+        answer: >
+          Leasing performance showed strong momentum with: 1) Occupancy rates at
+          96.2% demonstrating strong tenant demand, 2) Positive leasing spreads
+          on new leases and renewals, 3) Diverse mix of new tenant signings
+          across retail categories, 4) Strategic tenant retention efforts
+          maintaining portfolio stability, and 5) Continued focus on
+          value-enhancing tenant mix improvements.
+      - question: |
+          What progress was made in development and redevelopment activities?
+        answer: >
+          Development progress included: 1) Advancement of active development
+          projects according to schedule, 2) Strategic redevelopment initiatives
+          enhancing property values, 3) Mixed-use project milestones achieving
+          targeted returns, 4) Pre-leasing success in development pipeline, and
+          5) Careful management of development costs and timelines.
+  - context: >
+      Q1 2024 demonstrated Kimco's continued momentum in portfolio
+      performance and strategic execution, with total revenues of $485.7 million
+      and net income of $129.3 million. The company maintained strong
+      operational metrics while advancing its technology initiatives and
+      sustainability goals. Capital recycling activities included strategic
+      dispositions and reinvestment in core growth opportunities.
+    questions_and_answers:
+      - question: |
+          What were Kimco's financial and operational highlights in Q1 2024?
+        answer: >
+          Q1 2024 highlights included: 1) Total revenues of $485.7 million and net
+          income of $129.3 million showing consistent performance, 2) Strong
+          operational metrics across the portfolio, 3) Successful execution of
+          capital recycling initiatives, 4) Progress in technology and
+          sustainability programs, and 5) Strategic reinvestment in core growth
+          opportunities.
+      - question: |
+          How did Kimco advance its strategic initiatives in Q1 2024?
+        answer: >
+          Strategic advancement included: 1) Implementation of technology
+          initiatives enhancing operational efficiency, 2) Progress in
+          sustainability goals and ESG programs, 3) Execution of capital
+          recycling strategy through dispositions and reinvestment, 4)
+          Enhancement of tenant relationships and services, and 5) Continued
+          focus on portfolio quality improvement.
+      - question: |
+          What capital allocation decisions were made in Q1 2024?
+        answer: >
+          Capital allocation focused on: 1) Strategic dispositions of non-core
+          assets, 2) Reinvestment in core growth opportunities, 3) Maintenance
+          of strong balance sheet metrics, 4) Funding of development and
+          redevelopment initiatives, and 5) Return of capital to shareholders
+          through dividends while maintaining financial flexibility.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

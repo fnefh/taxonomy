@@ -189,6 +189,71 @@ seed_examples:
           its high-performance, premium-priced product portfolio through
           forward-thinking designs and advanced manufacturing techniques to
           serve its expanding customer base and their evolving pursuits.
+  - context: >
+      YETI's international expansion and direct-to-consumer (DTC) strategy
+      showed significant progress from 2021 to 2023. International sales grew
+      from $85 million in 2021 to $142 million in 2023, representing 14% of
+      total net sales. DTC channel sales increased to $561 million in 2023,
+      accounting for 54% of net sales, driven by strong e-commerce performance
+      and expansion of YETI retail stores. The company established new
+      distribution centers in key international markets, including the UK and
+      Australia, while strengthening its digital presence through localized
+      websites and marketing initiatives.
+    questions_and_answers:
+      - question: |
+          How did YETI's international business evolve from 2021 to 2023?
+        answer: >
+          International growth showed strong momentum: 1) Sales increased from
+          $85M to $142M 2) International revenue reached 14% of total net sales
+          3) Expanded distribution network in UK and Australia 4) Enhanced
+          localized digital presence and marketing initiatives.
+      - question: |
+          What characterized YETI's DTC channel performance?
+        answer: >
+          DTC performance demonstrated strength through: 1) Channel sales grew to
+          $561M in 2023 2) DTC represented 54% of total net sales 3) Enhanced
+          e-commerce platform capabilities 4) Strategic expansion of YETI retail
+          store footprint.
+      - question: |
+          How did YETI enhance its global distribution capabilities?
+        answer: >
+          Distribution capabilities expanded via: 1) New distribution centers in
+          key international markets 2) Improved logistics network efficiency 3)
+          Enhanced inventory management across regions 4) Strengthened
+          partnerships with local distributors.
+  - context: >
+      From 2021 to 2023, YETI significantly enhanced its supply chain
+      resilience and manufacturing capabilities. The company diversified its
+      supplier base across multiple countries, reducing dependency on any single
+      region. Manufacturing partnerships expanded to include facilities in
+      Vietnam, Thailand, and Mexico, complementing existing operations in China
+      and the Philippines. YETI invested $28 million in manufacturing technology
+      and quality control systems, while implementing sustainable practices that
+      reduced waste by 15% and water usage by 20% across manufacturing
+      operations. The company also achieved an 85% on-time delivery rate while
+      maintaining product quality standards.
+    questions_and_answers:
+      - question: |
+          How did YETI enhance its manufacturing capabilities from 2021 to 2023?
+        answer: >
+          Manufacturing enhancements included: 1) Diversification of supplier base
+          across multiple countries 2) Expansion of manufacturing partnerships
+          to Vietnam, Thailand, and Mexico 3) $28M investment in manufacturing
+          technology 4) Implementation of advanced quality control systems.
+      - question: |
+          What improvements were made in supply chain resilience?
+        answer: >
+          Supply chain improvements showed: 1) Reduced dependency on single
+          regions 2) Enhanced supplier relationships across multiple countries
+          3) Improved on-time delivery rate to 85% 4) Strengthened quality
+          control processes across facilities.
+      - question: |
+          How did YETI advance its sustainability initiatives in manufacturing?
+        answer: >
+          Sustainability advances included: 1) 15% reduction in manufacturing
+          waste 2) 20% decrease in water usage across operations 3)
+          Implementation of sustainable manufacturing practices 4) Enhanced
+          environmental monitoring and reporting systems.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

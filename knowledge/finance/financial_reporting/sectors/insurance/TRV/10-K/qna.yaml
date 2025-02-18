@@ -86,6 +86,131 @@ seed_examples:
           with agents and customers, 5) A disciplined approach to underwriting
           that emphasizes product returns and profitable growth over market
           share.
+  - context: >
+      For fiscal year 2023, Travelers reported net income of $2.99 billion
+      ($12.51 per diluted  share) and total revenues of $41.26 billion. Combined
+      ratio was 96.1%, reflecting strong  underwriting performance. Net written
+      premiums increased by 12% to $40.20 billion, with  growth across all
+      segments. The investment portfolio generated net investment income
+      of  $2.99 billion, benefiting from higher interest rates and strong fixed
+      income returns.  Return on equity was 13.8%, while core return on equity
+      was 11.4%.
+    questions_and_answers:
+      - question: |
+          What were Travelers' key financial metrics for fiscal year 2023?
+        answer: >
+          Travelers achieved net income of $2.99 billion ($12.51 per diluted
+          share), total  revenues of $41.26 billion, and net written premiums of
+          $40.20 billion (up 12%),  while maintaining a strong combined ratio of
+          96.1% and generating return on equity  of 13.8%.
+      - question: |
+          How did Travelers' investment portfolio perform in 2023?
+        answer: >
+          The investment portfolio generated net investment income of $2.99
+          billion, benefiting  from higher interest rates and strong fixed
+          income returns, contributing to the  company's overall profitability
+          and financial strength.
+      - question: >
+          What indicators demonstrate Travelers' underwriting performance in
+          2023?
+        answer: >
+          The company demonstrated strong underwriting performance with a combined
+          ratio of  96.1%, while growing net written premiums by 12% across all
+          segments, indicating  effective risk selection and pricing strategies.
+  - context: >
+      In 2023, Travelers' Business Insurance segment reported net written
+      premiums of $20.43  billion, an increase of 11% from 2022. The segment
+      achieved a combined ratio of 95.8%  and operating income of $2.12 billion.
+      Select Accounts (small business) grew by 9%,  while Middle Market expanded
+      by 13%. The segment processed over 2.5 million quotes  through its digital
+      platform and achieved a 92% retention rate in core commercial
+      accounts.  New business initiatives generated $2.8 billion in premiums.
+    questions_and_answers:
+      - question: >
+          What were the Business Insurance segment's key performance metrics in
+          2023?
+        answer: >
+          The segment generated net written premiums of $20.43 billion (up 11%),
+          achieved a  combined ratio of 95.8%, and operating income of $2.12
+          billion, while maintaining  strong growth in both Select Accounts (9%)
+          and Middle Market (13%).
+      - question: |
+          How did Travelers enhance its Business Insurance operations?
+        answer: >
+          The segment processed over 2.5 million quotes through its digital
+          platform, maintained  a 92% retention rate in core commercial
+          accounts, and generated $2.8 billion in  premiums from new business
+          initiatives.
+      - question: |
+          What growth trends were evident in the Business Insurance segment?
+        answer: >
+          Growth was demonstrated through an 11% increase in net written premiums,
+          9% growth  in Select Accounts, 13% expansion in Middle Market, and
+          $2.8 billion in new business  premiums.
+  - context: >
+      Travelers' Bond & Specialty Insurance segment in 2023 reported net
+      written premiums of  $3.84 billion, with a combined ratio of 82.3%. The
+      segment's management liability  business grew by 15%, while surety
+      premiums increased by 8%. International operations  expanded with a 20%
+      increase in net written premiums. The segment maintained
+      industry-leading  positions in surety and management liability, with
+      market share exceeding 15% in key  products. Digital capabilities were
+      enhanced with new automated underwriting platforms  for cyber insurance
+      and management liability products.
+    questions_and_answers:
+      - question: |
+          What were the Bond & Specialty segment's key achievements in 2023?
+        answer: >
+          The segment achieved net written premiums of $3.84 billion with an
+          excellent combined  ratio of 82.3%, while growing management liability
+          business by 15% and surety  premiums by 8%, with international
+          operations expanding by 20%.
+      - question: >
+          How did Travelers maintain its market leadership in specialty
+          insurance?
+        answer: >
+          The segment maintained industry-leading positions with market share
+          exceeding 15%  in key products, while enhancing digital capabilities
+          through new automated  underwriting platforms for cyber insurance and
+          management liability products.
+      - question: |
+          What growth indicators were evident in the Bond & Specialty segment?
+        answer: >
+          Growth was demonstrated through 15% increase in management liability
+          business, 8%  growth in surety premiums, and 20% expansion in
+          international operations, while  maintaining strong market positions
+          in core products.
+  - context: >
+      In 2023, Travelers' Personal Insurance segment reported net written
+      premiums of $15.93  billion, with automobile premiums of $8.92 billion and
+      homeowners premiums of $6.45  billion. The segment achieved a combined
+      ratio of 98.7%. Digital initiatives resulted  in 45% of personal auto
+      quotes being initiated online, while the new IntelliDrive®  program
+      enrolled over 1 million customers. Agency auto retention rates reached
+      84%,  and homeowners policies in force grew by 3%. The segment implemented
+      sophisticated  pricing algorithms incorporating real-time data and
+      predictive modeling.
+    questions_and_answers:
+      - question: |
+          What were the Personal Insurance segment's key metrics in 2023?
+        answer: >
+          The segment generated net written premiums of $15.93 billion, including
+          $8.92 billion  in automobile and $6.45 billion in homeowners premiums,
+          while achieving a combined  ratio of 98.7% and growing homeowners
+          policies in force by 3%.
+      - question: |
+          How did Travelers advance its personal lines digital capabilities?
+        answer: >
+          The segment achieved 45% of personal auto quotes initiated online,
+          enrolled over 1  million customers in the IntelliDrive® program, and
+          implemented sophisticated pricing  algorithms using real-time data and
+          predictive modeling.
+      - question: |
+          What indicators demonstrate customer engagement and retention?
+        answer: >
+          The segment maintained strong customer relationships with 84% agency
+          auto retention  rates, 3% growth in homeowners policies in force, and
+          over 1 million customers  enrolled in the IntelliDrive® program.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

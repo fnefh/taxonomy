@@ -1,97 +1,194 @@
 version: 3
 domain: annual_reporting
 created_by: fnefh
-document_outline:
-  - Business Overview and Technology - OLED Technologies and Materials - Revenue
-    Streams - Key Partnerships and Licenses - Manufacturing and R&D
-  - Financial Performance - Revenue and Profitability - Cost Structure - Cash
-    Position and Liquidity
-  - Market Position - Competitive Landscape - Patents and IP Portfolio -
-    Geographic Presence
-  - Risk Management - Technology Risks - Market and Competition Risks -
-    Operational Risks - Cybersecurity
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Universal Display Corporation covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - OLED Technologies and Materials
+     - Revenue Streams
+     - Key Partnerships and Licenses
+     - Manufacturing and R&D
+
+  2. Financial Performance
+     - Revenue and Profitability
+     - Cost Structure
+     - Cash Position and Liquidity
+
+  3. Market Position
+     - Competitive Landscape
+     - Patents and IP Portfolio
+     - Geographic Presence
+
+  4. Risk Management
+     - Technology Risks
+     - Market and Competition Risks
+     - Operational Risks
+     - Cybersecurity
 seed_examples:
   - context: >
-      Universal Display Corporation reported its financial results for the
-      fiscal year 2023, highlighting revenue performance across different
-      segments and key operational metrics.
-    question: What were Universal Display Corporation's key financial metrics and
-      performance highlights for fiscal year 2023?
-    answer: >
-      For fiscal year 2023, Universal Display Corporation reported:
-
-      - Total revenue of $576.4 million, with material sales of $322.0 million and royalty/license fees of $238.4 million
-
-      - Net income of $203.0 million
-
-      - Gross margin of 77%
-
-      - Strong liquidity position with $799.6 million in cash, cash equivalents, and investments
-
-      - Research and development expenses increased to $130.5 million, reflecting continued investment in innovation
+      For fiscal year 2023, Universal Display Corporation reported total
+      revenue of $576.4 million, with material sales of $322.0 million and
+      royalty/license fees of $238.4 million. The company achieved net income of
+      $203.0 million and maintained a gross margin of 77%. Cash, cash
+      equivalents, and investments stood at $799.6 million, while R&D expenses
+      increased to $130.5 million to support continued innovation.
+    questions_and_answers:
+      - question: >
+          What were Universal Display's key financial metrics for fiscal year
+          2023?
+        answer: >
+          Universal Display achieved: 1) Total revenue of $576.4 million, 2)
+          Material sales of $322.0 million, 3) Royalty and license fees of
+          $238.4 million, 4) Net income of $203.0 million, 5) Gross margin of
+          77%, 6) Strong liquidity with $799.6 million in cash and investments.
+      - question: |
+          How did Universal Display allocate its resources in 2023?
+        answer: >
+          Resource allocation included: 1) R&D investment of $130.5 million for
+          continued innovation, 2) Capital expenditures for manufacturing
+          expansion, including the new Shannon facility, 3) Strategic
+          investments in OVJP technology commercialization, 4) Contract research
+          services through Adesis subsidiary, 5) Patent acquisitions and IP
+          portfolio expansion.
+      - question: |
+          What were the key revenue drivers and trends in 2023?
+        answer: >
+          Revenue drivers included: 1) Strong material sales growth to $322.0
+          million, 2) Robust royalty and license fees of $238.4 million, 3)
+          Increased adoption of OLED technology in displays, 4) Expanded
+          customer relationships and new agreements, 5) Growth in both display
+          and lighting applications.
   - context: >
-      The company maintains significant intellectual property assets and
-      partnerships with major display manufacturers, which are critical to its
-      business model.
-    question: What are Universal Display Corporation's key business relationships
-      and intellectual property assets?
-    answer: >
-      Universal Display Corporation maintains:
-
-      - Over 6,000 issued and pending patents related to OLED technologies
-
-      - Key commercial agreements with major manufacturers including:
-        - Samsung Display Co. (SDC) through 2027 with two-year extension option
-        - LG Display through 2025
-        - BOE Technology Group (new long-term agreements in 2023)
-        - Partnerships with CSOT, Visionox, and Tianma
-      - Manufacturing partnership with PPG for OLED materials production
-
-      - New manufacturing facility in Shannon, Ireland to double production capacity
+      Universal Display Corporation's intellectual property portfolio
+      includes over 6,000 issued and pending patents worldwide. The company
+      maintains key commercial agreements with major manufacturers including
+      Samsung Display (through 2027), LG Display (through 2025), and BOE
+      Technology Group. A manufacturing partnership with PPG ensures production
+      capacity, while the new Shannon, Ireland facility aims to double
+      production capabilities.
+    questions_and_answers:
+      - question: |
+          How does Universal Display protect and monetize its IP portfolio?
+        answer: >
+          IP strategy includes: 1) Maintaining over 6,000 issued and pending
+          patents worldwide, 2) Strategic licensing agreements with major
+          manufacturers, 3) Continuous patent filing and acquisition, including
+          Merck KGaA portfolio, 4) Cross-licensing arrangements with key
+          partners, 5) Active IP enforcement and protection measures.
+      - question: |
+          What are Universal Display's key commercial relationships?
+        answer: >
+          Key relationships include: 1) Samsung Display agreement through 2027
+          with extension option, 2) LG Display partnership through 2025, 3) New
+          long-term agreements with BOE Technology Group, 4) Manufacturing
+          partnership with PPG, 5) Collaborations with CSOT, Visionox, and
+          Tianma, 6) Research partnerships with academic institutions.
+      - question: |
+          How is Universal Display expanding its manufacturing capabilities?
+        answer: >
+          Manufacturing expansion includes: 1) New Shannon, Ireland facility to
+          double production capacity, 2) Strategic partnership with PPG for OLED
+          materials production, 3) Investment in manufacturing technology and
+          processes, 4) Quality control and testing capabilities enhancement, 5)
+          Supply chain optimization initiatives.
   - context: >
-      The company faces various risks and challenges in maintaining its
-      market position and technological leadership in the OLED industry.
-    question: What are the primary risks and challenges facing Universal Display
-      Corporation?
-    answer: >
-      Key risks include:
-
-      - Patent and IP protection challenges, with some fundamental patents having expired
-
-      - Strong competition in OLED technologies and materials development
-
-      - Dependence on a limited number of customers for majority of revenue
-
-      - Reliance on PPG as sole manufacturer of OLED materials
-
-      - Market fluctuations and economic downturns affecting consumer electronics industry
-
-      - Cybersecurity threats to intellectual property and operations
-
-      - International operations risks, particularly in Asia-Pacific region
-
-      - Supply chain and raw material cost/availability challenges
+      Universal Display's research and development initiatives focus on
+      advancing OLED technology, with particular emphasis on new materials
+      development, including blue emitters. The company's Adesis subsidiary
+      provides contract research services with 138 scientists, while the newly
+      formed OVJP Corporation aims to commercialize Organic Vapor Jet Printing
+      technology.
+    questions_and_answers:
+      - question: |
+          What are Universal Display's key R&D priorities?
+        answer: >
+          R&D priorities include: 1) Development of new OLED materials,
+          particularly blue emitters, 2) Advancement of OVJP technology through
+          dedicated subsidiary, 3) Enhancement of existing material performance,
+          4) Expansion of OLED applications in displays and lighting, 5) Process
+          technology improvements for manufacturing.
+      - question: |
+          How does Universal Display structure its research operations?
+        answer: >
+          Research operations include: 1) Internal R&D teams focused on core
+          technology development, 2) Adesis subsidiary with 138 scientists
+          providing contract research services, 3) OVJP Corporation dedicated to
+          printing technology commercialization, 4) Collaborative research
+          partnerships, 5) Strategic technology acquisitions.
+      - question: |
+          What technological advances is Universal Display pursuing?
+        answer: >
+          Key technological initiatives include: 1) Next-generation OLED materials
+          development, 2) Blue emitter research for improved efficiency, 3) OVJP
+          technology for direct printing of OLED devices, 4) Manufacturing
+          process improvements, 5) New applications in flexible and transparent
+          displays.
   - context: >
-      The company has made significant investments in research and
-      development, new facilities, and strategic initiatives.
-    question: What are Universal Display Corporation's key strategic initiatives and
-      investments?
-    answer: >
-      Major strategic initiatives include:
-
-      - Expansion of manufacturing capacity through new Shannon, Ireland facility
-
-      - Formation of OVJP Corporation to commercialize Organic Vapor Jet Printing technology
-
-      - Increased R&D investment to $130.5 million in 2023
-
-      - Development of new OLED materials, including blue emitters
-
-      - Adesis subsidiary providing contract research services with 138 scientists
-
-      - Focus on expanding OLED technology applications in displays and lighting
-
-      - Strategic patent acquisitions, including from Merck KGaA in 2023 
+      Universal Display faces various market and operational risks, including
+      patent protection challenges, customer concentration, and manufacturing
+      dependencies. The company operates in a highly competitive environment
+      with some fundamental patents having expired, while maintaining
+      significant reliance on key customers and manufacturing partners.
+    questions_and_answers:
+      - question: |
+          What are Universal Display's primary operational risks?
+        answer: >
+          Operational risks include: 1) Reliance on PPG as sole manufacturer of
+          OLED materials, 2) Customer concentration with few major accounts, 3)
+          Supply chain and raw material challenges, 4) Manufacturing capacity
+          constraints, 5) Quality control and product performance requirements,
+          6) International operations complexities.
+      - question: |
+          How does Universal Display manage its competitive challenges?
+        answer: >
+          Competitive management includes: 1) Continuous innovation and patent
+          portfolio expansion, 2) Strategic customer relationship development,
+          3) Manufacturing partnerships strengthening, 4) Technology leadership
+          maintenance through R&D, 5) Market diversification efforts, 6) Product
+          performance enhancement.
+      - question: |
+          What strategies address Universal Display's risk factors?
+        answer: >
+          Risk management strategies include: 1) IP portfolio diversification and
+          expansion, 2) Manufacturing capacity expansion through new facilities,
+          3) Customer base diversification efforts, 4) Cybersecurity protection
+          measures, 5) Supply chain resilience initiatives, 6) Geographic market
+          expansion.
+  - context: >
+      Universal Display's market expansion efforts focus on new applications
+      and geographic regions, particularly in Asia-Pacific markets. The company
+      continues to invest in emerging opportunities including automotive
+      displays, foldable devices, and lighting applications, while maintaining
+      strong positions in smartphone and TV display markets.
+    questions_and_answers:
+      - question: |
+          How is Universal Display expanding its market presence?
+        answer: >
+          Market expansion includes: 1) Focus on emerging applications like
+          automotive displays, 2) Development of solutions for foldable devices,
+          3) Investment in lighting applications, 4) Geographic expansion in
+          Asia-Pacific markets, 5) New customer acquisition in growing markets,
+          6) Product portfolio diversification.
+      - question: |
+          What are the key growth opportunities for Universal Display?
+        answer: >
+          Growth opportunities include: 1) Expansion in automotive display market,
+          2) Development of next-generation display technologies, 3) Lighting
+          applications development, 4) New form factor displays including
+          foldable and transparent, 5) Emerging market penetration, 6) New
+          material solutions for specific applications.
+      - question: |
+          How does Universal Display address different market segments?
+        answer: >
+          Market segment strategy includes: 1) Customized solutions for different
+          applications, 2) Segment-specific material development, 3) Strategic
+          partnerships in key markets, 4) Technical support for different
+          customer needs, 5) Market-specific innovation focus, 6) Regional
+          market adaptation.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

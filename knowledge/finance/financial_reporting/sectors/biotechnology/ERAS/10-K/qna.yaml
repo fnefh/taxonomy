@@ -89,6 +89,55 @@ seed_examples:
           in clinical trial infrastructure  4) Funding of strategic acquisitions
           like naporafenib 5) Maintenance of operational  efficiency through
           program prioritization
+  - context: 2023 Clinical Development & Pipeline Advancement
+    questions_and_answers:
+      - question: What were the key clinical milestones achieved in 2023?
+        answer: >
+          1) Dosed first patient in SEACRAFT-1 Phase 1b trial for naporafenib in
+          RAS Q61X solid tumors 2) FDA Fast Track Designation for naporafenib +
+          trametinib in NRASm melanoma 3) Encouraging preliminary data for
+          ERAS-007 + encorafenib/cetuximab in BRAFm CRC 4) FDA Fast Track and
+          Orphan Drug Designations for ERAS-801 in GBM 5) Identified MTD for
+          ERAS-801 in THUNDERBBOLT-1 trial
+      - question: How has the company optimized its pipeline and development strategy?
+        answer: >
+          1) Prioritized rapid development of naporafenib + trametinib in NRASm
+          melanoma 2) Strategic deprioritization of ERAS-3490 and ERAS-601
+          combinations 3) Focused development on high-potential indications with
+          unmet needs 4) Enhanced clinical trial designs with proactive safety
+          management 5) Expanded development opportunities through strategic
+          partnerships
+      - question: What are the near-term clinical catalysts and development plans?
+        answer: >
+          1) Planned initiation of SEACRAFT-2 Phase 3 trial in H1 2024 2) Expected
+          Phase 1b dose expansion data from HERKULES-3 in H1 2024 3) Anticipated
+          Phase 1b combination data from SEACRAFT-1 in 2024 4) Planned
+          presentation of ERAS-801 Phase 1 monotherapy data in 2024 5) Expected
+          Phase 3 Stage 1 randomized dose optimization data in 2025
+  - context: 2023 Strategic Infrastructure & Corporate Development
+    questions_and_answers:
+      - question: How has the company strengthened its leadership and operational
+          capabilities?
+        answer: >
+          1) Appointed Dr. Shannon Morris as Chief Medical Officer 2) Enhanced
+          clinical development team and capabilities 3) Maintained fully
+          integrated R&D infrastructure 4) Advanced manufacturing partnerships
+          and supply chain management 5) Strengthened quality management systems
+      - question: What progress has been made in strategic partnerships and
+          collaborations?
+        answer: >
+          1) Expanded collaboration with Novartis for trametinib in SEACRAFT
+          trials 2) Maintained partnerships with Pfizer, Lilly, and Pierre Fabre
+          3) Advanced clinical trial collaboration agreements 4) Strengthened
+          relationships with academic institutions 5) Enhanced global
+          development capabilities
+      - question: How has the company advanced its ESG initiatives and social mission?
+        answer: >
+          1) Continued funding through Erasca Foundation for cancer research 2)
+          Supported Life Science Cares, Curebound, and Lazarex Cancer Foundation
+          3) Maintained environmental initiatives in facilities 4) Advanced
+          inclusive clinical trial programs 5) Developed drug access program
+          framework
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

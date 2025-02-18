@@ -112,6 +112,75 @@ seed_examples:
           the buyer experience, and integrating the seller and buyer journey.
           They plan to launch additional products related to real estate
           transactions and ancillary services over time.
+  - context: >
+      In fiscal year 2023, Opendoor demonstrated resilience in a challenging
+      market environment, generating revenue of $6.9 billion while implementing
+      significant operational improvements. The company maintained strong unit
+      economics with contribution margin after interest of 4.0% while reducing
+      operating expenses by 30% year-over-year. Cash and marketable securities
+      stood at $2.0 billion at year-end, providing substantial financial
+      flexibility.
+    questions_and_answers:
+      - question: |
+          What were Opendoor's key financial metrics in FY2023?
+        answer: >
+          Opendoor's FY2023 financial performance included: 1) Revenue of $6.9
+          billion from the sale of over 18,700 homes, 2) Contribution margin
+          after interest of 4.0% demonstrating unit economic strength, 3)
+          Operating expense reduction of 30% year-over-year through efficiency
+          initiatives, 4) Strong liquidity position with $2.0 billion in cash
+          and marketable securities, and 5) Improved inventory management and
+          turn times.
+      - question: |
+          How did Opendoor manage costs and operational efficiency in 2023?
+        answer: >
+          Cost management initiatives included: 1) 30% reduction in operating
+          expenses through streamlined operations, 2) Improved inventory
+          management practices reducing holding costs, 3) Enhanced pricing
+          algorithms leading to better acquisition decisions, 4) Optimization of
+          renovation and resale processes, and 5) Strategic workforce
+          adjustments to align with market conditions.
+      - question: |
+          What were the key drivers of financial performance in 2023?
+        answer: >
+          Performance drivers included: 1) Successful execution of operational
+          efficiency initiatives, 2) Improved unit economics through better
+          pricing and cost management, 3) Strategic market presence
+          optimization, 4) Enhanced inventory management reducing holding costs,
+          and 5) Maintained strong customer satisfaction driving repeat business
+          and referrals.
+  - context: >
+      Opendoor's technology platform and operational infrastructure
+      demonstrated significant advancement in 2023, with improvements in
+      automation, data analytics, and customer experience. The company processed
+      over 3 million home offers through their platform, while achieving a 50%
+      reduction in offer response time and maintaining high customer
+      satisfaction scores.
+    questions_and_answers:
+      - question: |
+          How has Opendoor's technology platform evolved?
+        answer: >
+          Platform evolution included: 1) Enhanced automation capabilities
+          reducing manual processes, 2) Improved data analytics driving better
+          decision-making, 3) Faster offer generation and response times, 4)
+          Integration of advanced market forecasting tools, and 5) Enhanced
+          customer interface improving user experience.
+      - question: |
+          What operational improvements were achieved through technology?
+        answer: >
+          Operational improvements through technology included: 1) 50% reduction
+          in offer response time, 2) Processing of over 3 million home offers
+          efficiently, 3) Enhanced workflow automation reducing manual tasks, 4)
+          Improved inventory tracking and management systems, and 5) Better
+          integration of vendor and partner networks.
+      - question: |
+          How does technology contribute to customer experience?
+        answer: >
+          Technology enhances customer experience through: 1) Faster and more
+          accurate home valuations, 2) Streamlined transaction processes, 3)
+          Improved communication and transparency, 4) Enhanced mobile and web
+          interfaces, and 5) Integration of customer feedback for continuous
+          improvement.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

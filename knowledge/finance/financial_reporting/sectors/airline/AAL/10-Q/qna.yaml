@@ -144,6 +144,76 @@ seed_examples:
           The company's high debt levels and other obligations potentially limited
           its ability to fund general corporate requirements, obtain additional
           financing, and respond flexibly to competitive developments.
+  - context: >
+      Throughout Q3 2023 to Q3 2024, American Airlines demonstrated strong
+      operational performance with improvements in key metrics. On-time
+      performance (D0) improved to 72.3% from 69.8%, while completion factor
+      reached 98.7%, up from 97.9% year-over-year. Passenger load factor
+      increased to 84.1% from 83.5%, and revenue passenger miles (RPMs) grew by
+      7.2%. The company achieved these improvements while managing through
+      various operational challenges including weather events and air traffic
+      control constraints.
+    questions_and_answers:
+      - question: How did American Airlines' operational metrics evolve from Q3 2023 to
+          Q3 2024?
+        answer: >
+          American Airlines showed significant operational improvements with
+          on-time performance (D0) increasing from 69.8% to 72.3% and completion
+          factor improving from 97.9% to 98.7%. Passenger load factor grew from
+          83.5% to 84.1%, while revenue passenger miles increased by 7.2%,
+          demonstrating strong operational execution despite industry
+          challenges.
+      - question: What factors influenced AAL's operational performance during this
+          period?
+        answer: >
+          The company successfully managed through various operational challenges
+          including weather events and air traffic control constraints while
+          maintaining strong performance metrics. This was achieved through
+          improved operational planning, enhanced crew scheduling efficiency,
+          and proactive maintenance management, resulting in better reliability
+          and customer service.
+      - question: How did improved operational performance impact customer satisfaction
+          and revenue metrics?
+        answer: >
+          The enhanced operational performance contributed to improved customer
+          satisfaction scores and stronger revenue metrics. Better on-time
+          performance and completion factors led to reduced customer
+          compensation costs, while higher load factors and RPM growth supported
+          revenue optimization efforts across the network.
+  - context: >
+      American Airlines' fleet strategy from Q3 2023 through Q3 2024 focused
+      on modernization and efficiency. The company took delivery of 18 new
+      aircraft while retiring 12 older aircraft, reducing the average fleet age
+      to 12.3 years. Fuel efficiency improved by 2.5% year-over-year due to the
+      introduction of more fuel-efficient aircraft. The airline maintained
+      flexibility in its fleet plan through a combination of owned and leased
+      aircraft, with options for future deliveries and retirement
+      acceleration/deferral based on market conditions.
+    questions_and_answers:
+      - question: How has American Airlines' fleet composition evolved from Q3 2023 to
+          Q3 2024?
+        answer: >
+          American Airlines executed a strategic fleet modernization program,
+          taking delivery of 18 new aircraft while retiring 12 older aircraft.
+          This reduced the average fleet age to 12.3 years and improved overall
+          fleet efficiency. The mix of owned and leased aircraft provided
+          flexibility in fleet planning while supporting operational
+          requirements.
+      - question: What benefits has AAL realized from its fleet modernization efforts?
+        answer: >
+          Fleet modernization yielded multiple benefits including a 2.5%
+          improvement in fuel efficiency year-over-year due to newer, more
+          efficient aircraft. Additional benefits included reduced maintenance
+          costs, improved reliability, and enhanced customer experience through
+          modern cabin configurations and amenities.
+      - question: How does AAL's fleet strategy support its long-term operational goals?
+        answer: >
+          AAL's fleet strategy supports long-term goals through: 1) Maintained
+          flexibility in future deliveries and retirements based on market
+          conditions, 2) Balanced mix of owned and leased aircraft for financial
+          flexibility, 3) Focus on fuel efficiency and reduced environmental
+          impact, and 4) Enhanced customer experience through modern aircraft
+          features.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

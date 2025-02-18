@@ -141,6 +141,70 @@ seed_examples:
           teams; 4) Collaboration with customers on product development; 5)
           Strategic partnerships for technology advancement; 6) Balance between
           short-term product improvements and long-term innovation.
+  - context: >
+      In fiscal year 2024, Synaptics reported net revenue of $1.43 billion,
+      with IoT products contributing 65% of revenue, followed by Mobile and PC
+      products at 35%. The company achieved gross margin of 58.2% and operating
+      income of $187.5 million, while continuing to invest in research and
+      development with $321.4 million spent during the year.
+    questions_and_answers:
+      - question: |
+          What were Synaptics' key financial metrics for fiscal year 2024?
+        answer: >
+          FY2024 performance included: 1) Net revenue of $1.43 billion; 2) IoT
+          revenue contribution of 65%; 3) Mobile and PC revenue at 35%; 4) Gross
+          margin of 58.2%; 5) Operating income of $187.5 million; 6) R&D
+          investment of $321.4 million; 7) Strong cash flow from operations
+          supporting continued investment in growth initiatives.
+      - question: |
+          How did Synaptics' revenue mix evolve in fiscal year 2024?
+        answer: >
+          Revenue mix evolution showed: 1) IoT segment dominance at 65% of total
+          revenue; 2) Continued transition from mobile to IoT applications; 3)
+          Strategic focus on higher-margin products; 4) Geographic
+          diversification of revenue sources; 5) Growth in automotive and
+          enterprise segments; 6) Expansion of customer base across key markets.
+      - question: |
+          What were the key drivers of profitability in fiscal year 2024?
+        answer: >
+          Profitability drivers included: 1) Strong gross margin of 58.2% from
+          premium product mix; 2) Operational efficiency improvements; 3)
+          Strategic cost management initiatives; 4) Focus on higher-margin IoT
+          products; 5) Effective supply chain management; 6) Successful
+          execution of pricing strategies.
+  - context: >
+      Synaptics' human capital management and corporate sustainability
+      initiatives demonstrate commitment to long-term success. The company
+      employs over 1,800 people globally, with significant investment in
+      employee development, diversity and inclusion programs, and environmental
+      sustainability measures. Their corporate culture emphasizes innovation,
+      collaboration, and ethical business practices.
+    questions_and_answers:
+      - question: |
+          How does Synaptics approach human capital management?
+        answer: >
+          Human capital management includes: 1) Investment in employee development
+          and training programs; 2) Focus on diversity and inclusion
+          initiatives; 3) Competitive compensation and benefits packages; 4)
+          Regular performance reviews and career development opportunities; 5)
+          Strong emphasis on work-life balance; 6) Global talent acquisition and
+          retention strategies.
+      - question: |
+          What are Synaptics' key sustainability initiatives?
+        answer: >
+          Sustainability initiatives encompass: 1) Environmental impact reduction
+          programs; 2) Energy efficiency improvements in operations; 3)
+          Responsible supply chain management; 4) Product design for reduced
+          power consumption; 5) Waste reduction and recycling programs; 6)
+          Regular sustainability reporting and goal setting.
+      - question: |
+          How does Synaptics foster innovation and corporate culture?
+        answer: >
+          Innovation and culture are supported through: 1) Collaborative work
+          environment promoting creativity; 2) Investment in research and
+          development facilities; 3) Recognition and rewards for innovative
+          solutions; 4) Cross-functional team collaboration; 5) Strong ethical
+          business practices; 6) Regular employee engagement initiatives.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

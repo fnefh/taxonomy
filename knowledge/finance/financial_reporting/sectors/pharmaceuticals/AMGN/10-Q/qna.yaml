@@ -137,6 +137,70 @@ seed_examples:
           focuses on maximizing the value of acquired assets, continuing
           investment in innovation, and delivering strong financial performance
           while returning value to shareholders through dividends.
+  - context: >
+      In Q2 2024, Amgen reported total revenues of $8.3 billion and net
+      income of $2.6 billion, demonstrating continued momentum in product sales
+      and operational execution. The quarter saw significant progress in
+      pipeline development and commercial launches, with strong performance
+      across key therapeutic areas including oncology, cardiovascular disease,
+      and bone health.
+    questions_and_answers:
+      - question: |
+          What were the key financial and operational highlights from Q2 2024?
+        answer: >
+          Q2 2024 highlights included: 1) Total revenues of $8.3 billion with
+          strong product sales growth, 2) Net income of $2.6 billion reflecting
+          operational efficiency, 3) Continued progress in pipeline development
+          and commercial launches, 4) Strong performance in key therapeutic
+          areas, and 5) Effective cost management while investing in growth
+          initiatives.
+      - question: |
+          How did Amgen's product portfolio perform in Q2 2024?
+        answer: >
+          Product portfolio performance showed: 1) Growth in oncology products
+          including Blincyto and Lumakras, 2) Strong cardiovascular franchise
+          led by Repatha, 3) Continued momentum in bone health products Prolia
+          and EVENITY, 4) Successful management of mature products facing
+          biosimilar competition, and 5) Early success in newly launched
+          products.
+      - question: |
+          What progress was made in research and development during Q2 2024?
+        answer: >
+          R&D progress included: 1) Advancement of key pipeline programs across
+          therapeutic areas, 2) Positive clinical trial results in oncology and
+          inflammation, 3) Expansion of research platforms and capabilities, 4)
+          Strategic collaborations in emerging therapeutic areas, and 5)
+          Continued investment in innovative technologies and approaches.
+  - context: >
+      Q1 2024 demonstrated Amgen's focus on strategic growth and operational
+      excellence, with total revenues of $7.8 billion and continued advancement
+      of key initiatives. The quarter saw significant progress in digital
+      transformation, manufacturing optimization, and global market expansion
+      efforts while maintaining strong financial discipline.
+    questions_and_answers:
+      - question: |
+          What strategic initiatives were prioritized in Q1 2024?
+        answer: >
+          Strategic priorities included: 1) Advancement of digital transformation
+          programs, 2) Manufacturing network optimization, 3) Global market
+          expansion initiatives, 4) Enhancement of commercial capabilities, and
+          5) Implementation of operational efficiency measures across the
+          organization.
+      - question: |
+          How did Amgen's global operations perform in Q1 2024?
+        answer: >
+          Global operations showed: 1) Strong performance in established markets,
+          2) Continued expansion in emerging markets, 3) Effective management of
+          supply chain and manufacturing network, 4) Success in market access
+          initiatives, and 5) Progress in localizing operations in key regions.
+      - question: |
+          What progress was made in digital transformation and innovation?
+        answer: >
+          Digital transformation progress included: 1) Implementation of advanced
+          analytics platforms, 2) Enhancement of digital engagement
+          capabilities, 3) Automation of key business processes, 4) Investment
+          in data infrastructure and security, and 5) Development of innovative
+          digital solutions for patient care and commercial operations.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -147,6 +147,77 @@ seed_examples:
           North American shale basins. Their focus on ESG initiatives and
           proprietary technologies like digiFrac and digiPrime further
           differentiates them in the market.
+  - context: >
+      Liberty Energy's financial performance in 2023 demonstrated strong
+      operational execution and market leadership. The company generated
+      revenues of $4.75 billion with net income of $743 million, maintaining a
+      strong balance sheet with $298 million in cash and total assets of $3.2
+      billion. Capital expenditures focused on fleet upgrades and technology
+      investments, while maintaining financial flexibility through disciplined
+      capital allocation.
+    questions_and_answers:
+      - question: |
+          What were Liberty Energy's key financial metrics for 2023?
+        answer: >
+          Liberty Energy's 2023 financial performance included: 1) Revenues of
+          $4.75 billion demonstrating strong market presence, 2) Net income of
+          $743 million reflecting operational efficiency, 3) Cash position of
+          $298 million maintaining financial flexibility, 4) Total assets of
+          $3.2 billion providing strong operational foundation, 5) Strategic
+          capital expenditures supporting fleet upgrades and technology
+          investments.
+      - question: |
+          How does Liberty Energy manage its capital allocation strategy?
+        answer: >
+          Liberty Energy's capital allocation focuses on: 1) Strategic investments
+          in fleet upgrades and technology development, 2) Maintaining strong
+          balance sheet flexibility, 3) Disciplined approach to growth
+          opportunities and acquisitions, 4) Working capital optimization across
+          operations, 5) Return of capital to shareholders through share
+          repurchases and dividends when appropriate.
+      - question: |
+          What are the key drivers of Liberty Energy's profitability?
+        answer: >
+          Profitability drivers include: 1) Operational efficiency through
+          technology adoption and innovation, 2) Strategic presence in key shale
+          basins, 3) Vertical integration benefits from sand mines and proppant
+          delivery, 4) Strong customer relationships and service quality, 5)
+          Cost management through operational excellence initiatives.
+  - context: >
+      Liberty Energy's operational infrastructure includes significant
+      investments in equipment, facilities, and technology. The company operates
+      state-of-the-art maintenance facilities, sand mines, and logistics
+      networks across North America. Their proprietary technology platform
+      integrates real-time data analytics with operational controls to optimize
+      performance and reduce environmental impact. The company maintains strong
+      relationships with key suppliers and customers while investing in supply
+      chain resilience.
+    questions_and_answers:
+      - question: |
+          How does Liberty Energy manage its operational infrastructure?
+        answer: >
+          Liberty Energy's infrastructure management includes: 1) Operation of
+          advanced maintenance facilities across key basins, 2) Integration of
+          sand mines and logistics networks, 3) Implementation of proprietary
+          technology platforms for operational control, 4) Investment in supply
+          chain resilience and flexibility, 5) Maintenance of strategic supplier
+          relationships.
+      - question: |
+          What role does technology play in operational optimization?
+        answer: >
+          Technology enables operational optimization through: 1) Real-time data
+          analytics integration with operations, 2) Proprietary control systems
+          for performance enhancement, 3) Environmental impact reduction through
+          advanced monitoring, 4) Predictive maintenance capabilities, 5)
+          Integration of supply chain and logistics management systems.
+      - question: |
+          How does Liberty Energy ensure operational excellence?
+        answer: >
+          Operational excellence is maintained through: 1) Comprehensive quality
+          control systems, 2) Regular equipment maintenance and upgrades, 3)
+          Continuous improvement programs across operations, 4) Strong safety
+          protocols and training programs, 5) Strategic inventory management and
+          supply chain optimization.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

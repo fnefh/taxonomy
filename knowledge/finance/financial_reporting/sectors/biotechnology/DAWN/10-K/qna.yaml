@@ -108,6 +108,67 @@ seed_examples:
           in pLGG 3) Engagement with payer community and key opinion leaders 4)
           Establishment of patient support infrastructure 5) Development of
           global commercial strategy
+  - context: 2023 Clinical Achievements & Regulatory Progress
+    questions_and_answers:
+      - question: What were the key clinical milestones achieved for tovorafenib in 2023?
+        answer: >
+          Key milestones included: 1) Completion of NDA submissions for both
+          tablet and powder solution formulations in September 2023 2) FDA
+          acceptance with Priority Review and PDUFA date of April 30, 2024 3)
+          Strong FIREFLY-1 data showing 67% ORR in registrational cohort with 12
+          complete responses and 34 partial responses 4) Initiation and first
+          patient dosed in Phase 3 FIREFLY-2 frontline trial in March 2023 5)
+          Expansion of global clinical trial infrastructure with approximately
+          80 sites activated across US, Canada, Europe, Australia and Asia
+      - question: How did the safety and efficacy profile of tovorafenib evolve through
+          clinical development?
+        answer: >
+          Profile developments included: 1) Demonstrated well-tolerated safety
+          profile across 137 treated patients in FIREFLY-1 2) Majority of
+          adverse events were Grade 1 or 2, with most common being hair color
+          changes (76%), anemia (59%), and elevated CPK (58%) 3) Clinical
+          benefit rate of 93% in FIREFLY-1 registrational cohort 4) Validation
+          of 420 mg/m2 weekly dosing as optimal dose based on comprehensive
+          Phase 1 data 5) Confirmation of rapid onset of action with median time
+          to response of 10.5 weeks
+      - question: What progress was made in expanding tovorafenib's development program?
+        answer: >
+          Program expansion included: 1) Advancement of combination strategy with
+          pimasertib in FIRELIGHT-1 substudy 2) Strategic focus on RAF-altered
+          tumors through expanded access program 3) Initiation of
+          investigator-led trials in additional indications 4) Development of
+          both tablet and powder solution formulations for broader patient
+          accessibility 5) Enhancement of biomarker and companion diagnostic
+          development with Foundation Medicine collaboration
+  - context: 2023 Strategic Growth & Pipeline Expansion
+    questions_and_answers:
+      - question: What strategic initiatives were implemented to expand the company's
+          pipeline in 2023?
+        answer: >
+          Key initiatives included: 1) Establishment of research collaboration
+          with Sprint Bioscience for VRK1 program in August 2023 2) Strategic
+          prioritization of resources with closure of FIRELIGHT-1 monotherapy
+          substudy 3) Focus on combination approaches through FIRELIGHT-1
+          substudy 2 4) Enhancement of manufacturing capabilities and supply
+          chain readiness 5) Expansion of global clinical trial infrastructure
+      - question: How did the company advance its commercial preparation and
+          organizational capabilities?
+        answer: >
+          Advancements included: 1) Building commercial infrastructure ahead of
+          potential tovorafenib launch 2) Development of launch strategy for
+          pLGG indication 3) Enhancement of medical affairs and market access
+          capabilities 4) Strengthening of manufacturing partnerships for
+          commercial supply 5) Expansion of organizational expertise in
+          pediatric oncology drug development
+      - question: What were the key business development and partnership achievements?
+        answer: >
+          Achievements included: 1) Exclusive worldwide license agreement with
+          Sprint Bioscience for VRK1 program worth up to $309M 2) Advancement of
+          Foundation Medicine collaboration for companion diagnostics 3)
+          Expansion of global clinical trial partnerships 4) Enhancement of
+          research capabilities through strategic collaborations 5)
+          Strengthening of relationships with patient advocacy groups and
+          medical community
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

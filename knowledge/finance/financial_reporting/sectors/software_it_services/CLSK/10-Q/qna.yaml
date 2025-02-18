@@ -33,109 +33,153 @@ document_outline: >
 seed_examples:
   - context: >
       For the quarter ended March 31, 2024, CleanSpark reported total
-      revenues  of $111.8 million, primarily from bitcoin mining operations,
-      compared to  $42.5 million in the same quarter of 2023. The company
-      achieved income  from operations of $137.1 million, compared to a loss of
-      $17.5 million  in Q2 2023.
+      revenues of $111.8 million, primarily from bitcoin mining operations,
+      compared to $42.5 million in the same quarter of 2023. The company
+      achieved income from operations of $137.1 million, compared to a loss of
+      $17.5 million in Q2 2023.
     questions_and_answers:
       - question: >
-          How did CleanSpark's financial performance compare to the same
-          quarter  last year?
+          How did CleanSpark's financial performance compare to the same quarter
+          last year?
         answer: >
-          CleanSpark showed significant improvement in Q2 2024: 1) Total
-          revenue  increased to $111.8 million from $42.5 million in Q2 2023; 2)
-          Bitcoin  mining revenue grew to $111.8 million from $42.5 million; 3)
-          Achieved  operating income of $137.1 million compared to a loss of
-          $17.5 million;  4) Recorded a gain on fair value of bitcoin of $119.7
-          million; 5) Cost  of revenues increased to $34.3 million from $22.1
-          million, reflecting  expanded operations.
+          CleanSpark showed significant improvement in Q2 2024: 1) Total revenue
+          increased to $111.8 million from $42.5 million in Q2 2023; 2) Bitcoin
+          mining revenue grew to $111.8 million from $42.5 million; 3) Achieved
+          operating income of $137.1 million compared to a loss of $17.5
+          million; 4) Recorded a gain on fair value of bitcoin of $119.7
+          million; 5) Cost of revenues increased to $34.3 million from $22.1
+          million, reflecting expanded operations.
       - question: >
-          What were the key components of CleanSpark's operating expenses in
-          Q2  2024?
+          What were the key components of CleanSpark's operating expenses in Q2
+          2024?
         answer: >
-          CleanSpark's major operating expenses included: 1) Cost of revenues
-          at  $34.3 million; 2) Payroll expenses of $16.8 million, up from $9.8
-          million;  3) Depreciation and amortization of $32.2 million; 4)
-          General and  administrative expenses of $6.8 million; 5) Professional
-          fees of $2.2  million; 6) Loss on disposal of assets of $1.7 million.
+          Operating expenses included: 1) Cost of revenues at $34.3 million; 2)
+          Payroll expenses of $16.8 million, up from $9.8 million; 3)
+          Depreciation and amortization of $32.2 million; 4) General and
+          administrative expenses of $6.8 million; 5) Professional fees of $2.2
+          million.
       - question: >
           How has CleanSpark's balance sheet position changed during the quarter?
         answer: >
-          CleanSpark's balance sheet showed significant growth with: 1)
-          Total  assets increasing to $1.54 billion from $761.6 million; 2)
-          Stockholders'  equity growing to $1.46 billion from $677.2 million; 3)
-          Improved  liquidity position; 4) Increased investment in mining
-          infrastructure;  5) Strong capital position to support continued
-          growth and operations.
+          Balance sheet improvements included: 1) Total assets increased to $1.54
+          billion from $761.6 million; 2) Cash and cash equivalents grew to
+          $323.1 million from $29.2 million; 3) Bitcoin holdings increased to
+          $358.0 million from $56.2 million; 4) Property and equipment grew to
+          $670.5 million from $564.4 million; 5) Total liabilities decreased to
+          $74.4 million from $84.4 million.
   - context: >
-      CleanSpark continues to expand its bitcoin mining operations while
-      managing  operational risks and market volatility. The company maintains a
-      focus on  operational efficiency and strategic growth through
-      infrastructure development  and technological advancement.
+      As of March 31, 2024, CleanSpark's asset portfolio showed significant
+      growth with $161.3 million in deposits on miners and mining equipment, up
+      from $76.0 million at the end of September 2023. The company's
+      stockholders' equity improved substantially with accumulated deficit
+      reducing to $179.2 million from $332.6 million.
     questions_and_answers:
-      - question: >
-          What are CleanSpark's key operational strategies and growth
-          initiatives?
-        answer: >
-          CleanSpark's operational strategies include: 1) Expanding mining
-          capacity  through infrastructure development; 2) Focusing on
-          operational efficiency  and cost management; 3) Strategic geographic
-          diversification across  multiple states; 4) Investment in advanced
-          mining equipment and technology;  5) Optimization of existing
-          facilities; 6) Pursuit of strategic growth  opportunities through
-          acquisitions and partnerships.
       - question: |
-          How does CleanSpark manage operational risks and market challenges?
+          How has CleanSpark's investment in mining infrastructure evolved?
         answer: >
-          CleanSpark manages risks through: 1) Maintaining diversified
-          operations  across multiple locations; 2) Implementing robust security
-          measures for  bitcoin storage; 3) Monitoring and adapting to market
-          conditions;  4) Maintaining strong liquidity position; 5) Regular
-          evaluation and  upgrading of technology infrastructure; 6)
-          Comprehensive risk management  protocols for mining operations.
+          Infrastructure investments show: 1) Deposits on miners increased to
+          $161.3 million from $76.0 million; 2) Property and equipment expanded
+          by $106.1 million; 3) Total mining infrastructure value of $670.5
+          million; 4) Strategic expansion of operational capacity; 5) Continued
+          investment in advanced mining technology.
       - question: |
-          What are the key factors affecting CleanSpark's quarterly performance?
+          What improvements were seen in CleanSpark's financial position?
         answer: >
-          Key performance factors include: 1) Bitcoin price volatility and
-          market  conditions; 2) Mining difficulty and network hashrate; 3)
-          Operational  efficiency and infrastructure reliability; 4) Energy
-          costs and  availability; 5) Technology upgrades and equipment
-          performance;  6) Regulatory environment and compliance requirements.
+          Financial position improved through: 1) Reduction in accumulated deficit
+          by $153.4 million; 2) Increase in additional paid-in capital to $1.64
+          billion; 3) Growth in total assets by $775.7 million; 4) Strengthened
+          liquidity position; 5) Reduced total liabilities by $10.0 million.
+      - question: |
+          How did CleanSpark manage its capital structure during the quarter?
+        answer: >
+          Capital management included: 1) Increased outstanding shares to 225.5
+          million from 160.2 million; 2) Maintained preferred stock structure
+          with 1.75 million shares; 3) Grew stockholders' equity significantly;
+          4) Reduced debt obligations; 5) Strategic balance between growth
+          investment and capital structure.
   - context: >
-      CleanSpark faces various challenges and opportunities in the
-      evolving  bitcoin mining industry, including regulatory requirements,
-      technological  changes, and market dynamics. The company continues to
-      invest in  infrastructure and operational improvements.
+      CleanSpark's operational focus in Q2 2024 included expanding mining
+      capacity, improving efficiency, and managing market risks. The company
+      continued to invest in infrastructure while maintaining strong operational
+      controls and risk management practices.
     questions_and_answers:
-      - question: >
-          What regulatory and compliance challenges does CleanSpark face in
-          its  quarterly operations?
+      - question: |
+          What were CleanSpark's key operational priorities in Q2 2024?
         answer: >
-          CleanSpark addresses regulatory challenges through: 1) Compliance
-          with  SEC reporting requirements; 2) Monitoring of cryptocurrency
-          regulations  across jurisdictions; 3) Implementation of internal
-          controls and  reporting procedures; 4) Management of environmental and
-          energy  regulations; 5) Maintenance of proper financial controls; 6)
-          Regular  review and updates of compliance procedures.
-      - question: >
-          How does CleanSpark maintain its competitive advantage in the
-          bitcoin  mining industry?
+          Operational priorities included: 1) Expanding mining capacity through
+          infrastructure investment; 2) Improving operational efficiency across
+          facilities; 3) Strengthening risk management practices; 4) Optimizing
+          mining equipment performance; 5) Enhancing operational control
+          systems.
+      - question: |
+          How did CleanSpark manage operational risks during the quarter?
         answer: >
-          CleanSpark maintains competitiveness through: 1) Operating
-          efficient  mining facilities with high uptime; 2) Strategic geographic
-          positioning  of operations; 3) Investment in advanced mining
-          technology; 4) Focus  on operational cost management; 5) Continuous
-          infrastructure improvement  and expansion; 6) Strong relationships
-          with equipment suppliers and  partners.
-      - question: >
-          What are CleanSpark's key technological capabilities and
-          infrastructure  investments?
+          Risk management approach included: 1) Maintaining diversified operations
+          across locations; 2) Implementing robust security measures; 3)
+          Monitoring market conditions and bitcoin prices; 4) Managing energy
+          costs and efficiency; 5) Regular evaluation of operational
+          performance.
+      - question: |
+          What strategic initiatives did CleanSpark pursue in Q2 2024?
         answer: >
-          Key technological investments include: 1) Advanced mining equipment  and
-          infrastructure; 2) Efficient power management systems; 3)
-          Robust  security protocols for operations; 4) Monitoring and control
-          systems  for mining facilities; 5) Infrastructure for optimal mining
-          performance;  6) Technology for maximizing operational efficiency.
+          Strategic initiatives focused on: 1) Expanding mining infrastructure; 2)
+          Investing in advanced technology; 3) Strengthening operational
+          efficiency; 4) Developing new facility capabilities; 5) Enhancing
+          competitive position in the market.
+  - context: >
+      During Q2 2024, CleanSpark faced various market challenges including
+      bitcoin price volatility, regulatory developments, and operational costs.
+      The company implemented strategic measures to address these challenges
+      while maintaining focus on growth and efficiency.
+    questions_and_answers:
+      - question: |
+          How did CleanSpark address market challenges in Q2 2024?
+        answer: >
+          Market challenge responses included: 1) Adapting to bitcoin price
+          fluctuations; 2) Managing operational costs effectively; 3) Monitoring
+          regulatory developments; 4) Maintaining operational flexibility; 5)
+          Implementing strategic risk management measures.
+      - question: |
+          What regulatory considerations impacted CleanSpark's operations?
+        answer: >
+          Regulatory considerations included: 1) Compliance with SEC reporting
+          requirements; 2) Monitoring cryptocurrency regulations; 3) Managing
+          environmental regulations; 4) Maintaining proper financial controls;
+          5) Addressing cybersecurity requirements.
+      - question: |
+          How did CleanSpark manage its competitive position?
+        answer: >
+          Competitive management included: 1) Focusing on operational efficiency;
+          2) Investing in advanced technology; 3) Maintaining strong market
+          presence; 4) Developing strategic partnerships; 5) Optimizing cost
+          structure.
+  - context: >
+      CleanSpark's future outlook focuses on continued growth through
+      infrastructure expansion, technological advancement, and operational
+      optimization. The company maintains a strong emphasis on sustainable
+      growth while managing risks and market opportunities.
+    questions_and_answers:
+      - question: |
+          What are CleanSpark's key growth initiatives for future quarters?
+        answer: >
+          Growth initiatives include: 1) Expanding mining infrastructure capacity;
+          2) Investing in advanced mining technology; 3) Optimizing operational
+          efficiency; 4) Developing new facility capabilities; 5) Pursuing
+          strategic market opportunities.
+      - question: |
+          How does CleanSpark plan to maintain its competitive advantage?
+        answer: >
+          Competitive strategy includes: 1) Continuous technology improvement; 2)
+          Operational efficiency enhancement; 3) Strategic market positioning;
+          4) Infrastructure development; 5) Focus on sustainable growth
+          practices.
+      - question: |
+          What are CleanSpark's priorities for operational development?
+        answer: >
+          Operational priorities include: 1) Expanding mining capacity; 2)
+          Improving facility efficiency; 3) Strengthening security measures; 4)
+          Enhancing technological capabilities; 5) Developing operational
+          expertise.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -142,6 +142,81 @@ seed_examples:
           energy consumption limits. The company also manages  environmental
           liabilities related to historical operations, including cleanup
           requirements at three Superfund  sites in Sunnyvale, California.
+  - context: >
+      In fiscal year 2023, AMD achieved net revenue of $22.68 billion, with
+      Data Center segment revenue of $6.5 billion, Client segment revenue of
+      $4.7 billion, Gaming segment revenue of $6.2 billion, and Embedded segment
+      revenue of $5.3 billion. The company maintained a gross margin of 47% and
+      operating income of $1.4 billion, while investing $5.3 billion in research
+      and development to drive innovation across all segments.
+    questions_and_answers:
+      - question: |
+          What were AMD's key financial metrics for fiscal year 2023?
+        answer: >
+          AMD's FY2023 performance included: 1) Net revenue of $22.68 billion
+          across all segments, 2) Data Center revenue of $6.5 billion showing
+          strong growth, 3) Client segment revenue of $4.7 billion, 4) Gaming
+          revenue of $6.2 billion, 5) Embedded revenue of $5.3 billion, 6) Gross
+          margin of 47%, and 7) Operating income of $1.4 billion while
+          maintaining significant R&D investment of $5.3 billion.
+      - question: |
+          How did AMD's segment revenue mix evolve in 2023?
+        answer: >
+          AMD's revenue mix showed: 1) Data Center segment contributing 29% of
+          total revenue, demonstrating strategic importance, 2) Gaming segment
+          at 27% of revenue, maintaining strong position in console and discrete
+          graphics, 3) Embedded segment at 23% showing successful integration of
+          Xilinx acquisition, 4) Client segment at 21% reflecting PC market
+          conditions, 5) Overall balanced revenue distribution across segments
+          indicating successful diversification strategy.
+      - question: |
+          What were the key drivers of AMD's profitability in 2023?
+        answer: >
+          Profitability drivers included: 1) Gross margin of 47% maintained
+          through product mix optimization, 2) Operating income of $1.4 billion
+          despite significant R&D investment, 3) Effective cost management and
+          operational efficiency initiatives, 4) Strategic pricing in
+          competitive markets, 5) Scale benefits from increased Data Center and
+          Embedded segment contributions, 6) Successful new product launches
+          across segments.
+  - context: >
+      AMD's technology leadership in 2023 was demonstrated through
+      significant product innovations including the launch of AMD EPYC™ 9004
+      Series processors for data centers, Ryzen™ 7000 Series processors for
+      desktop and mobile platforms, and Radeon™ RX 7000 Series graphics
+      products. The company's AI strategy expanded with the introduction of the
+      Instinct™ MI300 accelerators and ROCm™ software platform, while advancing
+      its adaptive computing solutions through the Versal™ and Alveo™ product
+      families.
+    questions_and_answers:
+      - question: |
+          What were AMD's major product launches and innovations in 2023?
+        answer: >
+          Key product launches included: 1) EPYC 9004 Series processors for data
+          centers featuring advanced chiplet design, 2) Ryzen 7000 Series
+          processors for desktop and mobile platforms with Zen 4 architecture,
+          3) Radeon RX 7000 Series graphics with RDNA 3 architecture, 4)
+          Instinct MI300 accelerators for AI workloads, 5) Enhanced Versal and
+          Alveo product families for adaptive computing applications.
+      - question: |
+          How is AMD positioning itself in the AI and machine learning market?
+        answer: >
+          AMD's AI strategy includes: 1) Development of Instinct MI300
+          accelerators combining CPU and GPU capabilities, 2) Enhancement of
+          ROCm software platform for AI development, 3) Integration of AI
+          capabilities across product lines, 4) Strategic partnerships with
+          cloud service providers and enterprise customers, 5) Investment in AI
+          software ecosystem development, 6) Focus on both training and
+          inference workloads.
+      - question: |
+          What technological advantages does AMD maintain in key markets?
+        answer: >
+          AMD's technological advantages include: 1) Leadership in chiplet design
+          and packaging technology, 2) Advanced process node adoption with key
+          foundry partners, 3) Integrated CPU-GPU solutions for high performance
+          computing, 4) Comprehensive adaptive computing portfolio through
+          Xilinx integration, 5) Strong IP portfolio with over 20,000 patents
+          worldwide, 6) Expertise in both x86 and ARM-based architectures.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

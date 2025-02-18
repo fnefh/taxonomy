@@ -118,6 +118,74 @@ seed_examples:
           billion from $6.5 billion at year-end 2023, and growth in MSRs to
           $6.81 billion. The company has maintained strong liquidity while
           expanding its operational capacity and market presence.
+  - context: >
+      In Q2 2024, Rocket Companies reported total revenue of $1.24 billion,
+      with gain on sale of loans of $962.3 million, including $356.2 million in
+      fair value of originated MSRs. The company's servicing portfolio generated
+      fee income of $368.5 million, while experiencing a change in fair value of
+      MSRs of $(452.1) million. Operating expenses were effectively managed at
+      $1.02 billion, demonstrating continued focus on operational efficiency.
+      The Direct-to-Consumer segment showed strong performance with increased
+      conversion rates and client engagement.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q2 2024?
+        answer: >
+          Rocket Companies achieved: 1) Total revenue of $1.24 billion, 2) Gain on
+          sale of loans of $962.3 million, including $356.2 million in MSR fair
+          value, 3) Servicing fee income of $368.5 million, 4) Operating
+          expenses of $1.02 billion, and 5) Change in MSR fair value of $(452.1)
+          million, demonstrating balanced performance across business segments.
+      - question: |
+          How did the Direct-to-Consumer segment perform in Q2 2024?
+        answer: >
+          The Direct-to-Consumer segment showed strength through: 1) Improved
+          conversion rates from lead to closing, 2) Enhanced client engagement
+          metrics, 3) Effective digital platform utilization, 4) Strong repeat
+          client business, and 5) Successful cross-selling of complementary
+          services.
+      - question: |
+          What operational efficiency measures were implemented in Q2 2024?
+        answer: >
+          Operational efficiency initiatives included: 1) Cost management
+          resulting in controlled operating expenses of $1.02 billion, 2)
+          Enhanced digital processes reducing manual interventions, 3)
+          Streamlined workflow automation, 4) Improved resource allocation
+          across segments, and 5) Technology-driven productivity improvements.
+  - context: >
+      Q1 2024 marked significant strategic progress for Rocket Companies,
+      with total revenue of $1.12 billion and continued advancement in their
+      AI-driven platform capabilities. The company expanded its Rocket Money
+      platform features, achieving 50% year-over-year growth in premium
+      subscribers. Technology investments focused on enhancing the mortgage
+      application process, with AI-powered tools reducing average closing times
+      by 20%. The Partner Network segment saw increased adoption of Rocket's
+      technology solutions among independent mortgage brokers.
+    questions_and_answers:
+      - question: |
+          What strategic initiatives were implemented in Q1 2024?
+        answer: >
+          Strategic initiatives included: 1) Enhancement of AI-driven platform
+          capabilities, 2) Expansion of Rocket Money features driving 50%
+          subscriber growth, 3) Technology investments reducing closing times by
+          20%, 4) Increased Partner Network technology adoption, and 5)
+          Continued focus on digital transformation across segments.
+      - question: |
+          How did Rocket's technology investments impact performance?
+        answer: >
+          Technology impacts included: 1) 20% reduction in average closing times
+          through AI-powered tools, 2) Improved mortgage application process
+          efficiency, 3) Enhanced Partner Network platform adoption, 4)
+          Increased automation in underwriting and processing, and 5) Better
+          client engagement through digital tools.
+      - question: |
+          What progress was made in diversifying revenue streams?
+        answer: >
+          Revenue diversification progress included: 1) 50% growth in Rocket Money
+          premium subscribers, 2) Expanded Partner Network relationships, 3)
+          Enhanced cross-selling capabilities, 4) Growth in complementary
+          services revenue, and 5) Increased adoption of integrated financial
+          solutions.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

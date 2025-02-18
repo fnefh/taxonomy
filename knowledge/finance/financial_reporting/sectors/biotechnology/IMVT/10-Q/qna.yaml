@@ -9,7 +9,7 @@ document_outline: >
   diseases.
 seed_examples:
   - context: Clinical Development & Pipeline Progress
-    questions:
+    questions_and_answers:
       - question: How has Immunovant's pipeline and development strategy evolved from Q3
           2023 through Q3 2024?
         answer: >
@@ -51,7 +51,7 @@ seed_examples:
 
           5. Maintained consistent progress across multiple development programs
   - context: Financial Position & Resource Management
-    questions:
+    questions_and_answers:
       - question: How has Immunovant's financial position evolved from Q3 2023 through
           Q3 2024?
         answer: >
@@ -90,7 +90,7 @@ seed_examples:
 
           5. Focused spending on key value-driving programs and initiatives
   - context: Strategic Initiatives & Business Focus
-    questions:
+    questions_and_answers:
       - question: What are the key strategic priorities and initiatives from Q3 2023
           through Q3 2024?
         answer: >
@@ -122,6 +122,64 @@ seed_examples:
           3. Achieved multiple development milestones worth $32.5M
           4. Retained key commercial rights in major markets
           5. Established infrastructure for potential strategic partnerships
+  - context: Q3 2024 R&D Investment & Pipeline Advancement
+    questions_and_answers:
+      - question: How did Immunovant's R&D investments and pipeline progress evolve in
+          Q3 2024?
+        answer: >
+          1. Significantly increased R&D investment to $94.5M in Q3 2024, up from
+          $48.3M in Q3 2023
+
+          2. Advanced multiple clinical programs with focus on IMVT-1402 development
+
+          3. Expanded development infrastructure to support concurrent clinical trials
+
+          4. Maintained efficient resource allocation between programs
+
+          5. Positioned for initiation of multiple registrational trials
+      - question: What were the key areas of R&D focus and resource allocation in Q3
+          2024?
+        answer: |
+          1. Primary investment in advancing IMVT-1402 clinical programs
+          2. Continued support for batoclimab development initiatives
+          3. Enhancement of clinical trial infrastructure and capabilities
+          4. Investment in manufacturing process development
+          5. Strategic allocation to support multiple concurrent programs
+      - question: How is Immunovant managing its expanding clinical development program?
+        answer: |
+          1. Implemented structured program management across multiple trials
+          2. Enhanced clinical operations infrastructure
+          3. Optimized resource allocation for concurrent program advancement
+          4. Maintained focus on key value-driving initiatives
+          5. Balanced investment across development stages
+  - context: Q3 2024 Operational Execution & Cash Management
+    questions_and_answers:
+      - question: How did Immunovant manage its operational execution and cash position
+          in Q3 2024?
+        answer: >
+          1. Maintained strong cash position of $374.7M as of December 2024
+
+          2. Increased operational capacity while controlling G&A expenses at $19.8M
+
+          3. Advanced manufacturing partnerships and commitments
+
+          4. Expanded clinical development infrastructure
+
+          5. Demonstrated disciplined capital allocation
+      - question: What were the key operational achievements and challenges in Q3 2024?
+        answer: |
+          1. Successfully scaled clinical operations for multiple programs
+          2. Advanced manufacturing preparations through strategic partnerships
+          3. Maintained efficient organizational structure
+          4. Enhanced program management capabilities
+          5. Controlled G&A expense growth despite expanding operations
+      - question: How is Immunovant balancing growth and cash management?
+        answer: |
+          1. Strategic prioritization of clinical development investments
+          2. Efficient resource allocation across programs
+          3. Controlled G&A expense growth at 19.8M in Q3 2024
+          4. Maintained strong cash position while advancing multiple programs
+          5. Focus on value-driving activities and operational efficiency
 document_metadata:
   repository: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

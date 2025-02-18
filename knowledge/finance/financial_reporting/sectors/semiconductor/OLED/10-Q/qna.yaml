@@ -143,6 +143,69 @@ seed_examples:
           through long-term supplier  agreements, strategic inventory management
           ($175.9 million in inventory), and  active defense of its intellectual
           property portfolio.
+  - context: >
+      For Q2 2024, Universal Display reported revenue of $146.5 million, with
+      material sales of $85.3 million and royalty/license fees of $57.2 million.
+      The company's gross margin remained strong at 76%, while operating
+      expenses increased to support growth initiatives. Research and development
+      spending reached $4.2 million, focusing on next-generation OLED
+      technologies and materials.
+    questions_and_answers:
+      - question: |
+          What were Universal Display's key financial results for Q2 2024?
+        answer: >
+          Q2 2024 results included: 1) Total revenue of $146.5 million, 2)
+          Material sales of $85.3 million, 3) Royalty and license fees of $57.2
+          million, 4) Strong gross margin of 76%, 5) Increased R&D investment of
+          $4.2 million, 6) Continued profitability despite higher operating
+          expenses.
+      - question: |
+          How did Q2 2024 revenue composition compare to previous quarters?
+        answer: >
+          Revenue composition showed: 1) Material sales representing 58% of
+          revenue at $85.3 million, 2) Royalty/license fees contributing 39% at
+          $57.2 million, 3) Continued geographic concentration in Asia, 4)
+          Stable customer mix across major accounts, 5) Growth in both core
+          revenue streams.
+      - question: |
+          What growth initiatives were pursued during Q2 2024?
+        answer: >
+          Growth initiatives included: 1) Increased R&D spending to $4.2 million
+          for next-generation technologies, 2) Continued investment in
+          manufacturing capabilities, 3) Expansion of patent portfolio through
+          strategic acquisitions, 4) Enhancement of customer relationships and
+          support, 5) Development of new OLED materials and applications.
+  - context: >
+      Universal Display's Q1 2024 performance demonstrated strong market
+      momentum with revenue of $158.3 million and continued expansion in the
+      Asia-Pacific region. The company's technology development efforts focused
+      on advancing OLED materials performance, particularly in energy efficiency
+      and color quality, while maintaining strong relationships with key display
+      manufacturers.
+    questions_and_answers:
+      - question: |
+          What were the highlights of Universal Display's Q1 2024 performance?
+        answer: >
+          Q1 2024 highlights included: 1) Revenue of $158.3 million showing market
+          strength, 2) Continued expansion in Asia-Pacific markets, 3) Strong
+          material sales and licensing revenue, 4) Advancement in OLED
+          technology development, 5) Enhanced relationships with key display
+          manufacturers.
+      - question: >
+          How did Universal Display advance its technology leadership in Q1 2024?
+        answer: >
+          Technology advancement focused on: 1) Improving OLED materials
+          performance metrics, 2) Enhancing energy efficiency of materials, 3)
+          Developing better color quality solutions, 4) Expanding the patent
+          portfolio through R&D, 5) Strengthening collaborative research
+          initiatives.
+      - question: |
+          What market opportunities were pursued in Q1 2024?
+        answer: >
+          Market opportunities included: 1) Expansion in Asia-Pacific display
+          manufacturing, 2) Development of new applications for OLED technology,
+          3) Strengthening relationships with key customers, 4) Advancement in
+          automotive display solutions, 5) Growth in emerging display formats.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

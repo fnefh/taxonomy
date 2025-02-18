@@ -25,6 +25,10 @@ document_outline: >
     - Market and economic risk factors
     - Operational and development risks
     - Cybersecurity and technology risks
+  - Financial Performance and Capital Allocation
+    - Capital allocation and financial management
+    - Key financial metrics and performance indicators
+    - Growth investments and shareholder returns
 seed_examples:
   - context: >
       Kimco Realty is the nation's largest owner and operator of open-air
@@ -158,6 +162,45 @@ seed_examples:
           tenant relationships and credit monitoring, and 4) Pursuing strategic
           growth opportunities while maintaining conservative financial policies
           and strong balance sheet metrics.
+  - context: >
+      In fiscal year 2023, Kimco Realty demonstrated strong financial
+      performance and disciplined capital allocation. The company maintained a
+      robust balance sheet with investment-grade credit ratings, while pursuing
+      strategic growth opportunities through acquisitions, development, and
+      redevelopment activities. Kimco's capital structure included a
+      well-laddered debt maturity profile and significant liquidity through cash
+      on hand and available credit facilities.
+    questions_and_answers:
+      - question: |
+          How does Kimco approach capital allocation and financial management?
+        answer: >
+          Kimco maintains a disciplined approach to capital allocation through: 1)
+          Strategic investment in acquisitions and development projects that
+          meet strict return criteria, 2) Maintaining a strong balance sheet
+          with investment-grade credit ratings, 3) Well-laddered debt maturity
+          profile to minimize refinancing risk, 4) Significant liquidity through
+          cash and available credit facilities, and 5) Balanced funding approach
+          using both debt and equity markets when appropriate.
+      - question: |
+          What are Kimco's key financial metrics and performance indicators?
+        answer: >
+          Kimco's financial performance is measured through several key metrics:
+          1) Net Operating Income (NOI) growth from both same-property
+          performance and new investments, 2) Occupancy rates and leasing
+          spreads demonstrating portfolio strength, 3) Funds From Operations
+          (FFO) as a key measure of REIT performance, 4) Fixed charge coverage
+          ratios indicating debt service capability, and 5) Return on invested
+          capital across various investment activities.
+      - question: |
+          How does Kimco balance growth investments with shareholder returns?
+        answer: >
+          Kimco balances growth and shareholder returns through: 1) Maintaining a
+          competitive dividend policy while ensuring sustainable payout ratios,
+          2) Strategic deployment of capital into value-enhancing acquisitions
+          and development projects, 3) Active portfolio management including
+          selective dispositions of non-core assets, 4) Share repurchase
+          programs when appropriate based on market conditions, and 5)
+          Maintaining financial flexibility to pursue opportunistic investments.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

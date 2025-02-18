@@ -99,6 +99,60 @@ seed_examples:
           indications 3) Development of combination therapy strategies 4)
           Emphasis on cost-effective subcutaneous delivery 5) Expansion into
           multiple therapeutic areas
+  - context: Manufacturing Capabilities & Strategy (2021-2023)
+    questions_and_answers:
+      - question: How has HCW Biologics structured its manufacturing operations and what
+          are its key capabilities?
+        answer: >
+          1. Established relationship with EirGenix for cGMP production of
+          clinical-grade materials 2. Successfully completed cGMP production of
+          five molecules including HCW9101, HCW9201, HCW9206, HCW9218, and
+          HCW9302 3. Maintains inventory of clinical material adequate for
+          planned trials 4. Purchased 36,000 sq ft facility in Miramar, FL for
+          future in-house manufacturing 5. Internal team has extensive cGMP
+          manufacturing experience and proprietary manufacturing methods
+      - question: What are the key elements of HCW's manufacturing strategy and timeline?
+        answer: >
+          1. Currently relies on EirGenix and other third-party manufacturers for
+          cGMP production 2. Plans to complete FDA validation for new Miramar
+          facility in first half of 2025 3. Maintains flexibility in buildout
+          timeline for manufacturing facility 4. Owns wholly-developed
+          manufacturing process, reducing reliance on third parties 5.
+          Successfully manufactured quantities needed for planned 2024-2025
+          clinical trials
+      - question: How does HCW manage manufacturing risks and quality control?
+        answer: >
+          1. Maintains relationships with multiple potential contract
+          manufacturers 2. Implements confidentiality and IP protection in
+          manufacturing agreements 3. Conducts routine quality audits of
+          third-party manufacturers 4. Maintains adequate inventory to mitigate
+          supply chain risks 5. Internal team provides oversight of
+          manufacturing and development processes
+  - context: Intellectual Property Portfolio & Protection Strategy (2021-2023)
+    questions_and_answers:
+      - question: What are the key components of HCW's intellectual property portfolio?
+        answer: >
+          1. Five granted US patents including fundamental patents for HCW9218 and
+          HCW9302 2. Two issued Japanese patents 3. 105 pending patent
+          applications worldwide 4. Patents cover platform technology, specific
+          molecules, methods of use, and manufacturing 5. Portfolio includes
+          protection for both single-chain and multi-chain chimeric polypeptides
+      - question: How comprehensive is the patent protection for HCW's lead candidates?
+        answer: >
+          1. HCW9218 protected by US Patent No. 11,518,792 and 11 pending
+          applications globally 2. HCW9302 protected by US Patent No. 11,401,324
+          and multiple pending applications 3. Patents expected to expire
+          between 2039-2041 4. Coverage includes composition claims and methods
+          of use 5. Protection spans major markets including US, Europe, Asia,
+          and Australia
+      - question: What additional IP protection strategies does HCW employ?
+        answer: >
+          1. Relies on trade secrets for manufacturing processes and technology 2.
+          Implements confidentiality agreements with employees and contractors
+          3. Maintains physical and electronic security measures 4. Two
+          registered US trademarks and pending applications globally 5.
+          Continuous development of new patent applications for pipeline
+          expansion
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

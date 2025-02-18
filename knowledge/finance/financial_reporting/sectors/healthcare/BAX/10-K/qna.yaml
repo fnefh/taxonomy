@@ -164,6 +164,80 @@ seed_examples:
           and Technologies products, 4) Focusing on workflow efficiency and
           cost-effective care delivery, and 5) Developing integrated solutions
           that combine core therapies with connected care capabilities.
+  - context: >
+      In fiscal year 2023, Baxter reported net sales of $14.81 billion, with
+      operating income of $1.02 billion and net income of $225 million. The
+      company's performance reflected the impact of strategic portfolio actions,
+      cost management initiatives, and ongoing integration of Hillrom. Capital
+      expenditures were $654 million, primarily for manufacturing capacity
+      expansion and quality initiatives. Research and development expenses
+      totaled $534 million, focused on innovation in connected care and core
+      therapies.
+    questions_and_answers:
+      - question: |
+          What were Baxter's key financial metrics in FY2023?
+        answer: >
+          Baxter achieved net sales of $14.81 billion in FY2023, with operating
+          income of $1.02 billion and net income of $225 million. The company
+          invested $654 million in capital expenditures for manufacturing
+          capacity and quality initiatives, while maintaining $534 million in
+          R&D expenses to support innovation in connected care and core
+          therapies.
+      - question: |
+          How did strategic actions impact financial performance?
+        answer: >
+          The company's financial performance reflected the impact of major
+          strategic portfolio actions, including the planned Kidney Care spinoff
+          and BPS business sale. Cost management initiatives and ongoing Hillrom
+          integration efforts influenced operating results, while investments in
+          manufacturing capacity and R&D supported future growth opportunities.
+      - question: |
+          What were the key investment priorities in 2023?
+        answer: >
+          Baxter prioritized investments in manufacturing capacity expansion ($654
+          million in capital expenditures), quality initiatives, and innovation
+          through R&D ($534 million). These investments focused on enhancing
+          production capabilities, maintaining quality standards, and developing
+          new connected care solutions and core therapies while supporting
+          strategic portfolio transformation.
+  - context: >
+      Baxter's innovation and product development efforts in 2023 focused on
+      advancing connected care solutions, expanding core therapy offerings, and
+      enhancing digital capabilities. The company maintained a robust
+      intellectual property portfolio with approximately 7,000 patents and
+      patent applications worldwide. Key areas of innovation included smart
+      infusion systems, patient monitoring technologies, and digital health
+      solutions, while also advancing developments in specialty pharmaceuticals
+      and renal care therapies.
+    questions_and_answers:
+      - question: |
+          What are Baxter's key areas of innovation focus?
+        answer: >
+          Baxter's innovation efforts concentrate on connected care solutions,
+          smart infusion systems, patient monitoring technologies, and digital
+          health solutions. The company also advances developments in specialty
+          pharmaceuticals and renal care therapies while maintaining a strong
+          intellectual property portfolio of approximately 7,000 patents and
+          patent applications worldwide.
+      - question: |
+          How does Baxter protect and leverage its intellectual property?
+        answer: >
+          Baxter maintains a robust intellectual property portfolio with
+          approximately 7,000 patents and patent applications globally. The
+          company actively manages its IP through patent protection, trade
+          secrets, and licensing agreements while investing in new innovations
+          across its product portfolio. This approach helps protect competitive
+          advantages and supports ongoing innovation efforts.
+      - question: |
+          What role does digital transformation play in Baxter's strategy?
+        answer: >
+          Digital transformation is central to Baxter's strategy, focusing on
+          connected care solutions, smart device integration, and digital health
+          platforms. The company invests in developing digital capabilities
+          across its product lines, enhancing patient monitoring and care
+          delivery while improving healthcare provider workflow efficiency.
+          These initiatives support the company's position in the evolving
+          healthcare technology landscape.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

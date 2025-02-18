@@ -101,6 +101,70 @@ seed_examples:
           $1.6B in long-term debt; 4) Dividend payments  of $1.7B; 5) Share
           repurchases of $1.1B; 6) Maintenance of  $15.0B in committed credit
           facilities.
+  - context: >
+      For the third quarter of fiscal year 2024 (ended October 31, 2024),
+      Walmart reported total revenues of $169.8 billion, an increase of 5.2%
+      from Q3 FY2023. Operating income grew 10.2% to $6.2 billion, while
+      consolidated net income reached $4.8 billion. Global advertising business
+      grew 20%, and eCommerce sales increased 15% globally. The company raised
+      its full-year outlook based on strong performance across segments.
+    questions_and_answers:
+      - question: |
+          What were Walmart's key financial results for Q3 FY2024?
+        answer: >
+          Q3 FY2024 results included: 1) Total revenues of $169.8 billion, up 5.2%
+          year-over-year; 2) Operating income of $6.2 billion, increasing 10.2%;
+          3) Consolidated net income of $4.8 billion; 4) Global advertising
+          business growth of 20%; 5) eCommerce sales growth of 15% globally; 6)
+          Improved full-year guidance based on strong performance.
+      - question: |
+          How did Walmart's growth initiatives perform in Q3 FY2024?
+        answer: >
+          Growth initiatives showed strong results: 1) Advertising business
+          continued strong momentum with 20% growth; 2) Global eCommerce growth
+          of 15% demonstrating digital strength; 3) Walmart+ membership program
+          expansion; 4) Marketplace expansion with new sellers and SKUs; 5)
+          Enhanced omni-channel capabilities driving customer engagement.
+      - question: |
+          What factors influenced Walmart's decision to raise guidance?
+        answer: >
+          Guidance revision was based on: 1) Strong performance across all
+          segments; 2) Successful pricing strategies maintaining market share;
+          3) Operational efficiency improvements; 4) Growth in high-margin
+          businesses like advertising; 5) Effective inventory management and
+          cost control; 6) Robust consumer engagement across channels.
+  - context: >
+      Walmart's segment operations for Q3 FY2024 showed strong performance
+      across all divisions. Walmart U.S. comparable sales grew 4.9% with
+      eCommerce growth of 24%. Sam's Club comparable sales increased 3.8%, while
+      Walmart International net sales grew 13.0% to $28.4 billion. Operating
+      income improved across all segments, driven by strategic initiatives in
+      pricing, inventory management, and operational efficiency.
+    questions_and_answers:
+      - question: |
+          How did Walmart U.S. perform in Q3 FY2024?
+        answer: >
+          Walmart U.S. performance included: 1) Comparable sales growth of 4.9%;
+          2) eCommerce growth of 24%; 3) Market share gains in grocery and
+          general merchandise; 4) Improved inventory management and in-stock
+          levels; 5) Strong execution of omni-channel initiatives; 6) Enhanced
+          customer experience driving repeat visits.
+      - question: |
+          What were the key metrics for Walmart International in Q3 FY2024?
+        answer: >
+          Walmart International showed: 1) Net sales growth of 13.0% to $28.4
+          billion; 2) Strong performance in key markets including Mexico and
+          China; 3) eCommerce penetration gains across markets; 4) Improved
+          operating income and margins; 5) Successful execution of local market
+          strategies.
+      - question: |
+          How did Sam's Club contribute to overall performance in Q3 FY2024?
+        answer: >
+          Sam's Club delivered: 1) Comparable sales growth of 3.8%; 2) Membership
+          income growth and improved renewal rates; 3) Strong private brand
+          performance; 4) Enhanced digital capabilities and engagement; 5)
+          Improved operational efficiency and inventory management; 6) Expanded
+          member services and benefits.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

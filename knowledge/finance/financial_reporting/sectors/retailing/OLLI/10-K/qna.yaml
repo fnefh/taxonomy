@@ -139,6 +139,71 @@ seed_examples:
           Environmental and consumer protection standards; 4) Foreign Corrupt
           Practices Act compliance for international sourcing; 5) Regular
           evaluation of disclosure controls and procedures.
+  - context: >
+      In fiscal year 2023, Ollie's achieved net sales of $1.92 billion, an
+      increase of 12.1% from $1.71 billion in 2022. Comparable store sales
+      increased 3.8%, driven by higher customer traffic and transaction values.
+      Operating income reached $228.4 million with an operating margin of 11.9%.
+      The company opened 45 new stores while maintaining strong new store
+      productivity and achieving an average payback period of less than two
+      years.
+    questions_and_answers:
+      - question: |
+          What were Ollie's key financial metrics for fiscal 2023?
+        answer: >
+          Fiscal 2023 performance included: 1) Net sales growth of 12.1% to $1.92
+          billion, 2) Comparable store sales increase of 3.8%, 3) Operating
+          income of $228.4 million with 11.9% margin, 4) 45 new store openings
+          expanding total count to 512, and 5) Strong new store productivity
+          with less than two-year payback period.
+      - question: |
+          How did Ollie's manage costs and profitability in 2023?
+        answer: >
+          Cost management included: 1) Maintaining gross margins through strategic
+          buying, 2) Efficient distribution center operations, 3) Controlled
+          store operating costs despite expansion, 4) Leveraged fixed costs
+          through sales growth, and 5) Strategic inventory management optimizing
+          working capital.
+      - question: |
+          What were the key drivers of comparable store sales growth?
+        answer: >
+          Growth drivers included: 1) Increased customer traffic from effective
+          marketing, 2) Higher transaction values through product mix
+          optimization, 3) Strong performance of Ollie's Army loyalty program,
+          4) Successful seasonal merchandise execution, and 5) Improved in-stock
+          positions in key categories.
+  - context: >
+      Ollie's growth strategy focuses on expanding its store base, enhancing
+      operational efficiency, and strengthening its competitive position. The
+      company's technology investments include a new warehouse management
+      system, enhanced point-of-sale capabilities, and improved inventory
+      management tools. Supply chain initiatives include the construction of a
+      fourth distribution center in Princeton, IL, scheduled to open in 2024,
+      which will support growth to 750 stores.
+    questions_and_answers:
+      - question: |
+          What are the key elements of Ollie's growth strategy?
+        answer: >
+          Growth strategy includes: 1) Expanding store base toward 1,300+
+          potential locations, 2) Opening 45-50 new stores annually, 3)
+          Enhancing operational efficiency through technology, 4) Strengthening
+          supplier relationships and buying capabilities, and 5) Expanding
+          distribution network with new facilities.
+      - question: |
+          How is Ollie's investing in technology and infrastructure?
+        answer: >
+          Technology investments focus on: 1) New warehouse management system
+          implementation, 2) Enhanced point-of-sale capabilities, 3) Improved
+          inventory management tools, 4) Supply chain optimization systems, and
+          5) Data analytics for merchandising decisions.
+      - question: |
+          What are Ollie's supply chain expansion plans?
+        answer: >
+          Supply chain plans include: 1) Construction of fourth distribution
+          center in Princeton, IL, 2) Infrastructure to support up to 750
+          stores, 3) Enhanced transportation and logistics capabilities, 4)
+          Improved inventory flow and allocation systems, and 5) Strengthened
+          vendor relationships for reliable supply.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

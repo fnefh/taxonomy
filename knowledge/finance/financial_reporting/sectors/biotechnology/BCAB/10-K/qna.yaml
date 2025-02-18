@@ -97,6 +97,58 @@ seed_examples:
           Advancement of novel technology platforms for future pipeline
           expansion 4) Preparation for potential commercial activities in areas
           of high unmet need
+  - context: >
+      From 2020 to 2023, BioAtla's financial position evolved significantly,
+      reflecting the company's transition from early-stage development through
+      multiple clinical programs. The period saw strategic deployment of
+      capital, careful resource management, and focused investment in key
+      programs.
+    questions_and_answers:
+      - question: How did the company's financial position evolve over this period?
+        answer: >
+          Financial evolution included: 1) Successful IPO in December 2020 raising
+          approximately $198.6 million 2) Strategic management of cash position
+          from $238.2M in 2020 to $61.7M in 2023 3) Focused deployment of
+          resources across advancing clinical programs 4) Optimization of
+          operational expenses while maintaining key development activities
+      - question: What were the key trends in operational expenses?
+        answer: >
+          Expense trends showed: 1) R&D expenses increased from $14.2M in 2020 to
+          $81.1M in 2023, reflecting expanded clinical activities 2) G&A
+          expenses managed efficiently from $5.2M in 2020 to $23.8M in 2023 3)
+          Strategic optimization of spending in late 2023 4) Focused investment
+          in priority programs while maintaining operational efficiency
+      - question: How did the company manage its capital resources?
+        answer: >
+          Capital management included: 1) Strategic allocation of IPO proceeds to
+          advance clinical programs 2) Careful management of cash burn rate 3)
+          Implementation of cost optimization initiatives in 2023 4) Maintained
+          focus on key value-driving programs while preserving financial
+          flexibility
+  - context: >
+      Throughout 2020-2023, BioAtla significantly expanded its manufacturing
+      capabilities and operational infrastructure while strengthening its
+      quality systems and supply chain management to support advancing clinical
+      programs.
+    questions_and_answers:
+      - question: How did manufacturing capabilities evolve?
+        answer: >
+          Manufacturing evolution included: 1) Enhancement of CAB-ADC
+          manufacturing processes 2) Development of scalable production methods
+          for clinical supply 3) Implementation of robust quality control
+          systems 4) Establishment of key manufacturing partnerships
+      - question: What operational infrastructure improvements were implemented?
+        answer: >
+          Infrastructure improvements included: 1) Enhancement of quality
+          management systems 2) Development of robust supply chain processes 3)
+          Implementation of advanced analytical capabilities 4) Strengthening of
+          regulatory compliance systems
+      - question: How did supply chain and quality systems advance?
+        answer: >
+          Advancements included: 1) Development of comprehensive quality control
+          procedures 2) Enhancement of supplier qualification processes 3)
+          Implementation of improved inventory management systems 4)
+          Strengthening of manufacturing documentation and controls
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

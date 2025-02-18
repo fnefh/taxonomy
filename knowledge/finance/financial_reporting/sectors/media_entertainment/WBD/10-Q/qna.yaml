@@ -118,6 +118,101 @@ seed_examples:
           Focus on high-quality content creation and distribution across
           platforms, 5) Strong balance sheet management with $3,336 million in
           cash and strategic debt reduction efforts.
+  - context: >
+      In Q2 2024, Warner Bros. Discovery demonstrated strong performance in
+      its DTC segment with continued subscriber growth and platform
+      enhancements. The quarter saw significant progress in content monetization
+      and international expansion, while maintaining focus on operational
+      efficiency and cost management.
+    questions_and_answers:
+      - question: |
+          How did Warner Bros. Discovery's DTC segment perform in Q2 2024?
+        answer: >
+          DTC performance included: 1) Global DTC subscribers reaching 97.7
+          million, reflecting continued growth, 2) Enhanced Max platform
+          features and content offerings, 3) Improved monetization through
+          strategic pricing and tier optimization, 4) International expansion of
+          streaming services in key markets, 5) Reduced subscriber churn through
+          enhanced content and user experience.
+      - question: |
+          What were the key content monetization strategies in Q2 2024?
+        answer: >
+          Monetization strategies encompassed: 1) Strategic content windowing
+          across platforms, 2) Enhanced advertising solutions and partnerships,
+          3) Optimization of content licensing agreements, 4) Development of new
+          revenue streams through partnerships, 5) International content
+          distribution and localization initiatives.
+      - question: |
+          How did operational efficiency initiatives progress in Q2 2024?
+        answer: >
+          Efficiency initiatives included: 1) Continued cost optimization across
+          segments, 2) Integration of technology platforms and systems, 3)
+          Streamlined content production and distribution processes, 4) Enhanced
+          workflow automation and productivity measures, 5) Implementation of
+          data-driven decision-making tools.
+  - context: >
+      Q1 2024 highlighted Warner Bros. Discovery's progress in technology
+      infrastructure development and digital transformation initiatives. The
+      company continued to enhance its streaming platforms while strengthening
+      cybersecurity measures and advancing advertising technology capabilities.
+    questions_and_answers:
+      - question: >
+          What technology infrastructure improvements were implemented in Q1
+          2024?
+        answer: >
+          Technology improvements included: 1) Enhanced streaming platform
+          capabilities and user experience, 2) Advanced content delivery network
+          optimization, 3) Implementation of cloud-based solutions for
+          scalability, 4) Improved data analytics and reporting systems, 5)
+          Enhanced content management and distribution tools.
+      - question: |
+          How did digital advertising capabilities evolve in Q1 2024?
+        answer: >
+          Digital advertising evolution showed: 1) Enhanced targeting and
+          measurement capabilities, 2) Implementation of advanced programmatic
+          solutions, 3) Development of new advertising formats and products, 4)
+          Improved cross-platform campaign management, 5) Enhanced data
+          analytics for advertiser insights.
+      - question: |
+          What cybersecurity and risk management measures were strengthened?
+        answer: >
+          Security measures strengthened included: 1) Enhanced data protection
+          protocols, 2) Improved system monitoring and threat detection, 3)
+          Updated disaster recovery and business continuity plans, 4)
+          Strengthened access controls and authentication systems, 5) Enhanced
+          compliance with global privacy regulations.
+  - context: >
+      Warner Bros. Discovery's strategic partnerships and market expansion
+      efforts in early 2024 demonstrated the company's commitment to global
+      growth and innovation. The quarter saw advancement in sports rights
+      management, international content partnerships, and distribution network
+      expansion.
+    questions_and_answers:
+      - question: >
+          How did Warner Bros. Discovery expand its global partnerships in early
+          2024?
+        answer: >
+          Partnership expansion included: 1) New sports rights agreements across
+          key markets, 2) Enhanced content production partnerships
+          internationally, 3) Strategic distribution agreements in emerging
+          markets, 4) Technology collaboration with leading platforms, 5)
+          Expanded advertising partnerships globally.
+      - question: |
+          What were the key market expansion initiatives?
+        answer: >
+          Market initiatives encompassed: 1) Launch of localized streaming
+          services in new territories, 2) Enhanced regional content production
+          capabilities, 3) Development of market-specific programming
+          strategies, 4) Expansion of distribution networks internationally, 5)
+          Strategic investments in regional partnerships.
+      - question: |
+          How is the company managing its sports rights portfolio?
+        answer: >
+          Sports rights management included: 1) Strategic acquisition of key
+          sports properties, 2) Enhanced distribution of sports content across
+          platforms, 3) Development of innovative sports programming formats, 4)
+          Integration of sports content with streaming platforms, 5)
+          Optimization of sports rights monetization strategies.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

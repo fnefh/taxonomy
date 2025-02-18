@@ -143,6 +143,76 @@ seed_examples:
           innovation, 4) Strong cash position of $3.68 billion following
           Critical Care sale, and 5) Share repurchase activity of $1.06 billion
           year-to-date showing commitment to shareholder returns.
+  - context: >
+      In Q2 2024, Edwards Lifesciences reported net sales of $1,532.7
+      million, representing a 11.2% increase from Q2 2023. Operating income
+      reached $530.2 million with a strong focus on transcatheter technologies
+      and continued market expansion. The company's PASCAL PRECISION system
+      gained momentum in Europe, while the EVOQUE platform showed promising
+      early commercial results in the U.S. following FDA approval.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q2 2024?
+        answer: >
+          Edwards achieved strong Q2 2024 results including: 1) Net sales of
+          $1,532.7 million, up 11.2% year-over-year, 2) Operating income of
+          $530.2 million with continued investment in growth initiatives, 3)
+          Gross margin of 79.8% reflecting manufacturing efficiencies, 4) R&D
+          investment of $265.3 million (17.3% of sales), and 5) Strong cash
+          position supporting strategic investments and shareholder returns.
+      - question: |
+          How did Edwards' product portfolio perform in Q2 2024?
+        answer: >
+          Product performance highlights included: 1) Strong momentum for PASCAL
+          PRECISION system in Europe with expanding adoption, 2) Successful
+          early U.S. commercial launch of EVOQUE platform following FDA
+          approval, 3) Continued growth in SAPIEN platform sales globally, 4)
+          Positive market response to enhanced valve technologies and delivery
+          systems, and 5) Expansion of treatment options across aortic, mitral,
+          and tricuspid therapies.
+      - question: |
+          What strategic progress was made during Q2 2024?
+        answer: >
+          Strategic achievements included: 1) Advancement of transcatheter
+          technology adoption across regions, 2) Expansion of clinical evidence
+          supporting product portfolio, 3) Progress in manufacturing efficiency
+          initiatives, 4) Strengthening of commercial capabilities in key
+          markets, and 5) Continued investment in innovation and product
+          development pipeline.
+  - context: >
+      Q1 2024 marked significant progress in Edwards Lifesciences' technology
+      innovation and market expansion efforts. The company received FDA approval
+      for the EVOQUE system, representing a major milestone in tricuspid valve
+      therapy. Net sales reached $1,478.5 million with strong performance across
+      product lines. The company also advanced its digital health initiatives
+      and strengthened its global commercial presence.
+    questions_and_answers:
+      - question: |
+          What were the major achievements in Q1 2024?
+        answer: >
+          Key achievements included: 1) FDA approval of the EVOQUE system for
+          tricuspid valve therapy, 2) Net sales of $1,478.5 million
+          demonstrating strong market demand, 3) Successful advancement of
+          digital health initiatives, 4) Expansion of global commercial
+          capabilities, and 5) Continued progress in clinical research and
+          evidence generation.
+      - question: |
+          How did Edwards advance its innovation agenda?
+        answer: >
+          Innovation progress included: 1) Successful development and approval of
+          EVOQUE system for tricuspid therapy, 2) Enhancement of digital health
+          platforms for patient care, 3) Advancement of next-generation valve
+          technologies, 4) Strengthening of research and development
+          capabilities, and 5) Strategic investments in future growth
+          opportunities.
+      - question: |
+          What operational improvements were implemented?
+        answer: >
+          Operational enhancements included: 1) Strengthening of global commercial
+          organization, 2) Implementation of manufacturing efficiency
+          initiatives, 3) Advancement of supply chain optimization programs, 4)
+          Enhancement of quality systems and processes, and 5) Investment in
+          digital infrastructure and capabilities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

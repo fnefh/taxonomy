@@ -131,6 +131,70 @@ seed_examples:
           income tax disclosures; 4) Strong governance over financial reporting;
           5) Regular assessment of internal control effectiveness; 6) Proactive
           adoption of new reporting requirements.
+  - context: >
+      For the quarter ended August 3, 2024, TJX reported net sales of $12.92
+      billion, a 7.7% increase from Q2 2023. The company's operating income
+      reached $1.43 billion with a margin of 11.1%. Comparable store sales
+      increased by 6% over last year, driven by customer traffic growth across
+      all major divisions. The company opened 31 new stores during the quarter,
+      bringing the total store count to 4,878 locations worldwide.
+    questions_and_answers:
+      - question: |
+          What were TJX's key financial results for Q2 2024?
+        answer: >
+          Q2 2024 results included: 1) Net sales growth of 7.7% to $12.92 billion,
+          2) Operating income of $1.43 billion with 11.1% margin, 3) Comparable
+          store sales increase of 6%, 4) Net income of $1.08 billion, and 5)
+          Diluted earnings per share of $0.95, up from $0.85 in Q2 2023.
+      - question: |
+          How did TJX's store expansion progress in Q2 2024?
+        answer: >
+          Store expansion showed strong momentum with: 1) 31 new store openings
+          during the quarter, 2) Total store count reaching 4,878 locations
+          worldwide, 3) Strategic expansion across all major divisions, 4)
+          Successful integration of new stores into existing markets, and 5)
+          Continued focus on prime retail locations.
+      - question: |
+          What drove TJX's comparable store sales growth in Q2 2024?
+        answer: >
+          Comparable sales growth was driven by: 1) Increased customer traffic
+          across all divisions, 2) Strong execution of merchandising strategies,
+          3) Effective inventory management and fresh product offerings, 4)
+          Successful marketing initiatives, and 5) Enhanced customer experience
+          in stores.
+  - context: >
+      In Q1 2024, TJX demonstrated strong execution of strategic initiatives
+      with net sales of $11.79 billion and operating income of $1.26 billion.
+      The company continued to invest in its digital capabilities and supply
+      chain infrastructure while maintaining strong inventory management. The
+      quarter saw successful implementation of pricing strategies and margin
+      improvement initiatives, along with continued progress in international
+      markets.
+    questions_and_answers:
+      - question: |
+          What were the strategic priorities and achievements in Q1 2024?
+        answer: >
+          Strategic achievements included: 1) Net sales of $11.79 billion with
+          strong operational execution, 2) Operating income of $1.26 billion
+          demonstrating margin strength, 3) Enhanced digital capabilities and
+          infrastructure, 4) Successful pricing and margin initiatives, and 5)
+          Progress in international market development.
+      - question: |
+          How did TJX's operational efficiency initiatives perform in Q1 2024?
+        answer: >
+          Operational efficiency showed improvement through: 1) Enhanced supply
+          chain management, 2) Optimized inventory levels and turnover, 3)
+          Streamlined store operations and processes, 4) Improved distribution
+          center productivity, and 5) Effective cost management across the
+          organization.
+      - question: |
+          What progress was made in digital and infrastructure investments?
+        answer: >
+          Investment progress included: 1) Enhanced e-commerce capabilities and
+          platform improvements, 2) Strengthened supply chain infrastructure, 3)
+          Advanced data analytics and inventory management systems, 4) Improved
+          customer engagement tools and technologies, and 5) Enhanced store
+          operations technology.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

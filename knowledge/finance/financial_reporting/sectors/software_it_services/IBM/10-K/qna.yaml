@@ -1,302 +1,191 @@
 version: 3
-domain: quarterly_reporting
+domain: annual_reporting
 created_by: fnefh
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for International Business Machines Corporation (IBM) covering fiscal years
+  2020-2023.
+
+  The reports include detailed information about:
+
+  1. Business Overview
+     - Corporate history and structure
+     - Technology capabilities
+     - Market position
+     - Value creation model
+
+  2. Financial Performance
+     - Revenue and profitability
+     - Operating expenses
+     - Asset management
+     - Capital structure
+
+  3. Strategic Initiatives
+     - Red Hat integration
+     - Compensation plans
+     - Credit agreements
+     - Debt management
+
+  4. Risk Management
+     - Financial controls
+     - Regulatory compliance
+     - Market conditions
+     - Operational risks
 seed_examples:
   - context: >
-      International Business Machines Corporation (IBM or the company) was
-      incorporated in the State of New York on June 16, 1911, as the
-      Computing-Tabulating-Recording Co. (C-T-R), a consolidation of the
-      Computing Scale Co. of America, the Tabulating Machine Co. and The
-      International Time Recording Co. of New York. The company creates value
-      for clients by providing integrated solutions and products that leverage:
-      data, information technology, deep expertise in industries and business
-      processes, with trust and security and a broad ecosystem of partners and
-      alliances.
+      International Business Machines Corporation (IBM) was incorporated in
+      the State of New York on June 16, 1911, as the Computing-Tabulating-
+      Recording Co. (C-T-R), a consolidation of the Computing Scale Co. of
+      America, the Tabulating Machine Co. and The International Time Recording
+      Co. of New York. The company creates value through integrated solutions
+      leveraging data, information technology, deep expertise in industries and
+      business processes, with trust and security and a broad ecosystem of
+      partners and alliances.
     questions_and_answers:
       - question: |
-          When and where was IBM incorporated?
+          What is IBM's corporate history and foundation?
         answer: >
-          IBM was incorporated in the State of New York on June 16, 1911, as the
-          Computing-Tabulating-Recording Co. (C-T-R).
-      - question: |
-          What companies were consolidated to form IBM?
-        answer: >
-          IBM was formed through the consolidation of the Computing Scale Co. of
-          America, the Tabulating Machine Co. and The International Time
-          Recording Co. of New York.
+          IBM's history includes: 1) Incorporation in New York on June 16, 1911;
+          2) Originally named Computing-Tabulating-Recording Co. (C-T-R); 3)
+          Formed through consolidation of three companies: Computing Scale Co.
+          of America, Tabulating Machine Co., and International Time Recording
+          Co.; 4) Long history of technology innovation; 5) Evolution into a
+          global technology leader.
       - question: |
           How does IBM create value for its clients?
         answer: >
-          IBM creates value by providing integrated solutions and products that
-          leverage data, information technology, deep expertise in industries
-          and business processes, with trust and security and a broad ecosystem
-          of partners and alliances.
+          IBM creates value through: 1) Integrated solutions leveraging data and
+          information technology; 2) Deep expertise in industries and business
+          processes; 3) Focus on trust and security; 4) Broad ecosystem of
+          partners and alliances; 5) Comprehensive technology portfolio and
+          services.
+      - question: |
+          What are IBM's core business capabilities?
+        answer: >
+          IBM's core capabilities include: 1) Hybrid cloud platform and AI
+          technology; 2) Consulting and IT implementation services; 3) Digital
+          and cognitive offerings; 4) Enterprise systems and software; 5)
+          Industry-leading research organization support.
   - context: >
-      IBM is classified as a large accelerated filer. The aggregate market
-      value of the voting stock held by non-affiliates of the registrant as of
-      the last business day of the registrant's most recently completed second
-      fiscal quarter was $107.5 billion. The registrant had 893,594,090 shares
-      of common stock outstanding at February 10, 2021.
+      IBM's hybrid cloud platform and AI technology capabilities support
+      clients' digital transformations and help them engage with customers and
+      employees in new ways. The company's portfolio includes consulting and IT
+      implementation services, cloud and digital offerings, enterprise systems,
+      and software, all supported by one of the world's leading research
+      organizations. As of December 31, 2023, IBM had various debt securities
+      registered and traded on major exchanges.
     questions_and_answers:
       - question: |
-          What is IBM's filing classification?
-        answer: |
-          IBM is classified as a large accelerated filer.
-      - question: >
-          What was the market value of IBM's voting stock held by non-affiliates?
+          What are IBM's key technological offerings?
         answer: >
-          The aggregate market value of the voting stock held by non-affiliates
-          was $107.5 billion as of the last business day of the most recently
-          completed second fiscal quarter.
+          IBM's key offerings include: 1) Hybrid cloud platform solutions; 2) AI
+          technology and services; 3) Consulting and IT implementation services;
+          4) Enterprise systems and software; 5) Research-backed innovation
+          capabilities.
       - question: |
-          How many shares of common stock did IBM have outstanding?
+          How does IBM support client digital transformation?
         answer: >
-          IBM had 893,594,090 shares of common stock outstanding at February 10,
-          2021.
-  - context: >
-      IBM's hybrid cloud platform and AI technology and services capabilities
-      support clients' digital transformations and help them engage with their
-      customers and employees in new ways. These solutions draw from an
-      industry-leading portfolio of consulting and IT implementation services,
-      cloud, digital and cognitive offerings, and enterprise systems and
-      software which are all bolstered by one of the world's leading research
-      organizations.
-    questions_and_answers:
+          IBM supports digital transformation through: 1) Integrated technology
+          solutions; 2) Customer and employee engagement tools; 3) Cloud and
+          digital offerings; 4) Enterprise systems modernization; 5)
+          Research-driven innovation.
       - question: |
-          What are IBM's key technological capabilities?
+          What is the scope of IBM's service portfolio?
         answer: >
-          IBM's key capabilities include hybrid cloud platform and AI technology
-          and services that support clients' digital transformations.
-      - question: |
-          What does IBM's portfolio include?
-        answer: >
-          IBM's portfolio includes consulting and IT implementation services,
-          cloud, digital and cognitive offerings, and enterprise systems and
-          software, supported by one of the world's leading research
-          organizations.
-      - question: |
-          How does IBM help its clients?
-        answer: >
-          IBM helps clients engage with their customers and employees in new ways
-          through digital transformations supported by hybrid cloud platform and
-          AI technology and services.
-  - context: >
-      IBM's Red Hat Plan was adopted by the Board of Directors in connection
-      with the company's acquisition of Red Hat, Inc. on July 9, 2019. The plan
-      is used solely to fund awards for employees who were not employed by IBM
-      immediately prior to the acquisition closing. The terms and conditions of
-      the Red Hat Plan are substantively identical to the terms and conditions
-      of the 2001 Plan, though awards for senior executives of the company will
-      not be funded from the Red Hat Plan.
-    questions_and_answers:
-      - question: |
-          What is the Red Hat Plan and when was it adopted?
-        answer: >
-          The Red Hat Plan was adopted by IBM's Board of Directors in connection
-          with the acquisition of Red Hat, Inc. on July 9, 2019.
-      - question: |
-          Who is eligible for awards under the Red Hat Plan?
-        answer: >
-          The Red Hat Plan is used solely to fund awards for employees who were
-          not employed by IBM immediately prior to the Red Hat acquisition
-          closing. Senior executives are not eligible for awards from this plan.
-      - question: |
-          How does the Red Hat Plan compare to IBM's 2001 Plan?
-        answer: >
-          The terms and conditions of the Red Hat Plan are substantively identical
-          to the terms and conditions of the 2001 Plan.
-  - context: >
-      IBM's Amended and Restated Deferred Compensation and Equity Award Plan
-      (DCEAP) was adopted in 1993 and amended and restated effective January 1,
-      2014. Under this plan, non-management directors receive Promised Fee
-      Shares in connection with deferred annual retainer payments. Each Promised
-      Fee Share equals one share of company common stock in value. Upon
-      retirement or completion of service, amounts are payable in cash and/or
-      stock as lump sum or installments per the director's distribution
-      election.
-    questions_and_answers:
-      - question: |
-          What is IBM's DCEAP and when was it last amended?
-        answer: >
-          The Deferred Compensation and Equity Award Plan (DCEAP) was adopted in
-          1993 and was amended and restated effective January 1, 2014.
-      - question: |
-          What benefits do non-management directors receive under the DCEAP?
-        answer: >
-          Non-management directors receive Promised Fee Shares in connection with
-          deferred annual retainer payments, with each Promised Fee Share equal
-          in value to one share of IBM common stock.
-      - question: |
-          How are DCEAP benefits paid out to directors?
-        answer: >
-          Upon a director's retirement or other completion of service, deferred
-          amounts are payable in either cash and/or shares of company stock,
-          either as lump sum or installments according to the director's
-          distribution election.
-  - context: >
-      As of December 31, 2021, IBM had various debt securities registered
-      under Section 12(b) of the Act, including Capital stock with par value
-      $.20 per share trading under symbol IBM on the New York Stock Exchange and
-      NYSE Chicago. The company also had multiple series of Notes due between
-      2022 and 2096 with interest rates ranging from 0.300% to 7.125%.
-    questions_and_answers:
-      - question: |
-          What is IBM's primary stock listing?
-        answer: >
-          IBM's Capital stock, with par value $.20 per share, trades under the
-          symbol IBM on the New York Stock Exchange and NYSE Chicago.
-      - question: |
-          What types of debt securities does IBM have registered?
-        answer: >
-          IBM has multiple series of Notes registered with maturity dates ranging
-          from 2022 to 2096 and interest rates ranging from 0.300% to 7.125%.
+          IBM's service portfolio encompasses: 1) Consulting services; 2) IT
+          implementation solutions; 3) Cloud and digital offerings; 4)
+          Enterprise systems and software; 5) Research and development
+          capabilities.
   - context: >
       As of December 31, 2022, IBM's financial position showed various trends
       in allowances and provisions. The Allowance for Credit Losses for current
-      receivables increased to $467 million from $418 million at the beginning
-      of the year, with $59 million in additions and $55 million in write-offs.
-      The Allowance for Inventory Losses remained relatively stable at $631
-      million compared to $633 million at the beginning of the year, with $162
-      million in additions and $148 million in write-offs during 2022.
+      receivables increased to $467 million from $418 million, with $59 million
+      in additions and $55 million in write-offs. The Allowance for Inventory
+      Losses remained at $631 million compared to $633 million, while Revenue
+      Based Provisions decreased to $424 million from $435 million.
     questions_and_answers:
       - question: |
-          How did IBM's Allowance for Credit Losses change in 2022?
+          How did IBM's allowances change in 2022?
         answer: >
-          IBM's Allowance for Credit Losses for current receivables increased to
-          $467 million from $418 million at the beginning of 2022, with $59
-          million in additions and $55 million in write-offs during the year.
+          Changes in allowances included: 1) Credit Losses allowance increased to
+          $467 million from $418 million; 2) Inventory Losses allowance remained
+          stable at $631 million; 3) Revenue Based Provisions decreased to $424
+          million; 4) Net additions of $59 million to Credit Losses; 5)
+          Write-offs of $55 million in Credit Losses.
       - question: |
-          What was the status of IBM's Inventory Losses allowance in 2022?
+          What were the key movements in IBM's provisions?
         answer: >
-          The Allowance for Inventory Losses remained relatively stable at $631
-          million at the end of 2022 compared to $633 million at the beginning
-          of the year, with $162 million in additions and $148 million in
-          write-offs during the year.
+          Key provision movements included: 1) $59 million in Credit Loss
+          additions; 2) $55 million in Credit Loss write-offs; 3) $162 million
+          in Inventory Loss additions; 4) $148 million in Inventory Loss
+          write-offs; 5) Net decrease in Revenue Based Provisions.
       - question: |
-          How did Revenue Based Provisions change in 2022?
+          How does IBM manage its financial reserves?
         answer: >
-          Revenue Based Provisions decreased to $424 million at the end of 2022
-          from $435 million at the beginning of the year, with $620 million in
-          additions and $629 million in write-offs during the period.
-  - context: >
-      IBM's management structure as of February 28, 2023, included Arvind
-      Krishna as Chairman of the Board and Chief Executive Officer, James J.
-      Kavanaugh as Senior Vice President and Chief Financial Officer, Finance
-      and Operations, and Nicolas A. Fehring as Vice President and Controller
-      (Chief Accounting Officer). The company maintains effective disclosure
-      controls and procedures, as evaluated by the Chief Executive Officer and
-      Chief Financial Officer.
-    questions_and_answers:
-      - question: |
-          Who were IBM's key executive officers as of February 2023?
-        answer: >
-          IBM's key executive officers included Arvind Krishna as Chairman and
-          CEO, James J. Kavanaugh as SVP and CFO of Finance and Operations, and
-          Nicolas A. Fehring as VP and Controller (Chief Accounting Officer).
-      - question: |
-          How does IBM evaluate its disclosure controls?
-        answer: >
-          IBM's disclosure controls and procedures are evaluated by the Chief
-          Executive Officer and Chief Financial Officer, who concluded that the
-          controls were effective as of the end of the period covered by the
-          report.
-  - context: >
-      As of December 31, 2022, IBM had various debt securities registered
-      under Section 12(b) of the Act, including multiple series of Notes with
-      interest rates ranging from 0.300% to 7.125% and maturities extending from
-      2023 to 2096. The company's common stock trades on the New York Stock
-      Exchange and NYSE Chicago under the symbol IBM with a par value of $.20
-      per share.
-    questions_and_answers:
-      - question: |
-          What types of debt securities did IBM have registered in 2022?
-        answer: >
-          IBM had multiple series of Notes registered with interest rates ranging
-          from 0.300% to 7.125% and maturities extending from 2023 to 2096,
-          including various debentures.
-      - question: |
-          Where is IBM's common stock traded and what is its par value?
-        answer: >
-          IBM's common stock trades on the New York Stock Exchange and NYSE
-          Chicago under the symbol IBM with a par value of $.20 per share.
-  - context: >
-      IBM's By-Laws were amended through December 12, 2023. The company has
-      various debt instruments including Notes and Debentures with different
-      interest rates and maturities. Recent debt issuances in 2023-2024 included
-      4.500% Notes due 2026 and 2028, 4.750% Notes due 2033, 5.100% Notes due
-      2053, and in February 2024, new issuances included 4.700% Notes due 2026,
-      4.600% Notes due 2027 and 2029, 4.750% Notes due 2031, 4.900% Notes due
-      2034, 5.250% Notes due 2044 and 5.300% Notes due 2054.
-    questions_and_answers:
-      - question: |
-          When were IBM's By-Laws last amended?
-        answer: |
-          IBM's By-Laws were last amended through December 12, 2023.
-      - question: |
-          What were IBM's most recent debt issuances in 2023-2024?
-        answer: >
-          IBM's recent debt issuances included 4.500% Notes due 2026 and 2028,
-          4.750% Notes due 2033, 5.100% Notes due 2053 (in 2023), and in
-          February 2024, new issuances included 4.700% Notes due 2026, 4.600%
-          Notes due 2027 and 2029, 4.750% Notes due 2031, 4.900% Notes due 2034,
-          5.250% Notes due 2044 and 5.300% Notes due 2054.
+          IBM manages reserves through: 1) Regular monitoring of Credit Loss
+          allowances; 2) Maintenance of Inventory Loss provisions; 3) Active
+          management of Revenue Based Provisions; 4) Balanced approach to
+          additions and write-offs; 5) Strategic reserve management for
+          financial stability.
   - context: >
       IBM maintains several credit agreements, including a $2,500,000,000
-      Three-Year Credit Agreement dated June 22, 2021 (amended June 30, 2022)
-      and a $7,500,000,000 Five-Year Credit Agreement dated June 22, 2021
-      (amended June 30, 2022). Both agreements received Confirmation of
-      Termination Date Extensions on June 15, 2023. The agreements involve
-      multiple banks and financial institutions with JPMorgan Chase Bank, N.A.
-      serving as Administrative Agent, and BNP Paribas, Citibank N.A. and Royal
-      Bank of Canada as Syndication Agents.
+      Three-Year Credit Agreement and a $7,500,000,000 Five-Year Credit
+      Agreement, both dated June 22, 2021, and amended June 30, 2022. The
+      agreements received Confirmation of Termination Date Extensions on June
+      15, 2023, and involve multiple banks with JPMorgan Chase Bank, N.A. as
+      Administrative Agent, and BNP Paribas, Citibank N.A., and Royal Bank of
+      Canada as Syndication Agents.
     questions_and_answers:
       - question: |
-          What are IBM's major credit agreements?
+          What are IBM's major credit facilities?
         answer: >
-          IBM maintains two major credit agreements: a $2,500,000,000 Three-Year
-          Credit Agreement and a $7,500,000,000 Five-Year Credit Agreement, both
-          dated June 22, 2021 and amended June 30, 2022.
+          IBM's major credit facilities include: 1) $2,500,000,000 Three-Year
+          Credit Agreement; 2) $7,500,000,000 Five-Year Credit Agreement; 3)
+          Both agreements dated June 22, 2021; 4) Amendments made on June 30,
+          2022; 5) Extensions confirmed on June 15, 2023.
       - question: |
-          Who are the key banks involved in IBM's credit agreements?
+          How does IBM structure its banking relationships?
         answer: >
-          The key banks involved include JPMorgan Chase Bank, N.A. as
-          Administrative Agent, and BNP Paribas, Citibank N.A. and Royal Bank of
-          Canada as Syndication Agents.
+          IBM's banking structure includes: 1) JPMorgan Chase Bank, N.A. as
+          Administrative Agent; 2) BNP Paribas as Syndication Agent; 3) Citibank
+          N.A. as Syndication Agent; 4) Royal Bank of Canada as Syndication
+          Agent; 5) Multiple participating banks in the agreements.
       - question: |
-          What recent updates were made to IBM's credit agreements?
+          What recent changes occurred in IBM's credit agreements?
         answer: >
-          Both the Three-Year and Five-Year Credit Agreements received
-          Confirmation of Termination Date Extensions on June 15, 2023.
+          Recent changes included: 1) Amendment of both agreements on June 30,
+          2022; 2) Confirmation of Termination Date Extensions on June 15, 2023;
+          3) Maintenance of existing credit facility amounts; 4) Continuation of
+          banking relationships; 5) Strategic management of credit facilities.
   - context: >
-      IBM maintains several compensation and governance plans, including the
-      IBM Red Hat Acquisition Long-Term Performance Plan, the IBM 1999 Long-Term
-      Performance Plan, and the IBM 1997 Long-Term Performance Plan. The company
-      also has Form of Noncompetition Agreements that have been updated
-      annually, with the most recent version filed for the year ended December
-      31, 2022.
+      IBM's debt management strategy includes various securities with
+      different maturities and interest rates. Recent debt issuances in
+      2023-2024 included 4.500% Notes due 2026 and 2028, 4.750% Notes due 2033,
+      5.100% Notes due 2053, and in February 2024, new issuances included
+      multiple series of Notes with rates ranging from 4.600% to 5.300% and
+      maturities from 2026 to 2054.
     questions_and_answers:
       - question: |
-          What are IBM's key compensation plans?
+          What are IBM's recent debt issuances?
         answer: >
-          IBM's key compensation plans include the IBM Red Hat Acquisition
-          Long-Term Performance Plan, the IBM 1999 Long-Term Performance Plan,
-          and the IBM 1997 Long-Term Performance Plan.
+          Recent debt issuances include: 1) 4.500% Notes due 2026 and 2028; 2)
+          4.750% Notes due 2033; 3) 5.100% Notes due 2053; 4) February 2024
+          issuances with rates from 4.600% to 5.300%; 5) Maturities ranging from
+          2026 to 2054.
       - question: |
-          How does IBM handle noncompetition agreements?
+          How does IBM structure its debt portfolio?
         answer: >
-          IBM maintains Form of Noncompetition Agreements that are updated
-          annually, with the most recent version filed for the year ended
-          December 31, 2022.
-document_outline: >
-  Annual Report (Form 10-K) from 2020 to 2024 for IBM
-  Corporation containing comprehensive information about the company's business
-  and financial performance. 
-
-  The document includes corporate information, risk factors, financial statements, management discussion and analysis, 
-
-  and detailed information about operations, market conditions, and corporate governance. Key sections cover business strategy, 
-
-  cybersecurity measures, executive compensation, and various financial metrics including allowances, provisions, and debt securities.
+          IBM's debt portfolio structure includes: 1) Various maturity dates
+          spanning multiple decades; 2) Interest rates ranging from 4.500% to
+          5.300%; 3) Strategic timing of new issuances; 4) Balanced mix of
+          medium and long-term debt; 5) Regular refinancing activities.
+      - question: |
+          What is IBM's approach to debt management?
+        answer: >
+          IBM's debt management approach includes: 1) Regular issuance of new debt
+          securities; 2) Strategic selection of maturities and rates; 3)
+          Balanced portfolio of debt instruments; 4) Active management of
+          financing costs; 5) Long-term financing strategy implementation.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

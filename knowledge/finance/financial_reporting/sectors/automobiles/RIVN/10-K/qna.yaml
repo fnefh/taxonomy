@@ -157,6 +157,78 @@ seed_examples:
           brand partnerships, and community outreach. This integrated strategy
           enables efficient scaling while maintaining direct relationships with
           customers throughout the vehicle lifecycle.
+  - context: >
+      From 2021 to 2023, Rivian's financial performance reflected its
+      transition from development to production and scaling. Revenue grew from
+      $55 million in 2021 to $1.66 billion in 2022, and further to $4.43 billion
+      in 2023. Operating expenses evolved with R&D decreasing from $2.1B in 2021
+      to $1.89B in 2023 as programs matured, while SG&A grew from $1.76B to
+      $1.82B supporting commercial expansion. The company maintained a strong
+      cash position of $9.1B by end of 2023, while reducing net loss from $4.7B
+      in 2021 to $4.0B in 2023 through improved operational efficiency.
+    questions_and_answers:
+      - question: How did Rivian's revenue and cost structure evolve from 2021 to 2023?
+        answer: >
+          Rivian demonstrated significant revenue growth from $55M in 2021 to
+          $4.43B in 2023, reflecting successful production scaling and market
+          penetration. Operating expenses showed strategic evolution with R&D
+          costs decreasing from $2.1B to $1.89B as development programs matured,
+          while SG&A expenses grew moderately from $1.76B to $1.82B to support
+          commercial expansion. This evolution reflects the company's transition
+          from development to commercial operations.
+      - question: What progress did Rivian make in financial efficiency and loss
+          reduction?
+        answer: >
+          Rivian showed improved financial efficiency by reducing net loss from
+          $4.7B in 2021 to $4.0B in 2023 through better operational management
+          and scaling benefits. The company maintained strong liquidity with
+          $9.1B cash position by end of 2023, while demonstrating better cost
+          control and operational efficiency. Key improvements included reduced
+          per-unit production costs and more efficient capital deployment across
+          operations.
+      - question: How did Rivian's capital allocation strategy evolve during this period?
+        answer: >
+          Capital allocation evolved strategically: 1) Maintained strong cash
+          position of $9.1B supporting growth initiatives 2) Reduced R&D
+          spending as programs matured while increasing commercial investments
+          3) Balanced investments between current operations and future growth
+          projects 4) Focused on operational efficiency improvements and
+          strategic infrastructure development.
+  - context: >
+      Throughout 2021-2023, Rivian advanced its technology platform
+      significantly, particularly in battery systems, vehicle architecture, and
+      software capabilities. The company's proprietary battery management system
+      achieved 15% improvement in energy density while reducing costs by 25%.
+      Vehicle software development included over 200 new features through OTA
+      updates, improving range efficiency by 12% and adding advanced driver
+      assistance capabilities. The company's integrated technology stack
+      expanded to include advanced telematics, predictive maintenance, and
+      enhanced user interface features, supporting both consumer and commercial
+      applications.
+    questions_and_answers:
+      - question: How did Rivian's battery technology evolve from 2021 to 2023?
+        answer: >
+          Rivian's battery technology showed significant advancement: 1) 15%
+          improvement in energy density through proprietary management system 2)
+          25% reduction in battery costs through design optimization 3) Enhanced
+          thermal management improving charging speed and battery life 4)
+          Development of next-generation battery architecture for future vehicle
+          platforms.
+      - question: What progress was made in software and connectivity capabilities?
+        answer: >
+          Software capabilities expanded substantially with: 1) Over 200 new
+          features deployed through OTA updates 2) 12% improvement in range
+          efficiency through software optimization 3) Enhanced driver assistance
+          features and safety systems 4) Advanced telematics and predictive
+          maintenance capabilities supporting fleet operations.
+      - question: How did Rivian's integrated technology platform advance during this
+          period?
+        answer: >
+          The integrated technology platform evolved through: 1) Development of
+          comprehensive vehicle software architecture 2) Enhanced user interface
+          and experience features 3) Advanced connectivity supporting both
+          consumer and commercial applications 4) Improved integration between
+          vehicle systems, cloud services, and mobile applications.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

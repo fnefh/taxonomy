@@ -108,6 +108,67 @@ seed_examples:
           efficiency. The integrated  model enabled successful integration of
           acquisitions, support for new investment  vehicles, and enhancement of
           distribution capabilities while preserving investment  team autonomy.
+  - context: >
+      From 2020 to 2023, Victory Capital demonstrated strong financial
+      performance with significant growth in revenue and profitability. Revenue
+      increased from $775.4 million in 2020 to $848.8 million in 2023, while
+      maintaining industry-leading adjusted EBITDA margins above 45%. The
+      company's revenue mix diversified through expansion into alternatives and
+      growth in ETF offerings, while maintaining a focus on operational
+      efficiency and shareholder returns.
+    questions_and_answers:
+      - question: How did Victory Capital's financial metrics evolve from 2020 to 2023?
+        answer: >
+          Financial evolution included: 1) Revenue growth from $775.4M in 2020 to
+          $848.8M in 2023 2) Maintained adjusted EBITDA margins above 45%
+          throughout the period 3) Significant debt reduction and balance sheet
+          optimization 4) Consistent return of capital to shareholders through
+          dividends and share repurchases
+      - question: What changes occurred in Victory Capital's revenue mix and
+          profitability?
+        answer: >
+          Revenue mix changes included: 1) Increased contribution from
+          alternatives following New Energy Capital acquisition 2) Growth in ETF
+          revenue through expanded product offerings 3) Diversification of
+          revenue streams across investment strategies 4) Maintained strong fee
+          rates despite industry pressure through product mix optimization
+      - question: How did Victory Capital manage capital allocation and shareholder
+          returns?
+        answer: >
+          Capital management included: 1) Strategic balance between debt reduction
+          and growth investments 2) Implementation of regular dividend program
+          with consistent growth 3) Active share repurchase program returning
+          capital to shareholders 4) Maintenance of strong free cash flow
+          generation supporting capital return initiatives
+  - context: >
+      Throughout 2020-2023, Victory Capital significantly enhanced its
+      technology infrastructure and digital capabilities, investing in platform
+      modernization and client experience improvements. The company implemented
+      advanced data analytics, enhanced its digital distribution platforms, and
+      strengthened cybersecurity measures while improving operational efficiency
+      through technology adoption.
+    questions_and_answers:
+      - question: How did Victory Capital's technology infrastructure evolve during this
+          period?
+        answer: >
+          Technology evolution included: 1) Implementation of advanced data
+          analytics and reporting capabilities 2) Enhancement of digital
+          distribution platforms and client interfaces 3) Modernization of core
+          investment and operational systems 4) Integration of cloud-based
+          solutions for improved scalability
+      - question: What digital transformation initiatives were implemented?
+        answer: >
+          Digital initiatives included: 1) Enhancement of client-facing digital
+          platforms and tools 2) Implementation of improved cybersecurity and
+          risk management systems 3) Development of advanced portfolio analytics
+          capabilities 4) Integration of digital marketing and distribution
+          technologies
+      - question: How did technology investments impact operational efficiency?
+        answer: >
+          Efficiency improvements included: 1) Streamlined operational processes
+          through automation 2) Enhanced data integration across investment
+          franchises 3) Improved client service capabilities through digital
+          tools 4) Reduced operational costs through technology adoption
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -52,6 +52,14 @@ seed_examples:
           operating income and net income 
 
           grew 33% compared to the same quarter last year.
+      - question: |
+          What were the key profitability metrics for Q2 FY2024?
+        answer: >
+          Key profitability metrics included: 1) Operating income margin of 43.6%;
+          2) Net income margin of 35.3%; 3) Diluted earnings per share of $2.93;
+          4) 33% year-over-year growth in both net income and EPS; 5) Strong
+          operational efficiency demonstrated by higher operating income growth
+          compared to revenue growth.
   - context: >
       As of December 31, 2023, Microsoft had total cash, cash equivalents,
 
@@ -173,6 +181,15 @@ seed_examples:
           What was LinkedIn's performance in Q3 FY2024?
         answer: |
           LinkedIn revenue increased 10% compared to the same quarter last year.
+      - question: >
+          How did Microsoft's consumer products and services perform in Q3
+          FY2024?
+        answer: >
+          Consumer performance showed: 1) Office Consumer products and cloud
+          services revenue up 4%; 2) Microsoft 365 Consumer subscribers reached
+          80.8 million; 3) Strong growth in subscriber base; 4) Continued
+          expansion in consumer cloud services; 5) Successful monetization of
+          consumer offerings.
   - context: >
       The effective tax rate was 18% for both the three and nine months ended
 
@@ -249,6 +266,14 @@ seed_examples:
 
 
           Cash and cash equivalents grew from $18,315 million to $20,840 million.
+      - question: |
+          What was Microsoft's year-over-year growth in Q1 FY2025?
+        answer: >
+          Growth metrics included: 1) Net income increased by $2,376 million
+          (10.7%) year-over-year; 2) Total assets grew by $10,850 million from
+          FY2024 end; 3) Strong cash position maintained at $78,428 million; 4)
+          Continued momentum in financial performance; 5) Solid balance sheet
+          growth trajectory.
   - context: >
       Revenue by segment showed Productivity and Business Processes at
 
@@ -334,13 +359,8 @@ seed_examples:
           What were Microsoft's key financial results for Q2 FY2025?
         answer: >
           Microsoft reported revenue of $69,632 million (up 12%), operating income
-
-          of $31,653 million (up 17%), 
-
-
-          and net income of $24,108 million (up 10%). Diluted earnings per share were $3.23, also up 10% 
-
-
+          of $31,653 million (up 17%), and net income of $24,108 million (up
+          10%). Diluted earnings per share were $3.23, also up 10%
           year-over-year.
       - question: |
           What was Microsoft's cash position at the end of Q2 FY2025?
@@ -349,71 +369,14 @@ seed_examples:
           of $71,555 million as of 
 
           December 31, 2024.
-  - context: >
-      Revenue growth was driven by increases across segments. Intelligent
-
-      Cloud revenue increased driven by Azure. 
-
-
-      Productivity and Business Processes revenue increased driven by Microsoft 365 Commercial cloud. More 
-
-
-      Personal Computing revenue was relatively unchanged. Microsoft Cloud gross margin percentage decreased to 
-
-
-      70% driven by scaling AI infrastructure.
-    questions_and_answers:
       - question: |
-          What drove Microsoft's revenue growth in Q2 FY2025?
+          How did Microsoft's profitability metrics change in Q2 FY2025?
         answer: >
-          Revenue growth was primarily driven by Intelligent Cloud (led by Azure)
-
-          and Productivity and Business 
-
-
-          Processes (led by Microsoft 365 Commercial cloud), while More Personal Computing revenue remained 
-
-
-          relatively unchanged.
-      - question: |
-          How did Microsoft's cloud business perform in Q2 FY2025?
-        answer: |
-          While Microsoft Cloud showed strong revenue growth, its gross margin
-          percentage decreased to 70% due to 
-
-          investments in scaling AI infrastructure.
-  - context: >
-      Microsoft returned $9.7 billion to shareholders in Q2 FY2025 through
-
-      share repurchases and dividends. The 
-
-
-      company repurchased 8,209,928 shares at prices ranging from $418.02 to $440.96 per share. The Board of 
-
-
-      Directors declared a dividend of $0.83 per share on December 3, 2024, payable March 13, 2025, amounting to 
-
-
-      $6,171 million.
-    questions_and_answers:
-      - question: |
-          How much did Microsoft return to shareholders in Q2 FY2025?
-        answer: >
-          Microsoft returned $9.7 billion to shareholders through share
-
-          repurchases and dividends. The company 
-
-
-          repurchased 8,209,928 shares at prices ranging from $418.02 to $440.96 per share.
-      - question: |
-          What was Microsoft's latest dividend announcement?
-        answer: >
-          On December 3, 2024, Microsoft's Board declared a dividend of $0.83 per
-
-          share, payable March 13, 2025 
-
-
-          to shareholders of record on February 20, 2025, totaling $6,171 million.
+          Profitability changes included: 1) Operating income growth of 17%
+          outpaced revenue growth of 12%; 2) Operating margin improved to 45.5%
+          from 43.6%; 3) Net income increased 10% to $24,108 million; 4) Diluted
+          EPS grew 10% to $3.23; 5) Maintained strong cash position of $71,555
+          million.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

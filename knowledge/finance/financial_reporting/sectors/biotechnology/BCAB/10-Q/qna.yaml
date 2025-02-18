@@ -83,6 +83,55 @@ seed_examples:
           cost management 2) Optimization of resource allocation across programs
           3) Maintenance of key development programs while improving efficiency
           4) Enhanced organizational structure and capabilities
+  - context: >
+      Throughout Q3 2023-Q3 2024, BioAtla made significant progress in its
+      clinical pipeline, particularly with its lead programs BA3011 (mecbotamab
+      vedotin), BA3021 (ozuriftamab vedotin), and BA3071. The company's focus on
+      conditional activation of therapeutics showed promising developments
+      across multiple indications.
+    questions_and_answers:
+      - question: How did the lead clinical programs advance?
+        answer: >
+          Program advancements included: 1) BA3011 progression in Phase 2 study
+          for sarcoma and NSCLC 2) BA3021 advancement in Phase 2 trials for
+          NSCLC and melanoma 3) BA3071 development progress in Phase 1/2 study
+          4) Enhanced patient enrollment and data collection across programs
+      - question: What clinical data milestones were achieved?
+        answer: >
+          Key milestones included: 1) Updated efficacy data from BA3011 sarcoma
+          trials 2) Preliminary results from BA3021 NSCLC cohorts 3) Safety data
+          collection across multiple programs 4) Optimization of patient
+          selection strategies based on biomarker data
+      - question: How did the development strategy evolve?
+        answer: >
+          Strategy evolution included: 1) Refined patient selection criteria
+          across programs 2) Enhanced focus on biomarker-driven approaches 3)
+          Optimization of trial designs based on emerging data 4) Strategic
+          prioritization of most promising indications
+  - context: >
+      During Q3 2023-Q3 2024, BioAtla continued to advance its proprietary
+      CAB technology platform while strengthening its research capabilities and
+      intellectual property position. The company's innovation in conditional
+      activation showed progress in both clinical and preclinical applications.
+    questions_and_answers:
+      - question: How did the CAB platform technology advance?
+        answer: >
+          Platform advances included: 1) Enhanced understanding of conditional
+          activation mechanisms 2) Improved targeting capabilities in tumor
+          microenvironment 3) Development of new CAB variants with enhanced
+          properties 4) Expansion of platform applications across modalities
+      - question: What research and development capabilities were enhanced?
+        answer: >
+          R&D enhancements included: 1) Advancement of preclinical pipeline
+          candidates 2) Optimization of CAB technology for new targets 3)
+          Improved analytical and screening capabilities 4) Enhanced
+          understanding of mechanism of action
+      - question: How was the technology position strengthened?
+        answer: >
+          Technology strengthening included: 1) Expansion of CAB platform
+          applications 2) Development of new intellectual property 3)
+          Enhancement of biomarker strategies 4) Advancement of manufacturing
+          and analytical methods
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

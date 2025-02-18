@@ -204,6 +204,73 @@ seed_examples:
           advancing global expansion efforts and digital transformation
           initiatives, while maintaining a strong balance sheet with $1,062
           million in cash and cash equivalents.
+  - context: >
+      In Q3 2024, Kenvue's segment performance reflected continued momentum
+      across its portfolio. Self Care net sales reached $1,365 million, driven
+      by strong performance in Pain Care and Upper Respiratory. Skin Health and
+      Beauty delivered net sales of $1,268 million, with continued growth in
+      Neutrogena® and strategic repositioning of Dr.Ci:Labo. Essential Health
+      contributed $1,266 million in net sales, maintaining strong market
+      positions in Oral Care and Baby Care. The company's gross margin improved
+      to 58.5%, reflecting successful pricing initiatives and cost management
+      efforts.
+    questions_and_answers:
+      - question: |
+          How did Kenvue's individual segments perform in Q3 2024?
+        answer: >
+          Segment performance included: 1) Self Care net sales of $1,365M with
+          strong Pain Care and Upper Respiratory growth 2) Skin Health and
+          Beauty achieved $1,268M, led by Neutrogena® 3) Essential Health
+          delivered $1,266M with solid Oral and Baby Care performance 4) Overall
+          gross margin improvement to 58.5%.
+      - question: |
+          What were the key drivers of segment profitability in Q3 2024?
+        answer: >
+          Profitability drivers included: 1) Successful pricing initiatives across
+          segments 2) Enhanced cost management and operational efficiency 3)
+          Strategic brand repositioning, including Dr.Ci:Labo 4) Improved
+          product mix and category management.
+      - question: |
+          How did market dynamics affect segment performance?
+        answer: >
+          Market impacts showed: 1) Strong consumer demand in Pain Care and Upper
+          Respiratory categories 2) Competitive pressure in skincare requiring
+          strategic responses 3) Stable performance in Essential Health
+          categories 4) Successful adaptation to changing market conditions.
+  - context: >
+      Through Q3 2024, Kenvue advanced its multi-year restructuring
+      initiative while maintaining operational momentum. The company incurred
+      restructuring expenses of $31 million in Q3, bringing the year-to-date
+      total to $120 million. Key initiatives included optimization of the global
+      supply chain network, implementation of new digital capabilities, and
+      organizational redesign. The company also progressed on its new global
+      headquarters project in Summit, New Jersey, which will include
+      state-of-the-art research facilities, with corporate office transition
+      beginning in Q1 2025 and R&D facility completion expected in 2026.
+    questions_and_answers:
+      - question: >
+          What progress has Kenvue made in its restructuring initiatives through
+          Q3 2024?
+        answer: >
+          Restructuring progress included: 1) $31M in Q3 expenses, totaling $120M
+          year-to-date 2) Advancement of global supply chain optimization 3)
+          Implementation of digital transformation initiatives 4) Organizational
+          redesign for improved efficiency.
+      - question: |
+          How is Kenvue investing in infrastructure and capabilities?
+        answer: >
+          Infrastructure investments showed: 1) Progress on new Summit, NJ
+          headquarters development 2) Planning for state-of-the-art R&D
+          facilities 3) Corporate office transition scheduled for Q1 2025 4) R&D
+          facility completion targeted for 2026.
+      - question: >
+          What operational improvements have resulted from the restructuring
+          program?
+        answer: >
+          Operational improvements included: 1) Enhanced supply chain efficiency
+          2) Advanced digital capabilities implementation 3) Streamlined
+          organizational structure 4) Improved cost management and operational
+          processes.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

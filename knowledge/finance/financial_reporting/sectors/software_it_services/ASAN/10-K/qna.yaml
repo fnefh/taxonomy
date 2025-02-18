@@ -133,6 +133,72 @@ seed_examples:
           users to  paying customers; 4) Competing in a rapidly evolving
           market;  5) Maintaining technology leadership with AI advancement; 6)
           Retaining  and expanding customer base in varying economic conditions.
+  - context: >
+      For fiscal year 2024, Asana reported revenue of $642.1 million,
+      representing a 19% increase from the previous year. The company achieved
+      significant improvements in operating efficiency, with operating margins
+      improving by 1,800 basis points year-over-year. Non-GAAP operating loss
+      decreased to $114.2 million from $214.3 million in fiscal year 2023.
+    questions_and_answers:
+      - question: |
+          What were Asana's key financial metrics for fiscal year 2024?
+        answer: >
+          Financial performance included: 1) Revenue growth of 19% to $642.1
+          million; 2) Operating margin improvement of 1,800 basis points; 3)
+          Reduced non-GAAP operating loss to $114.2 million; 4) Improved gross
+          margin of 90%; 5) Strong cash position with $523.1 million in cash and
+          marketable securities; 6) Reduced operating expenses as percentage of
+          revenue by 18 percentage points.
+      - question: |
+          How has Asana's operational efficiency evolved in fiscal year 2024?
+        answer: >
+          Operational improvements shown through: 1) Significant operating margin
+          enhancement; 2) Reduced sales and marketing expenses as percentage of
+          revenue; 3) Improved R&D efficiency and product development cycles; 4)
+          Enhanced resource allocation across growth initiatives; 5) Streamlined
+          organizational structure; 6) Optimized go-to-market investments.
+      - question: |
+          What financial strategies is Asana implementing for future growth?
+        answer: >
+          Strategic initiatives include: 1) Balanced investment in growth and
+          efficiency; 2) Focus on enterprise customer expansion; 3) Optimization
+          of sales and marketing spend; 4) Strategic pricing and packaging
+          improvements; 5) Investment in AI capabilities for competitive
+          advantage; 6) Continued focus on international market expansion.
+  - context: >
+      Asana's international expansion showed strong momentum in fiscal year
+      2024, with international revenue growing to represent 45% of total
+      revenue. The company expanded its global presence through enhanced
+      localization, strategic partnerships, and increased investment in regional
+      sales and marketing teams. Customer growth was particularly strong in
+      Europe and Asia-Pacific regions.
+    questions_and_answers:
+      - question: |
+          How is Asana performing in international markets?
+        answer: >
+          International performance shows: 1) 45% of total revenue from
+          international markets; 2) Strong growth in Europe and Asia-Pacific
+          regions; 3) Expanded presence in key markets through localization; 4)
+          Increased regional sales and marketing teams; 5) Growing enterprise
+          customer base across international markets; 6) Enhanced global partner
+          ecosystem.
+      - question: |
+          What strategies drive Asana's international expansion?
+        answer: >
+          International strategies include: 1) Enhanced product localization in
+          multiple languages; 2) Strategic partnerships with regional system
+          integrators; 3) Targeted marketing campaigns for specific regions; 4)
+          Investment in local customer success teams; 5) Adaptation to regional
+          compliance requirements; 6) Development of region-specific
+          go-to-market strategies.
+      - question: |
+          What challenges and opportunities exist in international markets?
+        answer: >
+          Key considerations include: 1) Varying market maturity levels across
+          regions; 2) Different regulatory requirements by country; 3)
+          Competition from local providers; 4) Currency exchange rate
+          fluctuations; 5) Cultural adaptation of product and marketing; 6)
+          Building brand awareness in new markets.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

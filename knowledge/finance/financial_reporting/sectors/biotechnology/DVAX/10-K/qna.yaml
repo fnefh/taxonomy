@@ -98,6 +98,66 @@ seed_examples:
           collaborations 3) Expansion of pipeline leveraging proprietary
           technology 4) Focus on high-value vaccine markets with unmet needs 5)
           Strategic positioning as vaccine technology leader
+  - context: Pipeline Development & Clinical Progress (2020-2023)
+    questions_and_answers:
+      - question: What are the key pipeline programs under development and their current
+          status?
+        answer: >
+          Key developments include: 1) Shingles vaccine program (Z-1018) with
+          completed Phase 1 trial showing high antibody and CD4+ T-cell response
+          rates 2) Tdap vaccine program (Tdap-1018) advancing with positive
+          Phase 1 safety data and planned Phase 2 human challenge study in 2024
+          3) Plague vaccine program in Phase 2 with DoD collaboration expanded
+          to $33.7M through 2025 4) Successful completion of CpG 1018 adjuvant
+          supply partnerships for COVID-19 vaccines 5) Strategic focus on
+          developing improved vaccines in indications with unmet medical needs
+      - question: How has the company's R&D strategy and capabilities evolved?
+        answer: >
+          Evolution includes: 1) Advancement of proprietary CpG 1018 adjuvant
+          platform across multiple vaccine candidates 2) Expansion of clinical
+          development infrastructure and expertise 3) Strategic partnerships
+          including SIIPL for Tdap development and DoD for plague vaccine 4)
+          Focus on indications with significant market opportunities like
+          shingles ($4B market) 5) Development of multiple clinical-stage
+          programs leveraging proven adjuvant technology
+      - question: What are the key milestones and development timelines for pipeline
+          programs?
+        answer: >
+          Milestones include: 1) Z-1018 IND submission and planned Phase 1/2 trial
+          initiation in H1 2024 2) Tdap-1018 Phase 2 human challenge study
+          planned for H2 2024 3) Plague vaccine Phase 2 data expected in 2024 4)
+          Ongoing development of manufacturing capabilities and scale-up
+          activities 5) Strategic advancement of programs targeting major
+          vaccine markets
+  - context: Regulatory Compliance & Market Authorization Strategy (2020-2023)
+    questions_and_answers:
+      - question: What are the key regulatory frameworks and compliance requirements
+          affecting the company?
+        answer: >
+          Requirements include: 1) FDA regulations for clinical development,
+          manufacturing, and commercialization in the US 2) EMA and UK MHRA
+          requirements for European and British markets 3) Comprehensive
+          pharmacovigilance and safety monitoring systems 4) GMP compliance for
+          manufacturing facilities 5) Post-marketing commitments and ongoing
+          regulatory obligations
+      - question: How has the company managed regulatory approvals and compliance across
+          different markets?
+        answer: >
+          Management includes: 1) Successful HEPLISAV-B approvals in US, EU, and
+          UK markets 2) Implementation of post-marketing surveillance and safety
+          monitoring 3) Maintenance of manufacturing quality systems and GMP
+          compliance 4) Strategic approach to clinical trial designs and
+          regulatory submissions 5) Active engagement with regulatory
+          authorities across jurisdictions
+      - question: What are the key regulatory strategies and challenges for pipeline
+          programs?
+        answer: >
+          Strategies include: 1) Early engagement with regulatory authorities
+          through Type B meetings 2) Development of comprehensive clinical
+          development plans 3) Focus on meeting post-marketing obligations for
+          approved products 4) Strategic planning for international regulatory
+          submissions 5) Management of complex regulatory requirements across
+          multiple jurisdictions
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

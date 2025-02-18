@@ -118,6 +118,77 @@ seed_examples:
           to better align with market opportunities and implementing new
           technologies including AI and data analytics to enhance consumer
           insights and research.
+  - context: >
+      In fiscal year 2024, PepsiCo reported net revenue of $91.5 billion, a
+      5.9% increase from 2023, driven by effective revenue management and growth
+      across segments. Operating profit was $11.6 billion, with a net income of
+      $8.3 billion. The company's international business contributed
+      significantly, with developing and emerging markets showing strong growth.
+      Capital spending was $6.5 billion, primarily for manufacturing and
+      distribution facilities, while returning $7.7 billion to shareholders
+      through dividends and share repurchases.
+    questions_and_answers:
+      - question: |
+          What were PepsiCo's key financial metrics in FY2024?
+        answer: >
+          PepsiCo achieved net revenue of $91.5 billion in FY2024, representing a
+          5.9% increase from 2023. The company reported operating profit of
+          $11.6 billion and net income of $8.3 billion. Capital spending reached
+          $6.5 billion, focused on manufacturing and distribution facilities,
+          while returning $7.7 billion to shareholders through dividends and
+          share repurchases.
+      - question: |
+          How did PepsiCo's international operations perform?
+        answer: >
+          International operations showed strong performance, particularly in
+          developing and emerging markets. The company's global presence and
+          diverse portfolio contributed significantly to overall revenue growth,
+          demonstrating successful market penetration and effective revenue
+          management strategies across different regions.
+      - question: |
+          What were the major capital allocation priorities?
+        answer: >
+          PepsiCo's capital allocation focused on investing in manufacturing and
+          distribution facilities ($6.5 billion in capital spending) while
+          maintaining strong shareholder returns through dividends and share
+          repurchases totaling $7.7 billion. This balanced approach supported
+          both growth initiatives and shareholder value creation.
+  - context: >
+      PepsiCo's sustainability initiatives in 2024 included significant
+      progress in water stewardship, sustainable agriculture, and packaging
+      innovation. The company achieved a 25% reduction in absolute GHG emissions
+      across its value chain from 2015 baseline, replenished more than 100% of
+      water used in high water-risk areas, and increased recycled content in
+      packaging. Their pep+ (PepsiCo Positive) strategy integrates
+      sustainability into business operations, focusing on positive agriculture,
+      positive value chain, and positive choices.
+    questions_and_answers:
+      - question: |
+          What progress has PepsiCo made in sustainability?
+        answer: >
+          PepsiCo achieved significant sustainability milestones in 2024,
+          including a 25% reduction in absolute GHG emissions from 2015
+          baseline, water replenishment exceeding 100% in high-risk areas, and
+          increased use of recycled content in packaging. These achievements
+          align with their pep+ strategy for sustainable business
+          transformation.
+      - question: |
+          How does PepsiCo implement its pep+ strategy?
+        answer: >
+          The pep+ strategy integrates sustainability into core business
+          operations through three pillars: positive agriculture (sustainable
+          farming practices), positive value chain (environmental impact
+          reduction), and positive choices (healthier product options). This
+          comprehensive approach ensures sustainability is embedded across the
+          entire business ecosystem.
+      - question: |
+          What are PepsiCo's key environmental initiatives?
+        answer: >
+          Key environmental initiatives include water stewardship programs,
+          sustainable agriculture practices, packaging innovation for increased
+          recyclability, and GHG emissions reduction across the value chain. The
+          company focuses on measurable impacts and integrates these initiatives
+          into its operational strategy and business planning.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

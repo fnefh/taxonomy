@@ -147,6 +147,78 @@ seed_examples:
           management programs, and operational efficiency improvements. The
           company's established market presence and brand recognition provide a
           foundation for potential recovery and growth.
+  - context: >
+      For Q3 2024 ended October 6, 2024, Red Robin reported total revenues of
+      $277.5 million, with restaurant revenue of $271.2 million and franchise
+      royalties of $4.1 million. The company's net loss was $8.7 million ($0.55
+      per diluted share). Operating performance showed mixed results with
+      restaurant-level operating profit margin at 11.8%, while cost management
+      initiatives continued across labor, food, and other operating expenses.
+      The company maintained focus on its strategic initiatives including menu
+      optimization and operational efficiency improvements.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q3 2024?
+        answer: >
+          Red Robin reported total revenues of $277.5 million in Q3 2024,
+          comprising $271.2 million in restaurant revenue and $4.1 million in
+          franchise royalties. The company recorded a net loss of $8.7 million
+          ($0.55 per diluted share), while maintaining a restaurant-level
+          operating profit margin of 11.8%. These results reflect ongoing
+          challenges in the operating environment while showing some success in
+          cost management initiatives.
+      - question: |
+          How effective were cost management efforts in Q3 2024?
+        answer: >
+          The company demonstrated ongoing cost management efforts across multiple
+          areas including labor, food, and other operating expenses. The
+          restaurant-level operating profit margin of 11.8% reflects these
+          initiatives, though challenges remained in maintaining profitability.
+          The company continued to focus on operational efficiency improvements
+          and strategic cost control measures.
+      - question: |
+          What progress was made on strategic initiatives?
+        answer: >
+          Red Robin continued to advance its strategic initiatives including menu
+          optimization and operational efficiency improvements. The company
+          maintained focus on enhancing restaurant operations while managing
+          costs effectively. These efforts were aimed at improving profitability
+          and operational performance in a challenging market environment.
+  - context: >
+      For Q2 2024 ended July 14, 2024, Red Robin's financial results showed
+      total revenues of $298.7 million, with restaurant revenue of $292.3
+      million. The company executed additional sale-leaseback transactions,
+      generating proceeds of $8.1 million and resulting in a net gain of $2.7
+      million. Operating performance included continued focus on cost management
+      and efficiency initiatives, while maintaining investment in strategic
+      growth opportunities and technology infrastructure. The company also
+      progressed on its menu optimization and guest experience enhancement
+      programs.
+    questions_and_answers:
+      - question: |
+          How did Red Robin perform financially in Q2 2024?
+        answer: >
+          In Q2 2024, Red Robin generated total revenues of $298.7 million, with
+          restaurant revenue accounting for $292.3 million. The company
+          completed strategic sale-leaseback transactions generating $8.1
+          million in proceeds with a net gain of $2.7 million, demonstrating
+          continued focus on portfolio optimization and capital generation.
+      - question: |
+          What strategic transactions were completed in Q2 2024?
+        answer: >
+          The company executed sale-leaseback transactions that generated proceeds
+          of $8.1 million and resulted in a net gain of $2.7 million. These
+          transactions aligned with Red Robin's ongoing strategy to optimize its
+          real estate portfolio and generate capital for operational
+          improvements and debt reduction.
+      - question: |
+          What operational initiatives were prioritized in Q2 2024?
+        answer: >
+          Red Robin maintained focus on cost management and efficiency initiatives
+          while investing in strategic growth opportunities and technology
+          infrastructure. The company advanced its menu optimization efforts and
+          guest experience enhancement programs, demonstrating commitment to
+          operational excellence and customer satisfaction.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

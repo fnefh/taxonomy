@@ -199,6 +199,72 @@ seed_examples:
           contractors accounting for 58% of production and the top five apparel
           manufacturers handling 54% of production, while maintaining
           relationships with 139 strategic Tier 2 suppliers for raw materials.
+  - context: >
+      From fiscal 2021 to 2024, Nike demonstrated strong financial
+      performance with revenue growing from $44.5 billion to $51.2 billion,
+      representing a 15.1% increase. Gross margin averaged 44.8% during this
+      period, while digital sales reached 25% of total revenue by 2024. The
+      company maintained strong profitability with operating income increasing
+      from $7.0 billion to $7.8 billion, despite inflationary pressures and
+      supply chain challenges. Nike's direct-to-consumer business grew
+      significantly, accounting for approximately 42% of total brand revenue in
+      fiscal 2024.
+    questions_and_answers:
+      - question: >
+          How did Nike's revenue and profitability evolve from fiscal 2021 to
+          2024?
+        answer: >
+          Financial evolution included: 1) Revenue growth from $44.5B to $51.2B, a
+          15.1% increase 2) Operating income improvement from $7.0B to $7.8B 3)
+          Maintained gross margin around 44.8% despite market pressures 4)
+          Strong cash flow generation supporting shareholder returns and
+          investments.
+      - question: |
+          What trends emerged in Nike's direct-to-consumer and digital business?
+        answer: >
+          DTC and digital trends showed: 1) Digital sales reaching 25% of total
+          revenue by 2024 2) Direct-to-consumer business growing to 42% of brand
+          revenue 3) Enhanced digital capabilities driving online engagement 4)
+          Improved omnichannel integration across retail platforms.
+      - question: |
+          How did Nike manage its financial position through market challenges?
+        answer: >
+          Financial management included: 1) Effective cost control measures
+          despite inflation 2) Strategic pricing initiatives maintaining margins
+          3) Supply chain optimization reducing operational costs 4) Balanced
+          investment in growth initiatives while maintaining profitability.
+  - context: >
+      Nike's digital transformation from 2021 to 2024 focused on enhancing
+      consumer connections and operational efficiency. The company invested
+      significantly in its digital ecosystem, including the NIKE App, SNKRS App,
+      and nike.com platform. Digital engagement metrics showed strong growth,
+      with mobile app revenue increasing by 40% annually and membership reaching
+      300 million active users by 2024. Nike's investment in data analytics and
+      AI capabilities enhanced personalization, inventory management, and supply
+      chain efficiency, while digital innovation in product design reduced
+      development time by 30%.
+    questions_and_answers:
+      - question: >
+          What were the key components of Nike's digital transformation strategy?
+        answer: >
+          Digital strategy included: 1) Enhancement of digital ecosystem across
+          NIKE App, SNKRS App, and nike.com 2) Investment in data analytics and
+          AI capabilities 3) Focus on mobile-first consumer engagement 4)
+          Integration of digital tools in product development and design.
+      - question: |
+          How did Nike's digital engagement metrics evolve during this period?
+        answer: >
+          Digital engagement showed: 1) Mobile app revenue growth of 40% annually
+          2) Membership base reaching 300 million active users 3) Increased
+          digital platform adoption across markets 4) Enhanced consumer
+          personalization driving engagement.
+      - question: |
+          What operational improvements resulted from digital investments?
+        answer: >
+          Operational benefits included: 1) 30% reduction in product development
+          time 2) Improved inventory management through data analytics 3)
+          Enhanced supply chain efficiency through digital tools 4) Better
+          demand forecasting and production planning.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

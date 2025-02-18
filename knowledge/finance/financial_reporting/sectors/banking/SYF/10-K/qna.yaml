@@ -151,6 +151,64 @@ seed_examples:
           changes reflect Synchrony's strategy to diversify its product
           offerings while maintaining strong performance in its core credit card
           business.
+  - context: >
+      From 2021 to 2023, Synchrony significantly enhanced its risk management
+      framework and credit performance metrics. Net charge-off rates normalized
+      from historic lows of 2.92% in 2021 to 4.85% in 2023, while maintaining
+      strong risk-adjusted returns. The company strengthened its underwriting
+      capabilities through advanced analytics and machine learning, while
+      expanding its collection strategies and loss mitigation tools. Reserve
+      coverage remained robust at 10.2% of loan receivables in 2023, reflecting
+      prudent risk management in an evolving credit environment.
+    questions_and_answers:
+      - question: How did Synchrony's risk management capabilities evolve from 2021 to
+          2023?
+        answer: >
+          Risk management evolution included: 1) Enhancement of underwriting
+          models with advanced analytics and machine learning 2) Expansion of
+          collection strategies and loss mitigation tools 3) Strengthening of
+          fraud prevention capabilities through digital authentication 4)
+          Development of platform-specific risk management approaches
+      - question: What trends emerged in credit performance and reserve management?
+        answer: >
+          Credit trends showed: 1) Net charge-off rates normalized from 2.92% in
+          2021 to 4.85% in 2023 2) Reserve coverage maintained at 10.2% of loan
+          receivables 3) 30+ day delinquency rates increased from 2.62% to 3.98%
+          4) Strong risk-adjusted returns maintained across platforms
+      - question: How did Synchrony adapt its underwriting and collection strategies?
+        answer: >
+          Strategy adaptation included: 1) Implementation of enhanced credit
+          scoring models 2) Development of targeted collection approaches by
+          platform 3) Integration of alternative data sources in underwriting 4)
+          Enhancement of early warning systems for credit deterioration
+  - context: >
+      Throughout 2021-2023, Synchrony made substantial investments in its
+      technology infrastructure and digital capabilities, with technology
+      spending increasing from $1.1 billion to $1.4 billion annually. The
+      company modernized its core systems, enhanced its cloud infrastructure,
+      and strengthened cybersecurity measures. Digital engagement metrics
+      improved significantly, with mobile app active users growing by 25% and
+      digital payment transactions increasing by 35% during this period.
+    questions_and_answers:
+      - question: How did Synchrony's technology infrastructure evolve from 2021 to 2023?
+        answer: >
+          Infrastructure evolution included: 1) Increased technology investment
+          from $1.1B to $1.4B annually 2) Modernization of core processing
+          systems 3) Enhancement of cloud computing capabilities 4)
+          Strengthening of cybersecurity and data protection measures
+      - question: What improvements were achieved in digital engagement and capabilities?
+        answer: >
+          Digital improvements included: 1) 25% growth in mobile app active users
+          2) 35% increase in digital payment transactions 3) Enhanced digital
+          onboarding and servicing capabilities 4) Improved integration with
+          partner platforms and payment systems
+      - question: How did technology investments impact business operations and
+          efficiency?
+        answer: >
+          Operational impacts included: 1) Reduced transaction processing times 2)
+          Improved customer service response rates 3) Enhanced fraud detection
+          capabilities 4) Increased automation of routine processes and
+          decisions
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

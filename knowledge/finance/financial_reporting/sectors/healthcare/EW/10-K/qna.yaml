@@ -154,6 +154,82 @@ seed_examples:
           technology, 4) Successfully executing the Critical Care spin-off, and
           5) Continuing investment in R&D and clinical evidence generation to
           support future growth.
+  - context: >
+      In 2023, Edwards Lifesciences demonstrated strong financial performance
+      with significant investments in growth initiatives. The company maintained
+      a solid balance sheet with $1.14 billion in cash and cash equivalents,
+      while continuing to invest in research and development. The company's
+      market capitalization reached $56.8 billion as of June 30, 2023.
+    questions_and_answers:
+      - question: >
+          What were the key financial metrics and balance sheet highlights in
+          2023?
+        answer: >
+          Key financial metrics included: 1) Cash and cash equivalents of $1.14
+          billion, demonstrating strong liquidity, 2) Market capitalization of
+          $56.8 billion as of mid-2023, 3) Significant investment portfolio of
+          $963.2 million in debt securities, 4) Strong working capital position
+          with $4.04 billion in current assets, and 5) Continued investment in
+          property, plant, and equipment totaling $1.75 billion.
+      - question: |
+          How does Edwards manage its capital and investment strategy?
+        answer: >
+          Edwards' capital management includes: 1) Maintaining a diversified
+          investment portfolio with an average maturity of 0.53 years, 2)
+          Strategic management of $600 million in fixed-rate notes, 3) Access to
+          a $750 million credit facility for financial flexibility, 4) Balanced
+          approach to capital allocation between R&D, infrastructure, and
+          shareholder returns, and 5) Prudent management of foreign currency
+          exposure through hedging strategies.
+      - question: |
+          What are the key financial risks and mitigation strategies?
+        answer: >
+          Financial risk management includes: 1) Currency risk mitigation through
+          $2.1 billion in foreign exchange contracts, 2) Interest rate risk
+          management for investment portfolio and debt obligations, 3)
+          Diversification of investments across financial institutions to
+          minimize credit risk, 4) Strategic pricing and reimbursement
+          strategies across different healthcare systems, and 5) Comprehensive
+          working capital management focusing on inventory and receivables.
+  - context: >
+      Edwards Lifesciences achieved significant technological advancements in
+      2023, particularly in transcatheter therapies. The EVOQUE system received
+      CE Mark approval for tricuspid regurgitation treatment and subsequent FDA
+      approval in early 2024, becoming the world's first approved transcatheter
+      tricuspid valve replacement therapy. The company's SAPIEN platform has
+      impacted over one million patient lives since launch.
+    questions_and_answers:
+      - question: |
+          What were the major technological achievements in 2023?
+        answer: >
+          Key achievements included: 1) EVOQUE system's CE Mark approval for
+          tricuspid regurgitation treatment, 2) SAPIEN platform reaching the
+          milestone of one million patient lives impacted, 3) Continued success
+          of PASCAL PRECISION system in mitral valve repair, 4) Expansion of
+          SAPIEN 3 platform with THV-in-THV indication for high-risk patients,
+          and 5) Development of Alterra system for pulmonary valve replacement
+          in congenital heart disease.
+      - question: |
+          How does Edwards advance its product development pipeline?
+        answer: >
+          Product development advances through: 1) Significant R&D investment
+          representing 18% of sales, 2) Focus on transcatheter structural heart
+          programs and clinical research, 3) Strong clinical evidence
+          generation, including the PARTNER 3 Trial showing excellent long-term
+          outcomes, 4) Continuous innovation in valve technologies and delivery
+          systems, and 5) Strategic partnerships with leading clinicians and
+          research institutions.
+      - question: >
+          What are the key clinical outcomes and evidence supporting Edwards'
+          technologies?
+        answer: >
+          Clinical evidence includes: 1) PARTNER 3 Trial demonstrating 99% freedom
+          from stroke or mortality at 1 year and 90% at 5 years, 2) Successful
+          outcomes with PASCAL PRECISION system in mitral valve repair, 3)
+          Positive clinical data supporting EVOQUE system approval for tricuspid
+          regurgitation, 4) Strong performance of SAPIEN 3 platform in various
+          patient populations, and 5) Demonstrated success of RESILIA tissue
+          technology in surgical heart valves.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

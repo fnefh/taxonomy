@@ -300,6 +300,72 @@ seed_examples:
           customer-centric approach enables focused innovation and service
           delivery while maintaining Ford's position as a full-line vehicle
           manufacturer across conventional, electric, and commercial segments.
+  - context: >
+      From 2021 to 2024, Ford significantly advanced its electric vehicle
+      transition, with EV production capacity expanding from 200,000 units
+      annually to over 600,000 units. The company invested $17.8 billion in EV
+      development and manufacturing capabilities, including the BlueOval City
+      complex in Tennessee and battery plants in Kentucky. EV sales grew from
+      27,140 units in 2021 to 72,608 units in 2023, representing a 167.5%
+      increase, while market share in the EV segment reached 7.8% in North
+      America.
+    questions_and_answers:
+      - question: How did Ford's EV production capacity and sales evolve from 2021 to
+          2024?
+        answer: >
+          Ford demonstrated significant EV growth with production capacity
+          expanding from 200,000 to over 600,000 units annually. Sales increased
+          by 167.5% from 27,140 units in 2021 to 72,608 units in 2023, supported
+          by $17.8 billion in investments across development and manufacturing
+          capabilities. The company achieved 7.8% market share in the North
+          American EV segment through this expansion.
+      - question: What key investments did Ford make in EV infrastructure during this
+          period?
+        answer: >
+          Ford made substantial investments including: 1) Development of the
+          BlueOval City complex in Tennessee 2) Establishment of battery
+          manufacturing plants in Kentucky 3) $17.8 billion total investment in
+          EV development and manufacturing 4) Enhancement of existing facilities
+          for EV production capabilities.
+      - question: How has Ford's competitive position in the EV market evolved?
+        answer: >
+          Ford's EV market position strengthened through: 1) Achievement of 7.8%
+          market share in North America 2) Expansion of production capacity to
+          over 600,000 units annually 3) Development of comprehensive EV
+          infrastructure 4) Strategic positioning across multiple EV segments
+          including commercial vehicles.
+  - context: >
+      Throughout 2021-2024, Ford transformed its global manufacturing
+      footprint, optimizing from 41 major facilities in 2021 to 37 in 2024 while
+      increasing overall production efficiency. The company invested $8.5
+      billion in facility modernization, focusing on flexible manufacturing
+      capabilities to support both ICE and EV production. Manufacturing capacity
+      utilization improved from 75% in 2021 to 82% in 2024, while reducing
+      production complexity by 25% through platform consolidation.
+    questions_and_answers:
+      - question: How did Ford's global manufacturing footprint evolve from 2021 to 2024?
+        answer: >
+          Ford optimized its manufacturing network from 41 major facilities in
+          2021 to 37 in 2024, while investing $8.5 billion in modernization.
+          This transformation improved capacity utilization from 75% to 82% and
+          reduced production complexity by 25% through strategic platform
+          consolidation, demonstrating enhanced operational efficiency.
+      - question: What improvements in manufacturing efficiency were achieved during
+          this period?
+        answer: >
+          Manufacturing improvements included: 1) Increased capacity utilization
+          from 75% to 82% 2) 25% reduction in production complexity through
+          platform consolidation 3) Implementation of flexible manufacturing
+          capabilities for both ICE and EV production 4) Strategic facility
+          modernization supporting improved operational efficiency.
+      - question: How has Ford's manufacturing strategy adapted to support future growth?
+        answer: >
+          Ford's manufacturing strategy evolved through: 1) $8.5 billion
+          investment in facility modernization 2) Development of flexible
+          production capabilities supporting both ICE and EV vehicles 3)
+          Optimization of global manufacturing footprint 4) Implementation of
+          advanced manufacturing technologies supporting increased efficiency
+          and reduced complexity.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

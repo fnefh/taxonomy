@@ -77,6 +77,125 @@ seed_examples:
           commitment to shareholder returns while maintaining strong capital
           position. The company also maintained strong financial strength
           ratings and regulatory capital levels.
+  - context: >
+      In Q2 2024, Principal Financial Group's Retirement and Income Solutions
+      (RIS) segment  reported net revenue of $756.3 million and operating
+      earnings of $289.5 million. The  segment added 850 new retirement plans
+      and completed four pension risk transfer  transactions totaling $1.2
+      billion. Digital platform engagement increased by 22%  year-over-year,
+      with mobile app usage growing 35%. Assets under administration in  defined
+      contribution plans reached $475.2 billion, while pension risk transfer
+      assets  grew to $92.8 billion.
+    questions_and_answers:
+      - question: |
+          What were the RIS segment's key performance metrics in Q2 2024?
+        answer: >
+          The RIS segment achieved net revenue of $756.3 million and operating
+          earnings of  $289.5 million, while adding 850 new retirement plans and
+          completing four pension  risk transfer transactions worth $1.2
+          billion, with total assets under administration  reaching $475.2
+          billion in defined contribution plans.
+      - question: |
+          How did digital engagement evolve in the RIS segment?
+        answer: >
+          Digital engagement showed strong growth with a 22% year-over-year
+          increase in platform  engagement and 35% growth in mobile app usage,
+          demonstrating successful digital  transformation initiatives.
+      - question: |
+          What growth indicators were evident in the RIS segment's business?
+        answer: >
+          Growth was demonstrated through the addition of 850 new retirement
+          plans, $1.2 billion  in pension risk transfer transactions, increased
+          assets under administration to $475.2  billion, and pension risk
+          transfer assets growing to $92.8 billion.
+  - context: >
+      Principal Asset Management reported Q2 2024 operating revenues of
+      $482.5 million and  operating earnings of $165.8 million. Investment
+      performance remained strong with 81%  of Principal's investment options
+      exceeding their respective benchmarks over a three-year  period. Net cash
+      flow was positive at $3.8 billion, driven by institutional mandate
+      wins  of $5.2 billion. The segment launched three new ESG-focused
+      investment strategies and  expanded its alternative investment
+      capabilities with two new real estate funds.
+    questions_and_answers:
+      - question: >
+          What were Principal Asset Management's financial highlights in Q2 2024?
+        answer: >
+          Principal Asset Management generated operating revenues of $482.5
+          million and operating  earnings of $165.8 million, while maintaining
+          strong investment performance with 81%  of options exceeding
+          benchmarks over three years and achieving positive net cash flow  of
+          $3.8 billion.
+      - question: |
+          How did Principal expand its investment offerings in Q2 2024?
+        answer: >
+          The segment expanded its investment capabilities by launching three new
+          ESG-focused  strategies and two new real estate funds, demonstrating
+          commitment to sustainable  investing and alternative asset classes.
+      - question: |
+          What drove Principal Asset Management's cash flow performance?
+        answer: >
+          Net cash flow was positive at $3.8 billion, primarily driven by
+          institutional mandate  wins totaling $5.2 billion, showing strong
+          momentum in institutional business  development.
+  - context: >
+      For Q1 2024, Principal's Benefits and Protection segment reported
+      premium and fee revenues  of $698.2 million and operating earnings of
+      $92.5 million. The segment served 119,500  group policies covering 3.1
+      million employees. Digital claims processing reached 99% of  total claims,
+      with average processing time reduced to 1.2 days. The segment launched
+      an  enhanced dental network with 15% broader coverage and implemented
+      AI-powered underwriting  tools, improving risk assessment accuracy by 25%.
+    questions_and_answers:
+      - question: |
+          What were the Benefits and Protection segment's Q1 2024 results?
+        answer: >
+          The segment generated premium and fee revenues of $698.2 million and
+          operating  earnings of $92.5 million, while serving 119,500 group
+          policies that covered 3.1  million employees.
+      - question: |
+          How did operational efficiency improve in Q1 2024?
+        answer: >
+          The segment achieved 99% digital claims processing with average
+          processing time of  1.2 days, while implementing AI-powered
+          underwriting tools that improved risk  assessment accuracy by 25%.
+      - question: |
+          What service improvements were implemented in Q1 2024?
+        answer: >
+          The segment enhanced its dental network with 15% broader coverage and
+          implemented  advanced AI-powered underwriting tools, demonstrating
+          commitment to service quality  and operational excellence.
+  - context: >
+      In Q1 2024, Principal's international operations showed strong momentum
+      across key markets.  Latin American operations reported AUM growth of 12%
+      year-over-year to $89.2 billion,  while Asia operations saw AUM increase
+      by 15% to $58.5 billion. The Hong Kong pension  business added 125,000 new
+      participants, and the China joint venture (CCB PAM) launched  two new
+      investment products generating $1.2 billion in first-quarter sales.
+      Strategic  partnerships in Southeast Asia contributed $850 million to net
+      cash flow.
+    questions_and_answers:
+      - question: |
+          How did Principal's international operations perform in Q1 2024?
+        answer: >
+          International operations showed strong growth with Latin American AUM
+          increasing 12%  to $89.2 billion and Asian AUM growing 15% to $58.5
+          billion, while the Hong Kong  pension business added 125,000 new
+          participants.
+      - question: |
+          What progress was made in Principal's Asian markets?
+        answer: >
+          In Asia, the China joint venture (CCB PAM) launched two new investment
+          products  generating $1.2 billion in sales, while strategic
+          partnerships in Southeast Asia  contributed $850 million to net cash
+          flow.
+      - question: |
+          What growth indicators were evident in international markets?
+        answer: >
+          Growth was demonstrated through increased AUM in Latin America (12%) and
+          Asia (15%),  successful product launches in China, expansion of the
+          Hong Kong pension business,  and strong cash flows from Southeast
+          Asian partnerships.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

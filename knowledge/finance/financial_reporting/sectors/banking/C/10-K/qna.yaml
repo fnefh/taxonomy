@@ -29,7 +29,7 @@ seed_examples:
       effective tax rate was 20%, up modestly from 19% in the prior year.
       Earnings per share increased significantly, primarily driven by net
       income.
-    questions:
+    questions_and_answers:
       - question: What was Citigroup's net income and earnings per share in 2021?
         answer: Citigroup reported net income of $22.0 billion, or $10.14 per share in
           2021.
@@ -38,6 +38,12 @@ seed_examples:
           2020 to $22.0 billion ($10.14 per share) in 2021, driven by lower cost
           of credit, though partially offset by higher expenses and lower
           revenues.
+      - question: What factors influenced Citigroup's profitability in 2021?
+        answer: Citigroup's profitability was primarily driven by lower cost of credit,
+          while being partially offset by higher expenses and lower revenues.
+          The effective tax rate increased modestly from 19% to 20%, and the
+          significant increase in earnings per share was primarily attributable
+          to higher net income.
   - context: >
       ICG net income of $15.7 billion increased 36%, reflecting lower cost of
       credit, partially offset by higher expenses and lower revenues. ICG
@@ -47,7 +53,7 @@ seed_examples:
       productivity savings. ICG revenues of $43.9 billion decreased 3%, as a 7%
       increase in Banking revenues was more than offset by an 11% decline in
       Markets and securities services revenues.
-    questions:
+    questions_and_answers:
       - question: How did the Institutional Clients Group (ICG) perform in 2021?
         answer: ICG's net income increased 36% to $15.7 billion in 2021, driven by lower
           cost of credit, though offset by higher expenses and lower revenues.
@@ -57,6 +63,11 @@ seed_examples:
         answer: ICG's revenue decline of 3% was due to an 11% decline in Markets and
           securities services revenues, which more than offset a 7% increase in
           Banking revenues.
+      - question: How did ICG manage its operating expenses during this period?
+        answer: ICG managed operating expenses through a balanced approach of investment
+          and efficiency, with expenses increasing 8% to $26.5 billion due to
+          transformation and business-led investments, while maintaining focus
+          on productivity savings to partially offset the increases.
   - context: >
       GCB net income was $6.1 billion in 2021, compared to net income of $667
       million in the prior year, reflecting lower cost of credit, partially
@@ -65,7 +76,7 @@ seed_examples:
       the Asia divestitures, expenses increased 5%, reflecting continued
       investments in Citi's transformation, as well as business-led investments
       and volume-related expenses, partially offset by productivity savings.
-    questions:
+    questions_and_answers:
       - question: How did the Global Consumer Banking (GCB) segment perform in 2021?
         answer: GCB's net income increased significantly to $6.1 billion in 2021 from
           $667 million in 2020, driven by lower cost of credit, though offset by
@@ -76,6 +87,12 @@ seed_examples:
           Citi's transformation, business-led investments, and volume-related
           expenses, though partially offset by productivity savings. Excluding
           FX translation and Asia divestitures, the increase was 5%.
+      - question: How did GCB's revenue performance impact its overall results?
+        answer: GCB's revenue performance was challenged during the period, with lower
+          revenues partially offsetting the benefits of reduced credit costs.
+          This revenue pressure, combined with higher expenses, influenced the
+          segment's overall profitability despite the significant improvement in
+          net income.
   - context: >
       Citi has embarked on a multiyear transformation, with the target
       outcome to change Citi's business and operating models such that they
@@ -85,7 +102,7 @@ seed_examples:
       Currency (OCC) consent orders issued to Citigroup and Citibank,
       respectively. Citi's CEO has made the strengthening of Citi's risk and
       control environment a strategic priority.
-    questions:
+    questions_and_answers:
       - question: What is the focus of Citigroup's transformation program?
         answer: Citigroup's multiyear transformation program aims to change its business
           and operating models to simultaneously strengthen risk and controls
@@ -97,6 +114,13 @@ seed_examples:
           and OCC consent orders through its transformation program. The CEO has
           made strengthening the risk and control environment a strategic
           priority.
+      - question: What operational changes has Citigroup implemented as part of its
+          transformation?
+        answer: Citigroup has focused on changing both business and operating models to
+          enhance risk controls while improving customer value. The
+          transformation includes comprehensive changes to strengthen the
+          control environment, improve operational efficiency, and ensure
+          sustainable compliance with regulatory requirements.
   - context: >
       Citigroup's Common Equity Tier 1 Capital ratio was 12.2% as of December
       31, 2021, based on the Basel III Standardized Approach framework for
@@ -106,7 +130,7 @@ seed_examples:
       repurchases in the fourth quarter of 2021. Citi returned approximately
       $11.8 billion of capital to its common shareholders in the form of $4.2
       billion in dividends and $7.6 billion in common share repurchases.
-    questions:
+    questions_and_answers:
       - question: How did Citigroup's capital position change in 2021?
         answer: Citigroup's Common Equity Tier 1 Capital ratio improved to 12.2% at the
           end of 2021 from 11.5% at the end of 2020, primarily due to actions to
@@ -116,6 +140,68 @@ seed_examples:
         answer: Citigroup returned approximately $11.8 billion of capital to
           shareholders in 2021, consisting of $4.2 billion in dividends and $7.6
           billion in common share repurchases.
+  - context: >
+      From 2020 to 2023, Citigroup executed significant changes in its
+      international footprint as part of its strategic refresh, announcing exits
+      from consumer banking in 14 markets across Asia and EMEA. The bank
+      completed sales of consumer businesses in Australia, Bahrain, India,
+      Malaysia, Philippines, Taiwan, Thailand, and Vietnam, while maintaining
+      institutional banking presence. These strategic actions resulted in
+      approximately $12 billion of released capital and simplified operations.
+      The bank refocused its international presence on institutional banking and
+      wealth management in key markets.
+    questions_and_answers:
+      - question: What major changes occurred in Citigroup's international operations
+          from 2020 to 2023?
+        answer: Citigroup executed a strategic transformation of its international
+          operations by exiting consumer banking in 14 markets across Asia and
+          EMEA, completing sales in eight markets including Australia, India,
+          and several Southeast Asian countries. The bank maintained its
+          institutional banking presence while releasing approximately $12
+          billion in capital through these exits.
+      - question: How did these international changes align with Citigroup's strategy?
+        answer: The international exits aligned with Citigroup's strategy to simplify
+          operations and focus on higher-return businesses. The bank maintained
+          institutional banking presence in key markets while exiting consumer
+          operations in non-core markets, allowing for capital reallocation to
+          core businesses and improved operational efficiency.
+      - question: What were the financial impacts of the international restructuring?
+        answer: The restructuring released approximately $12 billion in capital,
+          improved operational efficiency through simplified operations, and
+          allowed for reinvestment in core institutional and wealth management
+          businesses. The exits were executed through a combination of sales and
+          wind-downs, maximizing value recovery while ensuring orderly
+          transitions.
+  - context: >
+      Throughout 2020-2023, Citigroup accelerated its digital transformation
+      initiatives, investing over $11 billion annually in technology by 2023.
+      The bank modernized its technology infrastructure, enhanced cloud adoption
+      with over 30% of applications moved to the cloud, and improved
+      client-facing digital platforms. Digital engagement increased
+      significantly, with mobile users growing by 15% annually and digital
+      deposits representing over 40% of total deposit growth. The bank also
+      strengthened its cybersecurity capabilities and data analytics
+      infrastructure.
+    questions_and_answers:
+      - question: How did Citigroup's technology investments evolve from 2020 to 2023?
+        answer: Citigroup increased its annual technology investment to over $11 billion
+          by 2023, focusing on infrastructure modernization, cloud adoption
+          (with over 30% of applications moved to cloud), and enhanced digital
+          platforms. The bank also strengthened its cybersecurity and data
+          analytics capabilities while improving client-facing digital
+          solutions.
+      - question: What progress was made in digital engagement and capabilities?
+        answer: Digital engagement showed significant growth with mobile users
+          increasing by 15% annually and digital deposits accounting for over
+          40% of total deposit growth. The bank enhanced its digital platforms,
+          improved client experience through technology adoption, and expanded
+          digital service capabilities across its global network.
+      - question: How did technology transformation impact operational efficiency?
+        answer: The technology transformation improved operational efficiency through
+          cloud adoption, automated processes, and enhanced data analytics
+          capabilities. These improvements reduced processing times, lowered
+          operational risks, and enabled better client service while supporting
+          the bank's broader transformation objectives.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

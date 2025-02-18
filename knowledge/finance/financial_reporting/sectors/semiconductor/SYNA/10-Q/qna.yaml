@@ -132,6 +132,75 @@ seed_examples:
           and covenants; 4) Strategic management of debt levels and cash
           position; 5) Quarterly reporting and certification of compliance; 6)
           Maintenance of sufficient liquidity buffers.
+  - context: >
+      For the quarter ended September 28, 2024, Synaptics demonstrated strong
+      segment performance across IoT, PC, and Mobile product lines. The
+      company's IoT revenue reached $174.5 million, representing 65% of total
+      revenue, while maintaining strong margins and operational efficiency.
+      Strategic investments in AI and edge computing capabilities continued to
+      drive product innovation.
+    questions_and_answers:
+      - question: |
+          What were the key segment performance metrics in Q1 FY2024?
+        answer: >
+          Q1 FY2024 segment performance included: 1) IoT revenue of $174.5
+          million, representing 65% of total revenue; 2) PC and Mobile segments
+          contributing remaining 35%; 3) Gross margin improvement across all
+          segments; 4) Strong design win momentum in IoT applications; 5)
+          Increased customer diversification; 6) Growth in automotive and
+          enterprise markets.
+      - question: |
+          How is Synaptics advancing its technology leadership?
+        answer: >
+          Technology advancement initiatives include: 1) Continued investment in
+          AI and edge computing solutions; 2) Development of next-generation IoT
+          platforms; 3) Enhancement of wireless connectivity portfolio; 4)
+          Expansion of automotive-grade products; 5) Integration of advanced
+          security features; 6) Strategic partnerships for technology
+          development.
+      - question: |
+          What operational improvements were achieved in Q1 FY2024?
+        answer: >
+          Operational improvements encompassed: 1) Enhanced manufacturing
+          efficiency with key partners; 2) Optimized inventory management
+          reducing carrying costs; 3) Improved supply chain resilience; 4)
+          Streamlined R&D processes; 5) Reduced operating expenses through
+          automation; 6) Better alignment of resources with growth
+          opportunities.
+  - context: >
+      Synaptics' market expansion and product development initiatives in Q2
+      FY2024 focused on addressing emerging opportunities in AI, automotive, and
+      IoT markets. The company launched several new products including enhanced
+      wireless connectivity solutions and AI-enabled processors. Customer
+      engagement remained strong with multiple design wins across target
+      markets.
+    questions_and_answers:
+      - question: |
+          What new products and technologies were introduced in Q2 FY2024?
+        answer: >
+          New product introductions included: 1) Advanced AI-enabled processors
+          for edge computing; 2) Enhanced wireless connectivity solutions with
+          improved performance; 3) New automotive-grade touch and display
+          products; 4) Expanded IoT platform capabilities; 5) Security-enhanced
+          solutions for enterprise applications; 6) Updated software development
+          tools and frameworks.
+      - question: |
+          How is Synaptics expanding its market presence?
+        answer: >
+          Market expansion efforts include: 1) Increased penetration in automotive
+          sector; 2) Growth in enterprise IoT applications; 3) Strategic
+          partnerships with key customers; 4) Geographic expansion in target
+          markets; 5) Development of new vertical-specific solutions; 6)
+          Enhanced channel partner relationships.
+      - question: |
+          What are the key customer engagement metrics and design wins?
+        answer: >
+          Customer engagement success shown through: 1) Multiple design wins
+          across target markets; 2) Increased adoption of IoT platforms; 3)
+          Growing pipeline of automotive opportunities; 4) Expanded
+          relationships with tier-one customers; 5) Higher attach rates in
+          existing accounts; 6) Strong customer feedback on new product
+          introductions.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

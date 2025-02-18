@@ -133,6 +133,71 @@ seed_examples:
           solutions designed to work together. The company's scale and ability
           to leverage assets across its business also provides competitive
           advantages.
+  - context: >
+      From fiscal 2021 to 2024, Stride demonstrated strong financial growth,
+      with revenues increasing from $1.54 billion to $1.84 billion. The Career
+      Learning segment showed particularly robust growth, with revenues rising
+      from $111.7 million to $257.3 million, representing a compound annual
+      growth rate of 32%. Operating income improved from $71.0 million in FY21
+      to $173.5 million in FY24, with operating margins expanding from 4.6% to
+      9.4%. The company maintained strong liquidity with cash and cash
+      equivalents of $413.6 million as of June 30, 2024.
+    questions_and_answers:
+      - question: How did Stride's financial performance evolve from FY21 to FY24?
+        answer: >
+          Stride showed substantial financial growth: 1) Total revenues increased
+          from $1.54B to $1.84B 2) Operating income grew from $71.0M to $173.5M
+          3) Operating margins expanded from 4.6% to 9.4% 4) Maintained strong
+          cash position of $413.6M by FY24, demonstrating effective financial
+          management and operational execution.
+      - question: What were the key drivers of revenue growth during this period?
+        answer: >
+          Revenue growth was driven by: 1) Career Learning segment expansion from
+          $111.7M to $257.3M, representing 32% CAGR 2) Continued strength in
+          General Education enrollment and retention 3) Successful expansion of
+          program offerings and geographic reach 4) Enhanced product mix and
+          pricing optimization.
+      - question: How did Stride's operational efficiency metrics improve?
+        answer: >
+          Operational efficiency improvements included: 1) Operating margin
+          expansion from 4.6% to 9.4% 2) Enhanced cost management and resource
+          allocation 3) Improved scalability of technology platform 4)
+          Successful integration of new programs and services while maintaining
+          cost discipline.
+  - context: >
+      Throughout fiscal 2021-2024, Stride's Career Learning segment
+      demonstrated significant expansion in both scope and impact. The segment
+      grew to serve over 45,000 full-time students and provided career pathway
+      programs to more than 100,000 students across middle and high school
+      levels. The company expanded its career pathway offerings from 30 to over
+      45 programs across high-demand fields including healthcare, IT, business,
+      and manufacturing. Employer partnerships increased from 600 to over 1,000
+      companies, providing enhanced internship and employment opportunities for
+      students.
+    questions_and_answers:
+      - question: How did Stride's Career Learning segment evolve from FY21 to FY24?
+        answer: >
+          The Career Learning segment showed substantial growth: 1) Full-time
+          student enrollment reached 45,000+ 2) Career pathway programs expanded
+          to serve 100,000+ students 3) Program offerings increased from 30 to
+          45+ pathways 4) Employer partnerships grew from 600 to over 1,000
+          companies.
+      - question: What developments occurred in career pathway offerings and industry
+          alignment?
+        answer: >
+          Career pathway developments included: 1) Expansion into high-demand
+          fields including healthcare, IT, business, and manufacturing 2)
+          Enhanced curriculum alignment with industry requirements 3)
+          Implementation of industry-recognized certifications 4) Development of
+          work-based learning opportunities through employer partnerships.
+      - question: How did student engagement and outcomes evolve in the Career Learning
+          segment?
+        answer: >
+          Student engagement showed positive trends: 1) Increased participation in
+          work-based learning programs 2) Higher completion rates for industry
+          certifications 3) Expanded internship opportunities through growing
+          employer network 4) Improved post-program placement rates in targeted
+          career fields.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

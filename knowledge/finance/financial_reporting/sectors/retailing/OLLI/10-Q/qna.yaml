@@ -103,6 +103,66 @@ seed_examples:
           investments in infrastructure. The company also maintains a
           disciplined approach to lease management and operational costs while
           investing in customer engagement through its loyalty program.
+  - context: >
+      For the thirteen weeks ended August 3, 2024, Ollie's reported net sales
+      of $485.8 million, a 13.2% increase from $429.3 million in Q2 2023.
+      Comparable store sales increased 7.9%, driven by higher customer traffic
+      and transaction values. Operating income was $48.2 million, with a gross
+      profit of $196.3 million. The company opened 10 new stores during the
+      quarter, bringing the total store count to 538 locations across 30 states.
+    questions_and_answers:
+      - question: |
+          What were Ollie's key financial results for Q2 2024?
+        answer: >
+          Q2 2024 results included: 1) Net sales growth of 13.2% to $485.8
+          million, 2) Comparable store sales increase of 7.9%, 3) Operating
+          income of $48.2 million, 4) Gross profit of $196.3 million, and 5) 10
+          new store openings expanding the network to 538 locations.
+      - question: |
+          How did store performance metrics evolve in Q2 2024?
+        answer: >
+          Store performance showed strength through: 1) Higher customer traffic
+          driving sales growth, 2) Increased transaction values, 3) Successful
+          new store openings and integration, 4) Expanded geographic presence
+          across 30 states, and 5) Improved store-level productivity metrics.
+      - question: |
+          What factors contributed to the comparable store sales growth?
+        answer: >
+          Growth was driven by: 1) Effective merchandising and product mix, 2)
+          Strong seasonal category performance, 3) Successful marketing
+          initiatives, 4) Enhanced customer engagement through Ollie's Army
+          program, and 5) Improved in-stock positions in key categories.
+  - context: >
+      Ollie's inventory management and supply chain operations showed strong
+      execution in Q3 2024, with total inventories of $548.7 million and
+      inventory turnover improving year-over-year. The company's distribution
+      network efficiently supported 546 stores while maintaining optimal
+      in-stock levels. Strategic buying initiatives and closeout opportunities
+      contributed to margin performance, with gross margin reaching 41.5% for
+      the quarter.
+    questions_and_answers:
+      - question: |
+          How is Ollie's managing its inventory position?
+        answer: >
+          Inventory management includes: 1) Total inventories of $548.7 million
+          strategically positioned for growth, 2) Improved inventory turnover
+          metrics, 3) Efficient distribution network supporting 546 stores, 4)
+          Strategic buying initiatives capturing closeout opportunities, and 5)
+          Optimal in-stock levels maintaining service levels.
+      - question: |
+          What supply chain initiatives are driving efficiency?
+        answer: >
+          Supply chain efficiency is driven by: 1) Enhanced distribution center
+          operations, 2) Optimized transportation and logistics networks, 3)
+          Improved inventory allocation systems, 4) Strategic vendor
+          relationships, and 5) Technology-enabled inventory management tools.
+      - question: |
+          How does inventory management impact financial performance?
+        answer: >
+          Financial impacts include: 1) Gross margin improvement to 41.5%, 2)
+          Efficient working capital utilization, 3) Reduced carrying costs
+          through improved turnover, 4) Enhanced cash flow from operations, and
+          5) Strong margin maintenance through strategic buying.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

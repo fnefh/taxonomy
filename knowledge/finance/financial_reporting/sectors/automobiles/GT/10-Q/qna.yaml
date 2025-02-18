@@ -183,6 +183,68 @@ seed_examples:
           revenue fluctuations, while significantly reducing rationalization
           costs by 89% from $198 million to $22 million, indicating progress in
           operational streamlining and cost optimization initiatives.
+  - context: >
+      Goodyear's regional performance in Q3 2024 showed varying trends across
+      markets. Americas segment revenue reached $2.89 billion with unit volume
+      up 3% year-over-year, while EMEA revenue was $1.42 billion with a 2%
+      volume decline. Asia Pacific revenue totaled $0.54 billion with unit
+      volume growth of 4%. Operating income improved across all regions, with
+      Americas showing the strongest gain at $210 million, up 45% from Q3 2023.
+      The company's market share increased in key segments, particularly in the
+      commercial truck tire category in North America and premium consumer tires
+      in Europe.
+    questions_and_answers:
+      - question: How did Goodyear's regional revenue and volume trends evolve in Q3
+          2024?
+        answer: >
+          Regional performance varied with Americas revenue reaching $2.89 billion
+          (3% volume growth), EMEA at $1.42 billion (2% volume decline), and
+          Asia Pacific at $0.54 billion (4% volume growth). The Americas segment
+          showed particular strength with operating income up 45% to $210
+          million, while all regions demonstrated improved profitability despite
+          mixed volume trends.
+      - question: What market share developments occurred across regions?
+        answer: >
+          Market share gains were achieved in key segments: 1) Increased share in
+          North American commercial truck tires 2) Growth in European premium
+          consumer tire segment 3) Expanded presence in Asia Pacific replacement
+          markets 4) Strengthened position in electric vehicle tire fitments
+          across regions.
+      - question: How did regional operating performance contribute to overall results?
+        answer: >
+          Regional contributions included: 1) Americas leading profitability
+          improvement with 45% operating income growth 2) EMEA showing
+          resilience despite volume challenges 3) Asia Pacific delivering
+          consistent growth in both volume and profitability 4) Enhanced
+          regional mix supporting overall margin improvement.
+  - context: >
+      Goodyear's manufacturing efficiency initiatives in Q3 2024 delivered
+      significant improvements in operational metrics. Production costs per unit
+      decreased by 8% year-over-year, driven by automation enhancements and
+      improved capacity utilization reaching 85%. Raw material cost management
+      initiatives generated savings of $95 million, while manufacturing
+      modernization programs reduced energy consumption by 12% across global
+      facilities. The company's sustainable manufacturing practices led to a 15%
+      reduction in waste and a 10% improvement in water efficiency.
+    questions_and_answers:
+      - question: What manufacturing efficiency gains were achieved in Q3 2024?
+        answer: >
+          Manufacturing efficiency improved through: 1) 8% reduction in production
+          costs per unit 2) Enhanced capacity utilization reaching 85% 3) $95
+          million in raw material cost savings 4) 12% reduction in energy
+          consumption through modernization initiatives.
+      - question: How did sustainable manufacturing practices evolve?
+        answer: >
+          Sustainability improvements included: 1) 15% reduction in manufacturing
+          waste 2) 10% enhancement in water efficiency 3) Implementation of
+          energy-efficient production processes 4) Advanced recycling programs
+          across facilities.
+      - question: What operational improvements supported cost reduction efforts?
+        answer: >
+          Cost reductions were supported by: 1) Automation enhancements in key
+          production processes 2) Improved raw material cost management 3)
+          Enhanced energy efficiency through facility modernization 4) Optimized
+          production scheduling and capacity utilization.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

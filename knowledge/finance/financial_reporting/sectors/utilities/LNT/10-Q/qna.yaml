@@ -130,6 +130,68 @@ seed_examples:
           electric transmission service, and $100  million for depreciation and
           amortization. The company maintained strong cash position  with $756
           million in cash and cash equivalents.
+  - context: >
+      Wisconsin Power and Light Company (WPL), a subsidiary of Alliant
+      Energy, reported Q3 2024  operating revenues of $520 million and net
+      income of $105 million. For the nine months  ended September 30, 2024,
+      WPL's total assets were $11,149 million, with property, plant  and
+      equipment of $9,135 million. The company continued its renewable energy
+      expansion with  several solar projects under development, while
+      maintaining strong operational performance  with a 99.9% electric
+      reliability rate. WPL's regulatory capital structure included
+      52.5%  common equity at September 30, 2024.
+    questions_and_answers:
+      - question: |
+          What were WPL's key financial and operational metrics for Q3 2024?
+        answer: >
+          WPL achieved operating revenues of $520 million and net income of $105
+          million in Q3  2024, while maintaining total assets of $11,149
+          million, including $9,135 million in  property, plant and equipment,
+          and demonstrating strong operational performance with  99.9% electric
+          reliability.
+      - question: |
+          How did WPL's capital structure and asset base evolve in 2024?
+        answer: >
+          As of September 30, 2024, WPL maintained a strong regulatory capital
+          structure with  52.5% common equity, total assets of $11,149 million,
+          and significant investment in  property, plant and equipment at $9,135
+          million, supporting its ongoing renewable  energy expansion.
+      - question: |
+          What progress did WPL make in renewable energy development?
+        answer: >
+          WPL continued its renewable energy expansion through ongoing solar
+          project developments,  maintaining strong operational performance
+          while advancing its clean energy transition  strategy and
+          infrastructure modernization efforts.
+  - context: >
+      For Q1 2024 (ended March 31, 2024), Alliant Energy Corporation reported
+      total operating  revenues of $901 million and net income of $155 million.
+      Electric utility revenues were  $765 million, while gas utility revenues
+      reached $136 million. The company's ongoing  construction program included
+      $320 million in capital expenditures during the quarter,  primarily
+      focused on renewable energy projects and grid modernization.
+      Weather-normalized  retail electric sales increased by 1.8% compared to Q1
+      2023, driven by growth in  commercial and industrial customers.
+    questions_and_answers:
+      - question: |
+          What were Alliant Energy's key financial results for Q1 2024?
+        answer: >
+          In Q1 2024, Alliant Energy reported total operating revenues of $901
+          million,  comprising $765 million in electric utility revenues and
+          $136 million in gas utility  revenues, with net income reaching $155
+          million.
+      - question: |
+          How did the company's capital investment program progress in Q1 2024?
+        answer: >
+          The company invested $320 million in capital expenditures during Q1
+          2024, focusing  primarily on renewable energy projects and grid
+          modernization as part of its ongoing  construction program.
+      - question: |
+          What trends were observed in retail electric sales during Q1 2024?
+        answer: >
+          Weather-normalized retail electric sales showed positive growth with a
+          1.8% increase  compared to Q1 2023, primarily driven by expanded
+          commercial and industrial customer  demand.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

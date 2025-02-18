@@ -148,8 +148,8 @@ seed_examples:
           production, implementing automation improvements, and acquiring
           strategic equipment. The company focused on scalable manufacturing
           methods using earth-abundant materials, while developing processes
-          that eliminate anode manufacturing steps, potentially reducing capital
-          investment and operating costs.
+          that eliminated anode manufacturing steps, potentially reducing
+          capital investment and operating costs.
       - question: |
           How has QuantumScape's approach to scalable production evolved?
         answer: >
@@ -205,6 +205,69 @@ seed_examples:
           the need for conventional anode materials, potentially enabling higher
           energy density, faster charging, and lower manufacturing costs
           compared to traditional lithium-ion batteries.
+  - context: >
+      From 2020 to 2023, QuantumScape's research and development investments
+      grew significantly, with annual R&D expenses increasing from $65.1 million
+      in 2020 to $309.2 million in 2023. The company expanded its research
+      facilities and capabilities, growing from 200 to over 850 employees,
+      primarily in R&D roles. Key investments included advanced materials
+      characterization equipment, expanded testing facilities, and enhanced
+      simulation capabilities. The company maintained a focused approach to R&D
+      spending, with approximately 75% directed toward core technology
+      development and 25% toward manufacturing process innovation.
+    questions_and_answers:
+      - question: How did QuantumScape's R&D investment strategy evolve from 2020 to
+          2023?
+        answer: >
+          R&D investments showed strategic growth: 1) Annual R&D expenses
+          increased from $65.1M to $309.2M 2) Employee base expanded from 200 to
+          850+, primarily in R&D roles 3) Significant investments in advanced
+          testing and characterization equipment 4) Balanced allocation between
+          core technology (75%) and manufacturing process development (25%).
+      - question: What key research capabilities were developed during this period?
+        answer: >
+          Research capabilities expanded through: 1) Enhanced materials
+          characterization facilities 2) Advanced cell testing and validation
+          infrastructure 3) Expanded simulation and modeling capabilities 4)
+          Development of specialized manufacturing process testing equipment.
+      - question: How did QuantumScape's R&D workforce and expertise evolve?
+        answer: >
+          R&D workforce evolution included: 1) Growth from 200 to 850+ employees
+          2) Expansion of technical expertise across materials science,
+          engineering, and manufacturing 3) Development of specialized teams for
+          key technology areas 4) Enhanced capabilities in process development
+          and scale-up.
+  - context: >
+      Throughout 2020-2023, QuantumScape significantly expanded its
+      operational infrastructure and quality systems to support future
+      commercialization. The company invested over $450 million in facilities
+      and equipment, including the development of its 197,000-square-foot
+      consolidated campus. Quality systems evolved to meet automotive standards,
+      with implementation of IATF 16949-aligned processes and ISO 9001:2015
+      certification preparation. The company also established comprehensive
+      environmental and safety protocols, achieving zero recordable incidents in
+      2023 while handling complex materials and processes.
+    questions_and_answers:
+      - question: How did QuantumScape's operational infrastructure develop from 2020 to
+          2023?
+        answer: >
+          Infrastructure development included: 1) Investment of $450M+ in
+          facilities and equipment 2) Establishment of 197,000-square-foot
+          consolidated campus 3) Implementation of advanced manufacturing
+          systems 4) Development of integrated research and production
+          facilities.
+      - question: What progress was made in quality systems and certifications?
+        answer: >
+          Quality systems advanced through: 1) Implementation of IATF
+          16949-aligned processes 2) Preparation for ISO 9001:2015 certification
+          3) Development of comprehensive quality management systems 4)
+          Establishment of automotive-grade validation protocols.
+      - question: How did QuantumScape's environmental and safety programs evolve?
+        answer: >
+          Environmental and safety achievements included: 1) Zero recordable
+          incidents in 2023 2) Implementation of comprehensive safety protocols
+          3) Development of environmental management systems 4) Establishment of
+          best practices for handling complex materials and processes.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -86,6 +86,53 @@ seed_examples:
           inventory 3) Progress in pipeline development programs 4) Maintenance
           of strong financial position 5) Strategic positioning for continued
           growth
+  - context: Q3 2024 Financial Performance & Profitability
+    questions_and_answers:
+      - question: What were the key financial highlights and metrics for Q3 2024?
+        answer: >
+          Key highlights include: 1) Product revenue of $79.3M, a 27% increase
+          from Q3 2023 2) Total revenue of $80.6M, up from $69.5M in Q3 2023 3)
+          Operating income of $10.1M, nearly double from $5.1M in Q3 2023 4) Net
+          income of $17.6M ($0.13 per share), compared to $14.3M in Q3 2023 5)
+          Strong gross margins with cost of sales at 16.5% of revenue
+      - question: How did the company's balance sheet and cash position evolve?
+        answer: >
+          Evolution included: 1) Strong cash position of $764M ($119.3M cash +
+          $644.7M marketable securities) 2) Healthy working capital with current
+          assets of $926.2M 3) Increased inventory levels to $62.4M to support
+          growing demand 4) Accounts receivable of $73.3M reflecting strong
+          sales 5) Total stockholders' equity of $681.4M
+      - question: What were the key drivers of profitability and operational efficiency?
+        answer: >
+          Drivers included: 1) Improved gross margins through manufacturing
+          optimization 2) Effective cost management with R&D expenses of $14.4M
+          3) Strategic SG&A investments of $43.1M to support growth 4) Interest
+          income of $9.4M contributing to bottom line 5) Efficient working
+          capital management and strong cash conversion
+  - context: Q3 2024 Strategic Execution & Market Expansion
+    questions_and_answers:
+      - question: What progress was made in commercial execution and market expansion?
+        answer: >
+          Progress included: 1) Continued market share gains in HEPLISAV-B 2)
+          Successful expansion in European markets, particularly Germany 3)
+          Enhanced manufacturing capabilities with raw materials inventory of
+          $34M 4) Strategic inventory build-up to support growing demand 5)
+          Effective management of supply chain and distribution networks
+      - question: How did the company advance its strategic initiatives and partnerships?
+        answer: >
+          Advancements included: 1) Progress in shingles and plague vaccine
+          programs 2) Continued development of CpG 1018 adjuvant platform 3)
+          Strategic management of manufacturing partnerships 4) Enhancement of
+          commercial infrastructure 5) Successful execution of market access
+          strategies
+      - question: What operational improvements and infrastructure developments were
+          achieved?
+        answer: >
+          Achievements included: 1) Optimization of manufacturing processes 2)
+          Enhanced inventory management systems 3) Successful resolution of
+          sublease arrangements with new agreement in place 4) Improved
+          operational efficiency with reduced cost of sales 5) Strategic
+          investments in growth infrastructure
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -116,6 +116,70 @@ seed_examples:
           to advancing its clinical programs while maintaining efficient
           resource allocation, supporting both ongoing trials and pipeline
           development.
+  - context: >
+      In Q3 2024, Janux made significant progress in its clinical programs
+      while managing increased R&D investments. JANX007 showed meaningful PSA
+      drops and a favorable safety profile in metastatic castration-resistant
+      prostate cancer patients. JANX008 demonstrated anti-tumor activity in
+      multiple tumor types with low-grade cytokine release syndrome. R&D
+      expenses increased to $18.6M, with $4.6M allocated to JANX007 and $1.8M to
+      JANX008 development, reflecting expanded clinical activities.
+    questions_and_answers:
+      - question: >
+          What clinical progress did Janux achieve with its lead candidates in
+          Q3 2024?
+        answer: >
+          In Q3 2024, JANX007 demonstrated meaningful PSA drops and a favorable
+          safety profile in mCRPC patients, while JANX008 showed anti-tumor
+          activity across multiple tumor types with low-grade CRS, validating
+          the company's TRACTr platform technology.
+      - question: >
+          How did Janux allocate its R&D investments across its clinical
+          programs?
+        answer: >
+          Of the $18.6M total R&D expenses in Q3 2024, Janux allocated $4.6M to
+          JANX007 development and $1.8M to JANX008, with additional investments
+          in preclinical programs and indirect costs, reflecting the company's
+          commitment to advancing its clinical pipeline.
+      - question: >
+          What do the clinical results indicate about Janux's technology
+          platform?
+        answer: >
+          The clinical results from both JANX007 and JANX008 demonstrated the
+          potential of Janux's TRACTr platform to develop therapeutics with
+          favorable safety profiles and anti-tumor activity, particularly
+          showing low-grade CRS across programs.
+  - context: >
+      As of Q3 2024, Janux maintained a strong financial position with
+      $658.8M in cash and investments, bolstered by a successful $320.1M
+      financing in March 2024. The company's operating expenses increased to
+      $36.3M, primarily due to expanded clinical development activities and
+      increased G&A costs. The Merck collaboration continued to provide
+      strategic value, with a $7.5M milestone achievement in June 2024 related
+      to the First Collaboration Target.
+    questions_and_answers:
+      - question: |
+          How did Janux strengthen its financial position in 2024?
+        answer: >
+          Janux significantly strengthened its financial position through a
+          $320.1M financing in March 2024 and achieved a $7.5M milestone payment
+          from Merck in June 2024, resulting in a robust cash position of
+          $658.8M as of Q3 2024.
+      - question: |
+          What drove the increase in operating expenses during Q3 2024?
+        answer: >
+          Operating expenses increased to $36.3M, driven by expanded clinical
+          development activities ($18.6M in R&D expenses) and increased G&A
+          costs ($17.7M), reflecting investments in advancing the clinical
+          pipeline and supporting organizational growth.
+      - question: >
+          How does Janux's current financial position support its future
+          development plans?
+        answer: >
+          With $658.8M in cash and investments, Janux is well-positioned to
+          advance its clinical programs, including JANX007 and JANX008, support
+          preclinical development activities, and maintain operational
+          flexibility for future growth initiatives.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -101,6 +101,60 @@ seed_examples:
           sheet to support growth 2) Market cap valuation reflecting pipeline
           progress 3) Increased institutional investment interest 4) Strategic
           partnerships and collaborations to support development
+  - context: >
+      From 2021 to 2024, Arrowhead demonstrated significant financial growth
+      and strategic capital deployment, with substantial investments in R&D,
+      infrastructure, and manufacturing capabilities. The company's financial
+      evolution reflected its transition from clinical development toward
+      commercial readiness.
+    questions_and_answers:
+      - question: How did the company's financial position evolve during this period?
+        answer: >
+          Financial evolution included: 1) Strategic equity raise of $429.3M in
+          2024 to strengthen balance sheet 2) Growth in total assets from
+          $350.8M in 2021 to $883.8M in 2024 3) Significant investment in
+          property and equipment, increasing to $375.9M 4) Maintenance of strong
+          cash position to support pipeline advancement
+      - question: What were the key trends in operational expenses?
+        answer: >
+          Expense trends showed: 1) R&D expenses increased from $180.1M in 2021 to
+          projected $500M+ in 2024 2) G&A expenses managed efficiently while
+          supporting organizational growth 3) Strategic investment in
+          manufacturing and infrastructure 4) Focused deployment of capital
+          toward late-stage programs
+      - question: How did revenue and partnership contributions evolve?
+        answer: >
+          Revenue evolution included: 1) Strategic partnership revenues varying
+          from $138.4M to $243.2M annually 2) Milestone payments from
+          collaboration agreements 3) Transition toward preparation for product
+          revenues 4) Diversification of revenue sources through multiple
+          partnerships
+  - context: >
+      Throughout 2021-2024, Arrowhead significantly expanded its
+      manufacturing capabilities and operational infrastructure while preparing
+      for commercial launch. The company's investments in facilities, quality
+      systems, and operational excellence supported its advancing pipeline and
+      commercial readiness.
+    questions_and_answers:
+      - question: How did manufacturing capabilities evolve?
+        answer: >
+          Manufacturing evolution included: 1) Significant expansion of
+          manufacturing infrastructure with $85.6M investment 2) Enhancement of
+          process development capabilities 3) Implementation of commercial-
+          scale manufacturing processes 4) Strengthening of CMO partnerships and
+          internal capabilities
+      - question: What operational infrastructure improvements were implemented?
+        answer: >
+          Infrastructure improvements included: 1) Expansion of research and
+          development facilities 2) Enhancement of quality management systems 3)
+          Development of commercial readiness infrastructure 4) Implementation
+          of scalable operational processes
+      - question: How did quality systems and operational excellence advance?
+        answer: >
+          Advancements included: 1) Implementation of commercial-grade quality
+          systems 2) Enhancement of regulatory compliance infrastructure 3)
+          Development of robust supply chain management 4) Strengthening of
+          operational controls and documentation
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

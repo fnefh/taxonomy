@@ -123,6 +123,72 @@ seed_examples:
           company's  strengthened balance sheet, reduced debt, and strategic
           focus on  digital transformation and affordable course material
           solutions  provide a foundation for sustainable growth.
+  - context: >
+      In Q1 FY2025 (ended July 27, 2024), BNED reported total sales of $263.5
+      million, with product sales of $237.2 million and rental income of $26.3
+      million. The quarter saw significant progress in First Day program
+      adoption, with revenue increasing 42% year-over-year. The company's gross
+      margin improved to 21.4% from 20.8% in the prior year period, while
+      operating expenses were reduced through continued cost management
+      initiatives.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q1 FY2025?
+        answer: >
+          Q1 FY2025 results included: 1) Total sales of $263.5 million, 2) Product
+          sales of $237.2 million, 3) Rental income of $26.3 million, 4)
+          Improved gross margin of 21.4%, and 5) First Day program revenue
+          growth of 42% year-over-year, demonstrating strong execution of
+          strategic initiatives.
+      - question: |
+          How did BNED's First Day programs perform in Q1 FY2025?
+        answer: >
+          First Day program performance showed: 1) 42% year-over-year revenue
+          growth, 2) Increased institutional adoption rates, 3) Expanded student
+          participation, 4) Higher sell-through rates compared to traditional
+          models, and 5) Improved student satisfaction and engagement metrics.
+      - question: |
+          What cost management initiatives were implemented in Q1 FY2025?
+        answer: >
+          Cost management efforts included: 1) Reduced operating expenses through
+          efficiency measures, 2) Optimized store operations and staffing
+          levels, 3) Enhanced inventory management practices, 4) Streamlined
+          administrative processes, and 5) Improved digital platform
+          utilization.
+  - context: >
+      BNED's digital transformation progress through Q2 FY2025 demonstrated
+      significant advancement in platform capabilities and student engagement.
+      The company's digital course material delivery systems served over 805,000
+      students through First Day Complete programs, while digital content
+      revenue grew by 35% year-over-year. Integration with campus learning
+      management systems expanded to cover 92% of partner institutions,
+      enhancing the student experience and operational efficiency.
+    questions_and_answers:
+      - question: |
+          What progress has BNED made in digital transformation?
+        answer: >
+          Digital transformation achievements included: 1) Serving 805,000+
+          students through First Day Complete, 2) 35% growth in digital content
+          revenue, 3) Expanded LMS integration to 92% of partner institutions,
+          4) Enhanced digital delivery capabilities, and 5) Improved student
+          engagement metrics through digital platforms.
+      - question: |
+          How is BNED enhancing its digital infrastructure?
+        answer: >
+          Digital infrastructure enhancements focused on: 1) Strengthening content
+          delivery systems, 2) Improving integration with institutional
+          partners, 3) Expanding digital payment capabilities, 4) Enhancing data
+          analytics and reporting tools, and 5) Upgrading customer-facing
+          digital interfaces.
+      - question: >
+          What benefits are students and institutions realizing from digital
+          transformation?
+        answer: >
+          Benefits include: 1) Improved access to course materials through digital
+          platforms, 2) Enhanced learning management system integration, 3)
+          Streamlined payment and financial aid processes, 4) Better analytics
+          for student success tracking, and 5) Increased affordability through
+          digital delivery models.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

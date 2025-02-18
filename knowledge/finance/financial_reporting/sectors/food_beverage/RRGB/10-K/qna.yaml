@@ -136,6 +136,83 @@ seed_examples:
           optimization, and 6) Strategic use of sale-leaseback transactions to
           optimize real estate portfolio and generate capital for debt reduction
           and operations improvement.
+  - context: >
+      In fiscal year 2023, Red Robin reported total revenues of $1.3 billion,
+      with comparable restaurant revenue growth of 6.7%. The company's financial
+      performance reflected the impact of strategic initiatives including menu
+      optimization, operational efficiency improvements, and cost management
+      efforts. Restaurant-level operating profit margin was 12.2%, while the
+      company continued to invest in technology and infrastructure improvements.
+      The Donatos® pizza program expanded to 273 restaurants, contributing to
+      incremental sales growth.
+    questions:
+      - question: |
+          What were Red Robin's key financial metrics in FY2023?
+        answer: >
+          Red Robin achieved total revenues of $1.3 billion in fiscal year 2023,
+          with comparable restaurant revenue growth of 6.7%. The company's
+          restaurant-level operating profit margin was 12.2%, reflecting the
+          impact of strategic initiatives and operational improvements. The
+          expansion of the Donatos® pizza program to 273 restaurants contributed
+          to incremental sales growth.
+      - question: |
+          How effective were Red Robin's strategic initiatives in 2023?
+        answer: >
+          The company's strategic initiatives showed positive results through menu
+          optimization, operational efficiency improvements, and cost management
+          efforts. These initiatives helped drive comparable restaurant revenue
+          growth and maintain profitability despite industry challenges. The
+          successful expansion of the Donatos® pizza program demonstrated
+          effective execution of growth strategies.
+      - question: |
+          What operational improvements were achieved in 2023?
+        answer: >
+          Red Robin implemented various operational improvements including
+          enhanced technology infrastructure, streamlined operations, and
+          improved cost management. The company focused on restaurant-level
+          efficiency, maintaining a 12.2% operating profit margin while
+          investing in technology and infrastructure improvements to support
+          long-term growth.
+  - context: >
+      Red Robin's real estate strategy and restaurant portfolio management
+      remained key focus areas in 2023. The company operated 415 company-owned
+      restaurants, with 398 on leased premises. Their real estate approach
+      emphasized optimal site selection, strategic lease negotiations, and
+      efficient capital allocation. The company also executed sale-leaseback
+      transactions to optimize their real estate portfolio and generate capital
+      for debt reduction and operational improvements. Restaurant development
+      focused on maintaining and enhancing existing locations while evaluating
+      opportunities for strategic growth.
+    questions:
+      - question: |
+          How does Red Robin approach real estate and location strategy?
+        answer: >
+          Red Robin maintains a strategic approach to real estate management with
+          398 of 415 company-owned restaurants operating on leased premises. The
+          company focuses on optimal site selection, strategic lease
+          negotiations, and efficient capital allocation. They also utilize
+          sale-leaseback transactions as a tool for portfolio optimization and
+          capital generation.
+      - question: >
+          What are the key elements of Red Robin's restaurant development
+          strategy?
+        answer: >
+          The company's restaurant development strategy emphasizes maintaining and
+          enhancing existing locations while evaluating opportunities for
+          strategic growth. This includes careful consideration of market
+          demographics, traffic patterns, and competitive landscape. The focus
+          is on optimizing the current portfolio while ensuring each location
+          meets performance criteria and contributes to overall profitability.
+      - question: |
+          How does Red Robin manage its restaurant portfolio?
+        answer: >
+          Red Robin actively manages its restaurant portfolio through strategic
+          lease negotiations, regular performance evaluations, and targeted
+          investments in existing locations. The company executes sale-leaseback
+          transactions to optimize the portfolio and generate capital for debt
+          reduction and operational improvements. This approach balances
+          maintaining strong locations while ensuring efficient capital
+          allocation.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

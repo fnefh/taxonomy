@@ -123,6 +123,60 @@ seed_examples:
           sustainable business practices. The company focuses on managing supply
           chain complexities, maintaining competitive position, and driving
           growth while adhering to quality and sustainability standards.
+  - context: >
+      In fiscal year 2022, Hain Celestial reported net sales of $1.89
+      billion, representing a decrease of 4.8% compared to the prior year. The
+      company faced challenges including supply chain disruptions, inflation,
+      and shifting consumer preferences. Despite these challenges, the company
+      continued its transformation initiatives, focusing on portfolio
+      optimization and operational efficiency improvements while maintaining its
+      commitment to natural and organic products.
+    questions_and_answers:
+      - question: |
+          What were Hain Celestial's financial results in FY2022?
+        answer: >
+          Hain Celestial reported net sales of $1.89 billion in fiscal year 2022,
+          showing a 4.8% decrease compared to the previous year, primarily due
+          to various market challenges and operational headwinds.
+      - question: |
+          What major challenges did the company face in FY2022?
+        answer: >
+          The company faced significant challenges including supply chain
+          disruptions, inflationary pressures, and evolving consumer
+          preferences, which impacted its overall performance and operations.
+      - question: |
+          How did Hain Celestial address these challenges?
+        answer: >
+          The company focused on transformation initiatives, including portfolio
+          optimization and operational efficiency improvements, while
+          maintaining its commitment to natural and organic products despite the
+          challenging environment.
+  - context: >
+      In fiscal year 2021, Hain Celestial achieved net sales of $1.97
+      billion, with strong performance across its brand portfolio. The company
+      implemented significant productivity initiatives, including SKU
+      rationalization and supply chain optimization. The year marked important
+      progress in the company's transformation strategy, with improvements in
+      margins and operational efficiency despite COVID-19 related challenges.
+    questions_and_answers:
+      - question: |
+          What were the key financial metrics for Hain Celestial in FY2021?
+        answer: >
+          Hain Celestial achieved net sales of $1.97 billion in fiscal year 2021,
+          demonstrating strong performance across its brand portfolio despite
+          the challenging operating environment.
+      - question: |
+          What strategic initiatives did the company implement in FY2021?
+        answer: >
+          The company implemented significant productivity initiatives, including
+          SKU rationalization and supply chain optimization, as part of its
+          ongoing transformation strategy to improve operational efficiency.
+      - question: |
+          How did Hain Celestial manage COVID-19 related challenges?
+        answer: >
+          Despite COVID-19 related challenges, the company successfully improved
+          margins and operational efficiency through its transformation strategy
+          and productivity initiatives while maintaining business continuity.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

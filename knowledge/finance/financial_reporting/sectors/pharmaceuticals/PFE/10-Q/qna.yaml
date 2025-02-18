@@ -139,6 +139,68 @@ seed_examples:
           focuses on maximizing the value of acquired assets, continuing
           investment in innovation, and delivering strong financial performance
           while managing costs and expanding market presence globally.
+  - context: >
+      In Q2 2024, Pfizer reported total revenues of $16.8 billion and net
+      income of $3.9 billion, while advancing integration of Seagen and making
+      significant progress in pipeline development. The quarter demonstrated
+      strong execution across therapeutic areas and continued momentum in
+      commercial operations.
+    questions_and_answers:
+      - question: |
+          What were the key financial and operational highlights of Q2 2024?
+        answer: >
+          Q2 2024 highlights included: 1) Total revenues of $16.8 billion, 2) Net
+          income of $3.9 billion reflecting strong operational performance, 3)
+          Continued progress in Seagen integration, 4) Advancement of key
+          pipeline programs, and 5) Effective cost management with controlled
+          operating expenses.
+      - question: |
+          How did pipeline development progress during Q2 2024?
+        answer: >
+          Pipeline development showed strong progress with: 1) Advancement of
+          multiple oncology programs including Seagen assets, 2) Progress in
+          core therapeutic areas, 3) Continued investment in R&D at $2.8
+          billion, 4) Successful clinical trial execution, and 5) Integration of
+          research capabilities across the combined organization.
+      - question: |
+          What strategic initiatives were implemented in Q2 2024?
+        answer: >
+          Strategic initiatives included: 1) Continued integration of Seagen
+          operations, 2) Implementation of new commercial organization
+          structure, 3) Advancement of pipeline programs, 4) Optimization of
+          manufacturing network, and 5) Enhancement of operational efficiency
+          across the organization.
+  - context: >
+      Q1 2024 demonstrated Pfizer's focus on strategic execution with total
+      revenues of $15.9 billion and continued progress in organizational
+      transformation. The quarter saw advancement in integration planning and
+      implementation while maintaining strong operational performance across the
+      business.
+    questions_and_answers:
+      - question: |
+          What were the key achievements in Q1 2024?
+        answer: >
+          Key achievements included: 1) Total revenues of $15.9 billion, 2)
+          Initial implementation of new organizational structure, 3) Advancement
+          of integration planning, 4) Strong operational execution across
+          divisions, and 5) Continued progress in pipeline development and
+          commercial operations.
+      - question: |
+          How did operational performance evolve in Q1 2024?
+        answer: >
+          Operational performance showed: 1) Effective cost management across
+          operating expenses, 2) Progress in integration planning and execution,
+          3) Strong performance in core therapeutic areas, 4) Maintenance of
+          robust supply chain operations, and 5) Implementation of efficiency
+          initiatives across the organization.
+      - question: |
+          What progress was made in strategic growth initiatives?
+        answer: >
+          Strategic growth initiatives progressed through: 1) Advancement of
+          integration activities, 2) Enhancement of commercial capabilities, 3)
+          Development of new market opportunities, 4) Implementation of
+          organizational changes, and 5) Focus on operational excellence and
+          cost efficiency.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -180,6 +180,70 @@ seed_examples:
           $2,331 million to share repurchases and $1,047 million to dividends in
           the first half of FY2023, while maintaining strong liquidity with
           $7,919 million in cash and equivalents.
+  - context: >
+      In Q1 FY2025, Nike's geographic performance demonstrated varied growth
+      across regions. North America revenue reached $5,423 million with strong
+      digital sales growth of 2%. EMEA revenue was $3,231 million, showing
+      resilience in key markets. Greater China revenue increased to $1,718
+      million, reflecting a 5% growth, while APLA revenue grew to $1,643
+      million. The company's wholesale revenue increased 6% to $7,480 million,
+      while NIKE Direct revenue grew 2% to $4,685 million, with digital sales
+      representing 26% of total brand revenue.
+    questions_and_answers:
+      - question: |
+          How did Nike's geographic segments perform in Q1 FY2025?
+        answer: >
+          Geographic performance showed: 1) North America revenue of $5,423M with
+          2% digital growth 2) EMEA revenue of $3,231M showing market resilience
+          3) Greater China revenue of $1,718M, up 5% 4) APLA revenue reaching
+          $1,643M with continued momentum.
+      - question: |
+          What trends emerged in Nike's distribution channels?
+        answer: >
+          Channel trends included: 1) Wholesale revenue up 6% to $7,480M 2) NIKE
+          Direct revenue growing 2% to $4,685M 3) Digital sales reaching 26% of
+          total brand revenue 4) Balanced growth across physical and digital
+          retail.
+      - question: |
+          How did Nike's market positioning evolve across regions?
+        answer: >
+          Market positioning showed: 1) Strong digital engagement in North America
+          2) Resilient performance in key EMEA markets 3) Recovery momentum in
+          Greater China 4) Growth opportunities captured in APLA region.
+  - context: >
+      During Q1 FY2025, Nike advanced several strategic initiatives focused
+      on innovation and consumer engagement. The company invested $1,226 million
+      in demand creation, supporting key product launches and brand campaigns.
+      Operating overhead expenses of $2,822 million reflected continued
+      investments in digital capabilities and operational infrastructure. Nike
+      maintained strong inventory management with levels at $8,253 million, down
+      8% from the prior year, while implementing advanced analytics for demand
+      planning and supply chain optimization. The company also progressed on
+      sustainability goals, with 86% of footwear factories achieving bronze or
+      better rating in sustainable manufacturing.
+    questions_and_answers:
+      - question: |
+          What were Nike's key strategic investments in Q1 FY2025?
+        answer: >
+          Strategic investments included: 1) $1,226M in demand creation for
+          product launches and campaigns 2) $2,822M in operating overhead for
+          digital and infrastructure 3) Enhanced inventory management systems 4)
+          Continued sustainability initiatives in manufacturing.
+      - question: |
+          How did Nike improve its operational efficiency?
+        answer: >
+          Operational improvements showed: 1) 8% reduction in inventory levels
+          year-over-year 2) Implementation of advanced analytics for demand
+          planning 3) Enhanced supply chain optimization 4) Improved
+          manufacturing sustainability with 86% of footwear factories at bronze
+          or better rating.
+      - question: |
+          What progress was made in sustainability and manufacturing?
+        answer: >
+          Sustainability progress included: 1) 86% of footwear factories achieving
+          bronze or better rating 2) Enhanced sustainable manufacturing
+          practices 3) Improved supply chain efficiency 4) Advanced
+          environmental performance metrics across operations.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

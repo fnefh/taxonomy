@@ -120,6 +120,68 @@ seed_examples:
           financing, and delivery options. The company leverages data analytics
           and proprietary tools to personalize customer experiences and improve
           operational efficiency.
+  - context: >
+      In Q2 2024, AutoNation reported total revenue of $6.87 billion and net
+      income of $216.2  million ($5.13 per share). New vehicle revenue was $3.28
+      billion with 61,200 units sold,  used vehicle revenue reached $2.02
+      billion with 68,500 units sold. Parts and service  revenue grew to $1.19
+      billion, while finance and insurance revenue was $348.5 million.  Gross
+      profit per vehicle retailed increased to $6,124 for new vehicles and
+      $2,285 for  used vehicles. The company maintained strong liquidity with
+      $2.1 billion in available  funds.
+    questions_and_answers:
+      - question: |
+          What were AutoNation's key financial metrics for Q2 2024?
+        answer: >
+          AutoNation achieved total revenue of $6.87 billion and net income of
+          $216.2 million  ($5.13 per share), with new vehicle revenue of $3.28
+          billion (61,200 units), used  vehicle revenue of $2.02 billion (68,500
+          units), and parts and service revenue of  $1.19 billion.
+      - question: |
+          How did per-vehicle profitability perform in Q2 2024?
+        answer: >
+          The company demonstrated strong per-vehicle profitability with gross
+          profit per  vehicle retailed increasing to $6,124 for new vehicles and
+          $2,285 for used vehicles,  while finance and insurance revenue reached
+          $348.5 million.
+      - question: >
+          What indicators demonstrate AutoNation's financial strength in Q2 2024?
+        answer: >
+          Financial strength was demonstrated through strong liquidity of $2.1
+          billion in  available funds, balanced revenue streams across segments,
+          and improved per-vehicle  profitability metrics in both new and used
+          vehicle sales.
+  - context: >
+      AutoNation's After-Sales business showed strong performance in Q2 2024,
+      with parts and  service revenue reaching $1.19 billion. The segment
+      completed 1.8 million service visits,  while customer pay revenue
+      increased by 8.2% year-over-year. AutoNation Mobile Service  expanded to
+      15 markets, completing 28,500 service appointments. The company's
+      collision  centers generated $185.3 million in revenue, with an average
+      repair order value of  $4,250. Customer satisfaction scores for service
+      operations reached 4.8 out of 5.0,  with a 65% service retention rate.
+    questions_and_answers:
+      - question: >
+          What were the key metrics for AutoNation's After-Sales business in Q2
+          2024?
+        answer: >
+          The After-Sales business generated $1.19 billion in parts and service
+          revenue,  completed 1.8 million service visits, and achieved 8.2%
+          growth in customer pay  revenue, while collision centers contributed
+          $185.3 million with an average repair  order of $4,250.
+      - question: |
+          How did AutoNation expand its service capabilities in Q2 2024?
+        answer: >
+          AutoNation Mobile Service expanded to 15 markets and completed 28,500
+          service  appointments, while maintaining high customer satisfaction
+          scores of 4.8 out of 5.0  and achieving a 65% service retention rate.
+      - question: |
+          What customer service trends were evident in the After-Sales business?
+        answer: >
+          Customer service performance was strong with satisfaction scores of 4.8
+          out of 5.0,  a 65% service retention rate, increased mobile service
+          availability across 15 markets,  and growth in customer pay revenue of
+          8.2% year-over-year.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -170,6 +170,75 @@ seed_examples:
           maintaining product availability, and 5) Navigation of market
           uncertainties, including inflation, interest rates, and geopolitical
           tensions affecting global operations.
+  - context: >
+      In Q2 2024, Baxter reported net sales of $2,718 million from continuing
+      operations, with operating income of $182 million. The company continued
+      to advance its strategic initiatives, including the planned Kidney Care
+      business sale and operational efficiency improvements. Cost management
+      efforts showed progress with selling, general and administrative expenses
+      decreasing to $751 million, while research and development investments
+      remained focused on innovation priorities.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q2 2024?
+        answer: >
+          Baxter's Q2 2024 performance included net sales of $2,718 million from
+          continuing operations and operating income of $182 million. The
+          company demonstrated effective cost management with reduced SG&A
+          expenses of $751 million, while maintaining strategic investments in
+          R&D and operational improvements. The results reflected ongoing
+          progress in portfolio transformation and efficiency initiatives.
+      - question: |
+          How effective were cost management initiatives in Q2 2024?
+        answer: >
+          Cost management initiatives showed positive results with SG&A expenses
+          decreasing to $751 million. The company maintained operational
+          efficiency while advancing strategic priorities, including the planned
+          Kidney Care business sale. These efforts demonstrated Baxter's
+          commitment to improving profitability while investing in growth
+          opportunities.
+      - question: |
+          What progress was made on strategic initiatives?
+        answer: >
+          Strategic progress in Q2 2024 included advancement of the planned Kidney
+          Care business sale, operational efficiency improvements, and continued
+          focus on innovation priorities through R&D investments. The company
+          maintained momentum in its portfolio transformation while managing
+          costs and supporting core business growth.
+  - context: >
+      In Q1 2024, Baxter reported net sales of $2,657 million from continuing
+      operations and implemented significant digital transformation initiatives
+      across its operations. The company expanded its connected care solutions,
+      enhanced manufacturing automation, and advanced data analytics
+      capabilities. These efforts supported improved operational efficiency and
+      decision-making while strengthening the company's competitive position in
+      healthcare technology.
+    questions_and_answers:
+      - question: |
+          What were Baxter's digital transformation achievements in Q1 2024?
+        answer: >
+          Baxter advanced several digital initiatives including expanded connected
+          care solutions, enhanced manufacturing automation, and improved data
+          analytics capabilities. These transformations supported operational
+          efficiency and strengthened the company's position in healthcare
+          technology while enabling better decision-making across the
+          organization.
+      - question: |
+          How did operational improvements impact performance?
+        answer: >
+          Operational improvements through digital transformation and automation
+          contributed to enhanced manufacturing efficiency and supply chain
+          optimization. The company reported net sales of $2,657 million from
+          continuing operations while implementing technology-driven solutions
+          to improve productivity and operational effectiveness.
+      - question: |
+          What technology investments were prioritized?
+        answer: >
+          Key technology investments focused on connected care solutions,
+          manufacturing automation, and data analytics capabilities. These
+          priorities aligned with Baxter's strategy to enhance operational
+          efficiency, improve decision-making processes, and strengthen its
+          competitive position in the healthcare technology sector.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

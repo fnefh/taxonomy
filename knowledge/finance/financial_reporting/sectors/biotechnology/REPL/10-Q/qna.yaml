@@ -114,6 +114,67 @@ seed_examples:
           Replimune maintained a balanced approach between advancing clinical
           trials and developing manufacturing capabilities, while managing
           operating expenses to support long-term growth objectives.
+  - context: >
+      In June 2024, Replimune completed a significant private placement
+      transaction, raising approximately $96.7M through the sale of common stock
+      and pre-funded warrants. The company issued 5,668,937 shares at $8.82 per
+      share and 5,669,578 pre-funded warrants at $8.819 per warrant,
+      strengthening its financial position for continued clinical development
+      and operational growth.
+    questions_and_answers:
+      - question: |
+          What were the details of Replimune's June 2024 private placement?
+        answer: >
+          Replimune completed a private placement transaction raising $96.7M net
+          proceeds through the sale of 5,668,937 shares at $8.82 per share and
+          5,669,578 pre-funded warrants at $8.819 per warrant, after deducting
+          $3.3M in placement agent fees and offering expenses.
+      - question: |
+          How did this financing impact the company's capital structure?
+        answer: >
+          The private placement significantly strengthened Replimune's capital
+          structure by adding approximately $96.7M in net proceeds, with the
+          transaction split between direct share issuance and pre-funded
+          warrants, providing flexibility in the company's funding structure.
+      - question: >
+          What was the strategic significance of this capital raise for
+          Replimune?
+        answer: >
+          The capital raise provided Replimune with significant additional
+          resources to support its ongoing clinical development programs and
+          operational activities, demonstrating investor confidence in the
+          company's strategy and enhancing its financial flexibility.
+  - context: >
+      Replimune's strategic collaborations and partnerships in 2024 included
+      agreements with Bristol-Myers Squibb for clinical trial support, Roche for
+      RP2 development in HCC, and a settlement with Amgen including a licensing
+      agreement. The company also maintained strong investment in R&D
+      infrastructure with $12.6M in property, plant and equipment as of
+      September 2024.
+    questions_and_answers:
+      - question: |
+          How has Replimune leveraged strategic partnerships for development?
+        answer: >
+          Replimune has established key partnerships including BMS providing
+          compounds for clinical trials, a collaboration with Roche for RP2
+          development in HCC, and a licensing agreement with Amgen,
+          demonstrating a strategic approach to advancing its pipeline through
+          industry collaborations.
+      - question: |
+          What investments has Replimune made in operational infrastructure?
+        answer: >
+          The company maintained $12.6M in property, plant and equipment as of
+          September 2024, including investments in laboratory equipment,
+          leasehold improvements, and capitalized software, supporting its
+          research and development capabilities.
+      - question: >
+          How do these partnerships and investments support Replimune's growth
+          strategy?
+        answer: >
+          The combination of strategic partnerships and infrastructure investments
+          positions Replimune for sustainable growth by providing access to
+          complementary resources, expanding development capabilities, and
+          maintaining robust operational capacity for clinical programs.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

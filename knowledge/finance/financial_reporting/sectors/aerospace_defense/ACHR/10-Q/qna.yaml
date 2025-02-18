@@ -154,6 +154,68 @@ seed_examples:
       - question: What was Archer's financial position at the end of Q3 2023?
         answer: Archer maintained a strong balance sheet with $461.4 million in cash and
           cash equivalents and total assets of $539.6 million.
+  - context: >
+      During Q3 2024, Archer made significant progress on its manufacturing
+      facilities, with the Covington, Georgia facility reaching 80% completion.
+      The company invested $47.3 million in construction and equipment during
+      the quarter, bringing total investment to $113.1 million. The facility's
+      first phase remains on track for completion in 2024, with initial
+      production capacity of 650 aircraft per year. The San Jose facility
+      continued to support certification activities with successful production
+      of conforming aircraft components.
+    questions_and_answers:
+      - question: What progress was made on Archer's manufacturing facilities in Q3 2024?
+        answer: >
+          Archer's Covington, Georgia facility reached 80% completion with $47.3
+          million invested during Q3, bringing total investment to $113.1
+          million. The facility remains on schedule for 2024 completion with
+          initial capacity for 650 aircraft annually, while the San Jose
+          facility continued supporting certification activities.
+      - question: How much has Archer invested in manufacturing infrastructure?
+        answer: >
+          During Q3 2024, Archer invested $47.3 million in construction and
+          equipment, bringing the total manufacturing infrastructure investment
+          to $113.1 million. This investment supports both the Covington
+          high-volume facility and San Jose certification facility.
+      - question: What are the key manufacturing capabilities being developed?
+        answer: >
+          The manufacturing capabilities include: 1) 650 aircraft annual
+          production capacity at the Covington facility's first phase 2)
+          Conforming aircraft component production at the San Jose facility 3)
+          Integrated production systems across both locations 4) Scalable
+          infrastructure supporting future expansion.
+  - context: >
+      In Q3 2024, Archer achieved several critical certification milestones
+      for its Midnight aircraft program. The company completed over 85% of means
+      of compliance submissions to the FAA, with acceptance received for
+      approximately 75%. Flight testing activities expanded with successful
+      completion of high-speed envelope expansion tests. The company also
+      initiated production of certification flight test vehicles, with first
+      conforming aircraft assembly progressing on schedule. These achievements
+      support Archer's target of achieving type certification in late 2024 or
+      early 2025.
+    questions_and_answers:
+      - question: What certification progress did Archer achieve in Q3 2024?
+        answer: >
+          Archer completed over 85% of means of compliance submissions to the FAA
+          with approximately 75% acceptance rate, while successfully conducting
+          high-speed envelope expansion tests. The company also began production
+          of certification flight test vehicles, maintaining progress toward
+          type certification in late 2024 or early 2025.
+      - question: What flight testing milestones were achieved during Q3 2024?
+        answer: >
+          Key flight testing achievements included successful completion of
+          high-speed envelope expansion tests and initiation of certification
+          flight test vehicle production. These milestones demonstrated the
+          aircraft's performance capabilities while advancing toward type
+          certification requirements.
+      - question: How is Archer progressing toward its certification timeline?
+        answer: >
+          Archer is maintaining progress toward its certification timeline with:
+          1) Over 85% of means of compliance submissions completed 2)
+          Approximately 75% acceptance rate from FAA 3) Production of
+          certification flight test vehicles on schedule 4) Target of achieving
+          type certification in late 2024 or early 2025 remains on track.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

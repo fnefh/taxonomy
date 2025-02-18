@@ -134,6 +134,67 @@ seed_examples:
           with moderate debt levels, while continuing to invest in operational
           capabilities and returning value to shareholders through dividends and
           share repurchases.
+  - context: >
+      For Q2 2024, Liberty Energy reported strong performance with revenue of
+      $1.19 billion and net income of $85.2 million. The quarter saw continued
+      progress in ESG initiatives, including expansion of digiFrac electric
+      fleet deployments and advancement of environmental technology solutions.
+      The company maintained strong operational execution while investing in
+      sustainable technologies and market expansion.
+    questions_and_answers:
+      - question: |
+          What were the key financial highlights from Q2 2024?
+        answer: >
+          Q2 2024 highlights included: 1) Revenue of $1.19 billion demonstrating
+          continued market strength, 2) Net income of $85.2 million reflecting
+          strong operational execution, 3) Operating income margin improvement
+          through efficiency initiatives, 4) Continued investment in growth and
+          technology, 5) Strong cash flow generation supporting strategic
+          investments and shareholder returns.
+      - question: |
+          How did ESG initiatives progress during Q2 2024?
+        answer: >
+          ESG progress included: 1) Expansion of digiFrac electric fleet
+          deployments reducing emissions, 2) Advancement of environmental
+          technology solutions, 3) Enhanced safety performance metrics, 4)
+          Community engagement initiatives, 5) Implementation of sustainable
+          operational practices across service locations.
+      - question: |
+          What operational achievements were notable in Q2 2024?
+        answer: >
+          Key achievements included: 1) Improved operational efficiency across
+          service fleets, 2) Enhanced technology integration in operations, 3)
+          Strengthened customer relationships and service quality, 4) Successful
+          market expansion initiatives, 5) Effective cost management while
+          maintaining service quality.
+  - context: >
+      Q1 2024 demonstrated Liberty Energy's focus on technology
+      implementation and market adaptation, with revenue of $1.15 billion and
+      continued investment in digital solutions and operational efficiency. The
+      company advanced its technology roadmap while maintaining strong customer
+      relationships and market position across key basins.
+    questions_and_answers:
+      - question: |
+          What technology advancements were achieved in Q1 2024?
+        answer: >
+          Technology achievements included: 1) Enhanced digital platform
+          implementation, 2) Advanced data analytics integration, 3) Improved
+          operational control systems, 4) Expanded automation capabilities, 5)
+          Enhanced equipment monitoring and maintenance systems.
+      - question: |
+          How did market conditions impact Q1 2024 performance?
+        answer: >
+          Market impacts included: 1) Strong demand in key operating basins, 2)
+          Effective pricing strategy implementation, 3) Successful navigation of
+          industry dynamics, 4) Strategic customer relationship management, 5)
+          Balanced approach to market opportunities and challenges.
+      - question: |
+          What strategic initiatives were implemented in Q1 2024?
+        answer: >
+          Strategic initiatives encompassed: 1) Operational efficiency
+          improvements, 2) Technology infrastructure investments, 3) Market
+          expansion efforts, 4) Customer service enhancements, 5) Cost
+          management optimization programs.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

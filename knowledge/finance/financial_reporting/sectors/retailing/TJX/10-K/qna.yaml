@@ -98,6 +98,75 @@ seed_examples:
           identifying suitable partners, and managing currency exchange
           fluctuations. The company must also navigate potential political,
           economic, and civil instability in new markets.
+  - context: >
+      In fiscal year 2024, TJX achieved net sales of $52.8 billion, an
+      increase of 8% from fiscal 2023. The company's store count grew to 4,878
+      stores worldwide, with Marmaxx (T.J. Maxx and Marshalls) contributing
+      $33.7 billion in sales, HomeGoods at $8.7 billion, TJX Canada at $5.1
+      billion, and TJX International at $5.3 billion. Operating income reached
+      $4.7 billion with a margin of 8.9%, while maintaining strong cash flow and
+      returning $3.8 billion to shareholders through dividends and share
+      repurchases.
+    questions_and_answers:
+      - question: |
+          What were TJX's key financial metrics for fiscal 2024?
+        answer: >
+          Fiscal 2024 performance included: 1) Net sales growth of 8% to $52.8
+          billion, 2) Operating income of $4.7 billion with 8.9% margin, 3)
+          Strong segment performance led by Marmaxx at $33.7 billion, 4) $3.8
+          billion returned to shareholders, and 5) Expanded global store count
+          to 4,878 locations.
+      - question: |
+          How did TJX's different segments perform in fiscal 2024?
+        answer: >
+          Segment performance showed: 1) Marmaxx leading with $33.7 billion in
+          sales, 2) HomeGoods achieving $8.7 billion, 3) TJX Canada contributing
+          $5.1 billion, 4) TJX International reaching $5.3 billion, and 5)
+          Strong growth across all major banners demonstrating the strength of
+          the off-price model.
+      - question: |
+          What were the key drivers of TJX's profitability in fiscal 2024?
+        answer: >
+          Profitability drivers included: 1) Effective merchandise margin
+          management, 2) Operating leverage from sales growth, 3) Efficient cost
+          control across segments, 4) Strong inventory turnover and markdown
+          optimization, and 5) Successful execution of off-price buying
+          strategy.
+  - context: >
+      TJX's store operations and growth strategy focus on expanding its
+      global presence while maintaining operational excellence. The company's
+      store network spans multiple countries and banners, supported by
+      sophisticated distribution centers and logistics capabilities. Store
+      operations are tailored to local market preferences while maintaining
+      consistent execution of the off-price model. The company's real estate
+      strategy emphasizes flexibility in store locations and formats, with
+      continued investment in both new stores and remodels.
+    questions_and_answers:
+      - question: |
+          How does TJX manage its global store operations?
+        answer: >
+          TJX manages global operations through: 1) Tailored merchandise
+          assortments for local markets, 2) Consistent execution of off-price
+          model across banners, 3) Sophisticated distribution and logistics
+          network, 4) Flexible store formats and locations, and 5) Regular
+          investment in store remodels and updates.
+      - question: |
+          What are the key elements of TJX's store growth strategy?
+        answer: >
+          Growth strategy includes: 1) Targeted expansion in existing and new
+          markets, 2) Multi-banner approach to maximize market penetration, 3)
+          Focus on prime retail locations with favorable lease terms, 4)
+          Balanced investment across different store formats, and 5) Strategic
+          evaluation of market opportunities across geographies.
+      - question: |
+          How does TJX optimize its store network performance?
+        answer: >
+          Store optimization involves: 1) Regular assessment of store productivity
+          metrics, 2) Strategic merchandise allocation based on local
+          preferences, 3) Efficient inventory management and replenishment, 4)
+          Ongoing training and development of store associates, and 5)
+          Continuous evaluation of store portfolio for optimization
+          opportunities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

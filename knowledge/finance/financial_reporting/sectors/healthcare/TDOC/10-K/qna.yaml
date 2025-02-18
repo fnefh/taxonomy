@@ -141,6 +141,77 @@ seed_examples:
           fees), 4) International expansion progress, 5) Cross-selling success
           within existing client base, and 6) BetterHelp segment growth and
           customer acquisition costs.
+  - context: >
+      In fiscal year 2023, Teladoc Health reported revenue of $2.6 billion, a
+      8% increase from 2022, driven by growth in both Integrated Care and
+      BetterHelp segments. The company achieved 18.4 million virtual visits, up
+      7% year-over-year, while expanding its chronic care management programs
+      and Primary360 offering. Operating expenses were managed through cost
+      optimization initiatives, though the company continued strategic
+      investments in technology and clinical capabilities.
+    questions_and_answers:
+      - question: |
+          What were Teladoc's key financial metrics in FY2023?
+        answer: >
+          Teladoc's 2023 performance included: 1) Revenue of $2.6 billion,
+          representing 8% growth from 2022, 2) 18.4 million virtual visits, up
+          7% year-over-year, 3) Access fee revenue comprising 88% of total
+          revenue, 4) BetterHelp segment revenue growth despite marketing
+          efficiency challenges, and 5) Cost optimization initiatives while
+          maintaining strategic investments.
+      - question: |
+          How did Teladoc's business segments perform in 2023?
+        answer: >
+          Segment performance showed: 1) Integrated Care growth through expanded
+          chronic care management and Primary360 adoption, 2) BetterHelp segment
+          growth despite marketing efficiency headwinds, 3) Strong international
+          revenue growth through strategic partnerships, 4) Increased
+          cross-selling success within existing client base, and 5) Improved
+          operational metrics across virtual care delivery platforms.
+      - question: |
+          What strategic investments and initiatives were implemented?
+        answer: >
+          Key initiatives included: 1) Enhancement of technology platform and
+          clinical capabilities, 2) Expansion of chronic care management
+          programs, 3) Development of AI-driven personalization features, 4)
+          Implementation of cost optimization programs while maintaining growth
+          investments, and 5) Strengthening of international market presence and
+          partnerships.
+  - context: >
+      Teladoc Health maintains a comprehensive risk management framework
+      addressing healthcare regulations, technology security, and market
+      dynamics. The company's approach includes robust compliance programs,
+      cybersecurity measures, and strategic initiatives to address competitive
+      challenges. In 2023, significant focus was placed on enhancing data
+      protection, maintaining regulatory compliance across jurisdictions, and
+      managing market-specific risks.
+    questions_and_answers:
+      - question: |
+          How does Teladoc manage regulatory compliance risks?
+        answer: >
+          Teladoc's regulatory compliance management includes: 1) Comprehensive
+          monitoring of state-specific telehealth laws and regulations, 2)
+          Maintenance of corporate practice of medicine compliance through
+          structured relationships, 3) Active management of international
+          healthcare regulations, 4) Robust privacy and security compliance
+          programs, and 5) Regular updates to policies and procedures based on
+          regulatory changes.
+      - question: |
+          What are Teladoc's key cybersecurity and data protection measures?
+        answer: >
+          Security measures include: 1) HITRUST certification for platform
+          security, 2) Comprehensive data encryption and protection protocols,
+          3) Regular security assessments and penetration testing, 4) Employee
+          training and awareness programs, and 5) Incident response and business
+          continuity planning for potential security events.
+      - question: |
+          How does Teladoc address competitive market challenges?
+        answer: >
+          Competitive strategies include: 1) Continuous innovation in virtual care
+          delivery and technology platform, 2) Strategic partnerships to enhance
+          market position, 3) Focus on clinical quality and patient outcomes, 4)
+          Investment in brand development and market differentiation, and 5)
+          Expansion of service offerings to maintain competitive advantage.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

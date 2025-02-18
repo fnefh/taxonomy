@@ -88,6 +88,52 @@ seed_examples:
           Enhanced clinical development capabilities 3) Successful execution of
           financing strategies 4) Continued focus on precision oncology
           leadership 5) Strengthened position in targeted therapeutics space
+  - context: Q3 2024 Financial Performance & Operating Results
+    questions_and_answers:
+      - question: What were the key financial metrics and performance indicators in Q3
+          2024?
+        answer: >
+          1) Research and development expenses of $27.6M, up from $25.2M in Q3
+          2023 2) General and administrative expenses maintained at $9.6M 3) Net
+          loss of $31.2M ($0.11 per share), compared to $30.4M ($0.20 per share)
+          in Q3 2023 4) Interest income increased to $5.9M from $4.3M in Q3 2023
+          5) Total operating expenses of $37.2M, reflecting continued investment
+          in clinical programs
+      - question: How has the company's expense management evolved?
+        answer: >
+          1) Strategic R&D investment focused on key clinical programs 2)
+          Controlled G&A expenses despite expanded operations 3) Efficient
+          resource allocation across pipeline 4) Increased investment in
+          clinical development activities 5) Maintained operational discipline
+          while advancing multiple programs
+      - question: What are the key trends in operational metrics?
+        answer: >
+          1) Sustained focus on clinical development with $89.2M in R&D expenses
+          for first nine months 2) One-time in-process R&D expense of $22.5M in
+          Q2 2024 3) Improved loss per share despite increased investment 4)
+          Enhanced operational efficiency in program execution 5) Strategic
+          prioritization of resources across portfolio
+  - context: Q3 2024 Capital Management & Financial Strategy
+    questions_and_answers:
+      - question: How has the company strengthened its financial position?
+        answer: >
+          1) Strong cash position of $463.3M as of September 30, 2024 2)
+          Successful completion of $174.4M underwritten offering 3) Additional
+          $43.6M raised through private placement 4) $21.0M raised through ATM
+          offering 5) Total stockholders' equity of $450.0M
+      - question: What are the key elements of the company's capital allocation strategy?
+        answer: >
+          1) Prioritized investment in clinical development programs 2) Strategic
+          management of cash resources 3) Balanced approach to operational and
+          development expenses 4) Multiple successful financing rounds 5)
+          Maintained strong liquidity position for future growth
+      - question: How is the company positioned for future growth and development?
+        answer: >
+          1) Well-funded with cash runway extended through multiple clinical
+          milestones 2) Strategic flexibility through diverse financing options
+          3) Efficient capital deployment across development programs 4) Strong
+          balance sheet with $528.9M in total assets 5) Enhanced financial
+          position to support pipeline advancement
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

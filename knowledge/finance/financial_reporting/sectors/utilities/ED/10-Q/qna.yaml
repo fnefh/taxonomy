@@ -157,6 +157,69 @@ seed_examples:
           of 2024  and maintained a balanced approach to financing its
           operations through  a combination of operating cash flows and external
           financing.
+  - context: >
+      CECONY, Con Edison's principal utility subsidiary, reported Q3 2024
+      operating revenues  of $3,821 million, with electric revenues of $3,428
+      million, gas revenues of $347 million,  and steam revenues of $46 million.
+      The company delivered approximately 15,890 million kWh  of electricity and
+      21,733 million cubic feet of gas during the quarter. Capital
+      expenditures  for the quarter were $1,123 million, primarily focused on
+      system reliability improvements  and clean energy infrastructure. CECONY
+      maintained strong operational performance with an  electric service
+      reliability rate of 99.97%.
+    questions_and_answers:
+      - question: |
+          What were CECONY's key operational and financial metrics in Q3 2024?
+        answer: >
+          CECONY achieved operating revenues of $3,821 million, including $3,428
+          million from  electric, $347 million from gas, and $46 million from
+          steam operations, while delivering  15,890 million kWh of electricity
+          and 21,733 million cubic feet of gas.
+      - question: |
+          How did CECONY allocate its capital investments in Q3 2024?
+        answer: >
+          The company invested $1,123 million in capital expenditures during Q3
+          2024, focusing  on system reliability improvements and clean energy
+          infrastructure development to  enhance service quality and support
+          sustainability goals.
+      - question: |
+          What were CECONY's operational performance indicators in Q3 2024?
+        answer: >
+          CECONY maintained excellent operational performance with a 99.97%
+          electric service  reliability rate, while efficiently managing its
+          electric, gas, and steam delivery  systems to meet customer demand.
+  - context: >
+      Orange & Rockland Utilities (O&R), Con Edison's regulated utility
+      subsidiary serving New  York and New Jersey, reported Q3 2024 operating
+      revenues of $271 million and net income  of $42 million. Electric delivery
+      volumes were 1,590 million kWh, while gas delivery  volumes reached 26
+      million cubic feet. The company invested $89 million in
+      infrastructure  improvements during the quarter, including $45 million for
+      electric system upgrades and  $44 million for gas system enhancements.
+      O&R's clean energy initiatives included the  installation of 1,200 smart
+      meters and the completion of three electric vehicle charging  station
+      projects.
+    questions_and_answers:
+      - question: |
+          What were O&R's key financial and operational results in Q3 2024?
+        answer: >
+          O&R reported operating revenues of $271 million and net income of $42
+          million, while  delivering 1,590 million kWh of electricity and 26
+          million cubic feet of gas to  customers in New York and New Jersey.
+      - question: |
+          How did O&R allocate its infrastructure investments in Q3 2024?
+        answer: >
+          The company invested $89 million in infrastructure improvements, with
+          $45 million  dedicated to electric system upgrades and $44 million to
+          gas system enhancements,  demonstrating a balanced approach to utility
+          system modernization.
+      - question: |
+          What progress did O&R make in its clean energy initiatives?
+        answer: >
+          O&R advanced its clean energy goals by installing 1,200 smart meters and
+          completing  three electric vehicle charging station projects,
+          demonstrating its commitment to  grid modernization and sustainable
+          infrastructure.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -33,105 +33,144 @@ document_outline: >
 seed_examples:
   - context: >
       For the fiscal year ended December 31, 2023, Datadog reported revenue
-      of $2.13 billion,  representing a 27% increase from the previous year. The
-      company had approximately 27,300  customers, with 3,190 customers having
-      ARR of $100,000 or more, representing 86% of total ARR.
+      of $2.13 billion, representing a 27% increase from the previous year. The
+      company had approximately 27,300 customers, with 3,190 customers having
+      ARR of $100,000 or more, representing 86% of total ARR. The company
+      maintained strong profitability with an 81% gross margin.
     questions_and_answers:
-      - question: >
-          How did Datadog's financial performance compare to the previous year
-          in 2023?
-        answer: >
-          In 2023, Datadog's revenue grew by 27% to reach $2.13 billion, compared
-          to $1.68 billion  in 2022. The company also improved its gross margin
-          to 81% from 79% in the previous year.  Notably, 65% of the revenue
-          growth came from existing customers, while 35% was from new  customer
-          acquisition.
       - question: |
-          What were the key customer metrics and trends for Datadog in 2023?
+          How did Datadog's financial performance compare to the previous year?
         answer: >
-          As of December 31, 2023, Datadog had approximately 27,300 customers, up
-          from 23,200 in 2022.  The company had 3,190 customers with ARR of
-          $100,000 or more, representing 86% of total ARR,  compared to 2,780
-          such customers in 2022. The trailing 12-month dollar-based net
-          retention  rate was in the mid-110%'s, though this showed a decline
-          from mid-140%'s in 2022 due to  slower usage growth from existing
-          customers.
+          In 2023, Datadog achieved: 1) Revenue growth of 27% to reach $2.13
+          billion; 2) Improved gross margin to 81% from 79%; 3) Customer base
+          growth to 27,300 from 23,200; 4) Increase in $100K+ ARR customers to
+          3,190; 5) These customers represented 86% of total ARR.
       - question: |
-          How has Datadog's product adoption evolved across its customer base?
+          What were the key customer metrics and trends in 2023?
         answer: >
-          As of December 31, 2023, approximately 83% of customers were using more
-          than one product,  up from 81% a year earlier. Additionally, 47% of
-          customers were using more than four  products (up from 42%), and 22%
-          were using more than six products (up from 18%). This  indicates
-          strong expansion of product adoption across the platform.
+          Key metrics included: 1) Total customer count of 27,300; 2) 3,190
+          customers with ARR over $100,000; 3) 83% of customers using multiple
+          products; 4) 47% using four or more products; 5) 22% using six or more
+          products, showing strong platform adoption.
+      - question: |
+          How has Datadog's revenue composition evolved?
+        answer: >
+          Revenue composition showed: 1) Strong growth across all major products;
+          2) 65% of revenue growth from existing customers; 3) 35% from new
+          customer acquisition; 4) International revenue reaching 30% of total
+          revenue; 5) Continued expansion of product adoption across the
+          customer base.
   - context: >
-      In 2023, Datadog continued to invest heavily in R&D ($962.4 million)
-      and sales and marketing  ($609.3 million) while maintaining strong
-      liquidity with $330.3 million in cash and $2.3 billion  in marketable
-      securities as of December 31, 2023.
+      Datadog's platform processes more than 10 trillion events per day and
+      includes over 700 out-of-the-box integrations. In 2023, the company
+      launched several new products including Application Vulnerability
+      Management, Data Streams Monitoring, and Workflow Automation, while
+      maintaining strong investment in R&D at $962.4 million.
     questions_and_answers:
       - question: |
-          How did Datadog allocate its operating expenses in 2023?
+          What are the key capabilities of Datadog's platform?
         answer: >
-          In 2023, Datadog's largest operating expense was research and
-          development at $962.4 million  (45% of revenue), followed by sales and
-          marketing at $609.3 million (29% of revenue), and  general and
-          administrative expenses at $180.2 million (8% of revenue). These
-          investments  reflect the company's focus on product innovation and
-          market expansion.
+          Platform capabilities include: 1) Processing over 10 trillion events
+          daily; 2) Over 700 out-of-the-box integrations; 3) Unified monitoring
+          across infrastructure, applications, and security; 4) Real-time
+          observability and analytics; 5) Advanced machine learning
+          capabilities.
       - question: |
-          What is Datadog's financial position and liquidity status?
+          How has Datadog expanded its product portfolio?
         answer: >
-          As of December 31, 2023, Datadog maintained a strong financial position
-          with $330.3 million  in cash and cash equivalents and $2.3 billion in
-          marketable securities. The company has  generated positive cash flows
-          from operations during 2021-2023 and believes its existing  resources
-          are sufficient to support cash requirements for at least the next 12
-          months.
+          Product expansion included: 1) Launch of Application Vulnerability
+          Management; 2) Introduction of Data Streams Monitoring; 3) Release of
+          Workflow Automation; 4) Enhancement of existing security and
+          monitoring solutions; 5) Integration of AI/ML capabilities across the
+          platform.
       - question: |
-          How has Datadog's international expansion progressed?
+          What were Datadog's key investments in technology and innovation?
         answer: >
-          Revenue from regions outside of North America represented approximately
-          30% of total revenue  in 2023, up from 28% in 2022. The company has
-          established sales presence internationally,  with offices in key
-          locations including Amsterdam, Dublin, London, Paris, Seoul,
-          Singapore,  Sydney, and Tokyo, demonstrating its commitment to global
-          expansion.
+          Key investments included: 1) R&D spending of $962.4 million; 2)
+          Enhancement of platform scalability; 3) Development of new security
+          features; 4) Expansion of integration capabilities; 5) Improvement of
+          machine learning algorithms.
   - context: >
-      Datadog's platform integrates and automates infrastructure monitoring,
-      application performance  monitoring, log management, user experience
-      monitoring, cloud security, and other capabilities.  In 2023, the company
-      launched new products including Application Vulnerability
-      Management,  Data Streams Monitoring, and Workflow Automation.
+      As of December 31, 2023, Datadog had approximately 5,200 employees
+      across 33 countries, with significant investments in sales and marketing
+      ($609.3 million) and R&D. The company maintained strong liquidity with
+      $330.3 million in cash and $2.3 billion in marketable securities.
     questions_and_answers:
       - question: |
-          What are the key components and capabilities of Datadog's platform?
+          How did Datadog manage its operational resources in 2023?
         answer: >
-          Datadog's SaaS platform provides unified, real-time observability and
-          security through  integrated capabilities including infrastructure
-          monitoring, application performance  monitoring, log management, user
-          experience monitoring, cloud security, and other  functionalities. The
-          platform processes more than 10 trillion events per day and
-          is  designed to work with ephemeral cloud technologies.
+          Operational management included: 1) Growing to 5,200 employees across 33
+          countries; 2) Sales and marketing investment of $609.3 million; 3) R&D
+          investment of $962.4 million; 4) Maintaining strong cash position of
+          $330.3 million; 5) Building marketable securities position of $2.3
+          billion.
       - question: |
-          How has Datadog expanded its product portfolio in recent years?
+          What was Datadog's approach to talent management and growth?
         answer: >
-          Datadog has consistently expanded its product portfolio, launching
-          Application Vulnerability  Management, Data Streams Monitoring, and
-          Workflow Automation in 2023. In 2022, they  introduced Application
-          Security Management, Cloud Security Management, Audit
-          Trail,  Observability Pipelines, Cloud Cost Management, and Universal
-          Service Monitoring,  demonstrating continuous innovation.
+          Talent management focused on: 1) Global workforce expansion; 2)
+          Investment in employee development; 3) Promotion of work-life balance;
+          4) Enhancement of diversity and inclusion programs; 5) Competitive
+          compensation and benefits.
       - question: |
-          What are Datadog's key competitive advantages in the market?
+          How did Datadog maintain its financial stability?
         answer: >
-          Datadog's key competitive advantages include its cloud-native platform
-          built for dynamic  cloud environments, integrated data platform
-          combining multiple monitoring capabilities,  over 700 out-of-the-box
-          integrations, and robust machine learning capabilities.
-          The  platform's ease of use and rapid deployment capability, along
-          with its scalability  processing tens of trillion events daily,
-          contribute to its market strength.
+          Financial stability maintained through: 1) Strong cash management; 2)
+          Diverse investment portfolio; 3) Efficient operational spending; 4)
+          Strategic resource allocation; 5) Balanced growth investments.
+  - context: >
+      Datadog faces competition from various vendors in different categories,
+      including infrastructure monitoring, APM, and log management. The company
+      maintains competitive advantages through its unified platform,
+      cloud-native architecture, and continuous innovation in product
+      development.
+    questions_and_answers:
+      - question: |
+          Who are Datadog's main competitors and how does it differentiate?
+        answer: >
+          Competitive landscape includes: 1) Infrastructure monitoring competitors
+          like IBM and Microsoft; 2) APM competitors like New Relic and
+          Dynatrace; 3) Log management competitors like Splunk and Elastic; 4)
+          Cloud provider solutions from AWS, Azure, and GCP; 5) Datadog
+          differentiates through its unified platform and cloud-native
+          architecture.
+      - question: |
+          What are Datadog's key competitive advantages?
+        answer: >
+          Key advantages include: 1) Unified observability platform; 2) Over 700
+          integrations; 3) Cloud-native architecture; 4) Advanced machine
+          learning capabilities; 5) Rapid deployment and ease of use.
+      - question: |
+          How does Datadog maintain its market position?
+        answer: >
+          Market position maintained through: 1) Continuous product innovation; 2)
+          Strong customer relationships; 3) Platform scalability and
+          reliability; 4) Strategic partnerships; 5) Focus on customer success.
+  - context: >
+      Datadog's growth strategy focuses on expanding its customer base,
+      increasing product adoption, and maintaining technology leadership. The
+      company continues to invest in international expansion and new product
+      development while addressing evolving market needs.
+    questions_and_answers:
+      - question: |
+          What are Datadog's key growth strategies?
+        answer: >
+          Growth strategies include: 1) Expanding customer base through sales and
+          marketing; 2) Increasing product adoption among existing customers; 3)
+          Investing in technology leadership; 4) Expanding international
+          presence; 5) Developing new products and capabilities.
+      - question: |
+          How does Datadog approach international expansion?
+        answer: >
+          International approach includes: 1) Establishing regional sales
+          presence; 2) Opening offices in key markets; 3) Building local
+          partnerships; 4) Adapting to regional requirements; 5) Investing in
+          local talent.
+      - question: |
+          What are Datadog's priorities for future development?
+        answer: >
+          Development priorities include: 1) Enhanced security capabilities; 2)
+          Advanced analytics features; 3) Expanded integration ecosystem; 4)
+          Improved machine learning capabilities; 5) New product innovations.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

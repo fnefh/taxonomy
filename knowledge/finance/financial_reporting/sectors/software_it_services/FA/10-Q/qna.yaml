@@ -1,370 +1,189 @@
 version: 3
 domain: quarterly_reporting
 created_by: fnefh
+document_outline: >
+  This document contains quarterly financial reports (Form 10-Q)
+  for First Advantage Corporation covering quarters in 2023-2024.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Quarterly revenue and profitability
+     - Segment performance
+     - Operating expenses
+     - Cash flow and liquidity
+
+  2. Business Operations
+     - Technology solutions
+     - Geographic presence
+     - Customer base
+     - Infrastructure investments
+
+  3. Strategic Initiatives
+     - Mergers and acquisitions
+     - Executive leadership
+     - Share repurchase program
+     - Market expansion
+
+  4. Risk Management
+     - Regulatory compliance
+     - Market conditions
+     - Operational challenges
+     - Technology risks
 seed_examples:
   - context: >
-      First Advantage Corporation (NYSE: FA) is a leading provider of
-      technology solutions for screening, verifications, safety, and compliance
-      related to human capital. The company is headquartered at 1 Concourse
-      Parkway NE, Suite 200, Atlanta, GA 30328. As of November 8, 2024, the
-      company had 172,652,487 shares of common stock outstanding. First
-      Advantage trades on The Nasdaq Stock Market LLC under the symbol "FA".
+      For Q3 2024, First Advantage reported total revenues of $199,119,000,
+      with Americas contributing $174,905,000 and International $26,624,000
+      (with eliminations of $2,410,000). The company's cash and cash equivalents
+      increased to $307,392,000 as of September 30, 2024, from $213,774,000 at
+      year-end 2023. The company reported a net loss of $8,860,000 compared to
+      net income of $10,773,000 in Q3 2023.
     questions_and_answers:
       - question: |
-          What is First Advantage Corporation's business?
+          How did First Advantage's financial performance compare to Q3 2023?
         answer: >
-          First Advantage Corporation is a leading provider of technology
-          solutions for screening, verifications, safety, and compliance related
-          to human capital.
+          First Advantage's Q3 2024 performance showed: 1) Total revenues of
+          $199,119,000; 2) Net loss of $8,860,000 compared to net income of
+          $10,773,000 in Q3 2023; 3) Cash position strengthened to $307,392,000
+          from $213,774,000 at year-end; 4) Americas segment revenue of
+          $174,905,000; 5) International segment revenue of $26,624,000.
       - question: |
-          Where is First Advantage Corporation headquartered?
+          How are First Advantage's revenues distributed by segment?
         answer: >
-          First Advantage Corporation is headquartered at 1 Concourse Parkway NE,
-          Suite 200, Atlanta, GA 30328.
+          Revenue distribution in Q3 2024 included: 1) Americas segment
+          contributing $174,905,000; 2) International segment contributing
+          $26,624,000; 3) Eliminations of $2,410,000; 4) Americas representing
+          approximately 88% of total revenue; 5) International representing
+          approximately 12% of total revenue.
       - question: |
-          What is First Advantage's stock symbol and exchange?
+          What trends are visible in First Advantage's cash position?
         answer: >
-          First Advantage trades under the symbol "FA" on The Nasdaq Stock Market
-          LLC.
+          Cash position trends show: 1) Increase to $307,392,000 as of September
+          30, 2024; 2) Growth from $213,774,000 at year-end 2023; 3) Strong
+          liquidity maintenance; 4) Effective cash management despite net loss;
+          5) Continued focus on maintaining strong cash reserves.
   - context: >
-      On February 28, 2024, First Advantage Corporation entered into an
-      Agreement and Plan of Merger with Sterling Check Corp. and Starter Merger
-      Sub, Inc. The merger agreement was followed by several key developments
-      including a Waiver of Brazil Antitrust Filing Obligation and Closing
-      Condition on March 25, 2024. In connection with the merger, First
-      Advantage Holdings, LLC secured incremental facilities commitment for
-      financing the transaction.
+      On February 28, 2024, First Advantage entered into a merger agreement
+      with Sterling Check Corp., representing a significant strategic
+      transaction. The company incurred approximately $11.1 million in
+      transaction and acquisition-related charges in Q1 2024, primarily
+      consisting of legal, regulatory, and diligence professional service fees.
+      The merger process included key developments such as the Waiver of Brazil
+      Antitrust Filing Obligation on March 25, 2024.
     questions_and_answers:
       - question: |
-          What major acquisition did First Advantage announce in 2024?
+          What are the key aspects of the Sterling Check Corp. merger?
         answer: >
-          First Advantage announced the acquisition of Sterling Check Corp.
-          through a merger agreement dated February 28, 2024.
+          Key aspects include: 1) Merger agreement signed on February 28, 2024; 2)
+          Significant transaction costs of $11.1 million in Q1; 3) Waiver of
+          Brazil Antitrust Filing Obligation obtained; 4) Comprehensive due
+          diligence process conducted; 5) Strategic financing arrangements
+          secured through incremental facilities.
       - question: |
-          What key development followed the merger agreement?
+          How is First Advantage managing the merger process?
         answer: >
-          A Waiver of Brazil Antitrust Filing Obligation and Closing Condition was
-          issued on March 25, 2024.
+          Management of the merger includes: 1) Professional service engagement
+          for legal and regulatory matters; 2) Careful consideration of
+          antitrust requirements; 3) Strategic planning for integration; 4)
+          Transparent communication with stakeholders; 5) Structured approach to
+          regulatory approvals.
       - question: |
-          How did First Advantage plan to finance the Sterling acquisition?
+          What financial impacts has the merger had so far?
         answer: >
-          First Advantage Holdings, LLC secured incremental facilities commitment
-          for financing the transaction.
+          Financial impacts include: 1) $11.1 million in transaction-related
+          charges in Q1 2024; 2) Suspension of share repurchase program; 3)
+          Securing of incremental facilities commitment; 4) Professional service
+          fees for legal and regulatory matters; 5) Impact on quarterly
+          profitability metrics.
   - context: >
-      First Advantage's executive leadership saw significant changes in 2024.
-      On November 11, 2024, Douglas Nairne was promoted to Global Chief
-      Operating Officer with an annual base salary of $500,000. David L. Gamsey
-      and Joseph Jaeger announced their retirements, with retirement agreements
-      dated August 7, 2024, and September 3, 2024, respectively. Steven Marks
-      succeeded David L. Gamsey as Executive Vice President & Chief Financial
-      Officer.
+      First Advantage's asset base as of September 30, 2024 included
+      significant investments in technology and infrastructure. Long-lived
+      assets totaled $1,184,723,000, distributed between United States
+      ($1,021,330,000) and other countries ($163,393,000). The company's
+      intangible assets included trade names, customer lists, and other
+      intangible assets with varying useful lives.
     questions_and_answers:
       - question: |
-          Who was appointed as Global Chief Operating Officer in 2024?
+          How are First Advantage's long-lived assets distributed globally?
         answer: >
-          Douglas Nairne was promoted to Global Chief Operating Officer on
-          November 11, 2024.
+          Asset distribution shows: 1) Total long-lived assets of $1,184,723,000;
+          2) United States assets of $1,021,330,000 (86%); 3) International
+          assets of $163,393,000 (14%); 4) Strategic focus on U.S. market; 5)
+          Significant investment in global infrastructure.
       - question: |
-          What executive changes occurred in 2024?
+          What are the key components of First Advantage's intangible assets?
         answer: >
-          David L. Gamsey and Joseph Jaeger announced their retirements, and
-          Steven Marks succeeded David L. Gamsey as Executive Vice President &
-          Chief Financial Officer.
+          Intangible assets include: 1) Trade names with 20-year useful life; 2)
+          Customer lists with 13-14 year useful life; 3) Other intangible assets
+          with 5-year useful life; 4) Strategic value in customer relationships;
+          5) Balanced portfolio of intellectual property.
       - question: |
-          What was Douglas Nairne's compensation package?
+          How does First Advantage manage its technology infrastructure?
         answer: >
-          Douglas Nairne received an annual base salary of $500,000, eligibility
-          for a discretionary annual cash bonus of up to 60% of his salary, and
-          equity awards with a fair value of $1,000,000.
+          Technology management includes: 1) Significant investment in proprietary
+          systems; 2) Regular updates and maintenance of infrastructure; 3)
+          Strategic allocation between U.S. and international operations; 4)
+          Focus on scalability and efficiency; 5) Continuous evaluation of
+          technology needs.
   - context: >
-      First Advantage maintains a share repurchase program with $80,478,639
-      remaining available for future purchases as of September 30, 2024. The
-      program was suspended in connection with the Sterling merger agreement.
-      Stock repurchases may be effected through various methods including open
-      market repurchases, block trades, and trading plans under Rule 10b5-1. No
-      shares will be purchased from SLP Fastball Aggregator, L.P. and its
-      affiliates.
+      First Advantage's executive leadership saw significant changes in 2024,
+      including the promotion of Douglas Nairne to Global Chief Operating
+      Officer, retirement of David L. Gamsey and Joseph Jaeger, and appointment
+      of Steven Marks as Executive Vice President & Chief Financial Officer. The
+      company maintains effective disclosure controls and procedures, as
+      evaluated by the CEO and CFO.
     questions_and_answers:
       - question: |
-          What is the status of First Advantage's share repurchase program?
+          What key executive changes occurred at First Advantage in 2024?
         answer: >
-          The share repurchase program was suspended due to the Sterling merger
-          agreement, with $80,478,639 remaining available for future purchases.
+          Executive changes included: 1) Douglas Nairne's promotion to Global COO;
+          2) David L. Gamsey's retirement; 3) Joseph Jaeger's retirement; 4)
+          Steven Marks' appointment as EVP & CFO; 5) Structured transition of
+          leadership responsibilities.
       - question: |
-          How can First Advantage conduct stock repurchases?
+          How does First Advantage manage executive transitions?
         answer: >
-          Stock repurchases can be conducted through open market repurchases,
-          block trades, trading plans under Rule 10b5-1, and other methods in
-          accordance with securities laws.
+          Transition management includes: 1) Formal retirement agreements; 2)
+          Structured compensation packages; 3) Clear succession planning; 4)
+          Maintenance of operational continuity; 5) Strategic timing of
+          leadership changes.
       - question: |
-          Are there any restrictions on share repurchases?
+          What governance controls are in place at First Advantage?
         answer: >
-          Yes, no shares will be purchased from SLP Fastball Aggregator, L.P. and
-          its affiliates.
+          Governance controls include: 1) Regular evaluation of disclosure
+          controls by CEO and CFO; 2) Effective internal control systems; 3)
+          Clear reporting structures; 4) Comprehensive compliance procedures; 5)
+          Regular assessment of control effectiveness.
   - context: >
-      First Advantage Corporation's financial position as of March 31, 2024
-      showed cash and cash equivalents of $245,436,000, compared to $213,774,000
-      as of December 31, 2023. The company operates in two main segments:
-      Americas and International. For Q1 2024, total revenues were $169,416,000,
-      with Americas contributing $149,127,000 and International $22,023,000
-      (with eliminations of $1,734,000).
+      First Advantage's capital management strategy includes a share
+      repurchase program (currently suspended due to the Sterling merger) and
+      strategic financial arrangements. As of September 30, 2024, the company
+      had 172,652,487 shares outstanding and entered into an interest rate swap
+      agreement for $275.0 million effective October 31, 2024, demonstrating
+      active management of its capital structure.
     questions_and_answers:
       - question: |
-          What was First Advantage's cash position as of March 31, 2024?
+          How does First Advantage manage its capital structure?
         answer: >
-          First Advantage had cash and cash equivalents of $245,436,000 as of
-          March 31, 2024, compared to $213,774,000 as of December 31, 2023.
+          Capital management includes: 1) Share repurchase program with
+          $80,478,639 available; 2) Strategic suspension of repurchases due to
+          merger; 3) 172,652,487 shares outstanding; 4) Interest rate risk
+          management through swaps; 5) Balanced approach to capital allocation.
       - question: |
-          How does First Advantage segment its revenues?
+          What financial instruments does First Advantage use?
         answer: >
-          First Advantage segments its revenues into two main regions: Americas
-          and International, with Americas being the larger segment.
+          Financial instruments include: 1) Interest rate swap agreement with
+          $275.0 million notional amount; 2) Fixed rate of 3.94% through October
+          2027; 3) Strategic use of debt facilities; 4) Equity management
+          through share programs; 5) Risk management through derivative
+          instruments.
       - question: |
-          What were First Advantage's Q1 2024 revenues by segment?
+          How has First Advantage's share structure evolved?
         answer: >
-          In Q1 2024, First Advantage reported total revenues of $169,416,000,
-          with Americas contributing $149,127,000 and International $22,023,000
-          (with eliminations of $1,734,000).
-  - context: >
-      The company's property and equipment as of March 31, 2024 included
-      furniture and equipment ($26,673,000), capitalized software for internal
-      use acquired by business combination ($232,361,000), capitalized software
-      developed internally ($93,525,000), and leasehold improvements
-      ($2,810,000). Total property and equipment was $355,369,000 with
-      accumulated depreciation of $284,017,000, resulting in net property and
-      equipment of $71,352,000.
-    questions_and_answers:
-      - question: >
-          What are the main components of First Advantage's property and
-          equipment?
-        answer: >
-          First Advantage's property and equipment includes furniture and
-          equipment, capitalized software (both acquired and internally
-          developed), and leasehold improvements.
-      - question: |
-          How much was First Advantage's internally developed software worth?
-        answer: >
-          As of March 31, 2024, First Advantage's capitalized software developed
-          internally or otherwise purchased was valued at $93,525,000.
-      - question: |
-          What was the net value of First Advantage's property and equipment?
-        answer: >
-          As of March 31, 2024, First Advantage's net property and equipment was
-          $71,352,000, after accounting for accumulated depreciation and
-          amortization of $284,017,000.
-  - context: >
-      The company's goodwill as of March 31, 2024 was distributed between
-      Americas ($703,784,000) and International ($115,849,000) segments,
-      totaling $819,633,000. The company's intangible assets included trade
-      names ($64,370,000 net carrying value, 20-year useful life), customer
-      lists ($262,876,000 net carrying value, 13-14 year useful life), and other
-      intangible assets ($2,138,000 net carrying value, 5-year useful life).
-    questions_and_answers:
-      - question: |
-          How is First Advantage's goodwill distributed between segments?
-        answer: >
-          As of March 31, 2024, First Advantage's goodwill was distributed between
-          Americas ($703,784,000) and International ($115,849,000) segments,
-          totaling $819,633,000.
-      - question: |
-          What are the main categories of First Advantage's intangible assets?
-        answer: >
-          First Advantage's main intangible assets include trade names (20-year
-          useful life), customer lists (13-14 year useful life), and other
-          intangible assets (5-year useful life).
-      - question: |
-          What is the net carrying value of First Advantage's customer lists?
-        answer: >
-          The net carrying value of First Advantage's customer lists was
-          $262,876,000 as of March 31, 2024.
-  - context: >
-      For Q1 2024, First Advantage reported a net loss of $2,908,000 compared
-      to net income of $1,925,000 in Q1 2023. The company incurred significant
-      transaction and acquisition-related charges of approximately $11.1 million
-      associated with the pending acquisition of Sterling, primarily consisting
-      of legal, regulatory, and diligence professional service fees.
-    questions_and_answers:
-      - question: >
-          How did First Advantage's net income change in Q1 2024 compared to Q1
-          2023?
-        answer: >
-          First Advantage reported a net loss of $2,908,000 in Q1 2024, compared
-          to a net income of $1,925,000 in Q1 2023.
-      - question: |
-          What were the major expenses related to the Sterling acquisition?
-        answer: >
-          First Advantage incurred approximately $11.1 million in transaction and
-          acquisition-related charges associated with the pending Sterling
-          acquisition, primarily consisting of legal, regulatory, and diligence
-          professional service fees.
-  - context: >
-      First Advantage Corporation's financial position as of June 30, 2024
-      showed cash and cash equivalents of $269,563,000, compared to $213,774,000
-      as of December 31, 2023. The company's long-lived assets were distributed
-      between United States ($1,041,734,000) and all other countries
-      ($161,722,000), totaling $1,203,456,000 as of June 30, 2024.
-    questions_and_answers:
-      - question: |
-          What was First Advantage's cash position as of June 30, 2024?
-        answer: >
-          First Advantage had cash and cash equivalents of $269,563,000 as of June
-          30, 2024, compared to $213,774,000 as of December 31, 2023.
-      - question: >
-          How are First Advantage's long-lived assets distributed geographically?
-        answer: >
-          As of June 30, 2024, First Advantage's long-lived assets were
-          distributed between United States ($1,041,734,000) and all other
-          countries ($161,722,000), totaling $1,203,456,000.
-      - question: |
-          What was the total value of First Advantage's long-lived assets?
-        answer: >
-          The total value of First Advantage's long-lived assets was
-          $1,203,456,000 as of June 30, 2024, compared to $1,251,386,000 as of
-          December 31, 2023.
-  - context: >
-      For the six months ended June 30, 2024, First Advantage's financing
-      activities provided $0.2 million in net cash, compared to $(51.0) million
-      used in the same period of 2023. The 2024 cash flow was primarily from
-      share-based compensation activity, offset by payments for software
-      platform purchases and dividend payments. In 2023, the company had
-      repurchased 3,895,737 shares at a total cost of $52.3 million under its
-      Repurchase Program.
-    questions_and_answers:
-      - question: >
-          How did First Advantage's financing activities change in the first
-          half of 2024 compared to 2023?
-        answer: >
-          First Advantage's financing activities provided $0.2 million in net cash
-          for the six months ended June 30, 2024, compared to $(51.0) million
-          used in the same period of 2023.
-      - question: >
-          What drove the financing activities cash flow in the first half of
-          2024?
-        answer: >
-          The 2024 financing cash flow was primarily driven by cash inflows from
-          share-based compensation activity, offset by cash outflows related to
-          payments on the deferred purchase of a software platform and dividends
-          paid on vested RSUs from the August 2023 special dividend.
-      - question: >
-          What was the status of First Advantage's share repurchase program in
-          Q2 2024?
-        answer: >
-          The share repurchase program was suspended in connection with the
-          Sterling Merger Agreement. No shares were repurchased during Q2 2024,
-          with $80,478,639 remaining available for future purchases under the
-          program.
-  - context: >
-      As of June 30, 2024, First Advantage had 145,407,414 shares of common
-      stock outstanding. The company's stockholders' equity showed a balance of
-      $913,311,000 as of June 30, 2024, with net income of $1,861,000 for the
-      period. The company maintains effective disclosure controls and
-      procedures, as evaluated by the Chief Executive Officer and Chief
-      Financial Officer.
-    questions_and_answers:
-      - question: |
-          How many shares of common stock did First Advantage have outstanding?
-        answer: >
-          As of August 2, 2024, First Advantage had 145,407,414 shares of common
-          stock outstanding.
-      - question: |
-          What was First Advantage's net income for Q2 2024?
-        answer: >
-          First Advantage reported net income of $1,861,000 for the period ended
-          June 30, 2024.
-      - question: |
-          How does First Advantage evaluate its disclosure controls?
-        answer: >
-          First Advantage's disclosure controls and procedures are evaluated by
-          the Chief Executive Officer (principal executive officer) and Chief
-          Financial Officer (principal financial officer), who concluded that
-          the controls were effective at a reasonable assurance level as of June
-          30, 2024.
-  - context: >
-      First Advantage Corporation's financial results for Q3 2024 showed
-      total revenues of $199,119,000, with Americas contributing $174,905,000
-      and International $26,624,000 (with eliminations of $2,410,000). The
-      company's cash and cash equivalents increased to $307,392,000 as of
-      September 30, 2024, compared to $213,774,000 as of December 31, 2023. For
-      Q3 2024, the company reported a net loss of $8,860,000 compared to net
-      income of $10,773,000 in Q3 2023.
-    questions_and_answers:
-      - question: |
-          What were First Advantage's Q3 2024 revenues by segment?
-        answer: >
-          In Q3 2024, First Advantage reported total revenues of $199,119,000,
-          with Americas contributing $174,905,000 and International $26,624,000
-          (with eliminations of $2,410,000).
-      - question: |
-          How did First Advantage's cash position change in Q3 2024?
-        answer: >
-          First Advantage's cash and cash equivalents increased to $307,392,000 as
-          of September 30, 2024, compared to $213,774,000 as of December 31,
-          2023.
-      - question: |
-          What was First Advantage's net income/loss in Q3 2024?
-        answer: >
-          First Advantage reported a net loss of $8,860,000 for Q3 2024, compared
-          to a net income of $10,773,000 in Q3 2023.
-  - context: >
-      As of September 30, 2024, First Advantage's long-lived assets were
-      distributed between United States ($1,021,330,000) and all other countries
-      ($163,393,000), totaling $1,184,723,000. The company had 172,652,487
-      shares of common stock outstanding as of November 8, 2024. On November 4,
-      2024, the company entered into an interest rate swap agreement with a
-      notional amount of $275.0 million, effective October 31, 2024, and
-      maturing on October 31, 2027.
-    questions_and_answers:
-      - question: |
-          How are First Advantage's long-lived assets distributed as of Q3 2024?
-        answer: >
-          As of September 30, 2024, First Advantage's long-lived assets were
-          distributed between United States ($1,021,330,000) and all other
-          countries ($163,393,000), totaling $1,184,723,000.
-      - question: |
-          How many shares of common stock were outstanding in Q3 2024?
-        answer: >
-          As of November 8, 2024, First Advantage had 172,652,487 shares of common
-          stock outstanding.
-      - question: >
-          What significant financial arrangement did First Advantage enter into
-          after Q3 2024?
-        answer: >
-          On November 4, 2024, First Advantage entered into an interest rate swap
-          agreement with a notional amount of $275.0 million, with a fixed rate
-          of 3.94%. The agreement is effective from October 31, 2024, to October
-          31, 2027.
-  - context: >
-      First Advantage is a leading global provider of employment background
-      screening, identity, and verification solutions. The company's proprietary
-      technology delivers innovative services and insights that help customers
-      mitigate risk and hire the best talent: employees, contractors, contingent
-      workers, tenants, and drivers. The company operates in two main
-      geographical segments: Americas (United States, Canada, and Latin America)
-      and International (all geographical regions outside of the Americas).
-    questions_and_answers:
-      - question: |
-          What is First Advantage's core business?
-        answer: >
-          First Advantage is a leading global provider of employment background
-          screening, identity, and verification solutions, using proprietary
-          technology to deliver innovative services and insights for hiring and
-          risk mitigation.
-      - question: |
-          How does First Advantage segment its operations geographically?
-        answer: >
-          First Advantage operates in two main geographical segments: Americas
-          (covering United States, Canada, and Latin America) and International
-          (covering all geographical regions outside of the Americas).
-      - question: |
-          Who are First Advantage's target customers?
-        answer: >
-          First Advantage serves customers who need to screen and verify
-          employees, contractors, contingent workers, tenants, and drivers,
-          helping them mitigate risk and hire the best talent.
-document_outline: >
-  Information about First Advantage Corporation including
-  corporate structure,  major transactions, executive leadership changes, and
-  share repurchase program  based on 2023-2024 quarterly reports.
+          Share structure evolution shows: 1) 172,652,487 shares outstanding as of
+          November 2024; 2) Suspended share repurchase program; 3) Strategic
+          management of equity base; 4) Consideration of merger impact on
+          equity; 5) Balanced approach to shareholder value.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

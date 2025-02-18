@@ -147,6 +147,79 @@ seed_examples:
           status demonstrating commitment to stakeholder capitalism; and 6)
           Strong relationships with retailers and growing presence in
           foodservice channel.
+  - context: >
+      In fiscal year 2023, Vital Farms achieved net revenue of $465.1
+      million, representing a 29.1% increase from 2022. Gross profit was $155.5
+      million with a 33.4% gross margin. The company's growth was driven by
+      increased volume and pricing actions across their product portfolio. Shell
+      eggs remained the primary revenue driver, accounting for approximately 90%
+      of net revenue. The company expanded their distribution network while
+      maintaining strong relationships with key retail partners and growing
+      their foodservice presence.
+    questions_and_answers:
+      - question: |
+          What were Vital Farms' key financial metrics in FY2023?
+        answer: >
+          Vital Farms delivered strong financial performance in FY2023 with net
+          revenue of $465.1 million, a 29.1% increase from 2022. Gross profit
+          reached $155.5 million with a 33.4% gross margin. Shell eggs continued
+          to be the primary revenue driver, representing approximately 90% of
+          net revenue, while the company successfully expanded distribution and
+          maintained strong retail partnerships.
+      - question: |
+          How did Vital Farms' product mix contribute to performance?
+        answer: >
+          Shell eggs remained the dominant revenue source, accounting for about
+          90% of net revenue in 2023. The company's performance was driven by
+          both increased volume and strategic pricing actions across their
+          product portfolio. Growth was supported by expanded distribution
+          through retail partners and increased presence in the foodservice
+          channel.
+      - question: |
+          What growth strategies proved successful in 2023?
+        answer: >
+          Vital Farms' growth was driven by successful execution of multiple
+          strategies including expanded distribution network, strengthened
+          retail partnerships, and growing foodservice presence. The company
+          effectively implemented pricing actions while maintaining volume
+          growth, demonstrating strong market position and brand strength in the
+          premium egg category.
+  - context: >
+      Vital Farms continued to invest in infrastructure and operational
+      capabilities throughout 2023. Their Egg Central Station facility in
+      Springfield, Missouri, processed approximately 12.5 million eggs per day.
+      The company invested in automation and technology improvements while
+      maintaining their commitment to quality and food safety. They also
+      expanded their network of family farms to over 300 partners, supporting
+      increased production capacity while maintaining strict pasture-raised
+      standards.
+    questions_and_answers:
+      - question: |
+          How has Vital Farms expanded its operational capabilities?
+        answer: >
+          Vital Farms' Egg Central Station facility demonstrated significant
+          operational capacity, processing approximately 12.5 million eggs per
+          day in 2023. The company invested in automation and technology
+          improvements to enhance efficiency while maintaining quality and food
+          safety standards. They also expanded their network to over 300 family
+          farms to support increased production needs.
+      - question: |
+          What investments in infrastructure were made?
+        answer: >
+          The company made strategic investments in their Egg Central Station
+          facility, focusing on automation and technology improvements to
+          enhance processing efficiency and capacity. These investments
+          supported the facility's ability to process 12.5 million eggs daily
+          while maintaining strict quality control and food safety standards.
+      - question: |
+          How does Vital Farms manage its farm network expansion?
+        answer: >
+          Vital Farms expanded their network to over 300 family farms while
+          maintaining strict pasture-raised standards of 108 square feet per
+          hen. The company carefully manages farm partnerships through
+          comprehensive support programs, quality standards monitoring, and
+          maintaining strong relationships to ensure consistent supply while
+          upholding their ethical farming commitments.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -130,6 +130,63 @@ seed_examples:
           concentration, and international  operations risks. The company also
           monitors risks related to its ongoing transformation  initiatives and
           potential impacts of geopolitical events.
+  - context: >
+      For the second quarter ended December 31, 2023, Hain Celestial reported
+      net sales of $454.1 million and a net loss of $7.3 million. The company
+      continued to face market challenges while implementing its Hain Reimagined
+      strategy, focusing on portfolio optimization and operational efficiency.
+      The quarter saw progress in cost reduction initiatives and supply chain
+      improvements despite ongoing inflationary pressures.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q2 FY2024?
+        answer: >
+          In Q2 FY2024, Hain Celestial reported net sales of $454.1 million and a
+          net loss of $7.3 million, reflecting ongoing challenges in the market
+          while showing some progress in operational improvements and cost
+          reduction initiatives.
+      - question: |
+          How is the Hain Reimagined strategy progressing?
+        answer: >
+          The company continued to execute its Hain Reimagined strategy, focusing
+          on portfolio optimization and operational efficiency improvements.
+          Progress was made in cost reduction initiatives and supply chain
+          enhancements despite challenging market conditions.
+      - question: |
+          What challenges and opportunities were identified in Q2 FY2024?
+        answer: >
+          While facing ongoing inflationary pressures and market challenges, the
+          company identified opportunities in operational efficiency
+          improvements and supply chain optimization, working to strengthen its
+          market position and financial performance.
+  - context: >
+      For the first quarter ended September 30, 2023, Hain Celestial reported
+      net sales of $425.0 million and a net loss of $16.6 million. The quarter
+      marked the initial implementation phase of several Hain Reimagined
+      initiatives, including organizational restructuring and supply chain
+      optimization. The company also focused on strengthening its brand
+      portfolio and market presence while managing cost pressures.
+    questions_and_answers:
+      - question: |
+          What were the financial highlights of Q1 FY2024?
+        answer: >
+          In Q1 FY2024, Hain Celestial reported net sales of $425.0 million and a
+          net loss of $16.6 million, as the company worked through its
+          transformation initiatives while managing ongoing market challenges.
+      - question: |
+          What key initiatives were implemented during Q1 FY2024?
+        answer: >
+          The quarter saw the initial implementation of several Hain Reimagined
+          initiatives, including organizational restructuring and supply chain
+          optimization efforts, aimed at improving operational efficiency and
+          market performance.
+      - question: |
+          How did the company address market challenges in Q1 FY2024?
+        answer: >
+          The company focused on strengthening its brand portfolio and market
+          presence while actively managing cost pressures through various
+          operational improvements and efficiency initiatives under the Hain
+          Reimagined strategy.
 document:
   repo: https://github.com/protoneutron/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

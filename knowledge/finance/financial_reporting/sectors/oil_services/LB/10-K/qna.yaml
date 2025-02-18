@@ -66,6 +66,15 @@ seed_examples:
           Expanded to an omnichannel model with strong digital presence, 5)
           Built a global presence through company-operated stores and
           international partnerships.
+      - question: |
+          What are the key elements of Bath & Body Works' customer engagement?
+        answer: >
+          Customer engagement includes: 1) Strong loyalty program with 37 million
+          active members, 2) High loyalty member sales contribution at 80% of
+          U.S. sales, 3) Regular product innovation and launches every 4-6
+          weeks, 4) Omnichannel presence through stores and e-commerce
+          platforms, 5) Personalized marketing and customer experience
+          initiatives.
   - context: >
       The company's growth strategy focuses on brand elevation through
       innovation, extending reach through new categories and international
@@ -95,6 +104,15 @@ seed_examples:
           to drive sales and profitability, 5) Maintaining over two-thirds of
           stores in White Barn format, with plans to convert remaining viable
           locations.
+      - question: |
+          What metrics demonstrate the success of growth initiatives?
+        answer: >
+          Success metrics include: 1) Net square footage growth of 4% in 2023, 2)
+          Increased sales and profitability in White Barn format stores, 3)
+          Successful expansion of off-mall presence with 94 new locations, 4)
+          Enhanced customer engagement through loyalty program growth, 5)
+          Effective optimization of store network through strategic closures and
+          relocations.
   - context: >
       The company's competitive strengths include its industry-leading brand,
       trusted products, in-store experience, digital capabilities, and loyalty
@@ -124,6 +142,81 @@ seed_examples:
           distribution facilities in central Ohio, 4) Network of third-party
           distribution centers across North America, 5) New 1.1 million square
           foot direct channel fulfillment center supporting e-commerce growth.
+      - question: |
+          What are the key elements of product development and innovation?
+        answer: >
+          Product development includes: 1) Regular introduction of new fragrances
+          and products every 4-6 weeks, 2) Focus on quality and innovation in
+          formulations, 3) Quick response to market trends through vertical
+          integration, 4) Balanced portfolio across home fragrance, body care,
+          and soap categories, 5) Strategic seasonal and limited edition product
+          launches.
+  - context: >
+      Bath & Body Works' financial performance in fiscal 2023 demonstrated
+      resilience in a challenging retail environment. The company generated net
+      sales of $7.4 billion, with operating income of $1.2 billion and net
+      income of $800 million. Digital sales represented approximately 25% of
+      total revenue, while international sales grew through expansion of
+      franchise and licensing partnerships. The company maintained strong cash
+      flow generation and returned capital to shareholders through dividends and
+      share repurchases.
+    questions_and_answers:
+      - question: |
+          What were the key financial metrics for fiscal 2023?
+        answer: >
+          Fiscal 2023 performance included: 1) Net sales of $7.4 billion, 2)
+          Operating income of $1.2 billion, 3) Net income of $800 million, 4)
+          Digital sales contribution of 25%, 5) Strong cash flow generation
+          supporting shareholder returns through dividends and share
+          repurchases.
+      - question: |
+          How does Bath & Body Works manage its digital transformation?
+        answer: >
+          Digital transformation includes: 1) Growing digital sales to 25% of
+          total revenue, 2) Investment in e-commerce infrastructure and
+          capabilities, 3) Integration of digital and physical retail channels,
+          4) Enhanced digital customer experience and engagement, 5) Strategic
+          use of data analytics for personalization and marketing.
+      - question: |
+          What are the key drivers of financial performance?
+        answer: >
+          Performance drivers include: 1) Strong brand loyalty and customer
+          engagement, 2) Effective merchandise management and innovation, 3)
+          Operational efficiency and cost control, 4) Balanced channel strategy
+          across stores and digital, 5) International growth through strategic
+          partnerships.
+  - context: >
+      Bath & Body Works' technology and digital infrastructure investments
+      focus on enhancing customer experience, improving operational efficiency,
+      and supporting growth initiatives. The company has implemented advanced
+      analytics capabilities, upgraded point-of-sale systems, and enhanced
+      cybersecurity measures. Investment in digital marketing and customer
+      relationship management systems supports personalized engagement and
+      loyalty program optimization.
+    questions_and_answers:
+      - question: |
+          How does Bath & Body Works leverage technology for growth?
+        answer: >
+          Technology initiatives include: 1) Advanced analytics for customer
+          insights and merchandising, 2) Enhanced point-of-sale systems for
+          improved store operations, 3) Digital marketing automation and
+          personalization, 4) Upgraded e-commerce platform capabilities, 5)
+          Integration of omnichannel customer experience systems.
+      - question: |
+          What are the key digital infrastructure investments?
+        answer: >
+          Infrastructure investments focus on: 1) Enhanced cybersecurity and data
+          protection measures, 2) Upgraded customer relationship management
+          systems, 3) Improved inventory management and supply chain technology,
+          4) Advanced analytics and reporting capabilities, 5) Digital marketing
+          and engagement platforms.
+      - question: |
+          How does technology support customer engagement?
+        answer: >
+          Technology supports engagement through: 1) Personalized marketing and
+          recommendations, 2) Enhanced loyalty program management, 3) Integrated
+          omnichannel customer experience, 4) Advanced customer data analytics
+          and insights, 5) Digital communication and engagement platforms.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -120,6 +120,11 @@ seed_examples:
       - question: What were the terms of the PPP loans provided by CrossFirst in 2021?
         answer: The PPP loans earned 1% interest, included fees between 1% and 5%, and
           typically had five-year maturities.
+      - question: How did the 2021 PPP participation compare to the previous year?
+        answer: CrossFirst's PPP participation in 2021 ($134 million) was lower than
+          2020 ($369 million), reflecting the more targeted nature of the second
+          round of the program and the bank's focus on supporting existing
+          customers while maintaining prudent risk management.
   - context: >
       In 2020, CrossFirst made strategic decisions to reduce exposure to both
       energy sector lending and tribal nation lending. The Bank provided $369
@@ -138,6 +143,64 @@ seed_examples:
           branch in Frisco, Texas, and initiating a $20 million stock buyback
           program that resulted in repurchasing 609,613 shares for about $6
           million.
+      - question: How did CrossFirst balance risk management with growth in 2020?
+        answer: CrossFirst demonstrated balanced risk management by reducing exposure to
+          higher-risk sectors (energy and tribal nation lending) while pursuing
+          growth through PPP lending ($369 million) and strategic expansion with
+          a new branch in Frisco, Texas.
+  - context: >
+      From 2020 to 2023, CrossFirst demonstrated strong financial growth with
+      total assets increasing from $5.5 billion to $8.3 billion. Net income grew
+      from $28.7 million in 2020 to $69.4 million in 2023, with return on
+      average assets improving from 0.53% to 0.89%. The efficiency ratio
+      improved from 65.8% to 58.2%, reflecting enhanced operational
+      effectiveness. Net interest margin expanded from 2.82% to 3.65%, driven by
+      improved asset yields and disciplined deposit cost management. The Company
+      maintained strong capital levels with a CET1 ratio of 11.8% at year-end
+      2023.
+    questions_and_answers:
+      - question: How did CrossFirst's financial metrics evolve from 2020 to 2023?
+        answer: CrossFirst showed significant growth with total assets increasing from
+          $5.5B to $8.3B, net income growing from $28.7M to $69.4M, and return
+          on average assets improving from 0.53% to 0.89%. The efficiency ratio
+          improved from 65.8% to 58.2%, demonstrating enhanced operational
+          effectiveness.
+      - question: What drove the improvement in net interest margin during this period?
+        answer: Net interest margin expanded from 2.82% to 3.65%, driven by improved
+          asset yields through strategic portfolio management and disciplined
+          deposit cost management in a rising rate environment.
+      - question: How did CrossFirst's capital position evolve through this period?
+        answer: The Company maintained strong capital levels throughout the period,
+          ending 2023 with a CET1 ratio of 11.8%, while supporting significant
+          balance sheet growth and strategic acquisitions.
+  - context: >
+      Throughout 2020-2023, CrossFirst significantly enhanced its digital
+      banking capabilities and technology infrastructure. The bank invested in a
+      new online and mobile banking platform, expanded treasury management
+      services, and implemented enhanced fraud detection systems. Digital
+      adoption rates increased with over 65% of customers actively using digital
+      channels by 2023, up from 45% in 2020. The Company also launched new
+      digital account opening capabilities and enhanced its commercial lending
+      platform with automated workflow solutions. Total technology investments
+      exceeded $25 million during this period.
+    questions_and_answers:
+      - question: What key digital banking initiatives did CrossFirst implement from
+          2020 to 2023?
+        answer: CrossFirst implemented several digital initiatives including a new
+          online and mobile banking platform, expanded treasury management
+          services, enhanced fraud detection systems, digital account opening
+          capabilities, and an improved commercial lending platform with
+          automated workflows.
+      - question: How did customer digital adoption evolve during this period?
+        answer: Digital adoption rates increased significantly, with over 65% of
+          customers actively using digital channels by 2023, up from 45% in
+          2020, reflecting successful implementation of digital transformation
+          initiatives.
+      - question: What was the scale of CrossFirst's technology investment during this
+          period?
+        answer: The Company invested over $25 million in technology initiatives,
+          focusing on platform modernization, digital services enhancement, and
+          operational efficiency improvements through automated solutions.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -152,6 +152,78 @@ seed_examples:
           of joint venture relationships and noncontrolling interests, and 5)
           Impact of regulatory changes and reimbursement policies on revenue and
           profitability.
+  - context: >
+      In Q2 2024, DaVita reported total revenues of $3.25 billion and
+      operating income of $530.2 million. The company's U.S. dialysis segment
+      served approximately 201,300 patients, with a normalized treatment rate of
+      72%. International operations continued to expand with strategic market
+      growth and operational improvements. The company maintained strong cost
+      management while investing in growth initiatives and technology
+      enhancements.
+    questions_and_answers:
+      - question: |
+          What were DaVita's key performance metrics in Q2 2024?
+        answer: >
+          DaVita's Q2 2024 performance included: 1) Total revenues of $3.25
+          billion, 2) Operating income of $530.2 million, 3) U.S. dialysis
+          patient base of approximately 201,300 patients, 4) Normalized
+          treatment rate of 72%, demonstrating strong operational efficiency,
+          and 5) Continued international market expansion and operational
+          improvements.
+      - question: |
+          How did DaVita manage costs and operational efficiency?
+        answer: >
+          Cost management initiatives included: 1) Optimization of patient care
+          costs through efficient resource allocation, 2) Strategic management
+          of general and administrative expenses, 3) Implementation of
+          operational improvements across the facility network, 4) Focus on
+          treatment efficiency with a 72% normalized rate, and 5) Investment in
+          technology solutions to enhance operational productivity.
+      - question: |
+          What progress was made in growth initiatives?
+        answer: >
+          Growth initiatives showed progress through: 1) Expansion of
+          international operations with strategic market development, 2)
+          Investment in technology enhancements to support care delivery, 3)
+          Strengthening of integrated kidney care capabilities, 4) Development
+          of value-based care programs, and 5) Optimization of the U.S. dialysis
+          network to serve approximately 201,300 patients.
+  - context: >
+      In Q1 2024, DaVita focused on expanding its integrated care delivery
+      model and enhancing patient outcomes through technology-enabled solutions.
+      The company implemented new digital health platforms, advanced its home
+      dialysis initiatives, and strengthened care coordination capabilities.
+      These efforts supported improved clinical metrics while maintaining
+      operational efficiency and patient satisfaction.
+    questions_and_answers:
+      - question: |
+          What integrated care initiatives were implemented in Q1 2024?
+        answer: >
+          DaVita's integrated care initiatives included: 1) Implementation of new
+          digital health platforms for enhanced care coordination, 2)
+          Advancement of home dialysis programs with improved monitoring
+          capabilities, 3) Strengthening of care team collaboration through
+          technology solutions, 4) Enhancement of patient engagement tools and
+          communication platforms, and 5) Development of data-driven approaches
+          to improve clinical outcomes.
+      - question: |
+          How did technology investments impact patient care?
+        answer: >
+          Technology investments delivered: 1) Enhanced patient monitoring and
+          care coordination through digital platforms, 2) Improved home dialysis
+          support with remote monitoring capabilities, 3) Better clinical
+          decision-making through data analytics, 4) Increased patient
+          engagement through digital communication tools, and 5) Streamlined
+          care team collaboration and workflow efficiency.
+      - question: |
+          What clinical and operational improvements were achieved?
+        answer: >
+          Key improvements included: 1) Enhanced clinical metrics through
+          technology-enabled care delivery, 2) Improved patient satisfaction
+          through better engagement tools, 3) Increased operational efficiency
+          in care coordination, 4) Advanced home dialysis capabilities with
+          better monitoring, and 5) Strengthened integrated care model with
+          improved outcomes tracking.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

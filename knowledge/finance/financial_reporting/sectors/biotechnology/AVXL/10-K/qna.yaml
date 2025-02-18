@@ -91,6 +91,55 @@ seed_examples:
           potential approval 2) Expansion of clinical pipeline across multiple
           indications 3) Strengthening of intellectual property portfolio 4)
           Development of precision medicine platform for competitive advantage
+  - context: >
+      From 2021 to 2024, Anavex demonstrated strong financial management and
+      strategic capital deployment, maintaining a robust cash position while
+      advancing multiple late-stage clinical programs. The company's financial
+      evolution reflected its transition toward potential commercialization.
+    questions_and_answers:
+      - question: How did the company's financial position evolve during this period?
+        answer: >
+          Financial evolution included: 1) Maintenance of strong cash position
+          exceeding $139M through 2024 2) Strategic capital raises through ATM
+          facility and purchase agreements 3) Efficient management of R&D
+          investments across multiple programs 4) Optimization of operational
+          expenses while advancing toward commercialization
+      - question: What were the key trends in financial metrics?
+        answer: >
+          Key trends showed: 1) Annual R&D expenses increased from $33.5M to
+          $38.2M reflecting expanded clinical activities 2) G&A expenses managed
+          efficiently around $12M annually 3) Maintenance of debt-free capital
+          structure 4) Strategic use of ATM facility for additional funding
+      - question: How did the company manage its resources and investments?
+        answer: >
+          Resource management included: 1) Prioritization of late-stage clinical
+          programs 2) Strategic investment in commercial readiness 3) Efficient
+          allocation of capital across development programs 4) Maintenance of
+          strong balance sheet for operational flexibility
+  - context: >
+      Throughout 2021-2024, Anavex significantly expanded its operational
+      infrastructure and manufacturing capabilities while preparing for
+      potential commercialization. The company's focus on quality systems and
+      operational excellence supported its advancing pipeline.
+    questions_and_answers:
+      - question: How did manufacturing and supply chain capabilities evolve?
+        answer: >
+          Manufacturing evolution included: 1) Development of commercial-scale
+          manufacturing processes 2) Establishment of key CMO partnerships 3)
+          Implementation of robust quality control systems 4) Advancement of
+          formulation development including oral liquid
+      - question: What operational infrastructure improvements were implemented?
+        answer: >
+          Infrastructure improvements included: 1) Enhancement of quality
+          management systems 2) Development of commercial readiness
+          infrastructure 3) Strengthening of regulatory compliance systems 4)
+          Implementation of scalable operational processes
+      - question: How did quality systems and operational excellence advance?
+        answer: >
+          Advancements included: 1) Implementation of comprehensive quality
+          control procedures 2) Development of commercial-grade manufacturing
+          processes 3) Enhancement of supply chain management systems 4)
+          Strengthening of operational controls and documentation
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

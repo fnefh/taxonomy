@@ -134,6 +134,74 @@ seed_examples:
           volunteerism programs; 4) Local grant initiatives; 5) Community
           cohesion projects; 6) Focus on building trust among associates,
           customers, and communities.
+  - context: >
+      For fiscal year 2024, Walmart achieved strong financial performance
+      with total revenues of $648.1 billion and operating income of $24.2
+      billion. The company's eCommerce sales grew 23% globally, contributing
+      $86.4 billion in sales. Return on investment was 13.9%, while free cash
+      flow reached $12.5 billion. The company returned $16.1 billion to
+      shareholders through dividends and share repurchases while maintaining a
+      strong balance sheet with total assets of $254.8 billion.
+    questions_and_answers:
+      - question: |
+          What were Walmart's key financial metrics for fiscal 2024?
+        answer: >
+          Fiscal 2024 performance included: 1) Total revenues of $648.1 billion,
+          2) Operating income of $24.2 billion, 3) eCommerce sales growth of 23%
+          reaching $86.4 billion, 4) Return on investment of 13.9%, 5) Free cash
+          flow of $12.5 billion, and 6) $16.1 billion returned to shareholders
+          through dividends and share repurchases.
+      - question: |
+          How did Walmart's segment profitability evolve in fiscal 2024?
+        answer: >
+          Segment profitability showed: 1) Walmart U.S. operating income of $21.6
+          billion with 4.9% margin, 2) Walmart International operating income of
+          $4.8 billion with 4.2% margin, 3) Sam's Club operating income of $2.3
+          billion with 2.7% margin, 4) Improved margins across segments through
+          productivity initiatives, and 5) Enhanced operational efficiency
+          driving profitability.
+      - question: |
+          What were the key drivers of Walmart's financial performance?
+        answer: >
+          Performance drivers included: 1) Strong omni-channel sales growth, 2)
+          Effective cost management and productivity improvements, 3) Growth in
+          high-margin businesses like advertising and fulfillment services, 4)
+          Strategic pricing initiatives maintaining market share, and 5)
+          Enhanced inventory management and supply chain efficiency.
+  - context: >
+      Walmart's digital transformation strategy focuses on leveraging
+      technology to enhance customer experience and operational efficiency. The
+      company's digital initiatives include Walmart Connect (advertising),
+      Walmart+ membership, Walmart GoLocal (delivery as a service), and Walmart
+      Luminate (data analytics). Technology investments span cloud computing,
+      artificial intelligence, and automation, supporting both customer-facing
+      and back-office operations.
+    questions_and_answers:
+      - question: |
+          What are Walmart's key digital transformation initiatives?
+        answer: >
+          Digital initiatives include: 1) Walmart Connect advertising platform
+          generating $3.4 billion in revenue, 2) Walmart+ membership program
+          offering enhanced benefits, 3) Walmart GoLocal providing delivery as a
+          service, 4) Walmart Luminate offering data analytics solutions, and 5)
+          Comprehensive technology infrastructure supporting omni-channel
+          operations.
+      - question: |
+          How is Walmart leveraging technology for operational improvement?
+        answer: >
+          Technology applications include: 1) Cloud computing for scalable
+          infrastructure, 2) Artificial intelligence in inventory management and
+          forecasting, 3) Automation in distribution centers and stores, 4)
+          Advanced analytics for decision-making, and 5) Digital tools enhancing
+          associate productivity and customer service.
+      - question: |
+          What benefits has Walmart realized from its digital investments?
+        answer: >
+          Digital investments have delivered: 1) Enhanced customer experience
+          across channels, 2) Improved operational efficiency and cost savings,
+          3) New revenue streams through advertising and data services, 4)
+          Better inventory management and supply chain visibility, and 5)
+          Increased market share in eCommerce and digital services.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

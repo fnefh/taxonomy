@@ -143,6 +143,74 @@ seed_examples:
           opportunities while maintaining financial flexibility through strong
           liquidity and balanced investment approach, supported by active
           capital markets access and disciplined investment strategy.
+  - context: >
+      In Q2 2024, CareTrust REIT reported total revenues of $75.8 million,
+      including rental income of $55.6 million and interest and other income of
+      $20.2 million. The company continued its strategic expansion with property
+      acquisitions and investments while maintaining strong operational
+      performance across its healthcare facility portfolio. Net income for the
+      quarter was $31.2 million, reflecting solid execution of business
+      strategies and effective cost management.
+    questions_and_answers:
+      - question: |
+          What were the key financial highlights for Q2 2024?
+        answer: >
+          CareTrust achieved total revenues of $75.8 million in Q2 2024,
+          comprising $55.6 million in rental income and $20.2 million in
+          interest and other income. Net income reached $31.2 million,
+          demonstrating strong operational performance and effective cost
+          management. The company maintained solid cash flow generation while
+          continuing to invest in portfolio growth.
+      - question: |
+          How did CareTrust's investment activities progress in Q2 2024?
+        answer: >
+          The company continued its strategic investment activities through
+          property acquisitions and real estate related investments. Investment
+          decisions focused on healthcare facilities with strong market
+          fundamentals and operator relationships. The company maintained a
+          balanced approach between property acquisitions and other real estate
+          investments to optimize portfolio returns.
+      - question: |
+          What operational achievements were notable in Q2 2024?
+        answer: >
+          Operational achievements included strong property performance across the
+          portfolio, effective tenant relationship management, and successful
+          integration of new acquisitions. The company maintained high occupancy
+          rates while implementing strategic improvements and supporting tenant
+          operations through various initiatives.
+  - context: >
+      Q1 2024 demonstrated CareTrust's continued focus on strategic growth
+      and operational excellence, with total revenues of $74.2 million,
+      including rental income of $54.1 million and interest and other income of
+      $20.1 million. The company advanced its portfolio expansion strategy while
+      maintaining strong tenant relationships and implementing operational
+      improvements across its healthcare facilities.
+    questions_and_answers:
+      - question: |
+          How did CareTrust perform financially in Q1 2024?
+        answer: >
+          In Q1 2024, CareTrust generated total revenues of $74.2 million,
+          including $54.1 million in rental income and $20.1 million in interest
+          and other income. The company maintained strong operational
+          performance while continuing to execute its growth strategy through
+          strategic investments and portfolio management initiatives.
+      - question: |
+          What strategic initiatives were implemented in Q1 2024?
+        answer: >
+          Strategic initiatives included continued portfolio expansion through
+          targeted acquisitions, enhancement of tenant relationships, and
+          implementation of operational improvements. The company focused on
+          identifying and executing value-add opportunities while maintaining
+          disciplined investment criteria and strong asset management practices.
+      - question: >
+          How did CareTrust manage its tenant relationships and property
+          operations?
+        answer: >
+          CareTrust actively managed tenant relationships through regular
+          communication, performance monitoring, and support initiatives. The
+          company maintained focus on property operations through strategic
+          improvements, preventive maintenance programs, and implementation of
+          best practices across its healthcare facility portfolio.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

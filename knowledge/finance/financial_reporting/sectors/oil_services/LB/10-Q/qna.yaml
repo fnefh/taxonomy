@@ -149,6 +149,71 @@ seed_examples:
           sites, 4) Mix of franchise, license, and wholesale arrangements for
           global growth, 5) Integration of loyalty insights for personalized
           marketing and product development.
+  - context: >
+      In Q2 2024, Bath & Body Works demonstrated strong operational execution
+      with net sales of $1,560 million and operating income of $195 million. The
+      company's direct channel sales grew to $315 million, representing 20.2% of
+      total sales. Store operations maintained efficiency with improved
+      inventory management and supply chain optimization. The quarter saw
+      continued progress in digital transformation initiatives and customer
+      engagement strategies.
+    questions_and_answers:
+      - question: |
+          What were the key operational highlights from Q2 2024?
+        answer: >
+          Q2 2024 operational highlights included: 1) Net sales of $1,560 million
+          demonstrating market resilience, 2) Operating income of $195 million
+          reflecting operational efficiency, 3) Direct channel sales of $315
+          million showing digital growth, 4) Improved inventory management and
+          supply chain optimization, 5) Enhanced customer engagement through
+          digital initiatives.
+      - question: |
+          How did Bath & Body Works' digital initiatives progress in Q2 2024?
+        answer: >
+          Digital progress in Q2 2024 included: 1) Direct channel sales growth to
+          $315 million (20.2% of total sales), 2) Enhanced e-commerce platform
+          capabilities, 3) Improved digital marketing effectiveness, 4)
+          Strengthened omnichannel integration, 5) Advanced customer data
+          analytics implementation.
+      - question: |
+          What operational improvements were achieved in Q2 2024?
+        answer: >
+          Operational improvements encompassed: 1) Enhanced inventory management
+          practices, 2) Optimized supply chain operations, 3) Improved store
+          efficiency metrics, 4) Strengthened vendor relationships, 5) Advanced
+          cost management initiatives across channels.
+  - context: >
+      Q1 2024 marked Bath & Body Works' continued focus on strategic growth
+      initiatives and operational efficiency. The company reported net sales of
+      $1,350 million and operating income of $175 million, while implementing
+      significant improvements in digital capabilities and customer engagement.
+      The quarter saw progress in international market development and supply
+      chain optimization, with enhanced inventory management supporting improved
+      working capital efficiency.
+    questions_and_answers:
+      - question: |
+          What were Bath & Body Works' key achievements in Q1 2024?
+        answer: >
+          Q1 2024 achievements included: 1) Net sales of $1,350 million
+          demonstrating market strength, 2) Operating income of $175 million
+          reflecting operational efficiency, 3) Enhanced digital capabilities
+          and customer engagement, 4) Progress in international market
+          development, 5) Improved working capital management through supply
+          chain optimization.
+      - question: >
+          How did Bath & Body Works advance its strategic initiatives in Q1 2024?
+        answer: >
+          Strategic advancement included: 1) Enhanced digital platform
+          capabilities, 2) Expanded international market presence, 3)
+          Strengthened supply chain operations, 4) Improved inventory management
+          practices, 5) Advanced customer engagement strategies across channels.
+      - question: |
+          What operational efficiencies were gained in Q1 2024?
+        answer: >
+          Operational efficiencies included: 1) Enhanced working capital
+          management, 2) Improved inventory turnover metrics, 3) Optimized
+          supply chain operations, 4) Strengthened vendor relationships, 5)
+          Advanced cost control measures across the business.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

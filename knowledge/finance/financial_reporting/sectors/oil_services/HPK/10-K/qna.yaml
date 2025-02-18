@@ -65,6 +65,16 @@ seed_examples:
           Prioritizing development activities to maintain control of strategic
           acreage positions, 4) Focusing on converting undeveloped acreage to
           held by production status through active drilling programs.
+      - question: >
+          What are the key factors influencing HighPeak Energy's property
+          development decisions?
+        answer: >
+          Development decisions are influenced by: 1) Geological and engineering
+          data from existing wells and seismic analysis, 2) Economic analysis of
+          expected returns and capital requirements, 3) Infrastructure
+          availability and development needs, 4) Market conditions and commodity
+          price environment, 5) Lease expiration timelines and retention
+          requirements.
   - context: >
       For the year ended December 31, 2023, HighPeak Energy completed 57
       gross (49.5 net) development wells and 70 gross (63.3 net)
@@ -97,6 +107,15 @@ seed_examples:
           pumps, and plunger lifts, 5) Leveraging its contiguous acreage
           position to optimize capital expenditures for production facilities
           and water handling infrastructure.
+      - question: >
+          What are the key operational efficiency metrics and performance
+          indicators?
+        answer: >
+          Key operational metrics include: 1) Well completion success rate of 100%
+          in 2023, 2) Average working interest of 92% across portfolio, 3)
+          Efficient three-rig drilling program execution, 4) Optimization of
+          completion techniques and well spacing, 5) Infrastructure utilization
+          and capacity management across operating areas.
   - context: >
       HighPeak Energy's operations are subject to extensive environmental and
       safety regulations, including those related to hydraulic fracturing,
@@ -129,6 +148,82 @@ seed_examples:
           advancement opportunities based on merit and experience, 5) Offering
           developmental programs and cross-training opportunities to build
           employee skills and advance careers.
+      - question: |
+          How does the company ensure regulatory compliance and risk management?
+        answer: >
+          Regulatory compliance and risk management include: 1) Maintaining
+          comprehensive compliance programs across operations, 2) Regular
+          training and education on regulatory requirements, 3) Implementation
+          of internal controls and monitoring systems, 4) Engagement with
+          regulatory agencies and industry groups, 5) Proactive risk assessment
+          and mitigation strategies.
+  - context: >
+      HighPeak Energy's financial performance in 2023 demonstrated strong
+      growth and operational execution, with significant increases in production
+      and revenues. The company maintained a disciplined capital allocation
+      strategy while expanding its operational footprint and infrastructure
+      capabilities.
+    questions_and_answers:
+      - question: >
+          What were the key financial metrics and performance indicators for
+          2023?
+        answer: >
+          Financial performance included: 1) Substantial increase in production
+          volumes year-over-year, 2) Strong revenue growth driven by increased
+          production and efficient operations, 3) Disciplined capital spending
+          focused on high-return projects, 4) Maintenance of strong balance
+          sheet and liquidity position, 5) Strategic investments in
+          infrastructure and operational capabilities.
+      - question: >
+          How does HighPeak Energy manage its capital allocation and investment
+          strategy?
+        answer: >
+          Capital allocation strategy includes: 1) Prioritizing high-return
+          development opportunities, 2) Strategic infrastructure investments to
+          support growth, 3) Maintaining financial flexibility through balanced
+          leverage, 4) Focus on operational efficiency and cost control, 5)
+          Strategic acquisition and development of complementary assets.
+      - question: |
+          What are the key drivers of operational and financial performance?
+        answer: >
+          Performance drivers include: 1) Successful execution of drilling and
+          completion programs, 2) Optimization of well productivity and
+          operating costs, 3) Strategic acreage position in premium locations,
+          4) Efficient infrastructure utilization and development, 5) Strong
+          commodity price realizations and marketing arrangements.
+  - context: >
+      HighPeak Energy's marketing strategy and customer relationships are
+      critical components of its business model. The company maintains strategic
+      relationships with major oil and gas purchasers, midstream providers, and
+      service companies while focusing on maximizing realized prices and
+      operational efficiency.
+    questions_and_answers:
+      - question: |
+          How does HighPeak Energy manage its marketing and sales relationships?
+        answer: >
+          Marketing management includes: 1) Strategic relationships with major oil
+          and gas purchasers, 2) Diversified customer base to optimize pricing
+          and reduce concentration risk, 3) Long-term agreements with key
+          midstream providers, 4) Focus on maintaining product quality and
+          delivery reliability, 5) Regular evaluation of market conditions and
+          pricing opportunities.
+      - question: |
+          What are the key elements of the company's midstream strategy?
+        answer: >
+          Midstream strategy encompasses: 1) Development of gathering and
+          processing infrastructure, 2) Strategic partnerships with major
+          midstream providers, 3) Optimization of transportation and processing
+          arrangements, 4) Investment in water handling and disposal
+          capabilities, 5) Focus on operational reliability and capacity
+          management.
+      - question: |
+          How does HighPeak Energy optimize its revenue and pricing strategy?
+        answer: >
+          Revenue optimization includes: 1) Strategic marketing agreements with
+          diverse customer base, 2) Focus on premium pricing opportunities, 3)
+          Efficient transportation and logistics management, 4) Regular
+          evaluation of market conditions and pricing trends, 5) Development of
+          long-term customer relationships and market presence.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

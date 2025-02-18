@@ -118,6 +118,74 @@ seed_examples:
           effective pricing and cost management, continued international growth
           despite currency headwinds, and the ability to leverage operational
           efficiency initiatives for improved profitability.
+  - context: >
+      In Q2 2024, PepsiCo reported net revenue of $22,318 million for the 12
+      weeks ended June 15, 2024, with operating profit of $3,666 million and net
+      income of $2,775 million. The company's performance was driven by
+      effective pricing strategies and volume growth in key markets. Operating
+      margin was impacted by increased commodity costs and higher operating
+      expenses, while productivity initiatives helped offset some of these
+      pressures. International operations continued to show resilience despite
+      currency headwinds.
+    questions_and_answers:
+      - question: |
+          What were the key financial highlights of Q2 2024?
+        answer: >
+          PepsiCo achieved net revenue of $22,318 million in Q2 2024, with
+          operating profit of $3,666 million and net income of $2,775 million.
+          The company's performance was supported by effective pricing
+          strategies and volume growth, though operating margins faced pressure
+          from increased commodity costs and higher operating expenses.
+      - question: |
+          How did PepsiCo manage cost pressures in Q2 2024?
+        answer: >
+          The company addressed cost pressures through productivity initiatives
+          and strategic pricing actions. While facing increased commodity costs
+          and higher operating expenses, PepsiCo implemented efficiency measures
+          to help offset these pressures, maintaining profitability through
+          effective cost management and revenue optimization.
+      - question: |
+          What trends emerged in PepsiCo's international markets?
+        answer: >
+          International operations demonstrated resilience despite currency
+          headwinds, with continued growth in key markets. The company's diverse
+          geographic presence and effective market strategies helped maintain
+          performance, though currency translation impacts affected reported
+          results.
+  - context: >
+      Q1 2024 results for PepsiCo showed net revenue of $18,433 million for
+      the 12 weeks ended March 23, 2024. The company's focus on innovation and
+      digital transformation continued, with increased investments in e-commerce
+      capabilities and direct-to-consumer initiatives. Supply chain optimization
+      efforts progressed, including automation and efficiency improvements
+      across manufacturing and distribution networks. The quarter also saw
+      advancement in sustainability goals, with progress in packaging innovation
+      and water conservation efforts.
+    questions_and_answers:
+      - question: |
+          How did PepsiCo perform financially in Q1 2024?
+        answer: >
+          PepsiCo reported net revenue of $18,433 million in Q1 2024, with
+          performance supported by continued focus on innovation and digital
+          transformation. The company increased investments in e-commerce and
+          direct-to-consumer initiatives while maintaining operational
+          efficiency.
+      - question: |
+          What progress was made in operational improvements?
+        answer: >
+          The company advanced its supply chain optimization efforts, including
+          increased automation and efficiency improvements across manufacturing
+          and distribution networks. These initiatives focused on enhancing
+          operational capabilities while reducing costs and improving service
+          levels.
+      - question: |
+          What strategic initiatives were highlighted in Q1 2024?
+        answer: >
+          Key strategic initiatives included investments in digital transformation
+          and e-commerce capabilities, supply chain optimization, and
+          advancement of sustainability goals. The company made progress in
+          packaging innovation and water conservation efforts while expanding
+          its digital presence and direct-to-consumer channels.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

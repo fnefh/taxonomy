@@ -136,6 +136,74 @@ seed_examples:
           capacity and infrastructure, supports its market position. Strong
           financial performance and efficient operations provide resources for
           continued innovation and market expansion.
+  - context: >
+      In Q2 2024, Vital Farms reported net revenue of $151.0 million, a 29.7%
+      increase from Q2 2023. Gross profit reached $54.8 million with a 36.3%
+      gross margin. The company's performance was driven by strong retail
+      distribution growth and increased foodservice channel penetration.
+      Operating expenses were $42.9 million, reflecting continued investment in
+      marketing and distribution capabilities. Net income was $9.1 million
+      ($0.22 per diluted share), demonstrating improved profitability.
+    questions_and_answers:
+      - question: |
+          What were the key financial highlights for Q2 2024?
+        answer: >
+          Vital Farms achieved strong results in Q2 2024 with net revenue of
+          $151.0 million, up 29.7% year-over-year. Gross profit was $54.8
+          million with a 36.3% margin, while net income reached $9.1 million
+          ($0.22 per diluted share). Operating expenses of $42.9 million
+          reflected strategic investments in marketing and distribution
+          capabilities.
+      - question: |
+          How did distribution channels perform in Q2 2024?
+        answer: >
+          The company showed strong growth across distribution channels,
+          particularly in retail distribution and foodservice penetration.
+          Performance was driven by expanded market presence and increased
+          product availability. The company's strategic focus on channel
+          expansion and market penetration contributed to the revenue growth.
+      - question: |
+          What factors contributed to improved profitability?
+        answer: >
+          Improved profitability was driven by revenue growth, effective cost
+          management, and operational efficiency. The 36.3% gross margin
+          reflected successful pricing strategies and cost control, while
+          strategic investments in marketing and distribution supported
+          sustainable growth. Net income of $9.1 million demonstrated the
+          company's ability to scale profitably.
+  - context: >
+      In Q1 2024, Vital Farms delivered net revenue of $144.3 million, a
+      31.9% increase from Q1 2023. The company expanded its production
+      capabilities while maintaining strong relationships with its network of
+      family farms. Investments in automation and technology continued at the
+      Egg Central Station facility, supporting increased production efficiency.
+      The company also advanced its sustainability initiatives and maintained
+      its commitment to ethical food production standards.
+    questions_and_answers:
+      - question: |
+          How did Vital Farms perform in Q1 2024?
+        answer: >
+          Vital Farms reported strong Q1 2024 results with net revenue of $144.3
+          million, representing a 31.9% increase from Q1 2023. The company
+          successfully expanded production capabilities while maintaining strong
+          farm relationships and advancing operational efficiency through
+          technology investments at Egg Central Station.
+      - question: |
+          What operational improvements were implemented?
+        answer: >
+          The company continued investing in automation and technology at its Egg
+          Central Station facility to enhance production efficiency. Operational
+          improvements focused on increasing capacity while maintaining quality
+          standards. The company also strengthened its network of family farms
+          and supply chain relationships.
+      - question: |
+          How did Vital Farms advance its strategic initiatives?
+        answer: >
+          Strategic initiatives in Q1 2024 included expanding production
+          capabilities, advancing sustainability programs, and maintaining
+          ethical food production standards. The company's focus on operational
+          excellence and commitment to its mission supported strong financial
+          performance while upholding its values and stakeholder commitments.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

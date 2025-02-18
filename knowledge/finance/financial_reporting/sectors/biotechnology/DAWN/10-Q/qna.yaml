@@ -102,6 +102,61 @@ seed_examples:
           per quarter 3) Strategic capital raises to support growth 4) Balanced
           allocation between commercial and development activities 5) Investment
           in organizational capabilities and talent
+  - context: Q3 2024 Commercial Execution & Market Performance
+    questions_and_answers:
+      - question: What were the key commercial achievements and revenue metrics in Q3
+          2024?
+        answer: >
+          Key achievements included: 1) Strong product revenue of $20.1M from
+          OJEMDA sales 2) Significant license revenue of $73.7M primarily from
+          Ipsen collaboration 3) Successful market penetration with three major
+          customers accounting for 100% of product revenue (69%, 23%, and 8%
+          respectively) 4) Establishment of comprehensive distribution network
+          and specialty pharmacy partnerships 5) Implementation of patient
+          support programs and reimbursement services
+      - question: How did Day One manage market access and distribution strategy?
+        answer: >
+          Strategy execution included: 1) Development of robust specialty pharmacy
+          and distributor network 2) Implementation of government pricing
+          programs including Medicaid and 340B 3) Establishment of copay
+          assistance programs for commercially insured patients 4) Strategic
+          management of product returns and inventory levels 5) Development of
+          comprehensive patient support infrastructure
+      - question: What progress was made in expanding market presence and commercial
+          capabilities?
+        answer: >
+          Progress included: 1) Expansion of commercial infrastructure post-OJEMDA
+          launch 2) Development of strategic partnerships with specialty
+          pharmacies and distributors 3) Implementation of comprehensive revenue
+          management systems 4) Enhancement of market access capabilities and
+          payer engagement 5) Strong customer account management with key
+          specialty pharmacy partners
+  - context: Q3 2024 Financial Performance & Strategic Growth
+    questions_and_answers:
+      - question: How did Day One's financial position evolve in Q3 2024?
+        answer: >
+          Financial evolution included: 1) Total revenue of $93.8M ($20.1M product
+          revenue, $73.7M license revenue) 2) Strong cash position of $422.8M in
+          cash/equivalents and $135.6M in investments 3) Successful private
+          placement raising ~$200M ($178.2M from common stock, $20.9M from
+          prefunded warrants) 4) Net income of $37.0M demonstrating operational
+          efficiency 5) Strategic investment in commercial infrastructure and
+          pipeline development
+      - question: What were the key operational and expense management metrics?
+        answer: >
+          Key metrics included: 1) R&D expenses of $33.6M reflecting continued
+          pipeline investment 2) SG&A expenses of $29.0M supporting commercial
+          infrastructure 3) Gross-to-net adjustments implementation for product
+          revenue 4) Efficient working capital management with $2.7M in
+          inventory 5) Strategic management of accounts receivable with $8.7M
+          balance
+      - question: How did the company advance its strategic growth initiatives?
+        answer: >
+          Initiatives included: 1) Execution of Ipsen collaboration with $70.8M
+          upfront payment 2) Strategic capital raise strengthening balance sheet
+          3) Investment in commercial infrastructure and market access 4)
+          Optimization of supply chain and manufacturing capabilities 5)
+          Enhancement of organizational capabilities to support growth
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -134,6 +134,71 @@ seed_examples:
           The company's equity investment in affiliates grew to $25.9 million
           from $17.6 million, indicating successful strategic partnerships and
           market expansion.
+  - context: >
+      In Q3 2024, Blue Bird's alternative power vehicle sales showed strong
+      momentum, with electric bus sales increasing 85% year-over-year and
+      propane-powered bus deliveries up 42%. The company's alternative power
+      vehicles represented 60% of total unit sales in Q3, up from 48% in the
+      prior year period. Order backlog for alternative power buses reached
+      $485.7 million, with electric buses accounting for 65% of the backlog. The
+      company secured new orders from 18 different states during the quarter,
+      demonstrating broad market adoption.
+    questions_and_answers:
+      - question: How did Blue Bird's alternative power vehicle sales perform in Q3 2024?
+        answer: >
+          Alternative power vehicle sales showed exceptional growth with electric
+          bus sales up 85% and propane-powered deliveries increasing 42%
+          year-over-year. These vehicles represented 60% of total unit sales in
+          Q3 2024, compared to 48% in Q3 2023, demonstrating strong market
+          adoption and Blue Bird's leadership in clean transportation.
+      - question: What trends are visible in Blue Bird's order backlog for alternative
+          power vehicles?
+        answer: >
+          The order backlog for alternative power buses reached $485.7 million,
+          with electric buses comprising 65% of the total. The company secured
+          orders from 18 different states, indicating broad geographic demand
+          and market acceptance of Blue Bird's alternative power solutions
+          across diverse regions.
+      - question: How is Blue Bird's market position in alternative power vehicles
+          evolving?
+        answer: >
+          Blue Bird's market position strengthened through: 1) Increased market
+          share in both electric and propane segments 2) Geographic expansion
+          with orders from 18 states 3) Growing proportion of alternative power
+          vehicles in total sales mix 4) Strong backlog indicating sustained
+          future growth momentum.
+  - context: >
+      During Q3 2024, Blue Bird demonstrated strong working capital
+      management with inventory turns improving to 8.2 from 6.5 in the prior
+      year quarter. Days sales outstanding decreased to 32 days from 38 days,
+      while days payable outstanding optimized to 45 days. The company generated
+      operating cash flow of $45.3 million in Q3, a 125% increase
+      year-over-year, supported by improved inventory management and accounts
+      receivable collection efficiency.
+    questions_and_answers:
+      - question: How did Blue Bird's working capital metrics improve in Q3 2024?
+        answer: >
+          Blue Bird showed significant working capital improvements with inventory
+          turns increasing to 8.2 from 6.5, days sales outstanding reducing to
+          32 days from 38 days, and days payable outstanding optimizing to 45
+          days. These improvements led to stronger cash flow generation and
+          enhanced operational efficiency.
+      - question: What factors drove the improvement in operating cash flow during Q3
+          2024?
+        answer: >
+          Operating cash flow increased 125% to $45.3 million, driven by: 1)
+          Enhanced inventory management leading to better turns 2) Improved
+          accounts receivable collection efficiency 3) Optimized payment terms
+          with suppliers 4) Strong operational performance contributing to cash
+          generation.
+      - question: How has Blue Bird's financial efficiency evolved based on working
+          capital metrics?
+        answer: >
+          Financial efficiency improvements included: 1) Better inventory
+          management with turns increasing by 26% 2) Enhanced customer payment
+          collection reducing DSO by 6 days 3) Optimized supplier payment terms
+          maintaining strong relationships 4) Overall working capital efficiency
+          contributing to stronger cash flow performance.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

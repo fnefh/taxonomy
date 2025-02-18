@@ -136,6 +136,75 @@ seed_examples:
           research capabilities, 3) Cash position and burn rate
           post-restructuring, 4) Progress on strategic alternatives evaluation,
           and 5) Development of medical device sector initiatives.
+  - context: >
+      In Q2 2024, SINTX Technologies reported total revenue of $687,000,
+      including $312,000 in product revenue and $375,000 in grant revenue. The
+      company continued its strategic evaluation process while maintaining its
+      advanced ceramics capabilities. Operating expenses were $2.8 million,
+      reflecting ongoing cost management efforts. The company also raised
+      additional capital through a public offering to support operations and
+      strategic initiatives.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q2 2024?
+        answer: >
+          SINTX's Q2 2024 results included: 1) Total revenue of $687,000,
+          comprising $312,000 in product revenue and $375,000 in grant revenue,
+          2) Operating expenses of $2.8 million reflecting cost management
+          efforts, 3) Successful completion of public offering raising
+          additional capital, 4) Continued investment in R&D and manufacturing
+          capabilities, and 5) Maintenance of critical certifications and
+          compliance requirements.
+      - question: |
+          How did SINTX progress with its strategic initiatives in Q2 2024?
+        answer: >
+          Strategic progress included: 1) Continued evaluation of medical device
+          sector opportunities, 2) Maintenance of advanced ceramics
+          manufacturing capabilities, 3) Investment in R&D for medical-grade
+          materials, 4) Cost optimization efforts across operations, and 5)
+          Exploration of potential strategic partnerships and transactions.
+      - question: |
+          What operational developments occurred during Q2 2024?
+        answer: >
+          Key operational developments included: 1) Maintenance of manufacturing
+          certifications and compliance, 2) Continued focus on cost management
+          and efficiency, 3) Investment in critical R&D capabilities, 4)
+          Evaluation of facility optimization opportunities, and 5) Progress in
+          medical device sector initiatives.
+  - context: >
+      Q1 2024 marked a period of strategic evaluation for SINTX Technologies,
+      with total revenue of $592,000 including $275,000 in product revenue and
+      $317,000 in grant revenue. The company began assessing its business focus
+      and operational structure while maintaining its advanced ceramics
+      expertise. Initial discussions regarding potential strategic alternatives
+      commenced, and the company maintained its research and development
+      activities in medical-grade materials.
+    questions_and_answers:
+      - question: |
+          What were the major developments in Q1 2024?
+        answer: >
+          Key developments included: 1) Total revenue of $592,000, with $275,000
+          in product revenue and $317,000 in grant revenue, 2) Initiation of
+          strategic business focus assessment, 3) Maintenance of advanced
+          ceramics capabilities and certifications, 4) Continued R&D activities
+          in medical-grade materials, and 5) Early exploration of strategic
+          alternatives.
+      - question: |
+          How did SINTX manage its operations and resources in Q1 2024?
+        answer: >
+          Operational management included: 1) Maintenance of manufacturing
+          facilities and capabilities, 2) Continued investment in critical R&D
+          activities, 3) Focus on cost control and efficiency measures, 4)
+          Preservation of key certifications and compliance requirements, and 5)
+          Strategic evaluation of resource allocation.
+      - question: |
+          What strategic initiatives were undertaken in Q1 2024?
+        answer: >
+          Strategic initiatives included: 1) Initial assessment of business focus
+          and market opportunities, 2) Evaluation of potential strategic
+          alternatives, 3) Maintenance of research activities in medical-grade
+          materials, 4) Exploration of operational optimization opportunities,
+          and 5) Development of plans for future growth and transformation.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

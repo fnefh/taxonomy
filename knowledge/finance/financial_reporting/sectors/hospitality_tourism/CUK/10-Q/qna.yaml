@@ -72,6 +72,74 @@ seed_examples:
           allowances totaling $49 million as of August 31, 2024, 4) Integration
           of environmental compliance costs into operational planning and
           financial reporting structures.
+  - context: >
+      Through Q3 2024, Carnival Corporation demonstrated strong booking
+      momentum and pricing power across its brand portfolio. Customer deposits
+      reached $6.8 billion as of August 31, 2024, with advanced bookings for
+      2025 significantly ahead of 2024 levels at higher prices. Occupancy rates
+      improved to 109% in Q3 2024, up from 107% in Q3 2023, while total capacity
+      increased by 5.2% year-over-year. The booking window extended to 8.3
+      months from 7.9 months in the prior year, reflecting strong consumer
+      demand and confidence in future travel. Future Cruise Credits (FCCs)
+      decreased to $61 million, representing less than 1% of customer deposits.
+    questions_and_answers:
+      - question: |
+          How did Carnival's booking trends evolve through Q3 2024?
+        answer: >
+          Booking trends showed strong momentum: 1) Customer deposits reached
+          $6.8B as of August 31, 2024 2) Advanced bookings for 2025
+          significantly ahead of 2024 at higher prices 3) Booking window
+          extended to 8.3 months from 7.9 months 4) FCCs reduced to $61M,
+          representing less than 1% of deposits.
+      - question: |
+          What were the key capacity and occupancy metrics in Q3 2024?
+        answer: >
+          Capacity and occupancy metrics included: 1) Occupancy rates improved to
+          109% from 107% year-over-year 2) Total capacity increased 5.2%
+          compared to Q3 2023 3) Enhanced fleet utilization across brands 4)
+          Improved yield management driving higher pricing.
+      - question: |
+          How did customer demand and pricing trends develop?
+        answer: >
+          Demand and pricing showed strength through: 1) Higher prices for 2025
+          advanced bookings 2) Extended booking window indicating strong
+          consumer confidence 3) Reduced reliance on FCCs for bookings 4)
+          Improved yield management across all brands.
+  - context: >
+      During Q3 2024, Carnival Corporation's operational performance
+      demonstrated significant improvement in cost management and efficiency.
+      Adjusted EBITDA reached $2.7 billion, up from $2.1 billion in Q3 2023,
+      while adjusted operating income margin improved to 27.6% from 24.8%.
+      Cruise costs per ALBD (Available Lower Berth Day) decreased by 6.2%
+      compared to Q3 2023, driven by improved occupancy, economies of scale, and
+      cost reduction initiatives. Fuel consumption per ALBD improved by 3%
+      year-over-year, reflecting benefits from fleet modernization and
+      efficiency measures. The company also successfully managed the
+      implementation of EU ETS compliance, with $49 million in emission
+      allowances purchased.
+    questions_and_answers:
+      - question: |
+          What were the key operational efficiency metrics for Q3 2024?
+        answer: >
+          Operational metrics showed improvement: 1) Adjusted EBITDA increased to
+          $2.7B from $2.1B 2) Adjusted operating income margin rose to 27.6%
+          from 24.8% 3) Cruise costs per ALBD decreased 6.2% year-over-year 4)
+          Fuel consumption per ALBD improved 3%.
+      - question: |
+          How did cost management initiatives impact performance?
+        answer: >
+          Cost management showed success through: 1) Improved economies of scale
+          2) Effective implementation of cost reduction programs 3) Enhanced
+          operational efficiency across fleet 4) Successful management of EU ETS
+          compliance costs with $49M in emission allowances.
+      - question: |
+          What improvements were achieved in operational metrics?
+        answer: >
+          Operational improvements included: 1) Enhanced fleet efficiency reducing
+          fuel consumption 2) Improved occupancy driving better cost absorption
+          3) Successful implementation of environmental compliance measures 4)
+          Strengthened operational margins through scale and efficiency
+          initiatives.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

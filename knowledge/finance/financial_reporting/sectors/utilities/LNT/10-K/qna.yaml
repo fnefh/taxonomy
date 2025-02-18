@@ -139,6 +139,74 @@ seed_examples:
           increased pressure from stakeholders for more rapid  carbon reduction.
           They also focused on defending against environmental claims and
           maintaining  compliance with federal, state, and local regulations.
+  - context: >
+      In 2020, Alliant Energy made significant progress in its clean energy
+      transition while managing  pandemic impacts. The company announced plans
+      to add nearly 1,100 MW of solar generation in  Wisconsin, representing an
+      investment of approximately $900 million. The company maintained  strong
+      financial performance with operating revenues of $3.4 billion and net
+      income of $634  million. Capital expenditures focused on renewable energy
+      projects, grid modernization, and  infrastructure improvements totaled
+      $1.4 billion. The company also achieved a 42% reduction  in CO2 emissions
+      compared to 2005 levels, demonstrating progress toward its environmental
+      goals.
+    questions_and_answers:
+      - question: |
+          What were Alliant Energy's key financial metrics in 2020?
+        answer: >
+          Alliant Energy achieved strong financial results with operating revenues
+          of $3.4 billion,  net income of $634 million, and capital expenditures
+          of $1.4 billion, primarily directed  toward renewable energy projects,
+          grid modernization, and infrastructure improvements.
+      - question: |
+          How did Alliant Energy advance its clean energy initiatives in 2020?
+        answer: >
+          The company made significant progress by announcing plans to add nearly
+          1,100 MW of solar  generation in Wisconsin with an approximate $900
+          million investment, while achieving a 42%  reduction in CO2 emissions
+          compared to 2005 levels.
+      - question: |
+          What were the major capital investment priorities in 2020?
+        answer: >
+          Capital investments totaling $1.4 billion focused on three main areas:
+          renewable energy  projects including the planned 1,100 MW solar
+          generation in Wisconsin, grid modernization  efforts, and critical
+          infrastructure improvements.
+  - context: >
+      For the fiscal year 2023, Alliant Energy reported operating revenues of
+      $4.2 billion and net  income of $782 million. The company's clean energy
+      transition continued with the completion  of several solar projects
+      totaling 675 MW in Wisconsin. Total utility electric sales increased  by
+      1.2% compared to 2022, while natural gas sales decreased by 3.5% due to
+      warmer weather.  The company invested $1.8 billion in capital projects,
+      with approximately 40% dedicated to  renewable energy initiatives.
+      Employee safety performance improved with a 15% reduction in  recordable
+      incident rate, while customer satisfaction scores increased to 8.4 out of
+      10.
+    questions_and_answers:
+      - question: >
+          What were the key operational and financial highlights for Alliant
+          Energy in 2023?
+        answer: >
+          In 2023, Alliant Energy achieved operating revenues of $4.2 billion and
+          net income of  $782 million, while completing 675 MW of solar projects
+          in Wisconsin and investing $1.8  billion in capital projects, with 40%
+          allocated to renewable energy initiatives.
+      - question: |
+          How did utility sales performance vary in 2023?
+        answer: >
+          Utility performance showed mixed results with electric sales increasing
+          by 1.2% compared  to 2022, while natural gas sales decreased by 3.5%
+          primarily due to warmer weather  conditions throughout the service
+          territory.
+      - question: >
+          What improvements did Alliant Energy achieve in operational metrics
+          during 2023?
+        answer: >
+          The company demonstrated operational improvements through a 15%
+          reduction in employee  recordable incident rate, enhanced customer
+          satisfaction scores reaching 8.4 out of 10,  and successful completion
+          of major renewable energy projects.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

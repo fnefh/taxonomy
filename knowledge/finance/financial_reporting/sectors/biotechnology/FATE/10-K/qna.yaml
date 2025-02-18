@@ -103,6 +103,62 @@ seed_examples:
           capabilities 3) Strengthening of intellectual property position 4)
           Evolution of clinical development infrastructure 5) Optimization of
           manufacturing processes for iPSC-derived cell products
+  - context: Clinical Pipeline Evolution & Development Focus (2023-2024)
+    questions_and_answers:
+      - question: What are the key developments in Fate's clinical pipeline during
+          2023-2024?
+        answer: >
+          1. Advanced FT819 (iPSC-derived CAR T-cell) in B-cell lymphoma with
+          complete responses observed in CAR-T naive and refractory patients 2.
+          Expanded FT819 into autoimmune diseases with FDA clearance for Phase 1
+          trial in lupus (SLE) 3. Initiated Phase 1 trial of FT825
+          (HER2-targeted CAR T-cell) for solid tumors with 7 novel synthetic
+          controls 4. Progressed FT522 (ADR-incorporating CAR NK cell)
+          development to potentially eliminate conditioning chemotherapy 5.
+          Advanced FT576 (BCMA-targeted CAR NK cell) in multiple myeloma with
+          responses observed as monotherapy and in combination
+      - question: How has Fate's therapeutic approach and technology platform evolved?
+        answer: >
+          1. Focused on multiplexed-engineered cellular immunotherapies with novel
+          synthetic controls 2. Pioneered ADR technology to potentially
+          eliminate conditioning chemotherapy requirement 3. Expanded
+          applications beyond oncology into autoimmune diseases 4. Enhanced
+          solid tumor targeting capabilities through novel engineering
+          approaches 5. Advanced manufacturing capabilities for iPSC-derived
+          cell products
+      - question: What are the key clinical results and efficacy signals observed?
+        answer: >
+          1. FT819 showed complete responses in LBCL including in CAR-T refractory
+          patients 2. FT576 demonstrated responses in heavily pretreated
+          multiple myeloma patients 3. Strong safety profile across programs
+          with minimal toxicity signals 4. Evidence of enhanced trafficking and
+          persistence in solid tumor programs 5. Proof-of-concept for novel
+          synthetic controls and engineering approaches
+  - context: Strategic Realignment & Corporate Development (2023-2024)
+    questions_and_answers:
+      - question: What major strategic changes occurred during 2023-2024?
+        answer: >
+          1. Terminated Janssen collaboration in January 2023 affecting multiple
+          CAR NK/T-cell programs 2. Discontinued FT516, FT596, FT538, and FT536
+          NK cell programs to focus on most innovative candidates 3. Reduced
+          workforce to approximately 220 employees with $12.9M in restructuring
+          charges 4. Strengthened partnership with Ono Pharmaceutical for solid
+          tumor programs 5. Expanded therapeutic focus into autoimmune diseases
+      - question: How has the company's business model and strategic focus evolved?
+        answer: >
+          1. Shifted focus to most differentiated candidates with novel synthetic
+          controls 2. Prioritized programs that can reduce/eliminate
+          conditioning chemotherapy 3. Expanded therapeutic applications beyond
+          oncology 4. Enhanced emphasis on solid tumor programs through Ono
+          collaboration 5. Implemented more selective partnership strategy
+      - question: What are the key operational and infrastructure developments?
+        answer: >
+          1. Maintained fully-integrated GMP manufacturing capabilities 2.
+          Advanced iPSC product platform with enhanced engineering capabilities
+          3. Strengthened intellectual property position with over 900
+          patents/applications 4. Optimized manufacturing processes for
+          iPSC-derived cell products 5. Implemented operational efficiency
+          measures following restructuring
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

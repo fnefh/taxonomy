@@ -92,6 +92,61 @@ seed_examples:
           mechanisms 3) Emphasis on reducing patient burden through innovation
           4) Strategic program prioritization 5) Adaptation to emerging
           therapeutic opportunities 
+  - context: Q3 2024 Financial Performance & Resource Management
+    questions_and_answers:
+      - question: What are the key financial metrics and trends in Q3 2024?
+        answer: >
+          1. Maintained strong cash position with $330.5M ($37.9M cash, $259.0M
+          short-term investments, $33.6M long-term investments) 2. Increased
+          collaboration revenue to $3.1M in Q3 2024 from $1.9M in Q3 2023 3.
+          Controlled R&D expenses at $34.7M, relatively flat compared to $34.3M
+          in Q3 2023 4. Generated $4.4M in interest income, demonstrating
+          effective cash management 5. Reduced net loss per share to $0.40 in Q3
+          2024 from $0.46 in Q3 2023
+      - question: How has the company managed its operational expenses and
+          infrastructure?
+        answer: >
+          1. Maintained significant infrastructure with $82.4M in net property and
+          equipment 2. Managed operating lease commitments with $58.4M in
+          right-of-use assets 3. Reduced current liabilities to $37.4M from
+          $39.1M at year-end 2023 4. Increased G&A expenses to $20.8M reflecting
+          expanded operational support 5. Implemented strategic cost management
+          while maintaining key capabilities
+      - question: What are the key working capital and balance sheet trends?
+        answer: >
+          1. Improved accounts receivable position to $4.1M from $1.8M at year-end
+          2023 2. Maintained efficient working capital with $310.3M in total
+          current assets 3. Strengthened long-term investment position to $33.6M
+          from $1.0M at year-end 2023 4. Managed accounts payable at $6.3M while
+          reducing accrued expenses to $23.6M 5. Preserved stockholders' equity
+          at $362.3M despite ongoing R&D investments
+  - context: Q3 2024 Operational Execution & Strategic Progress
+    questions_and_answers:
+      - question: How has the company advanced its operational capabilities in Q3 2024?
+        answer: >
+          1. Maintained fully integrated manufacturing infrastructure with $82.4M
+          in property and equipment 2. Advanced clinical trial execution across
+          multiple programs 3. Strengthened quality management systems and
+          manufacturing processes 4. Enhanced operational efficiency through
+          strategic resource allocation 5. Expanded organizational capabilities
+          while managing headcount
+      - question: What progress has been made in strategic partnerships and
+          collaborations?
+        answer: >
+          1. Increased collaboration revenue by 58% year-over-year to $3.1M 2.
+          Advanced strategic partnership activities in autoimmune and oncology
+          programs 3. Maintained focus on value-creating collaborations 4.
+          Progressed development activities with existing partners 5.
+          Demonstrated continued validation of iPSC platform through
+          partnerships
+      - question: How has the company addressed key operational challenges and risks?
+        answer: >
+          1. Managed manufacturing complexity through infrastructure optimization
+          2. Addressed supply chain challenges through strategic supplier
+          relationships 3. Enhanced operational resilience through cost
+          management initiatives 4. Maintained strong cash position to support
+          ongoing operations 5. Advanced risk management practices across
+          clinical and manufacturing operations
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

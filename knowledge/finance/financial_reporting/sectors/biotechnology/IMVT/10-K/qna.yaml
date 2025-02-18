@@ -9,7 +9,7 @@ document_outline: >
   diseases.
 seed_examples:
   - context: Clinical Development & Pipeline Progress
-    questions:
+    questions_and_answers:
       - question: How has Immunovant's pipeline and clinical development strategy
           evolved from 2021 through 2024?
         answer: >
@@ -51,7 +51,7 @@ seed_examples:
 
           5. Generally well-tolerated safety profile observed across clinical trials to date
   - context: Strategic Focus & Business Development
-    questions:
+    questions_and_answers:
       - question: How has Immunovant's strategic focus and business model evolved from
           2021-2024?
         answer: >
@@ -92,7 +92,7 @@ seed_examples:
 
           5. Positioned company for potential first product launches in multiple indications
   - context: Clinical Strategy & Development Planning
-    questions:
+    questions_and_answers:
       - question: How is Immunovant approaching clinical trial design and execution
           across its pipeline?
         answer: >
@@ -130,6 +130,85 @@ seed_examples:
           4. Balancing investment across multiple therapeutic areas and development stages
 
           5. Maintaining flexibility to adjust strategy based on emerging data
+  - context: Manufacturing Strategy & Supply Chain
+    questions_and_answers:
+      - question: How has Immunovant structured its manufacturing and supply chain
+          operations from 2021-2024?
+        answer: >
+          1. Established strategic partnership with Samsung Biologics for
+          commercial-scale manufacturing of batoclimab
+
+          2. Committed to purchase process performance qualification and pre-approval inspection batches through 2029
+
+          3. Developed relationships with multiple CMOs for drug substance and drug product manufacturing
+
+          4. Built internal technical expertise to manage CMO relationships and oversee quality
+
+          5. Implemented comprehensive quality management program for third-party manufacturers
+      - question: What are the key manufacturing agreements and commitments in place?
+        answer: >
+          1. Executed Product Service Agreement with Samsung Biologics in November
+          2021 for commercial batoclimab manufacturing
+
+          2. Established minimum purchase commitments of approximately $46.2M through 2029
+
+          3. Maintained Master Services Agreement with Samsung for manufacturing-related services
+
+          4. Developed arrangements with CMOs for IMVT-1402 clinical supply
+
+          5. Planning commercial supply arrangements ahead of potential IMVT-1402 approval
+      - question: How is Immunovant managing manufacturing quality and scale-up?
+        answer: >
+          1. Implemented rigorous CMO audit and monitoring program to ensure cGMP
+          compliance
+
+          2. Developed internal expertise for technical oversight of manufacturing processes
+
+          3. Established cell line development and manufacturing process validation procedures
+
+          4. Created comprehensive analytical methods for product testing and stability
+
+          5. Built infrastructure to support potential commercial manufacturing needs
+  - context: Competitive Landscape & Market Position
+    questions_and_answers:
+      - question: How does Immunovant's competitive position in the FcRn inhibitor space
+          evolve from 2021-2024?
+        answer: >
+          1. Advanced IMVT-1402 as potential best-in-class FcRn inhibitor with
+          minimal impact on albumin/LDL
+
+          2. Positioned against approved competitors including VYVGART Hytrulo and RYSTIGGO in gMG
+
+          3. Pursuing first-in-class opportunities in indications like Graves' Disease
+
+          4. Targeting expansion into 10 indications by March 2026
+
+          5. Differentiating through convenient subcutaneous administration and flexible dosing
+      - question: What are the key competitive developments in the FcRn inhibitor
+          landscape?
+        answer: >
+          1. FDA approvals of efgartigimod (argenx) and rozanolixizumab (UCB) for
+          gMG in 2023
+
+          2. Positive Phase 3 results for nipocalimab (J&J) in gMG in February 2024
+
+          3. Potential approval of VYVGART Hytrulo for CIDP in June 2024
+
+          4. Emergence of new competitors like Viridian Therapeutics with engineered FcRn inhibitors
+
+          5. Growing validation of FcRn inhibition across multiple autoimmune indications
+      - question: What are Immunovant's key differentiating factors in the market?
+        answer: >
+          1. Potential best-in-class profile of IMVT-1402 with deep IgG reduction
+          and minimal impact on albumin/LDL
+
+          2. Broad development strategy targeting 10 indications including first-in-class opportunities
+
+          3. Simple subcutaneous administration with small volume injection
+
+          4. Flexible dosing options enabling tailored therapy
+
+          5. Strategic focus on both validated and novel autoimmune indications
 document_metadata:
   repository: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

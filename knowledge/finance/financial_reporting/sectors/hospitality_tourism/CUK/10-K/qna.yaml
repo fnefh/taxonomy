@@ -121,6 +121,74 @@ seed_examples:
           Diverse distribution network including travel agents, tour operators,
           company vacation planners, websites, and onboard future cruise
           consultants.
+  - context: >
+      From fiscal 2021 through 2024, Carnival Corporation & plc demonstrated
+      significant financial recovery and growth. Total revenues increased from
+      $1.9 billion in 2021 to $21.6 billion in 2024, with passenger ticket
+      revenues growing from $1.1 billion to $14.3 billion and onboard revenues
+      rising from $0.8 billion to $7.3 billion. Operating costs and expenses
+      were effectively managed, decreasing from 157% of revenues in 2021 to 89%
+      in 2024. The company's liquidity position strengthened with cash and
+      short-term investments reaching $4.6 billion by fiscal year-end 2024,
+      while total debt decreased from $33.2 billion to $31.1 billion.
+    questions_and_answers:
+      - question: |
+          How did Carnival's financial performance evolve from 2021 to 2024?
+        answer: >
+          Carnival showed substantial recovery: 1) Total revenues grew from $1.9B
+          to $21.6B 2) Passenger ticket revenues increased from $1.1B to $14.3B
+          3) Onboard revenues expanded from $0.8B to $7.3B 4) Operating costs as
+          a percentage of revenues improved from 157% to 89%, demonstrating
+          enhanced operational efficiency.
+      - question: |
+          What improvements were achieved in financial position and liquidity?
+        answer: >
+          Financial position strengthened through: 1) Cash and short-term
+          investments reaching $4.6B by FY2024 2) Total debt reduction from
+          $33.2B to $31.1B 3) Improved operating cash flow generation 4)
+          Enhanced working capital management and cost control measures.
+      - question: |
+          How did revenue composition and operational metrics change during this
+          period?
+        answer: >
+          Revenue metrics showed: 1) Passenger ticket revenues representing 66% of
+          total revenues 2) Onboard revenues contributing 34% of total revenues
+          3) Improved revenue per passenger cruise day 4) Enhanced yield
+          management and pricing strategies driving revenue growth.
+  - context: >
+      Throughout 2021-2024, Carnival Corporation & plc executed significant
+      fleet modernization and optimization initiatives. The company removed 24
+      less efficient ships between 2020 and 2024, reducing the average fleet age
+      from 13.7 to 12.4 years. Simultaneously, six new ships were delivered,
+      featuring enhanced fuel efficiency and environmental technologies. The
+      company invested $4.2 billion in ship improvements and modifications,
+      including the installation of advanced air quality systems on 90% of the
+      fleet, implementation of shore power capabilities on 57 ships, and
+      adoption of new fuel-efficient technologies reducing carbon intensity by
+      22% compared to 2019.
+    questions_and_answers:
+      - question: |
+          What were the key fleet modernization achievements from 2021 to 2024?
+        answer: >
+          Fleet modernization included: 1) Removal of 24 less efficient ships 2)
+          Delivery of six new, more efficient vessels 3) Reduction in average
+          fleet age from 13.7 to 12.4 years 4) $4.2B investment in ship
+          improvements and modifications.
+      - question: |
+          How did environmental and technological upgrades progress?
+        answer: >
+          Environmental upgrades included: 1) Advanced air quality systems
+          installed on 90% of fleet 2) Shore power capabilities implemented on
+          57 ships 3) New fuel-efficient technologies reducing carbon intensity
+          by 22% vs. 2019 4) Enhanced waste management and water treatment
+          systems across the fleet.
+      - question: |
+          What impact did fleet optimization have on operational efficiency?
+        answer: >
+          Optimization results showed: 1) Improved fuel efficiency across the
+          fleet 2) Enhanced passenger experience through modern amenities 3)
+          Reduced maintenance costs and improved reliability 4) Increased
+          operational flexibility through standardized systems and processes.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

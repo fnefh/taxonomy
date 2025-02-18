@@ -112,6 +112,104 @@ seed_examples:
           programming offerings, 4) Cost management initiatives while
           maintaining investment in key content areas, and 5) Balance sheet
           strength to support strategic initiatives.
+  - context: >
+      In Q1 fiscal 2025 (ended September 30, 2024), Fox Corporation
+      demonstrated strong performance in its Cable Network Programming segment,
+      with FOX News maintaining its leadership position and sports programming
+      delivering robust results. The quarter saw continued growth in digital
+      platforms, particularly Tubi, while maintaining operational efficiency
+      across segments.
+    questions_and_answers:
+      - question: >
+          What were the key performance metrics for Fox's Cable Network
+          Programming segment in Q1 fiscal 2025?
+        answer: >
+          Cable Network performance included: 1) Continued #1 position for FOX
+          News in cable news ratings, 2) Strong advertising revenue growth
+          driven by sports and news programming, 3) Stable affiliate fee revenue
+          reflecting long-term distribution agreements, 4) Operating margin
+          improvement through cost management initiatives, and 5) Growth in
+          digital distribution and streaming viewership.
+      - question: |
+          How did Fox's sports programming perform during the quarter?
+        answer: >
+          Sports programming showed: 1) Strong viewership for NFL and MLB
+          coverage, 2) Increased advertising revenue from major sporting events,
+          3) Enhanced digital distribution of sports content, 4) Successful
+          integration of sports betting content and partnerships, and 5)
+          Expanded coverage across traditional and digital platforms.
+      - question: |
+          What operational efficiencies were achieved in Q1 fiscal 2025?
+        answer: >
+          Operational improvements included: 1) Enhanced cost management across
+          segments, 2) Optimized content production and distribution processes,
+          3) Improved advertising sales efficiency through technology
+          integration, 4) Streamlined digital platform operations, and 5)
+          Strategic resource allocation across business units.
+  - context: >
+      Fox Corporation's Television segment performance through Q2 fiscal 2025
+      reflects strong advertising revenue and affiliate relationships, supported
+      by the FOX broadcast network's programming lineup and local station
+      operations. The company continued to invest in content while maintaining
+      operational discipline.
+    questions_and_answers:
+      - question: >
+          How did Fox's Television segment perform in terms of revenue and
+          profitability?
+        answer: >
+          Television segment performance showed: 1) Strong advertising revenue
+          from local and national markets, 2) Stable affiliate revenue from
+          station relationships, 3) Growth in retransmission consent fees, 4)
+          Improved operational efficiency at local stations, and 5) Enhanced
+          digital revenue streams from station websites and apps.
+      - question: |
+          What programming initiatives drove Television segment performance?
+        answer: >
+          Programming initiatives included: 1) Strong primetime lineup
+          performance, 2) Successful launch of new entertainment series, 3)
+          Enhanced local news coverage across owned stations, 4) Strategic
+          scheduling of sports programming, and 5) Development of multi-platform
+          content distribution.
+      - question: |
+          How is Fox managing its local station operations and market presence?
+        answer: >
+          Local station management includes: 1) Investment in local news
+          operations, 2) Enhanced digital capabilities at station level, 3)
+          Optimization of advertising sales processes, 4) Strategic market
+          positioning in key DMAs, and 5) Development of local content and
+          community engagement initiatives.
+  - context: >
+      Through Q2 fiscal 2025, Fox Corporation continued to advance its
+      digital transformation initiatives, with particular focus on Tubi's growth
+      and integration of advanced advertising technologies. The company's
+      investment in digital infrastructure and data analytics supported improved
+      monetization across platforms.
+    questions_and_answers:
+      - question: |
+          How is Tubi contributing to Fox's digital growth strategy?
+        answer: >
+          Tubi's contribution includes: 1) Significant growth in advertising
+          revenue and user engagement, 2) Expanded content library through new
+          partnerships and original programming, 3) Enhanced personalization and
+          recommendation capabilities, 4) Improved advertising technology
+          integration, and 5) Strategic expansion into new content categories
+          and markets.
+      - question: |
+          What technological advancements were implemented during the quarter?
+        answer: >
+          Technology implementations included: 1) Enhanced data analytics
+          capabilities for audience targeting, 2) Improved advertising
+          technology integration across platforms, 3) Advanced content delivery
+          and streaming infrastructure, 4) Enhanced cybersecurity measures and
+          data protection, and 5) Upgraded digital content management systems.
+      - question: |
+          How is Fox leveraging data analytics for business optimization?
+        answer: >
+          Data analytics utilization includes: 1) Advanced audience measurement
+          and targeting capabilities, 2) Improved content performance analysis,
+          3) Enhanced advertising effectiveness measurement, 4) Optimized
+          programming and scheduling decisions, and 5) Strategic planning and
+          resource allocation support.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

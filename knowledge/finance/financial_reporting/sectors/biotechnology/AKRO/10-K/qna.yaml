@@ -126,6 +126,61 @@ seed_examples:
           built capabilities for potential commercialization. The leadership
           team's extensive experience in drug development and commercialization
           continued to guide strategic growth and preparation for market entry.
+  - context: >
+      From 2020 to 2023, Akero demonstrated significant financial evolution,
+      successfully raising capital to support its advancing clinical programs
+      while maintaining efficient resource management. The company's financial
+      position strengthened substantially, with cash and equivalents growing
+      from $268.4M in 2020 to $787.1M by 2023, providing runway through 2026.
+    questions_and_answers:
+      - question: How did Akero's financial position evolve from 2020 to 2023?
+        answer: >
+          Financial evolution included: 1) Growth in cash and equivalents from
+          $268.4M to $787.1M 2) Successful completion of multiple financing
+          rounds including equity offerings 3) Establishment of loan facility
+          providing additional financial flexibility 4) Maintenance of strong
+          balance sheet to support Phase 3 development program
+      - question: What were the key trends in operational expenses?
+        answer: >
+          Expense trends showed: 1) R&D expenses increased from $64.9M in 2020 to
+          $216.5M in 2023 reflecting expanded clinical activities 2) G&A
+          expenses managed efficiently, growing from $19.1M to $35.2M 3)
+          Strategic investment in manufacturing and clinical infrastructure 4)
+          Focused deployment of capital toward Phase 3 SYNCHRONY program
+      - question: How did the company manage its capital resources and investments?
+        answer: >
+          Resource management included: 1) Strategic allocation of capital to
+          support Phase 3 program initiation 2) Efficient management of
+          operating expenses while scaling operations 3) Maintenance of
+          sufficient runway through expected key milestones 4) Investment in
+          critical infrastructure and capabilities
+  - context: >
+      Throughout 2020-2023, Akero significantly advanced its research and
+      development capabilities while expanding understanding of EFX's mechanism
+      of action and therapeutic potential. The company's scientific platform
+      evolved to support broader applications in metabolic diseases while
+      maintaining focus on NASH/MASH treatment.
+    questions_and_answers:
+      - question: How did Akero's research capabilities advance during this period?
+        answer: >
+          Research advances included: 1) Enhanced understanding of EFX's mechanism
+          of action in treating NASH/MASH 2) Expanded insights into metabolic
+          and fibrotic pathways 3) Development of biomarker strategies for
+          patient selection 4) Advanced understanding of treatment effects
+          across different patient populations
+      - question: What scientific and technical developments were achieved?
+        answer: >
+          Key developments included: 1) Validation of EFX's multi-modal
+          therapeutic effects 2) Enhanced understanding of FGF21 biology and
+          signaling 3) Development of improved analytical methods for clinical
+          assessment 4) Advanced characterization of treatment response markers
+      - question: How did the therapeutic understanding of EFX evolve?
+        answer: >
+          Understanding evolved through: 1) Demonstration of consistent efficacy
+          across multiple endpoints 2) Characterization of effects on both
+          metabolic and fibrotic pathways 3) Validation of safety profile across
+          patient populations 4) Enhanced understanding of dose-response
+          relationships
 document:
   repo: https://github.com/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

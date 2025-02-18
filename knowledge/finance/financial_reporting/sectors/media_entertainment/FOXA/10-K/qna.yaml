@@ -84,6 +84,135 @@ seed_examples:
           investments and partnerships, such as the stake in Flutter
           Entertainment and the upcoming Venu Sports joint venture with ESPN and
           Warner Bros. Discovery.
+  - context: >
+      In fiscal year 2024, Fox Corporation demonstrated strong financial
+      performance across its segments, with Cable Network Programming and
+      Television divisions maintaining market leadership. The company's focus on
+      live news and sports content, combined with strategic digital expansion
+      through Tubi, drove revenue growth and audience engagement.
+    questions_and_answers:
+      - question: >
+          What were Fox Corporation's key financial and operational achievements
+          in FY2024?
+        answer: >
+          Key achievements included: 1) Continued leadership in cable news with
+          FOX News Media maintaining #1 position, 2) Strong sports programming
+          performance with NFL, MLB, and FIFA World Cup rights, 3) Significant
+          growth in Tubi's advertising revenue and total view time, 4)
+          Successful expansion of local news coverage through FOX Television
+          Stations, and 5) Strategic progress in digital content distribution
+          and monetization.
+      - question: |
+          How did Fox's content strategy evolve in FY2024?
+        answer: >
+          Content strategy evolution included: 1) Enhanced focus on live and
+          "appointment-based" programming, 2) Expansion of original
+          entertainment content through FOX Entertainment, 3) Increased
+          investment in digital content for Tubi platform, 4) Strengthened local
+          news coverage across owned and operated stations, and 5) Development
+          of new content partnerships and distribution channels.
+      - question: >
+          What technological and operational improvements were implemented in
+          FY2024?
+        answer: >
+          Improvements included: 1) Enhanced digital distribution capabilities
+          across platforms, 2) Advanced advertising technology integration for
+          better monetization, 3) Upgraded production facilities at FOX Studio
+          Lot, 4) Improved content management and distribution systems, and 5)
+          Strengthened cybersecurity and data protection measures.
+  - context: >
+      Fox Corporation's digital strategy centers on expanding its presence
+      across streaming platforms while maintaining strong traditional broadcast
+      and cable operations. The company's Tubi platform has emerged as a leading
+      ad-supported streaming service, complementing Fox's traditional media
+      assets and reaching younger, more diverse audiences.
+    questions_and_answers:
+      - question: |
+          How is Fox Corporation executing its digital transformation strategy?
+        answer: >
+          Digital transformation includes: 1) Expansion of Tubi's content library
+          and user base, 2) Integration of advanced advertising technology
+          across platforms, 3) Development of direct-to-consumer offerings for
+          news and sports content, 4) Enhancement of digital distribution
+          capabilities for local stations, and 5) Investment in data analytics
+          and audience targeting capabilities.
+      - question: |
+          What are the key elements of Fox's streaming strategy?
+        answer: >
+          Streaming strategy encompasses: 1) Growth of Tubi as primary AVOD
+          platform, 2) Development of complementary streaming services for news
+          and sports, 3) Strategic content licensing and distribution
+          agreements, 4) Investment in original content for digital platforms,
+          and 5) Enhanced monetization through targeted advertising.
+      - question: |
+          How does Fox balance traditional and digital media operations?
+        answer: >
+          Balance is maintained through: 1) Integration of traditional and digital
+          content distribution, 2) Cross-platform advertising solutions, 3)
+          Complementary programming strategies across mediums, 4) Shared
+          technology infrastructure and resources, and 5) Coordinated audience
+          engagement initiatives.
+  - context: >
+      Fox Corporation's news and sports programming remains central to its
+      content strategy, with FOX News Media and FOX Sports maintaining leading
+      positions in their respective markets. The company's investment in premium
+      sports rights and comprehensive news coverage continues to drive audience
+      engagement and advertising revenue.
+    questions_and_answers:
+      - question: |
+          How does Fox maintain its leadership in news programming?
+        answer: >
+          News leadership is maintained through: 1) Comprehensive national and
+          local news coverage, 2) Investment in talent and production resources,
+          3) Multi-platform distribution strategy, 4) Focus on live and breaking
+          news coverage, and 5) Strong brand recognition and audience trust.
+      - question: |
+          What drives Fox's sports programming strategy?
+        answer: >
+          Sports strategy is driven by: 1) Long-term rights agreements with major
+          sports leagues, 2) Investment in production quality and technology, 3)
+          Integration of digital and traditional coverage, 4) Development of
+          complementary programming and analysis, and 5) Strategic partnerships
+          with sports organizations.
+      - question: |
+          How does Fox monetize its news and sports content?
+        answer: >
+          Monetization strategy includes: 1) Premium advertising rates for live
+          programming, 2) Multi-platform distribution and licensing, 3)
+          Affiliate revenue through carriage agreements, 4) Digital advertising
+          and sponsorship opportunities, and 5) Strategic content partnerships
+          and syndication.
+  - context: >
+      Fox Corporation's investment in technology and infrastructure supports
+      its content creation, distribution, and monetization capabilities. The
+      company maintains state-of-the-art production facilities at the FOX Studio
+      Lot while investing in digital technology and data analytics to enhance
+      audience engagement and advertising effectiveness.
+    questions_and_answers:
+      - question: >
+          How does Fox leverage technology for content creation and distribution?
+        answer: >
+          Technology leverage includes: 1) Advanced production facilities at FOX
+          Studio Lot, 2) Digital content management and distribution systems, 3)
+          Multi-platform delivery capabilities, 4) Integration of cloud and
+          streaming technologies, and 5) Investment in artificial intelligence
+          and machine learning applications.
+      - question: |
+          What role does data analytics play in Fox's operations?
+        answer: >
+          Data analytics supports: 1) Audience measurement and targeting, 2)
+          Content performance optimization, 3) Advertising effectiveness
+          analysis, 4) Programming decision-making, and 5) Strategic planning
+          and resource allocation.
+      - question: |
+          How does Fox ensure technological competitiveness and security?
+        answer: >
+          Technological competitiveness is maintained through: 1) Regular
+          infrastructure upgrades and modernization, 2) Investment in
+          cybersecurity and data protection, 3) Development of proprietary
+          technology solutions, 4) Strategic technology partnerships and
+          acquisitions, and 5) Continuous innovation in content delivery and
+          monetization.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

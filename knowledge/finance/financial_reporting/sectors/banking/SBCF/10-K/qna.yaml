@@ -162,6 +162,88 @@ seed_examples:
           focus on employee development and engagement. These investments have
           helped differentiate Seacoast from both traditional competitors and
           new entrants in the market.
+      - question: How has Seacoast's market penetration strategy evolved in Florida's
+          key metropolitan areas?
+        answer: >
+          Seacoast has executed a targeted market penetration strategy focusing on
+          Florida's most attractive metropolitan areas. The bank's expansion
+          into the tri-county South Florida market (Miami-Dade, Broward, and
+          Palm Beach counties) represents a significant strategic move into
+          Florida's largest MSA. Through both acquisitions and organic growth,
+          the company has established strong positions in key growth markets
+          while maintaining its community banking approach and
+          relationship-focused business model.
+  - context: >
+      From 2020 to 2023, Seacoast significantly enhanced its risk management
+      framework and regulatory compliance capabilities. The bank implemented an
+      enhanced enterprise risk management system, strengthened its cybersecurity
+      infrastructure, and improved its BSA/AML compliance program. The company
+      maintained strong asset quality with non-performing assets to total assets
+      ratio decreasing from 0.71% in 2020 to 0.39% in 2023. Credit loss reserves
+      were maintained at appropriate levels, with an allowance for credit losses
+      to total loans ratio of 1.15% at year-end 2023. The bank also enhanced its
+      interest rate risk management strategies in response to the changing rate
+      environment.
+    questions_and_answers:
+      - question: How has Seacoast's risk management framework evolved from 2020 to 2023?
+        answer: >
+          Seacoast enhanced its risk management capabilities through the
+          implementation of an improved enterprise risk management system,
+          strengthened cybersecurity infrastructure, and enhanced BSA/AML
+          compliance program. These improvements supported the bank's growth
+          while maintaining strong risk controls and regulatory compliance.
+      - question: What trends emerged in Seacoast's asset quality metrics during this
+          period?
+        answer: >
+          Asset quality showed consistent improvement with non-performing assets
+          to total assets ratio decreasing from 0.71% in 2020 to 0.39% in 2023.
+          The bank maintained appropriate credit loss reserves with an allowance
+          for credit losses to total loans ratio of 1.15% at year-end 2023,
+          reflecting prudent risk management practices.
+      - question: How did Seacoast adapt its risk management strategies to address
+          changing market conditions?
+        answer: >
+          Seacoast demonstrated adaptability in its risk management approach by
+          enhancing interest rate risk management strategies in response to the
+          changing rate environment, strengthening cybersecurity measures to
+          address evolving threats, and maintaining robust credit risk
+          management practices throughout its expansion.
+  - context: >
+      Throughout 2020-2023, Seacoast executed a comprehensive digital
+      transformation strategy, investing over $50 million in technology
+      infrastructure and digital capabilities. The bank completed a major core
+      system upgrade, launched an enhanced mobile banking platform, and
+      implemented new commercial banking solutions. Digital adoption rates
+      increased significantly, with mobile banking users growing by 45% and
+      digital transactions representing 65% of total transactions by 2023. The
+      bank also implemented advanced data analytics capabilities and artificial
+      intelligence solutions to enhance customer experience and operational
+      efficiency.
+    questions_and_answers:
+      - question: What key digital transformation initiatives did Seacoast implement
+          from 2020 to 2023?
+        answer: >
+          Seacoast invested over $50 million in technology infrastructure,
+          completing a major core system upgrade, launching an enhanced mobile
+          banking platform, and implementing new commercial banking solutions.
+          The bank also deployed advanced data analytics and AI solutions to
+          improve customer experience and operational efficiency.
+      - question: How successful was Seacoast's digital adoption strategy during this
+          period?
+        answer: >
+          Digital adoption showed strong success with mobile banking users
+          increasing by 45% and digital transactions reaching 65% of total
+          transactions by 2023. The bank's investment in digital capabilities
+          resulted in improved customer engagement and operational efficiency
+          across both retail and commercial banking segments.
+      - question: What impact did digital transformation have on Seacoast's operational
+          efficiency and customer experience?
+        answer: >
+          The digital transformation initiatives significantly improved
+          operational efficiency and customer experience through enhanced mobile
+          banking capabilities, streamlined processes, and improved data
+          analytics. These improvements supported both customer satisfaction and
+          cost efficiency while enabling scalable growth across markets.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

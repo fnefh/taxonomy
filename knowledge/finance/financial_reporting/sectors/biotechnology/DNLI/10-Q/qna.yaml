@@ -100,6 +100,63 @@ seed_examples:
           Implementation of new operational arrangements including finance and
           operating leases 5) Strengthening of organizational excellence and
           efficiency
+  - context: Q3 2024 Financial Performance & Investment Strategy
+    questions_and_answers:
+      - question: What were the key financial metrics and performance indicators for Q3
+          2024?
+        answer: >
+          Key metrics included: 1) R&D investments of $98.2M in Q3, reflecting
+          continued pipeline advancement 2) G&A expenses of $24.9M,
+          demonstrating cost discipline 3) Net loss of $107.2M ($0.63 per share)
+          4) Strong cash position of $1.28B ($90.6M cash + $745.9M short-term +
+          $445.5M long-term securities) 5) Operating expenses of $123.2M
+          supporting strategic initiatives
+      - question: How did the company manage its capital structure and investments in Q3
+          2024?
+        answer: >
+          Management included: 1) Strategic allocation across cash equivalents and
+          marketable securities with $1.19B total investment portfolio 2)
+          Diversified investment strategy with focus on U.S. government
+          treasuries ($1.12B) and high-quality corporate securities 3) Efficient
+          working capital management with current assets of $868.8M 4) Prudent
+          expense management while maintaining research momentum 5) Strong
+          stockholders' equity position of $1.32B
+      - question: What were the key drivers of financial performance and capital
+          deployment?
+        answer: >
+          Drivers included: 1) Focused R&D investments in neurodegenerative
+          disease programs 2) Strategic management of operating expenses while
+          advancing pipeline 3) Interest income of $16M contributing to
+          financial position 4) Efficient capital allocation across research
+          programs 5) Balanced approach to investment portfolio management with
+          focus on security and liquidity
+  - context: Q3 2024 Strategic Developments & Partnership Evolution
+    questions_and_answers:
+      - question: What significant strategic developments occurred during Q3 2024?
+        answer: >
+          Developments included: 1) Advancement of LRRK2 program with $75M
+          development funding agreement 2) Strategic restructuring of Biogen
+          collaboration with termination of ATV:Abeta program license 3)
+          Progress in research infrastructure with finance lease arrangements
+          for operational expansion 4) Enhancement of manufacturing and
+          development capabilities 5) Continued focus on core neurodegenerative
+          disease programs
+      - question: How did partnerships and collaborations evolve during the quarter?
+        answer: >
+          Evolution included: 1) New development funding agreement for
+          BIIB122/DNL151 Phase 2a study 2) Receipt of $12.5M milestone payment
+          under development funding agreement 3) Strategic realignment with
+          Biogen through termination of ATV:Abeta program 4) Continued progress
+          in existing collaboration programs 5) Focus on value-creating
+          partnership opportunities
+      - question: What operational and infrastructure improvements were implemented?
+        answer: >
+          Improvements included: 1) Enhancement of research facilities with
+          property and equipment investments growing to $50.8M 2) Implementation
+          of new finance lease arrangements for research infrastructure 3)
+          Strategic investments in technology and equipment 4) Optimization of
+          research operations and efficiency 5) Strengthening of organizational
+          capabilities and systems
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

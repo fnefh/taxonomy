@@ -140,6 +140,75 @@ seed_examples:
           capital structure to maintain financial flexibility, as
           demonstrated  by their diverse funding sources and strategic use of
           both secured and unsecured debt.
+  - context: >
+      For Q2 2024, Brandywine Realty Trust reported total revenue of $128.7
+      million and rental revenue of $116.2 million. The quarter saw continued
+      progress in development activities and leasing efforts, with $162.8
+      million in construction-in-progress. The company maintained focus on
+      operational efficiency while advancing strategic initiatives across its
+      portfolio.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q2 2024?
+        answer: >
+          In Q2 2024, Brandywine reported total revenue of $128.7 million and
+          rental revenue of $116.2 million. The company maintained active
+          development initiatives with $162.8 million in construction-in-
+          progress, while focusing on operational efficiency and cost
+          management. Financial performance reflected the company's continued
+          emphasis on portfolio optimization and strategic growth.
+      - question: |
+          How did leasing activity and portfolio performance evolve in Q2 2024?
+        answer: >
+          Leasing activity showed progress with strategic tenant retention and new
+          leasing efforts across the portfolio. The company focused on
+          maintaining occupancy levels while implementing targeted rental rate
+          adjustments. Portfolio performance benefited from proactive asset
+          management and continued investment in property improvements to meet
+          tenant demands.
+      - question: |
+          What progress was made in development and capital projects?
+        answer: >
+          Development activities progressed with $162.8 million in construction-
+          in-progress, reflecting ongoing commitment to value creation through
+          strategic projects. The company continued to advance its development
+          pipeline while maintaining disciplined capital allocation and project
+          management practices to ensure successful execution of ongoing
+          initiatives.
+  - context: >
+      Q1 2024 demonstrated Brandywine's focus on strategic growth and
+      operational excellence, with total revenue of $126.5 million and rental
+      revenue of $114.8 million. The company continued to advance its
+      development pipeline while implementing efficiency initiatives and
+      maintaining strong tenant relationships across its portfolio.
+    questions_and_answers:
+      - question: |
+          How did Brandywine perform financially in Q1 2024?
+        answer: >
+          Brandywine achieved total revenue of $126.5 million and rental revenue
+          of $114.8 million in Q1 2024. The company maintained steady
+          operational performance while focusing on cost management and
+          efficiency initiatives. Financial results reflected ongoing efforts to
+          optimize portfolio performance and advance strategic growth
+          objectives.
+      - question: |
+          What operational improvements were implemented in Q1 2024?
+        answer: >
+          Operational improvements included enhanced property management
+          practices, implementation of cost control measures, and advancement of
+          efficiency initiatives across the portfolio. The company focused on
+          strengthening tenant relationships, optimizing building operations,
+          and maintaining high service levels while managing operating expenses
+          effectively.
+      - question: |
+          How did Brandywine advance its strategic initiatives in Q1 2024?
+        answer: >
+          Strategic initiatives progressed through continued development
+          activities, portfolio optimization efforts, and targeted capital
+          improvements. The company maintained focus on value creation
+          opportunities while strengthening its market position through
+          proactive asset management and strategic investment in key properties
+          and development projects.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

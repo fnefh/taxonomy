@@ -133,6 +133,69 @@ seed_examples:
           infrastructure; 4) Strict regulatory compliance processes; 5) Regular
           updates to security protocols and standards; 6) Comprehensive employee
           training and awareness programs.
+  - context: >
+      ADP's Professional Employer Organization (PEO) Services segment showed
+      strong performance in fiscal year 2024, with average worksite employees
+      increasing to 729,000. The segment generated revenues of $6.4 billion,
+      with strong client retention and expanded service offerings including
+      enhanced benefits administration and compliance solutions.
+    questions_and_answers:
+      - question: |
+          What were the key performance metrics for ADP's PEO segment in FY2024?
+        answer: >
+          PEO segment performance included: 1) Revenue growth to $6.4 billion; 2)
+          Average worksite employees increase to 729,000; 3) Strong client
+          retention above 90%; 4) Expanded benefits offerings and compliance
+          solutions; 5) Growth in insurance services revenue; 6) Improved
+          operational efficiency and margin expansion.
+      - question: |
+          How is ADP expanding its PEO service offerings?
+        answer: >
+          PEO service expansion includes: 1) Enhanced benefits administration
+          platforms; 2) New compliance and regulatory solutions; 3) Expanded
+          insurance product portfolio; 4) Advanced HR analytics and reporting
+          tools; 5) Integrated talent management solutions; 6) Improved risk
+          management services for clients.
+      - question: |
+          What strategic initiatives drive PEO segment growth?
+        answer: >
+          Strategic initiatives encompass: 1) Market expansion through targeted
+          sales efforts; 2) Technology investments in service delivery
+          platforms; 3) Enhanced client implementation processes; 4) Development
+          of industry-specific solutions; 5) Strengthened insurance carrier
+          partnerships; 6) Focus on mid-market client acquisition.
+  - context: >
+      ADP's international operations demonstrated strong growth in fiscal
+      year 2024, with significant expansion in key markets and enhanced global
+      HCM solutions. The company's global payroll and compliance platforms now
+      serve clients in over 140 countries, processing payroll for millions of
+      workers worldwide while maintaining high compliance standards across
+      diverse regulatory environments.
+    questions_and_answers:
+      - question: |
+          How did ADP's international operations perform in FY2024?
+        answer: >
+          International performance showed: 1) Strong revenue growth in key
+          markets; 2) Expanded client base across regions; 3) Enhanced global
+          payroll solutions; 4) Improved operational efficiency in service
+          delivery; 5) Successful integration of local compliance requirements;
+          6) Growth in multinational client relationships.
+      - question: |
+          What are ADP's key international market strategies?
+        answer: >
+          International strategies include: 1) Targeted expansion in high-growth
+          markets; 2) Development of localized HCM solutions; 3) Strategic
+          partnerships with regional providers; 4) Investment in global
+          technology infrastructure; 5) Enhanced cross-border capabilities; 6)
+          Focus on multinational client needs.
+      - question: |
+          How does ADP manage global compliance and regulatory requirements?
+        answer: >
+          Global compliance management involves: 1) Continuous monitoring of
+          regulatory changes; 2) Regular updates to compliance platforms; 3)
+          Local expertise in key markets; 4) Partnerships with regulatory
+          bodies; 5) Investment in compliance technology; 6) Comprehensive
+          training and support for international teams.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -48,6 +48,10 @@ seed_examples:
         answer: The 27% decline in net income was driven by higher expenses, higher cost
           of credit, and lower revenues, with an effective tax rate of
           approximately 25%.
+      - question: What was the impact of tax rate changes on Citigroup's Q1 2024 results?
+        answer: The effective tax rate remained stable at approximately 25% in both Q1
+          2024 and the prior-year period, providing consistency in the tax
+          impact on net income despite the challenging operating environment.
   - context: >
       Citigroup reported net income of $3.2 billion, or $1.52 per share in Q2
       2024, compared to net income of $2.9 billion, or $1.33 per share in the
@@ -67,6 +71,11 @@ seed_examples:
         answer: The improved performance was driven by higher revenues across all
           segments (including a $400 million Visa B exchange gain) and lower
           expenses, which more than offset higher cost of credit.
+      - question: How did revenue mix changes affect Q2 2024 performance?
+        answer: Revenue growth of 4% was broad-based across all reportable operating
+          segments, with an additional boost from an approximate $400 million
+          episodic gain related to the Visa B exchange, demonstrating diverse
+          revenue generation capabilities.
   - context: >
       Citigroup reported net income of $3.5 billion, or $1.63 per share in Q3
       2023, up 2% from $3.5 billion, or $1.63 per share in the prior-year
@@ -85,6 +94,11 @@ seed_examples:
         answer: Citigroup's effective tax rate increased to 25% from 20% in the
           prior-year period, largely driven by the geographic mix of earnings in
           the quarter.
+      - question: How did revenue growth contribute to Q3 2023 performance?
+        answer: Revenue growth of 9% to $20.1 billion was driven by strong performance
+          across multiple segments, particularly in Services and Markets within
+          ICG and U.S. Personal Banking in PBWM, demonstrating broad-based
+          business momentum.
   - context: >
       Services net income of $1.5 billion increased 21% in Q2 2024 from the
       prior-year period, driven by lower cost of credit and higher revenues,
@@ -103,6 +117,11 @@ seed_examples:
           in net interest income from higher deposit spreads, and a 7% increase
           in non-interest revenue from higher assets under custody and
           administration balances.
+      - question: How did TTS performance impact overall Services results?
+        answer: While TTS revenues remained largely unchanged versus the prior-year
+          period, the segment maintained its momentum and contributed to the
+          overall Services performance through continued client engagement and
+          transaction activity, supporting the 21% increase in net income.
   - context: >
       U.S. Personal Banking net income of $121 million decreased 74% in Q2
       2024 from the prior-year period, driven by higher cost of credit,
@@ -120,6 +139,63 @@ seed_examples:
           the maturation of cards loan vintages originated during the pandemic
           period, macroeconomic pressures from higher inflation and interest
           rates, and an ACL build reflecting cards loan growth.
+      - question: How did loan performance impact USPB's results?
+        answer: Loan growth in cards contributed positively to revenue growth of 6%,
+          while lower partner payments also benefited the top line. However,
+          this loan growth, combined with vintage maturation and macroeconomic
+          pressures, led to higher credit costs that significantly impacted
+          profitability.
+  - context: >
+      Markets net income of $1.2 billion decreased 15% in Q2 2024 from the
+      prior-year period, driven by lower revenues and higher expenses, partially
+      offset by lower cost of credit. Markets revenues of $4.6 billion decreased
+      6%, as Fixed Income Markets revenues decreased 15% to $3.3 billion, while
+      Equity Markets revenues increased 25% to $1.3 billion. The decline in
+      Fixed Income Markets revenues reflected lower activity across rates and
+      currencies, spread products and commodities, while the increase in Equity
+      Markets revenues was driven by strong performance in derivatives,
+      particularly in EMEA and Asia.
+    questions_and_answers:
+      - question: How did Markets segment perform in Q2 2024 compared to the prior year?
+        answer: Markets net income decreased 15% to $1.2 billion, with revenues down 6%
+          to $4.6 billion, driven by lower Fixed Income Markets revenues (down
+          15% to $3.3 billion), partially offset by higher Equity Markets
+          revenues (up 25% to $1.3 billion).
+      - question: What drove the changes in Fixed Income and Equity Markets revenues?
+        answer: Fixed Income Markets revenues declined 15% due to lower activity across
+          rates and currencies, spread products and commodities, while Equity
+          Markets revenues increased 25% driven by strong performance in
+          derivatives, particularly in EMEA and Asia regions.
+      - question: How did regional performance impact Markets results?
+        answer: Regional performance showed significant variation, with particular
+          strength in Equity Markets derivatives in EMEA and Asia, while Fixed
+          Income Markets faced challenges across all regions due to reduced
+          client activity and market volatility.
+  - context: >
+      Wealth Management net income of $542 million increased 8% in Q2 2024
+      from the prior-year period, driven by higher revenues and lower expenses,
+      partially offset by higher cost of credit. Wealth Management revenues of
+      $2.1 billion increased 4%, primarily reflecting growth in investments and
+      lending revenues. Client assets under management increased 12% to $785
+      billion, driven by market appreciation and net inflows of $15.2 billion.
+      The business added approximately 37,000 new clients during the quarter,
+      reflecting continued momentum in client acquisition strategies.
+    questions_and_answers:
+      - question: How did Wealth Management perform in Q2 2024?
+        answer: Wealth Management net income increased 8% to $542 million, with revenues
+          up 4% to $2.1 billion, driven by growth in investments and lending
+          revenues. Client assets under management grew 12% to $785 billion,
+          supported by market appreciation and net inflows.
+      - question: What were the key drivers of client asset growth?
+        answer: Client assets under management increased 12% driven by two main factors
+          1) Market appreciation across investment portfolios 2) Net inflows of
+          $15.2 billion during the quarter, demonstrating strong client
+          engagement and effective investment strategies.
+      - question: How effective were client acquisition efforts during the quarter?
+        answer: Client acquisition showed strong momentum with approximately 37,000 new
+          clients added during the quarter, reflecting successful implementation
+          of growth strategies and enhanced value proposition in the wealth
+          management segment.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

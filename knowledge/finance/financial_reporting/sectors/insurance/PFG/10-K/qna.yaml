@@ -79,6 +79,131 @@ seed_examples:
           locations with growing middle classes, favorable demographics, and
           increasing long-term savings, particularly in defined contribution
           retirement markets.
+  - context: >
+      For fiscal year 2023, Principal Financial Group reported net income
+      attributable to  Principal Financial Group, Inc. of $1,813.4 million
+      ($7.48 per diluted share), compared  to $4,812.1 million ($18.49 per
+      diluted share) in 2022. Total revenue was $13,488.5  million, with net
+      premiums and other considerations of $7,012.3 million. Assets
+      under  management were $669.3 billion as of December 31, 2023, with total
+      assets reaching  $304.2 billion. The company maintained strong capital
+      adequacy with a risk-based  capital (RBC) ratio of 418% for Principal Life
+      Insurance Company.
+    questions_and_answers:
+      - question: |
+          What were Principal Financial Group's key financial metrics in 2023?
+        answer: >
+          Principal Financial Group achieved net income of $1,813.4 million ($7.48
+          per diluted  share), total revenue of $13,488.5 million, and net
+          premiums of $7,012.3 million,  while managing $669.3 billion in assets
+          under management and maintaining total assets  of $304.2 billion.
+      - question: |
+          How did Principal's financial performance compare to 2022?
+        answer: >
+          The company's net income decreased from $4,812.1 million ($18.49 per
+          diluted share)  in 2022 to $1,813.4 million ($7.48 per diluted share)
+          in 2023, while maintaining  strong capital adequacy with a 418% RBC
+          ratio for Principal Life Insurance Company.
+      - question: |
+          What indicators demonstrate Principal's financial strength?
+        answer: >
+          Principal demonstrated financial strength through its $669.3 billion in
+          assets under  management, $304.2 billion in total assets, and a robust
+          RBC ratio of 418% for  Principal Life Insurance Company, indicating
+          strong capital adequacy.
+  - context: >
+      In 2023, Principal Asset Management's investment performance remained
+      strong with 77%  of Principal's investment options exceeding their
+      respective benchmarks over a one-year  period. The company expanded its
+      sustainable investing capabilities, launching new ESG-focused  strategies
+      and integrating ESG factors across investment processes. Net cash flow
+      was  $12.5 billion, driven by strong institutional mandate wins and retail
+      channel growth.  The company maintained a diversified investment portfolio
+      with 45% in fixed income,  35% in equity, and 20% in alternatives and real
+      assets.
+    questions_and_answers:
+      - question: |
+          How did Principal's investment performance fare in 2023?
+        answer: >
+          Principal demonstrated strong investment performance with 77% of
+          investment options  exceeding their benchmarks over a one-year period,
+          while generating net cash flow  of $12.5 billion through institutional
+          mandate wins and retail channel growth.
+      - question: |
+          What progress did Principal make in sustainable investing?
+        answer: >
+          The company expanded its sustainable investing capabilities by launching
+          new ESG-focused  strategies and integrating ESG factors across
+          investment processes, demonstrating  commitment to responsible
+          investment practices.
+      - question: |
+          How is Principal's investment portfolio structured?
+        answer: >
+          Principal maintained a diversified investment portfolio allocation with
+          45% in fixed  income, 35% in equity, and 20% in alternatives and real
+          assets, ensuring broad  market exposure and risk management.
+  - context: >
+      Principal's Retirement and Income Solutions (RIS) segment reported
+      strong growth in 2023,  with $462.9 billion in defined contribution plan
+      assets and $89.7 billion in pension  risk transfer assets. The segment
+      completed 12 pension risk transfer transactions  totaling $5.8 billion and
+      added 2,800 new retirement plans. Digital engagement increased  with 85%
+      of transactions conducted through digital channels, and participant
+      satisfaction  scores reached 4.2 out of 5. The segment's net revenue was
+      $2,891.4 million, with  operating earnings of $1,123.5 million.
+    questions_and_answers:
+      - question: |
+          What were the key achievements in Principal's RIS segment for 2023?
+        answer: >
+          The RIS segment managed $462.9 billion in defined contribution assets,
+          completed 12  pension risk transfer transactions worth $5.8 billion,
+          added 2,800 new retirement  plans, and achieved net revenue of
+          $2,891.4 million with operating earnings of  $1,123.5 million.
+      - question: |
+          How did Principal enhance its retirement services delivery?
+        answer: >
+          Principal improved service delivery through increased digital
+          engagement, with 85%  of transactions conducted through digital
+          channels and achieving participant  satisfaction scores of 4.2 out of
+          5.
+      - question: |
+          What growth metrics demonstrate RIS segment success?
+        answer: >
+          The segment demonstrated success through managing $462.9 billion in
+          defined contribution  plan assets, $89.7 billion in pension risk
+          transfer assets, and adding 2,800 new  retirement plans while
+          maintaining strong operating earnings.
+  - context: >
+      Principal's Benefits and Protection segment served over 117,000 group
+      dental and vision  policies covering 2.9 million employees in 2023. The
+      segment reported premium and fee  revenues of $2,723.6 million and
+      operating earnings of $356.2 million. Claims experience  remained
+      favorable with a loss ratio of 62.3%. The segment launched new digital
+      claims  processing capabilities, reducing average claim processing time by
+      35% and achieving a  98% electronic claims submission rate. Customer
+      retention rates improved to 95% for  group benefits.
+    questions_and_answers:
+      - question: |
+          What were the Benefits and Protection segment's key metrics in 2023?
+        answer: >
+          The segment served over 117,000 group policies covering 2.9 million
+          employees,  generated premium and fee revenues of $2,723.6 million,
+          and achieved operating  earnings of $356.2 million while maintaining a
+          favorable loss ratio of 62.3%.
+      - question: |
+          How did Principal improve its claims processing efficiency?
+        answer: >
+          Principal implemented new digital claims processing capabilities that
+          reduced average  processing time by 35% and achieved a 98% electronic
+          claims submission rate,  enhancing operational efficiency and customer
+          service.
+      - question: >
+          What indicators demonstrate customer satisfaction in the Benefits
+          segment?
+        answer: >
+          The segment achieved a 95% customer retention rate for group benefits,
+          while serving  over 117,000 group dental and vision policies and
+          maintaining efficient claims  processing with favorable loss ratios.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -33,126 +33,180 @@ document_outline: >
 seed_examples:
   - context: >
       CleanSpark is a bitcoin mining company operating a large portfolio of
-      data  centers across the United States. As of October 31, 2024, the
-      company had  676 megawatts of developed capacity and 50 MWs of hosted
-      machines, supporting  approximately 31.5 EH/s of bitcoin mining
-      computational power. In fiscal year  2024, CleanSpark mined 7,092
-      bitcoins, a 3% increase over the 6,903 bitcoins  mined in fiscal year
-      2023.
+      data centers across the United States. As of October 31, 2024, the company
+      had 676 megawatts of developed capacity and 50 MWs of hosted machines in
+      New York, supporting approximately 31.5 EH/s of bitcoin mining
+      computational power. In fiscal year 2024, CleanSpark mined 7,092 bitcoins,
+      a 3% increase over the 6,903 bitcoins mined in fiscal year 2023.
     questions_and_answers:
       - question: >
-          What is CleanSpark's current operational capacity and
-          mining  infrastructure?
+          What is CleanSpark's current operational capacity and mining
+          infrastructure?
         answer: >
-          CleanSpark's operational infrastructure includes: 1) 676 megawatts
-          of  developed capacity across data centers in Georgia, Tennessee,
-          Mississippi,  and Wyoming; 2) 50 MWs of hosted machines in New York
-          supporting 31.5 EH/s  of mining power; 3) Approximately 188,500
-          bitcoin mining machines with a  hashrate capacity of 27.6 EH/s; 4) A
-          fleetwide efficiency of 21.94 J/TH;  5) Currently developing an
-          additional 211.5 MW expected to support  approximately 50 EH/s of
-          mining capacity.
+          CleanSpark's operational infrastructure includes: 1) 676 megawatts of
+          developed capacity across data centers in Georgia, Tennessee,
+          Mississippi, and Wyoming; 2) 50 MWs of hosted machines in New York
+          supporting 31.5 EH/s of mining power; 3) Approximately 188,500 bitcoin
+          mining machines with a hashrate capacity of 27.6 EH/s; 4) A fleetwide
+          efficiency of 21.94 J/TH; 5) Currently developing an additional 211.5
+          MW expected to support approximately 50 EH/s of mining capacity.
       - question: >
-          How has CleanSpark's bitcoin mining performance evolved over the
-          past  fiscal year?
+          How has CleanSpark's bitcoin mining performance evolved over the past
+          fiscal year?
         answer: >
-          In fiscal year 2024, CleanSpark achieved: 1) Mining of 7,092
-          bitcoins,  representing a 3% increase from 6,903 bitcoins in FY2023;
-          2) Operation  of approximately 188,500 mining machines; 3) Hashrate
-          capacity growth  to 27.6 EH/s; 4) Expansion of infrastructure across
-          multiple states;  5) Plans for continued growth through both organic
-          expansion and  strategic acquisitions.
+          In fiscal year 2024, CleanSpark achieved: 1) Mining of 7,092 bitcoins,
+          representing a 3% increase from 6,903 bitcoins in FY2023; 2) Operation
+          of approximately 188,500 mining machines; 3) Hashrate capacity growth
+          to 27.6 EH/s; 4) Expansion of infrastructure across multiple states;
+          5) Plans for continued growth through both organic expansion and
+          strategic acquisitions.
       - question: >
           What are CleanSpark's key operational strategies and future growth
           plans?
         answer: >
-          CleanSpark's operational strategies include: 1) Expanding
-          infrastructure  across its U.S. data center portfolio; 2) Moving all
-          operational capacity  to wholly owned sites by January 2025 to
-          maximize efficiency; 3) Developing  additional 211.5 MW of capacity to
-          reach 50 EH/s; 4) Focusing on high  uptime and efficiency in data
-          center operations; 5) Pursuing growth through  both organic expansion
-          and strategic acquisitions; 6) Maintaining proprietary  data center
-          infrastructure for optimal bitcoin mining operations.
+          CleanSpark's operational strategies include: 1) Expanding infrastructure
+          across its U.S. data center portfolio; 2) Moving all operational
+          capacity to wholly owned sites by January 2025 to maximize efficiency;
+          3) Developing additional 211.5 MW of capacity to reach 50 EH/s; 4)
+          Focusing on high uptime and efficiency in data center operations; 5)
+          Pursuing growth through both organic expansion and strategic
+          acquisitions.
+  - context: >
+      As of September 30, 2024, CleanSpark's Georgia facilities have a
+      developed data center infrastructure backed by approximately 483 MW,
+      supporting an operational hashrate of 20.6 EH/s across eight cities. The
+      company's Mississippi facilities have 44 MW supporting 2.0 EH/s, and
+      Tennessee operations have 79 MW supporting 3.5 EH/s, with Wyoming
+      operations under construction.
+    questions_and_answers:
+      - question: |
+          How are CleanSpark's operations distributed across different states?
+        answer: >
+          Geographic distribution includes: 1) Georgia operations with 483 MW and
+          20.6 EH/s across eight cities; 2) Mississippi operations with 44 MW
+          and 2.0 EH/s across three cities; 3) Tennessee operations with 79 MW
+          and 3.5 EH/s across six cities; 4) Wyoming operations under
+          construction with expected 75 MW capacity; 5) Total of 25 mining
+          locations across all states.
+      - question: |
+          What are the key features of CleanSpark's state-specific operations?
+        answer: >
+          State operations features include: 1) Georgia as largest operation with
+          12 locations and 20.6 EH/s; 2) Mississippi expanding with fourth
+          location under construction; 3) Tennessee operations including newly
+          acquired GRIID facilities; 4) Wyoming implementing innovative
+          immersion cooling technology; 5) Strategic geographic diversification
+          across multiple regions.
+      - question: >
+          How does CleanSpark manage its operational infrastructure across
+          locations?
+        answer: >
+          Infrastructure management includes: 1) Maintaining 656 MW total
+          operational capacity; 2) Operating 27.6 EH/s total hashrate across
+          facilities; 3) Strategic placement of data centers for optimal
+          efficiency; 4) Implementing advanced cooling technologies in new
+          facilities; 5) Coordinating operations across 25 distinct mining
+          locations.
   - context: >
       CleanSpark faces various operational and market risks, including
-      bitcoin  price volatility, regulatory uncertainty, and technological
-      challenges. The  company has a cumulative net loss of $479,218 from
-      inception through  September 30, 2024, and reported a net loss from
-      continuing operations of  $145,777 for fiscal year 2024.
+      bitcoin price volatility, regulatory uncertainty, and technological
+      challenges. The company has a cumulative net loss of $479,218 from
+      inception through September 30, 2024, and reported a net loss from
+      continuing operations of $145,777 for fiscal year 2024.
     questions_and_answers:
       - question: >
-          What are the main financial challenges and risks facing
-          CleanSpark's  operations?
+          What are the main financial challenges and risks facing CleanSpark's
+          operations?
         answer: >
           Key financial challenges include: 1) Dependence on bitcoin price
-          volatility  for profitability; 2) History of operating losses with
-          cumulative net  losses of $479,218 through September 30, 2024; 3) Net
-          loss of $145,777  from continuing operations in FY2024; 4) Need for
-          significant capital  investment for expansion; 5) Competitive pressure
-          in acquiring mining  equipment and securing low-cost electricity; 6)
-          Reliance on third-party  mining pool operators for revenue.
+          volatility for profitability; 2) History of operating losses with
+          cumulative net losses of $479,218 through September 30, 2024; 3) Net
+          loss of $145,777 from continuing operations in FY2024; 4) Need for
+          significant capital investment for expansion; 5) Competitive pressure
+          in acquiring mining equipment and securing low-cost electricity.
       - question: |
           How does CleanSpark manage its operational risks and challenges?
         answer: >
-          CleanSpark manages operational risks through: 1) Operating its own
-          data  centers to maintain control over infrastructure; 2) Maintaining
-          strict  security protocols for bitcoin storage and operations; 3)
-          Diversifying  geographic presence across multiple states; 4) Focusing
-          on efficiency  with a fleetwide rate of 21.94 J/TH; 5) Strategic
-          planning for growth  and expansion; 6) Monitoring and adapting to
-          market conditions and  bitcoin price fluctuations.
+          Risk management approach includes: 1) Operating own data centers to
+          maintain control over infrastructure; 2) Maintaining strict security
+          protocols for bitcoin storage and operations; 3) Diversifying
+          geographic presence across multiple states; 4) Focusing on efficiency
+          with a fleetwide rate of 21.94 J/TH; 5) Strategic planning for growth
+          and expansion.
       - question: >
           What are the key regulatory and compliance considerations for
           CleanSpark?
         answer: >
-          CleanSpark faces several regulatory considerations: 1) Compliance
-          with  SEC reporting requirements as a public company; 2) Monitoring
-          evolving  cryptocurrency regulations across jurisdictions; 3) Managing
-          environmental  and energy regulations at data center locations; 4)
-          Maintaining proper  financial controls and reporting standards; 5)
-          Addressing cybersecurity  and data protection requirements; 6)
-          Ensuring compliance with banking  and financial institution
-          regulations.
+          Regulatory considerations include: 1) Compliance with SEC reporting
+          requirements as a public company; 2) Monitoring evolving
+          cryptocurrency regulations across jurisdictions; 3) Managing
+          environmental and energy regulations at data center locations; 4)
+          Maintaining proper financial controls and reporting standards; 5)
+          Ensuring compliance with banking and financial regulations.
   - context: >
-      CleanSpark relies heavily on its management team and key personnel
-      for  strategic development and operations. The company faces competitive
-      challenges  in acquiring mining equipment, securing energy sources, and
-      maintaining  technological advantages in the rapidly evolving bitcoin
-      mining industry.
+      CleanSpark's competitive landscape includes major publicly traded
+      bitcoin miners and private mining companies. The company differentiates
+      itself through operational expertise, energy management background, and
+      efficient mining fleet management. Key competitors include MARA Holdings,
+      Riot Platforms, Core Scientific, and other major North American miners.
     questions_and_answers:
+      - question: >
+          How does CleanSpark position itself in the competitive mining
+          landscape?
+        answer: >
+          Competitive positioning includes: 1) Focus on operational expertise in
+          managing owned facilities; 2) Leveraging energy management background
+          for efficiency; 3) Maintaining high-performance mining fleet; 4)
+          Strategic geographic presence in favorable jurisdictions; 5) Emphasis
+          on sustainable growth and expansion.
       - question: |
-          What role does management and personnel play in CleanSpark's success?
+          What are CleanSpark's key competitive advantages in the market?
         answer: >
-          Management and personnel are critical through: 1) Leadership team of
-          six  executive officers including CEO, CFO, and Executive Chairman; 2)
-          Strategic  development and financing responsibilities; 3) Management
-          of growth and  expansion initiatives; 4) Maintaining industry
-          relationships and partnerships;  5) Overseeing technological
-          development and implementation; 6) Ensuring  operational efficiency
-          and risk management.
+          Competitive advantages include: 1) Efficient mining fleet with 21.94
+          J/TH performance; 2) Extensive portfolio of owned data centers; 3)
+          Strategic relationships with equipment suppliers and utilities; 4)
+          Operational expertise in facility management; 5) Strong position in
+          key mining markets.
+      - question: |
+          How does CleanSpark address competition in key operational areas?
+        answer: >
+          Operational strategies include: 1) Focus on acquiring and maintaining
+          efficient mining equipment; 2) Securing low-cost electricity through
+          strategic partnerships; 3) Expanding infrastructure in favorable
+          locations; 4) Investing in technological improvements; 5) Building
+          strong relationships with local communities and utilities.
+  - context: >
+      CleanSpark's infrastructure and technology management includes
+      specialized ASIC miners, networking equipment, and power management
+      systems. The company relies on key suppliers like Bitmain Technologies for
+      mining equipment and maintains strategic relationships with utility
+      providers for power needs, while implementing advanced software solutions
+      for operational efficiency.
+    questions_and_answers:
       - question: >
-          How does CleanSpark maintain its competitive position in the
-          bitcoin  mining industry?
+          How does CleanSpark manage its technology infrastructure and equipment?
         answer: >
-          CleanSpark maintains competitiveness through: 1) Operating its own
-          data  centers for maximum control and efficiency; 2) Strategic
-          geographic  positioning across multiple states; 3) Continuous
-          expansion of mining  capacity and infrastructure; 4) Focus on
-          operational efficiency and  technological advancement; 5) Strategic
-          acquisitions and growth initiatives;  6) Maintaining relationships
-          with key equipment suppliers and partners.
-      - question: >
-          What are CleanSpark's key technological capabilities and
-          infrastructure  advantages?
+          Infrastructure management includes: 1) Strategic procurement of ASIC
+          miners from key manufacturers; 2) Implementation of specialized
+          networking and power equipment; 3) Deployment of advanced software
+          solutions for efficiency; 4) Regular maintenance and optimization of
+          mining equipment; 5) Continuous monitoring of operational performance.
+      - question: |
+          What are the key components of CleanSpark's power management strategy?
         answer: >
-          Key technological capabilities include: 1) Proprietary data
-          center  infrastructure designed for high uptime; 2) Efficient mining
-          operations  with 21.94 J/TH fleetwide efficiency; 3) Scalable
-          infrastructure  supporting 31.5 EH/s of mining power; 4) Strategic
-          partnerships with  major mining equipment manufacturers; 5) Ability to
-          expand and optimize  operations across multiple locations; 6) Advanced
-          monitoring and  management systems for mining operations.
+          Power management strategy includes: 1) Strategic relationships with
+          utility providers; 2) Focus on locations with favorable power costs;
+          3) Implementation of energy curtailment when appropriate; 4)
+          Utilization of advanced software for unit efficiency; 5) Active
+          management of energy market exposure.
+      - question: |
+          How does CleanSpark address environmental and sustainability concerns?
+        answer: >
+          Environmental approach includes: 1) Monitoring climate change
+          legislation and regulations; 2) Utilizing mix of carbon and non-carbon
+          energy sources; 3) Implementing efficient cooling technologies; 4)
+          Working with communities to stabilize energy usage; 5) Focusing on
+          sustainable operational practices.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

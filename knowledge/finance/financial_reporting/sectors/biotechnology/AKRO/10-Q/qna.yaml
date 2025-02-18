@@ -121,6 +121,59 @@ seed_examples:
           clinical activity, and 3) Building capabilities to support potential
           future commercialization. The company also maintained focus on
           cost-effective operations while scaling its infrastructure.
+  - context: >
+      Throughout Q3 2023-Q3 2024, Akero advanced its understanding of EFX's
+      clinical profile through comprehensive data analysis and continued
+      follow-up from earlier trials. The company's focus on both histological
+      and non-invasive endpoints provided valuable insights into EFX's potential
+      therapeutic benefits across different MASH patient populations.
+    questions_and_answers:
+      - question: What key clinical data developments were achieved?
+        answer: >
+          Data developments included: 1) Continued analysis of long-term follow-up
+          data from Phase 2b HARMONY study 2) Integration of biomarker data
+          across clinical programs 3) Enhanced understanding of EFX's effects on
+          both liver histology and non-invasive measures 4) Validation of
+          endpoints for Phase 3 SYNCHRONY program
+      - question: How did the understanding of EFX's therapeutic profile evolve?
+        answer: >
+          Profile evolution included: 1) Expanded insights into EFX's mechanism of
+          action in MASH 2) Better understanding of treatment response across
+          patient subgroups 3) Enhanced characterization of safety and
+          tolerability profile 4) Improved understanding of biomarker
+          correlations with clinical outcomes
+      - question: What impact did clinical data have on development strategy?
+        answer: >
+          Data impact included: 1) Refinement of Phase 3 trial designs based on
+          Phase 2b insights 2) Optimization of patient selection criteria 3)
+          Enhanced endpoint selection for SYNCHRONY program 4) Validation of
+          development strategy across different MASH populations
+  - context: >
+      During Q3 2023-Q3 2024, Akero advanced its commercial preparation
+      activities while strengthening market understanding and stakeholder
+      engagement. The company's focus on commercial readiness included market
+      research, engagement with healthcare providers, and development of launch
+      preparation strategies.
+    questions_and_answers:
+      - question: How did commercial preparation activities advance?
+        answer: >
+          Preparation activities included: 1) Enhancement of market understanding
+          through research and analysis 2) Development of preliminary
+          commercialization strategies 3) Engagement with key opinion leaders
+          and healthcare providers 4) Initial planning for potential product
+          launch
+      - question: What progress was made in market and stakeholder engagement?
+        answer: >
+          Engagement progress included: 1) Expanded relationships with healthcare
+          providers and KOLs 2) Enhanced understanding of MASH treatment
+          landscape 3) Development of disease education initiatives 4)
+          Strengthened relationships with patient advocacy groups
+      - question: How did the commercial strategy evolve?
+        answer: >
+          Strategy evolution included: 1) Development of preliminary launch
+          planning framework 2) Assessment of market opportunities and
+          challenges 3) Analysis of potential pricing and access strategies 4)
+          Enhancement of commercial capabilities and expertise
 document:
   repo: https://github.com/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

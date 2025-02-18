@@ -139,6 +139,78 @@ seed_examples:
           including AI and data center;  4) Balanced portfolio across consumer
           and enterprise segments; 5) Strong  emphasis on operational execution
           and efficiency.
+  - context: >
+      For the quarter ended June 29, 2024, AMD reported net revenue of $6.55
+      billion with strong performance across segments. Data Center revenue grew
+      to $2.32 billion, driven by EPYC processor adoption and AI accelerator
+      sales. Client segment revenue was $1.98 billion, reflecting improved PC
+      market conditions. Gaming revenue reached $1.58 billion, while Embedded
+      segment contributed $675 million. Operating income was $678 million with a
+      gross margin of 49.8%.
+    questions_and_answers:
+      - question: |
+          What were AMD's key financial results for Q2 2024?
+        answer: >
+          AMD's Q2 2024 results included: 1) Net revenue of $6.55 billion showing
+          strong growth, 2) Operating income of $678 million, 3) Gross margin of
+          49.8%, 4) Data Center revenue of $2.32 billion demonstrating strong
+          EPYC adoption, 5) Client revenue of $1.98 billion reflecting market
+          recovery, 6) Gaming revenue of $1.58 billion, and 7) Embedded revenue
+          of $675 million maintaining stable contribution.
+      - question: |
+          How did AMD's segment performance evolve in Q2 2024?
+        answer: >
+          Segment performance showed: 1) Data Center growth driven by EPYC
+          processor demand and AI accelerator sales, 2) Client segment recovery
+          with improved PC market conditions, 3) Gaming segment stability with
+          strong console chip demand, 4) Embedded segment maintaining steady
+          revenue contribution, 5) Overall balanced growth across product lines
+          demonstrating successful diversification strategy.
+      - question: |
+          What were the key operational highlights in Q2 2024?
+        answer: >
+          Operational highlights included: 1) Successful ramp of new products
+          across segments, 2) Improved supply chain efficiency and inventory
+          management, 3) Enhanced customer engagement and market penetration, 4)
+          Effective cost control maintaining strong margins, 5) Strategic
+          investments in R&D and product development, 6) Continued focus on AI
+          and data center opportunities.
+  - context: >
+      AMD's segment-specific performance in Q3 2024 demonstrated strong
+      execution across all business units. The Data Center segment showed
+      significant growth with increased adoption of EPYC processors and AI
+      accelerators. Client segment benefited from improved PC market dynamics
+      and new product launches. Gaming maintained strong performance with
+      console chip demand and discrete graphics. The Embedded segment continued
+      to deliver stable results through diverse end-market applications.
+    questions_and_answers:
+      - question: |
+          How did AMD's Data Center segment perform and what drove its growth?
+        answer: >
+          Data Center performance was driven by: 1) Strong adoption of EPYC
+          processors in cloud and enterprise, 2) Growing demand for AI
+          accelerators and solutions, 3) Expanded customer engagements and
+          design wins, 4) Successful new product launches and ramps, 5)
+          Increased market share in key server markets, 6) Enhanced partnerships
+          with major cloud service providers.
+      - question: |
+          What trends impacted AMD's Client and Gaming segments?
+        answer: >
+          Key trends included: 1) Improved PC market conditions driving Client
+          segment recovery, 2) Successful launch and adoption of new Ryzen
+          processors, 3) Strong gaming console chip demand maintaining Gaming
+          segment momentum, 4) Growth in discrete graphics market share, 5)
+          Enhanced product mix contributing to margin improvement, 6) Effective
+          inventory management across channels.
+      - question: |
+          How is AMD's Embedded segment evolving and contributing to results?
+        answer: >
+          Embedded segment showed: 1) Stable revenue contribution from diverse end
+          markets, 2) Strong design win momentum in automotive and industrial,
+          3) Successful integration of adaptive computing solutions, 4) Expanded
+          customer base and applications, 5) Improved operational efficiency and
+          margin contribution, 6) Strategic focus on high-value market
+          opportunities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

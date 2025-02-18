@@ -91,6 +91,60 @@ seed_examples:
           paltusotine 3) Expansion of pipeline into new endocrine indications 4)
           Building foundation for fully integrated endocrine-focused
           pharmaceutical company
+  - context: 2023 Clinical Achievements & Pipeline Advancement
+    questions_and_answers:
+      - question: What were the key clinical milestones achieved for paltusotine in 2023?
+        answer: >
+          Key achievements included: 1) Positive Phase 3 PATHFNDR-1 topline data
+          showing 83% IGF-1 maintenance vs 4% placebo (p<0.0001) 2) Completion
+          of PATHFNDR-2 enrollment with 112 subjects randomized 3) Positive
+          initial Phase 2 carcinoid syndrome data showing 65% reduction in
+          excess bowel movements and flushing episodes 4) Strong safety profile
+          with no serious/severe adverse events in paltusotine-treated
+          participants 5) On track for potential NDA submission in H2 2024
+      - question: How did the company advance its broader pipeline programs in 2023?
+        answer: >
+          Advancements included: 1) Initiation of Phase 2 study of CRN04894 in CAH
+          patients 2) Progress in NIH-collaborated Phase 2 trial of CRN04894 in
+          Cushing's Syndrome 3) Advancement of PTH antagonist program toward
+          development candidate selection 4) Progress in SST3 agonist program
+          for ADPKD 5) Development of TSHR antagonist program for Graves'
+          disease and TED
+      - question: What were the key safety and efficacy findings across clinical
+          programs?
+        answer: >
+          Key findings included: 1) Paltusotine demonstrated favorable safety
+          profile with lower acromegaly-related adverse events vs placebo (30%
+          vs 86%) 2) Strong efficacy in PATHFNDR-1 with all primary and
+          secondary endpoints achieved 3) Positive initial carcinoid syndrome
+          data with rapid symptom reduction 4) CRN04894 showed promising safety
+          profile in ongoing trials 5) Consistent pharmacokinetic profiles
+          observed across programs
+  - context: 2023 Strategic Growth & Commercial Preparation
+    questions_and_answers:
+      - question: How did Crinetics advance its commercial readiness in 2023?
+        answer: >
+          Advancements included: 1) Preparation for potential paltusotine
+          commercial launch in 2025 2) Enhancement of manufacturing capabilities
+          and supply chain readiness 3) Development of comprehensive commercial
+          infrastructure plan 4) Strengthening of medical affairs and market
+          access capabilities 5) Strategic planning for global commercialization
+      - question: What strategic partnerships and collaborations were established or
+          advanced?
+        answer: >
+          Key developments included: 1) Progress in Sanwa License partnership for
+          paltusotine in Japan 2) Advancement of Radionetics collaboration with
+          expanded milestones up to $1.0B 3) Investment of $5.0M in Radionetics
+          preferred stock 4) Maintenance of 26% ownership stake in Radionetics
+          5) Enhancement of NIH/NIDDK collaboration for Cushing's Syndrome trial
+      - question: How did the company strengthen its strategic position and capabilities?
+        answer: >
+          Strengthening included: 1) Evolution to large accelerated filer status
+          2) Expansion of intellectual property portfolio with multiple new
+          patents 3) Enhancement of drug discovery platform capabilities 4)
+          Development of additional preclinical programs in metabolic diseases
+          and GPCR-targeted oncology 5) Advancement of organizational
+          capabilities for late-stage development
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

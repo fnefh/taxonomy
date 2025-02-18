@@ -145,6 +145,75 @@ seed_examples:
           presence in Europe and Asia. The company offers various purchase and
           financing options, including direct sales, Power Purchase Agreements,
           and Managed Services Agreements.
+  - context: >
+      From 2020 to 2023, Bloom Energy demonstrated significant financial
+      growth and operational scale. Revenue increased from $794.2 million in
+      2020 to $1.3 billion in 2023, with product revenue growing 40.4%
+      year-over-year to $972.4 million in 2023. The company improved gross
+      margins from 20.9% to 24.1% while reducing product costs by approximately
+      13% annually. Installation backlog reached 2.1 gigawatts by end of 2023,
+      representing $9.3 billion in total contract value. Operating expenses
+      increased to support growth, reaching $476.8 million in 2023, with R&D
+      investment of $119.2 million.
+    questions_and_answers:
+      - question: >
+          How did Bloom Energy's revenue and margin performance evolve from 2020
+          to 2023?
+        answer: >
+          Financial evolution showed: 1) Revenue growth from $794.2M in 2020 to
+          $1.3B in 2023 2) Product revenue increase of 40.4% year-over-year to
+          $972.4M in 2023 3) Gross margin improvement from 20.9% to 24.1% 4)
+          Annual product cost reduction of approximately 13%.
+      - question: |
+          What trends emerged in Bloom Energy's backlog and contract values?
+        answer: >
+          Backlog trends included: 1) Installation backlog reaching 2.1 gigawatts
+          by end of 2023 2) Total contract value of $9.3B in backlog 3) Strong
+          growth in international orders, particularly in South Korea 4) Diverse
+          mix of customer segments across data centers, utilities, and
+          commercial/industrial.
+      - question: |
+          How did operating expenses and investments evolve during this period?
+        answer: >
+          Operating metrics showed: 1) Total operating expenses of $476.8M in 2023
+          2) R&D investment of $119.2M supporting technology advancement 3)
+          Increased sales and marketing expenses supporting market expansion 4)
+          Strategic investments in manufacturing capacity and automation.
+  - context: >
+      During 2020-2023, Bloom Energy achieved significant technological
+      advancements in both Energy Server and Electrolyzer platforms. The
+      company's R&D efforts led to improved power density, increased efficiency,
+      and enhanced durability across product lines. Energy Server power output
+      increased by 45% while reducing material content by 30%. Electrolyzer
+      technology demonstrated hydrogen production efficiency of over 90% at
+      high-temperature operation. The company expanded its intellectual property
+      portfolio to 470 patents and invested in advanced manufacturing processes,
+      including AI-driven quality control and automated assembly.
+    questions_and_answers:
+      - question: >
+          What key technological improvements were achieved in Energy Server
+          performance?
+        answer: >
+          Energy Server improvements included: 1) 45% increase in power output per
+          unit 2) 30% reduction in material content 3) Enhanced durability with
+          extended cell life 4) Improved fuel flexibility supporting multiple
+          fuel sources including hydrogen.
+      - question: |
+          How did Bloom Energy advance its Electrolyzer technology?
+        answer: >
+          Electrolyzer advancements showed: 1) Achieved hydrogen production
+          efficiency exceeding 90% at high temperature 2) Demonstrated
+          successful pilot projects with major industrial partners 3) Enhanced
+          scalability for industrial applications 4) Improved integration with
+          renewable energy sources.
+      - question: >
+          What progress was made in manufacturing technology and intellectual
+          property?
+        answer: >
+          Manufacturing and IP progress included: 1) Expansion to 470 total
+          patents 2) Implementation of AI-driven quality control systems 3)
+          Development of automated assembly processes 4) Enhanced manufacturing
+          efficiency through advanced process controls.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

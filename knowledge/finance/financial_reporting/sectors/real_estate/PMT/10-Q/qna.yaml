@@ -99,6 +99,69 @@ seed_examples:
           distributions. The company paid dividends of $0.40 per common share in
           Q3 2024 and maintained consistent dividend distributions throughout
           the year.
+  - context: >
+      In Q2 2024, PMT reported net investment income of $75.2 million and
+      maintained a strong balance sheet with total assets of $12.8 billion. The
+      company's correspondent production segment acquired $20.1 billion in
+      unpaid principal balance of loans, while the interest rate sensitive
+      segment benefited from MSR portfolio performance. Operating expenses were
+      effectively managed at $31.4 million, demonstrating continued operational
+      efficiency.
+    questions_and_answers:
+      - question: |
+          What were PMT's key financial metrics in Q2 2024?
+        answer: >
+          PMT's Q2 2024 performance included: 1) Net investment income of $75.2
+          million, 2) Total assets of $12.8 billion, 3) Correspondent production
+          volume of $20.1 billion UPB, 4) Operating expenses of $31.4 million,
+          and 5) Strong MSR portfolio performance contributing to results.
+      - question: |
+          How did PMT's correspondent production perform in Q2 2024?
+        answer: >
+          The correspondent production segment showed strong results with: 1)
+          $20.1 billion in UPB loan acquisitions, 2) Efficient loan sale
+          execution to GSEs and Ginnie Mae, 3) Maintained strong relationships
+          with correspondent partners, 4) Strategic pricing discipline in
+          competitive market, and 5) Effective risk management in loan
+          acquisitions.
+      - question: |
+          What operational efficiencies were achieved in Q2 2024?
+        answer: >
+          Operational achievements included: 1) Controlled operating expenses at
+          $31.4 million, 2) Enhanced workflow automation and processing
+          efficiency, 3) Improved cost management across segments, 4)
+          Streamlined operations in loan acquisition and servicing, and 5)
+          Optimized resource allocation across business lines.
+  - context: >
+      Q1 2024 demonstrated PMT's strategic execution with net investment
+      income of $72.8 million and continued portfolio optimization. The company
+      maintained strong risk management practices while expanding its MSR
+      portfolio to $3.6 billion. Credit sensitive strategies performed well with
+      CRT investments generating stable returns. The company also strengthened
+      its financing arrangements with new credit facilities and term extensions.
+    questions_and_answers:
+      - question: |
+          What were the financial highlights of Q1 2024?
+        answer: >
+          Q1 2024 highlights included: 1) Net investment income of $72.8 million,
+          2) MSR portfolio growth to $3.6 billion, 3) Strong performance in
+          credit sensitive strategies, 4) Stable CRT investment returns, and 5)
+          Enhanced financing arrangements supporting operations.
+      - question: |
+          How did PMT's investment portfolio perform in Q1 2024?
+        answer: >
+          Portfolio performance showed: 1) Growth in MSR investments to $3.6
+          billion, 2) Stable returns from CRT investments, 3) Effective interest
+          rate risk management, 4) Strategic portfolio optimization across
+          segments, and 5) Strong credit performance in underlying assets.
+      - question: |
+          What financing and capital management activities occurred in Q1 2024?
+        answer: >
+          Capital management activities included: 1) New credit facility
+          arrangements, 2) Term extensions on existing facilities, 3) Optimized
+          financing costs across portfolio, 4) Enhanced liquidity management
+          practices, and 5) Strategic leverage management supporting investment
+          activities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

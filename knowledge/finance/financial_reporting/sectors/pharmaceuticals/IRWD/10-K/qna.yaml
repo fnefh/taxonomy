@@ -140,6 +140,71 @@ seed_examples:
           focuses on expanding its GI portfolio through both internal
           development and strategic transactions while delivering sustainable
           profits and cash flow.
+  - context: >
+      In fiscal year 2023, Ironwood demonstrated strong financial performance
+      with total revenues of $452.3 million, operating income of $205.1 million,
+      and net income of $175.1 million. The company maintained a strong balance
+      sheet while investing in growth initiatives and managing the VectivBio
+      acquisition financing.
+    questions_and_answers:
+      - question: |
+          What were Ironwood's key financial metrics and achievements in 2023?
+        answer: >
+          Ironwood achieved strong financial results in 2023 including: 1) Total
+          revenues of $452.3 million, primarily driven by LINZESS U.S.
+          collaborative revenue, 2) Operating income of $205.1 million
+          reflecting operational efficiency, 3) Net income of $175.1 million, 4)
+          Strong cash position supporting strategic initiatives, and 5)
+          Successful financing of the VectivBio acquisition.
+      - question: >
+          How does Ironwood manage its capital allocation and financial strategy?
+        answer: >
+          Ironwood's capital allocation strategy includes: 1) Investment in
+          commercial growth of LINZESS, 2) Strategic acquisitions and pipeline
+          development, 3) Maintenance of strong balance sheet metrics, 4)
+          Efficient working capital management, and 5) Disciplined approach to
+          operating expenses while investing in growth opportunities.
+      - question: |
+          What drives Ironwood's profitability and operational efficiency?
+        answer: >
+          Operational efficiency is driven by: 1) Strong LINZESS commercial
+          performance and profit-sharing arrangement with AbbVie, 2) Focused
+          cost management initiatives, 3) Strategic partnership model reducing
+          operational complexity, 4) Efficient R&D investment in targeted
+          programs, and 5) Lean organizational structure aligned with strategic
+          priorities.
+  - context: >
+      Ironwood's operational excellence in 2023 was demonstrated through
+      successful commercial execution, advancement of clinical programs, and
+      integration planning for the VectivBio acquisition. The company maintained
+      strong quality standards and regulatory compliance while expanding its
+      capabilities in rare diseases.
+    questions_and_answers:
+      - question: |
+          How does Ironwood ensure operational excellence across its business?
+        answer: >
+          Ironwood maintains operational excellence through: 1) Strong commercial
+          execution with LINZESS, 2) Efficient clinical trial operations and
+          program management, 3) Effective partnership management and
+          coordination, 4) Quality control and regulatory compliance systems,
+          and 5) Integration planning and execution capabilities.
+      - question: |
+          What quality control and compliance measures are in place?
+        answer: >
+          Quality and compliance measures include: 1) Comprehensive quality
+          management systems, 2) Regular regulatory compliance assessments, 3)
+          Pharmacovigilance and safety monitoring programs, 4) Supply chain
+          quality oversight, and 5) Training and development programs ensuring
+          operational excellence.
+      - question: |
+          How is Ironwood expanding its operational capabilities?
+        answer: >
+          Operational expansion includes: 1) Building rare disease commercial
+          capabilities through the VectivBio acquisition, 2) Enhancing clinical
+          development infrastructure, 3) Strengthening regulatory and quality
+          systems, 4) Developing new therapeutic area expertise, and 5)
+          Implementing operational efficiency initiatives across the
+          organization.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

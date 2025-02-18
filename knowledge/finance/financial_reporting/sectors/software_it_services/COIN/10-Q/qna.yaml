@@ -32,121 +32,150 @@ document_outline: >
      - Customer growth
 seed_examples:
   - context: >
-      In Q3 2024, Coinbase demonstrated strong financial performance with
-      total  revenue of $1.21 billion, up from $674.1 million in Q3 2023. The
-      company's  revenue streams include transaction revenue from retail and
-      institutional  customers, as well as subscription and services revenue
-      from stablecoin  revenue, blockchain rewards, and other sources.
+      In Q1 2024, Coinbase demonstrated exceptional financial performance
+      with total revenue of $1.64 billion, up from $772.5 million in Q1 2023.
+      The company achieved net income of $1.18 billion compared to a net loss of
+      $78.9 million in the same quarter last year, driven by strong revenue
+      growth and operational efficiency.
     questions_and_answers:
-      - question: >
-          How did Coinbase's revenue composition change in Q3 2024 compared
-          to  Q3 2023, and what were the main drivers of growth?
+      - question: |
+          How did Coinbase's financial performance compare to Q1 2023?
         answer: >
-          Coinbase's revenue showed significant growth across all segments in Q3
-          2024:  1) Transaction revenue increased to $572.5M from $288.6M, with
-          consumer  revenue growing to $483.3M; 2) Subscription and services
-          revenue rose to  $556.1M from $334.4M, driven by stablecoin revenue of
-          $246.9M and  blockchain rewards of $154.8M; 3) Corporate interest and
-          other income  grew to $76.6M from $51.1M. The growth was primarily
-          driven by increased  trading volumes, higher stablecoin revenue, and
-          expanded blockchain rewards.
-      - question: >
-          What is the geographic distribution of Coinbase's revenue, and how
-          has  it evolved?
+          Q1 2024 showed significant improvement: 1) Total revenue increased to
+          $1.64 billion from $772.5 million; 2) Net income reached $1.18 billion
+          compared to a loss of $78.9 million; 3) Operating income was $760.5
+          million versus a loss of $123.9 million; 4) Earnings per share
+          improved to $4.84 from -$0.34; 5) Total operating expenses decreased
+          to $877.1 million from $896.4 million.
+      - question: |
+          What were the key components of Coinbase's revenue and profitability?
         answer: >
-          In Q3 2024, Coinbase's revenue was geographically distributed as
-          follows:  1) U.S. revenue was $1.04 billion, representing 86% of total
-          revenue;  2) International revenue was $167.5 million, or 14% of total
-          revenue;  3) International revenue showed strong growth, increasing
-          from $70.5 million  in Q3 2023; 4) The company continues to expand its
-          global presence while  maintaining strong U.S. market dominance.
-      - question: >
-          How does Coinbase manage its crypto assets and what changes
-          were  implemented in 2024?
+          Key components included: 1) Net revenue of $1.59 billion, up from $736.4
+          million; 2) Other revenue of $49.9 million, increased from $36.1
+          million; 3) Gains on crypto assets held for operations of $86.4
+          million; 4) Gains on crypto assets held for investment of $650.4
+          million; 5) Reduced operating expenses contributing to improved
+          profitability.
+      - question: |
+          How did Coinbase manage its operating expenses during Q1 2024?
         answer: >
-          Coinbase manages its crypto assets through several categories
-          following  the adoption of ASU 2023-08: 1) Crypto assets held for
-          investment,  primarily for long-term holding; 2) Crypto assets held
-          for operations,  used for transaction revenue and corporate expenses;
-          3) Crypto assets  borrowed, used to facilitate Prime Financing; 4)
-          Crypto assets held as  collateral, required from borrowers in Prime
-          Financing. The company  maintains strict collateral requirements
-          ranging from 100% to 300% of  loan value.
+          Expense management included: 1) Transaction expenses of $217.4 million;
+          2) Technology and development costs of $357.9 million; 3) Sales and
+          marketing expenses of $98.6 million; 4) General and administrative
+          costs of $287.2 million; 5) No restructuring expenses compared to
+          $144.5 million in Q1 2023.
   - context: >
-      Coinbase's Prime Financing service provides institutional lending
-      solutions  with robust risk management protocols. As of September 30,
-      2024, the company  had $398.2 million in loan receivables and maintained
-      strict collateral  requirements for all outstanding loans.
+      As of March 31, 2024, Coinbase maintained a strong balance sheet with
+      $6.71 billion in cash and cash equivalents, $5.20 billion in customer
+      custodial funds, and $329.51 billion in safeguarding customer crypto
+      assets. The company's total assets reached $348.04 billion, with
+      stockholders' equity of $8.07 billion.
     questions_and_answers:
-      - question: >
-          How does Coinbase's Prime Financing service operate and what
-          risk  management measures are in place?
+      - question: |
+          What were the key components of Coinbase's balance sheet strength?
         answer: >
-          Coinbase's Prime Financing operates with multiple safeguards: 1) All
-          loans  are fully collateralized by crypto assets, USDC, or fiat; 2)
-          Collateral  requirements range from 100% to 300% of loan value; 3)
-          Systematic monitoring  of collateral value versus loan value; 4)
-          Strict internal risk management  and liquidation protocols; 5) Ability
-          to restrict trading and withdrawals;  6) Continuous collateral
-          maintenance process on the platform.
-      - question: >
-          What types of lending arrangements does Coinbase offer through
-          Prime  Financing?
+          Balance sheet highlights included: 1) Cash and cash equivalents of $6.71
+          billion; 2) Customer custodial funds of $5.20 billion; 3) Safeguarding
+          customer crypto assets of $329.51 billion; 4) Total assets of $348.04
+          billion; 5) Stockholders' equity of $8.07 billion.
+      - question: |
+          How did Coinbase manage its crypto asset holdings?
         answer: >
-          Prime Financing offers various lending arrangements: 1) Fiat loan
-          receivables  ($366.1M as of Q3 2024); 2) Crypto asset loan receivables
-          ($32.0M);  3) Trade finance arrangements for instant crypto asset
-          investment; 4) USDC  loans with specific recognition criteria; 5)
-          Open-ended and fixed-term  lending options; 6) Customized collateral
-          requirements based on loan type  and customer profile.
-      - question: >
-          How does Coinbase handle customer collateral and what are the
-          accounting  treatments?
+          Crypto asset management included: 1) USDC holdings of $860.7 million; 2)
+          Crypto assets held for investment of $1.52 billion; 3) Crypto assets
+          held as collateral of $106.6 million; 4) Crypto assets borrowed of
+          $231.3 million; 5) Strict segregation of customer and corporate
+          assets.
+      - question: |
+          What changes occurred in Coinbase's capital structure during Q1 2024?
         answer: >
-          Coinbase handles collateral through specific protocols: 1) Fiat
-          collateral  is recorded in cash and cash equivalents with a
-          corresponding liability;  2) USDC or crypto assets with
-          rehypothecation rights are recorded as  collateral with return
-          obligations; 3) Customer collateral without  rehypothecation rights is
-          recorded in safeguarding accounts; 4) Strict  monitoring of collateral
-          values and maintenance requirements; 5) Regular  fair value
-          assessments of collateral assets.
+          Capital structure changes included: 1) Increase in long-term debt to
+          $4.23 billion; 2) Growth in additional paid-in capital to $4.55
+          billion; 3) Increase in retained earnings to $3.56 billion; 4)
+          Expansion of total stockholders' equity to $8.07 billion; 5) Issuance
+          of additional Class A common stock.
   - context: >
-      Coinbase maintains a strong focus on regulatory compliance and risk
-      management  across its operations. The company faces various risks
-      including cybersecurity  threats, regulatory changes, and market
-      volatility, while operating in an  evolving regulatory landscape.
+      Coinbase's Prime Financing service showed strong growth in Q1 2024,
+      with loan receivables reaching $529.1 million. The company maintains
+      strict collateral requirements and risk management protocols for all
+      lending activities, while expanding its institutional services.
     questions_and_answers:
-      - question: >
-          What are the key risk factors Coinbase faces in its quarterly
-          operations?
+      - question: |
+          How did Coinbase's Prime Financing service perform in Q1 2024?
         answer: >
-          Key operational risks include: 1) Regulatory uncertainty and
-          compliance  requirements across jurisdictions; 2) Cybersecurity
-          threats and potential  data breaches; 3) Market volatility affecting
-          trading volumes and revenue;  4) Technology risks including platform
-          outages; 5) Competition from both  traditional financial institutions
-          and crypto platforms; 6) Dependence on  third-party service providers.
-      - question: >
-          How does Coinbase adapt to changing market conditions and
-          regulatory  requirements?
+          Prime Financing performance included: 1) Loan receivables growth to
+          $529.1 million; 2) Expansion of institutional lending services; 3)
+          Maintenance of strict collateral requirements; 4) Implementation of
+          robust risk management protocols; 5) Growth in institutional client
+          base.
+      - question: |
+          What risk management measures are in place for lending operations?
         answer: >
-          Coinbase adapts through multiple strategies: 1) Proactive engagement
-          with  regulators and policymakers; 2) Continuous monitoring of
-          regulatory  developments; 3) Flexible platform architecture for quick
-          adaptation;  4) Strong capital position to weather market volatility;
-          5) Diversification  of revenue streams; 6) Investment in compliance
-          infrastructure and expertise.
-      - question: >
-          What measures does Coinbase take to protect customer assets and
-          maintain  platform security?
+          Risk management includes: 1) Full collateralization of all loans; 2)
+          Collateral requirements ranging from 100% to 300%; 3) Continuous
+          monitoring of collateral values; 4) Systematic liquidation protocols;
+          5) Regular review of borrower creditworthiness.
+      - question: |
+          How does Coinbase manage institutional client relationships?
         answer: >
-          Coinbase implements comprehensive security measures: 1) Advanced
-          security  protocols and encryption for asset protection; 2) Regular
-          security audits  and penetration testing; 3) Multi-factor
-          authentication and fraud detection  systems; 4) Insurance coverage for
-          certain losses; 5) Comprehensive data  privacy policies compliant with
-          regulations; 6) Dedicated security and  compliance teams.
+          Client management includes: 1) Customized lending solutions; 2)
+          Dedicated institutional support services; 3) Advanced trading and
+          custody platforms; 4) Regular client risk assessment; 5) Compliance
+          with institutional regulatory requirements.
+  - context: >
+      Coinbase faces various market and operational risks, including
+      cybersecurity threats, regulatory changes, and market volatility. The
+      company maintains comprehensive risk management practices and continues to
+      invest in platform security and compliance.
+    questions_and_answers:
+      - question: |
+          What are the primary risks Coinbase faces in its operations?
+        answer: >
+          Key risks include: 1) Cybersecurity threats and potential breaches; 2)
+          Regulatory uncertainty across jurisdictions; 3) Market volatility
+          affecting trading volumes; 4) Competition from traditional and crypto
+          platforms; 5) Technology and operational risks.
+      - question: |
+          How does Coinbase address cybersecurity and platform security?
+        answer: >
+          Security measures include: 1) Advanced security protocols and
+          encryption; 2) Regular security audits and testing; 3) Multi-factor
+          authentication systems; 4) Comprehensive incident response plans; 5)
+          Continuous monitoring and threat detection.
+      - question: |
+          What compliance measures does Coinbase maintain?
+        answer: >
+          Compliance framework includes: 1) Robust KYC and AML programs; 2)
+          Regular regulatory reporting; 3) Geographic restrictions and controls;
+          4) Staff training on compliance requirements; 5) Engagement with
+          regulatory authorities.
+  - context: >
+      Coinbase continues to innovate and expand its product offerings,
+      focusing on institutional services, retail products, and developer tools.
+      The company's strategic initiatives aim to strengthen its market position
+      and drive sustainable growth.
+    questions_and_answers:
+      - question: |
+          What are Coinbase's key strategic initiatives for growth?
+        answer: >
+          Strategic initiatives include: 1) Expansion of institutional services;
+          2) Enhancement of retail trading platforms; 3) Development of new
+          developer tools; 4) Geographic market expansion; 5) Investment in
+          technology infrastructure.
+      - question: |
+          How is Coinbase innovating its product offerings?
+        answer: >
+          Product innovation includes: 1) Advanced trading features for
+          institutions; 2) Enhanced retail user experience; 3) New developer
+          tools and APIs; 4) Expanded custody solutions; 5) Integration of new
+          blockchain networks and assets.
+      - question: |
+          What measures is Coinbase taking to maintain market leadership?
+        answer: >
+          Leadership measures include: 1) Investment in platform technology; 2)
+          Strategic partnerships and acquisitions; 3) Focus on regulatory
+          compliance; 4) Enhancement of customer service; 5) Continuous product
+          development and improvement.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

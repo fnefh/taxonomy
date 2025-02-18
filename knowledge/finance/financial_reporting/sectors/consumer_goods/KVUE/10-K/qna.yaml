@@ -126,6 +126,73 @@ seed_examples:
           capabilities, while ensuring third-party partners maintain required
           security controls, continuously assessing threats and implementing
           measures to protect its information technology systems and data.
+  - context: >
+      In 2023, Kenvue's segment performance demonstrated the strength of its
+      diversified portfolio. Self Care generated net sales of $5.7 billion,
+      driven by strong performance in Pain Care and Upper Respiratory. Skin
+      Health and Beauty delivered net sales of $4.8 billion, with Neutrogena®
+      and Aveeno® leading growth. Essential Health contributed $4.9 billion in
+      net sales, with strong performance in Oral Care and Baby Care. The company
+      maintained or grew market share in categories representing approximately
+      75% of its net sales, while expanding operating margins through efficiency
+      initiatives and strategic pricing.
+    questions_and_answers:
+      - question: >
+          How did Kenvue's individual segments perform in terms of sales and
+          market share in 2023?
+        answer: >
+          Segment performance showed: 1) Self Care achieved $5.7B in net sales,
+          with strong Pain Care and Upper Respiratory growth 2) Skin Health and
+          Beauty generated $4.8B, led by Neutrogena® and Aveeno® 3) Essential
+          Health contributed $4.9B, with strength in Oral and Baby Care 4)
+          Maintained or grew market share in ~75% of net sales categories.
+      - question: |
+          What were the key growth drivers across Kenvue's product portfolio?
+        answer: >
+          Growth drivers included: 1) Innovation in Pain Care and Upper
+          Respiratory products 2) Strong performance of skincare brands
+          Neutrogena® and Aveeno® 3) Market share gains in Oral Care and Baby
+          Care categories 4) Successful new product launches across segments.
+      - question: >
+          How did Kenvue manage segment profitability and operational efficiency?
+        answer: >
+          Profitability management included: 1) Implementation of strategic
+          pricing initiatives 2) Cost optimization across segments 3) Supply
+          chain efficiency improvements 4) Enhanced operational synergies
+          between segments.
+  - context: >
+      Kenvue's international operations in 2023 demonstrated strong execution
+      across markets, with approximately 50% of net sales generated outside
+      North America. The company operates in more than 165 countries through a
+      combination of direct presence and strategic partnerships. Investment in
+      digital capabilities led to e-commerce sales growth of 15% year-over-year,
+      representing approximately 13% of net sales. The company's international
+      manufacturing network includes both owned facilities and third-party
+      manufacturers, with regional supply chains supporting local market needs.
+    questions_and_answers:
+      - question: |
+          How did Kenvue's international markets perform and evolve in 2023?
+        answer: >
+          International performance showed: 1) ~50% of net sales generated outside
+          North America 2) Presence in 165+ countries through direct operations
+          and partnerships 3) Strong growth in emerging markets 4) Successful
+          adaptation to local market needs and preferences.
+      - question: >
+          What progress did Kenvue make in digital and e-commerce capabilities
+          internationally?
+        answer: >
+          Digital progress included: 1) 15% year-over-year e-commerce sales growth
+          2) E-commerce reaching ~13% of net sales 3) Enhanced digital
+          capabilities across markets 4) Successful implementation of
+          omnichannel strategies globally.
+      - question: >
+          How does Kenvue manage its international manufacturing and supply
+          chain network?
+        answer: >
+          International operations managed through: 1) Combination of owned
+          facilities and third-party manufacturers 2) Regional supply chains
+          supporting local markets 3) Strategic partnerships for manufacturing
+          and distribution 4) Optimized inventory management across regions.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

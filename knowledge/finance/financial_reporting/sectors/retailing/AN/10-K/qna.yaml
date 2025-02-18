@@ -132,6 +132,69 @@ seed_examples:
           maintaining comprehensive recycling programs for water, oil, tires,
           and other materials. The company also has an Environmental, Health and
           Safety Compliance Program.
+  - context: >
+      For fiscal year 2023, AutoNation reported revenue of $26.7 billion and
+      net income of  $1.4 billion ($29.69 per share). New vehicle revenue was
+      $12.8 billion with 242,700  units sold, used vehicle revenue reached $8.2
+      billion with 264,800 units sold, and  parts and service revenue was $4.3
+      billion. The company's gross profit per new vehicle  retailed was $5,932,
+      while used vehicle gross profit per unit was $2,186. Customer  Financial
+      Services generated $1.2 billion in revenue with a penetration rate of
+      84%  for new vehicles and 76% for used vehicles.
+    questions_and_answers:
+      - question: |
+          What were AutoNation's key financial metrics for fiscal year 2023?
+        answer: >
+          AutoNation achieved revenue of $26.7 billion and net income of $1.4
+          billion ($29.69  per share), with new vehicle revenue of $12.8 billion
+          (242,700 units), used vehicle  revenue of $8.2 billion (264,800
+          units), and parts and service revenue of $4.3 billion.
+      - question: |
+          How did AutoNation's per-unit profitability perform in 2023?
+        answer: >
+          The company demonstrated strong per-unit profitability with gross profit
+          per new  vehicle retailed at $5,932 and used vehicle gross profit per
+          unit at $2,186, while  Customer Financial Services achieved
+          penetration rates of 84% for new vehicles and  76% for used vehicles.
+      - question: |
+          What revenue diversification trends were evident in 2023?
+        answer: >
+          Revenue diversification was demonstrated through multiple streams: new
+          vehicle sales  ($12.8 billion), used vehicle sales ($8.2 billion),
+          parts and service ($4.3 billion),  and Customer Financial Services
+          ($1.2 billion), showing a balanced business model.
+  - context: >
+      In 2023, AutoNation's digital and operational initiatives showed strong
+      momentum.  AutoNation Express digital platform processed over 1.2 million
+      vehicle searches monthly,  with 45% of customers starting their purchase
+      journey online. The company's After-Sales  business completed 6.8 million
+      service visits, while AutoNation Mobile Service expanded  to 12 markets.
+      AutoNation USA stores achieved a 65% self-sourcing rate for used
+      vehicles,  and the company's proprietary pricing algorithms processed over
+      2 million vehicle  valuations. Customer satisfaction scores improved to
+      4.7 out of 5.0 across all channels.
+    questions_and_answers:
+      - question: |
+          What were the key achievements in AutoNation's digital initiatives?
+        answer: >
+          AutoNation Express processed over 1.2 million monthly vehicle searches
+          with 45% of  customers initiating purchases online, while implementing
+          proprietary pricing  algorithms that processed over 2 million vehicle
+          valuations.
+      - question: |
+          How did AutoNation's operational performance evolve in 2023?
+        answer: >
+          The After-Sales business completed 6.8 million service visits,
+          AutoNation Mobile  Service expanded to 12 markets, and AutoNation USA
+          stores achieved a 65% self-sourcing  rate for used vehicles, while
+          maintaining high customer satisfaction scores of 4.7  out of 5.0.
+      - question: |
+          What customer experience improvements were achieved in 2023?
+        answer: >
+          Customer experience improved with satisfaction scores reaching 4.7 out
+          of 5.0 across  all channels, enhanced digital engagement through
+          AutoNation Express, expanded mobile  service availability, and
+          streamlined vehicle purchase processes.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

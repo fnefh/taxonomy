@@ -188,6 +188,68 @@ seed_examples:
           Project in  Queens (estimated cost $1,200 million). The utilities plan
           significant  investments through 2028 to upgrade and reinforce their
           energy delivery  systems.
+  - context: >
+      In fiscal year 2020, Con Edison's utility subsidiary CECONY delivered
+      approximately 59,890  million kWh of electricity, 156,733 million cubic
+      feet of gas, and 18,679 million pounds  of steam to customers. The company
+      invested $3,329 million in its utilities' infrastructure,  including
+      $2,607 million for CECONY electric operations. CECONY's electric operating
+      revenues  were $8,103 million, gas revenues were $1,933 million, and steam
+      revenues were $538 million.  The company maintained its focus on system
+      reliability with an electric interruption frequency  rate of 85.3
+      interruptions per 1,000 customers.
+    questions_and_answers:
+      - question: |
+          What were CECONY's key operational metrics in 2020?
+        answer: >
+          CECONY delivered 59,890 million kWh of electricity, 156,733 million
+          cubic feet of gas,  and 18,679 million pounds of steam, while
+          maintaining system reliability with an electric  interruption
+          frequency rate of 85.3 per 1,000 customers.
+      - question: |
+          How did CECONY's revenue streams perform in 2020?
+        answer: >
+          CECONY generated operating revenues of $8,103 million from electric
+          operations, $1,933  million from gas operations, and $538 million from
+          steam operations, demonstrating the  diversity of its utility
+          services.
+      - question: |
+          What were Con Edison's infrastructure investment priorities in 2020?
+        answer: >
+          The company invested $3,329 million in its utilities' infrastructure,
+          with $2,607  million specifically allocated to CECONY electric
+          operations, focusing on system  reliability and service improvement.
+  - context: >
+      For fiscal year 2023, CECONY's electric rate plan (2023-2025) approved
+      by the NYSPSC  provides for electric delivery revenue increases of $436
+      million, $378 million, and $389  million effective January 2023, 2024, and
+      2025, respectively. The plan includes a return  on common equity of 9.3%
+      and a common equity ratio of 50%. The company's clean energy  investments
+      included $249 million for electric vehicle infrastructure and $127 million
+      for  battery storage projects. CECONY also advanced its storm hardening
+      program with $314  million in investments to enhance system resilience.
+    questions_and_answers:
+      - question: |
+          What are the key elements of CECONY's 2023-2025 electric rate plan?
+        answer: >
+          The NYSPSC-approved plan provides for electric delivery revenue
+          increases of $436  million, $378 million, and $389 million for 2023,
+          2024, and 2025 respectively, with  a 9.3% return on common equity and
+          50% common equity ratio.
+      - question: |
+          How is CECONY advancing its clean energy initiatives?
+        answer: >
+          CECONY invested significantly in clean energy infrastructure, including
+          $249 million  for electric vehicle infrastructure and $127 million for
+          battery storage projects,  demonstrating its commitment to sustainable
+          energy solutions.
+      - question: |
+          What measures is CECONY taking to enhance system resilience?
+        answer: >
+          The company invested $314 million in its storm hardening program to
+          enhance system  resilience, focusing on infrastructure improvements to
+          better withstand severe weather  events and maintain service
+          reliability.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

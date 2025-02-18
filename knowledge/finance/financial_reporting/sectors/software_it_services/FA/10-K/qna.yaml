@@ -155,6 +155,66 @@ seed_examples:
           heightened compliance standards and auditability;  and 5) Evolving
           international regulations requiring continuous adaptation  of
           screening procedures.
+  - context: >
+      First Advantage's international operations span over 200 countries and
+      territories, with significant presence in key markets including the
+      Americas, EMEA, and APAC regions. The company's global infrastructure
+      includes multiple data centers, processing facilities, and customer
+      service centers to support its worldwide operations.
+    questions_and_answers:
+      - question: |
+          How does First Advantage manage its global operations?
+        answer: >
+          Global operations management includes: 1) Regional operational centers
+          across Americas, EMEA, and APAC; 2) Local compliance expertise in key
+          markets; 3) Multi-language customer support capabilities; 4)
+          Distributed data center infrastructure; 5) Strategic partnerships with
+          local service providers in various regions.
+      - question: |
+          What are the key aspects of First Advantage's international strategy?
+        answer: >
+          International strategy focuses on: 1) Expansion in high-growth markets;
+          2) Adaptation to local regulatory requirements; 3) Development of
+          region-specific solutions; 4) Building local market expertise; 5)
+          Maintaining consistent global service standards while addressing local
+          needs.
+      - question: |
+          How does First Advantage ensure global service consistency?
+        answer: >
+          Service consistency is maintained through: 1) Standardized global
+          operating procedures; 2) Centralized technology platform with local
+          customization; 3) Regular training and knowledge sharing across
+          regions; 4) Global quality control measures; 5) Unified customer
+          service standards across all locations.
+  - context: >
+      First Advantage's growth strategy includes product innovation,
+      strategic acquisitions, and market expansion. The company's recent
+      acquisition of Infinite ID for $41 million enhances its identity
+      verification capabilities, while continued investment in AI and automation
+      strengthens its technological leadership.
+    questions_and_answers:
+      - question: |
+          What are First Advantage's key growth initiatives?
+        answer: >
+          Growth initiatives include: 1) Strategic acquisitions like Infinite ID;
+          2) Investment in AI and automation technologies; 3) Development of new
+          product offerings; 4) Expansion into adjacent markets; 5) Enhancement
+          of existing service capabilities through innovation.
+      - question: |
+          How does First Advantage approach product innovation?
+        answer: >
+          Product innovation approach includes: 1) Investment in AI and machine
+          learning capabilities; 2) Development of new screening solutions; 3)
+          Enhancement of automation technologies; 4) Integration of acquired
+          technologies; 5) Focus on user experience and efficiency improvements.
+      - question: |
+          What is First Advantage's acquisition strategy?
+        answer: >
+          Acquisition strategy focuses on: 1) Targeting complementary technology
+          capabilities; 2) Expanding market presence in key regions; 3)
+          Enhancing product offerings through strategic purchases; 4)
+          Integration of acquired companies and technologies; 5) Building long-
+          term value through strategic combinations.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

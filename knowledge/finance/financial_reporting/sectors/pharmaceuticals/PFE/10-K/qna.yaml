@@ -147,6 +147,73 @@ seed_examples:
           and business ethics. Their approach includes specific commitments and
           goals in each area, with regular monitoring and reporting of progress
           through their Impact Report and other disclosures.
+  - context: >
+      In fiscal year 2023, Pfizer reported revenues of $58.5 billion, with
+      significant contributions from key therapeutic areas including vaccines,
+      oncology, rare diseases, and internal medicine. The company maintained
+      strong financial performance while investing in future growth through R&D
+      and strategic acquisitions.
+    questions_and_answers:
+      - question: |
+          What were Pfizer's key financial metrics and achievements in 2023?
+        answer: >
+          Pfizer achieved significant financial results in 2023 including: 1)
+          Total revenues of $58.5 billion, 2) Continued investment in R&D
+          totaling $12.1 billion, 3) Strategic completion of the $27.8 billion
+          Seagen acquisition, 4) Strong balance sheet management supporting
+          growth initiatives, and 5) Maintained operational efficiency while
+          investing in future growth opportunities.
+      - question: |
+          How does Pfizer manage its capital allocation and investment strategy?
+        answer: >
+          Pfizer's capital allocation strategy includes: 1) Significant investment
+          in internal R&D programs, 2) Strategic acquisitions and business
+          development, 3) Return of capital to shareholders through dividends
+          and share repurchases, 4) Maintenance of strong credit ratings and
+          financial flexibility, and 5) Balanced approach to growth investments
+          and shareholder returns.
+      - question: |
+          What drives Pfizer's revenue performance across therapeutic areas?
+        answer: >
+          Revenue performance is driven by: 1) Strong commercial execution across
+          key therapeutic areas, 2) Successful launch and uptake of new
+          products, 3) Geographic expansion and market access initiatives, 4)
+          Strategic pricing and reimbursement strategies, and 5) Portfolio
+          optimization through innovation and acquisitions.
+  - context: >
+      Pfizer's manufacturing and supply chain excellence is demonstrated
+      through its global network of 39 manufacturing facilities across 14
+      countries, producing approximately 24 billion doses of medicines and
+      vaccines annually. The company maintains high quality standards and
+      operational efficiency while ensuring reliable supply of products
+      worldwide.
+    questions_and_answers:
+      - question: >
+          How does Pfizer ensure manufacturing excellence and supply reliability?
+        answer: >
+          Pfizer maintains manufacturing excellence through: 1) Operation of 39
+          manufacturing facilities across 14 countries, 2) Production of
+          approximately 24 billion doses annually, 3) Implementation of rigorous
+          quality control systems, 4) Investment in advanced manufacturing
+          technologies, and 5) Strategic management of global supply chain
+          networks.
+      - question: >
+          What technological innovations is Pfizer implementing in manufacturing?
+        answer: >
+          Manufacturing innovations include: 1) Advanced digital technologies and
+          automation, 2) Implementation of Industry 4.0 capabilities, 3)
+          Sustainable manufacturing practices, 4) Enhanced quality control
+          systems, and 5) Continuous improvement in production efficiency and
+          flexibility.
+      - question: >
+          How does Pfizer manage quality control and regulatory compliance in
+          manufacturing?
+        answer: >
+          Quality and compliance are managed through: 1) Comprehensive quality
+          management systems, 2) Regular regulatory inspections and audits, 3)
+          Employee training and development programs, 4) Implementation of
+          current Good Manufacturing Practices (cGMP), and 5) Continuous
+          monitoring and improvement of quality metrics across facilities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

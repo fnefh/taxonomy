@@ -33,101 +33,158 @@ document_outline: >
 seed_examples:
   - context: >
       For the quarter ended October 31, 2024, Asana reported revenues of
-      $183.9  million, representing a 10.4% increase from $166.5 million in the
-      same  quarter of 2023. The company maintained strong liquidity with
-      $196.8  million in cash and cash equivalents and $258.5 million in
-      marketable  securities.
+      $183.9 million, representing a 10.4% increase from $166.5 million in the
+      same quarter of 2023. The company maintained strong liquidity with $196.8
+      million in cash and cash equivalents and $258.5 million in marketable
+      securities.
     questions_and_answers:
       - question: >
-          How did Asana's financial performance compare to the same
-          quarter  last year?
+          How did Asana's financial performance compare to the same quarter last
+          year?
         answer: >
-          Asana's Q3 2024 performance showed: 1) Revenue grew 10.4% to
-          $183.9  million from $166.5 million in Q3 2023; 2) Gross profit
-          increased to  $164.1 million from $150.5 million; 3) Operating loss
-          improved to  $60.2 million from $63.4 million; 4) Net loss per share
-          decreased to  $0.25 from $0.28; 5) Maintained strong gross margin of
-          89.2%.
+          Asana's Q3 2024 performance showed: 1) Revenue grew 10.4% to $183.9
+          million from $166.5 million in Q3 2023; 2) Gross profit increased to
+          $164.1 million from $150.5 million; 3) Operating loss improved to
+          $60.2 million from $63.4 million; 4) Net loss per share decreased to
+          $0.25 from $0.28; 5) Maintained strong gross margin of 89.2%.
       - question: |
           What were the key components of Asana's operating expenses in Q3 2024?
         answer: >
-          Operating expenses included: 1) Research and development at
-          $83.3  million (45% of revenue); 2) Sales and marketing at $104.7
-          million  (57% of revenue); 3) General and administrative at $36.3
-          million  (20% of revenue); 4) Total operating expenses of $224.3
-          million;  5) Continued investment in product development and market
-          expansion.
+          Operating expenses included: 1) Research and development at $83.3
+          million (45% of revenue); 2) Sales and marketing at $104.7 million
+          (57% of revenue); 3) General and administrative at $36.3 million (20%
+          of revenue); 4) Total operating expenses of $224.3 million; 5)
+          Continued investment in product development and market expansion.
       - question: |
           How has Asana's financial position evolved during the quarter?
         answer: >
-          Asana maintained a strong financial position with: 1) $196.8 million  in
-          cash and cash equivalents; 2) $258.5 million in
-          marketable  securities; 3) Total assets of $874.2 million; 4) Deferred
-          revenue  of $279.6 million indicating strong future revenue
-          visibility;  5) Available borrowing capacity of $78.4 million under
-          revolving  credit facility.
+          Asana maintained a strong financial position with: 1) $196.8 million in
+          cash and cash equivalents; 2) $258.5 million in marketable securities;
+          3) Total assets of $874.2 million; 4) Deferred revenue of $279.6
+          million indicating strong future revenue visibility; 5) Available
+          borrowing capacity under revolving credit facility.
   - context: >
-      Asana's deferred revenue reached $282.1 million as of October 31,
-      2024,  with remaining performance obligations of $405.7 million. The
-      company  recognized $49.9 million of revenue during Q3 2024 from the
-      deferred  revenue balance at the beginning of the year.
+      Asana's operating activities for the nine months ended October 31,
+      2024, showed a net cash usage of $0.93 million, improved from $2.59
+      million in the same period of 2023. The company's investing activities
+      generated $20.21 million in cash, while financing activities used $58.20
+      million.
     questions_and_answers:
       - question: >
-          What insights do Asana's deferred revenue metrics provide about
-          future  growth?
+          How did Asana's cash flow performance improve in the nine-month period?
         answer: >
-          Key revenue indicators show: 1) Total remaining performance
-          obligations  of $405.7 million; 2) Expected recognition of 82% of
-          obligations within  12 months; 3) Deferred revenue of $282.1 million;
-          4) Recognition of  $49.9 million from previous deferred revenue in Q3;
-          5) Strong  visibility into future revenue streams.
+          Cash flow improvements included: 1) Reduced operating cash usage to
+          $0.93 million from $2.59 million; 2) Generated $20.21 million from
+          investing activities vs. usage of $270.21 million last year; 3)
+          Improved working capital management with $20.61 million reduction in
+          accounts receivable; 4) Increased deferred revenue by $10.92 million;
+          5) Efficient management of operating lease obligations.
       - question: |
-          How does Asana manage its contract acquisition costs?
+          What were the main components of Asana's investing activities?
         answer: >
-          Contract acquisition management includes: 1) Amortization over
-          three-year  benefit period; 2) Total deferred costs of $39.8 million
-          as of Q3 2024;  3) Capitalization of $7.1 million in new costs during
-          Q3; 4) Quarterly  amortization of $6.7 million; 5) Strategic balance
-          between customer  acquisition and retention costs.
-      - question: >
-          What are Asana's key investment areas and capital allocation
-          priorities?
+          Key investing activities included: 1) Purchase of $166.63 million in
+          marketable securities; 2) Maturity of $195.61 million in marketable
+          securities; 3) $4.06 million in property and equipment purchases; 4)
+          $4.70 million in capitalized internal-use software costs; 5) Net
+          positive cash flow of $20.21 million from investing activities.
+      - question: |
+          How did Asana manage its financing activities during the period?
         answer: >
-          Investment priorities include: 1) Research and development for
-          platform  enhancement; 2) Sales and marketing initiatives for growth;
-          3) Infrastructure  development with $24.0 million AWS commitment; 4)
-          Operating lease  obligations with $21.6 million in letters of credit;
-          5) Strategic  investments in customer acquisition and retention.
+          Financing activities included: 1) Repurchase of $73.87 million in common
+          stock; 2) Repayment of $1.88 million in term loan; 3) Generated $3.88
+          million from stock option exercises; 4) Received $13.67 million from
+          employee stock purchase plan; 5) Net cash usage of $58.20 million in
+          financing activities.
   - context: >
-      Asana continues to focus on growth while managing operational
-      efficiency.  The company faces various market challenges including
-      competition,  technology evolution, and macroeconomic conditions.
+      As of October 31, 2024, Asana's stockholders' equity stood at $239.27
+      million, with significant stock-based compensation of $164.00 million for
+      the nine-month period. The company continued to invest in growth while
+      managing its capital structure through stock repurchases and equity
+      compensation.
     questions_and_answers:
-      - question: >
-          What are the main operational challenges Asana faces in its
-          quarterly  execution?
-        answer: >
-          Key challenges include: 1) Managing operating losses while investing  in
-          growth; 2) Balancing R&D investments with profitability goals;  3)
-          Scaling sales and marketing efficiently; 4) Maintaining
-          competitive  position in evolving market; 5) Adapting to macroeconomic
-          conditions  and market volatility.
       - question: |
-          How does Asana approach risk management in its quarterly operations?
+          How did Asana's equity structure change during the period?
         answer: >
-          Risk management strategy includes: 1) Maintaining strong
-          liquidity  position; 2) Diversifying investment portfolio with
-          high-grade  securities; 3) Compliance with financial covenants in
-          credit facilities;  4) Regular evaluation of long-lived assets for
-          impairment; 5) Strategic  management of operational and market risks.
+          Key equity changes included: 1) Total stockholders' equity of $239.27
+          million; 2) Stock-based compensation of $164.00 million; 3) Repurchase
+          and retirement of 5.94 million shares; 4) Issuance of 7.25 million
+          shares for restricted stock units; 5) Additional paid-in capital
+          increased to $2.00 billion.
       - question: |
-          What are Asana's growth initiatives and strategic priorities?
+          What were the main components of Asana's equity compensation strategy?
         answer: >
-          Strategic priorities focus on: 1) Expanding platform capabilities
-          and  features; 2) Investing in AI and technology advancement; 3)
-          Growing  enterprise customer base; 4) Expanding international
-          presence;  5) Strengthening competitive position through innovation
-          and market  expansion.
+          Equity compensation included: 1) $164.00 million in stock-based
+          compensation expense; 2) Issuance of 1.41 million shares from stock
+          option exercises; 3) Employee stock purchase plan participation
+          generating $13.67 million; 4) Settlement of restricted stock units for
+          7.25 million shares; 5) Strategic balance between dilution and
+          retention.
+      - question: |
+          How did Asana manage its capital return to shareholders?
+        answer: >
+          Capital return management included: 1) Share repurchases totaling $74.69
+          million; 2) Retirement of 5.94 million shares; 3) Balanced approach
+          between growth investment and shareholder returns; 4) Maintained
+          strong liquidity position while returning capital; 5) Strategic
+          management of equity dilution.
+  - context: >
+      Asana faces various market challenges and risks, including
+      macroeconomic conditions affecting global IT spending, competitive
+      pressures, and technological evolution. The company continues to invest in
+      AI capabilities and platform enhancement while managing operational
+      efficiency.
+    questions_and_answers:
+      - question: |
+          What are the key market challenges Asana faces?
+        answer: >
+          Major challenges include: 1) Impact of macroeconomic conditions on
+          global IT spending; 2) Competitive pressures in work management
+          software; 3) Need for continuous technological innovation,
+          particularly in AI; 4) Managing customer acquisition costs in
+          uncertain market; 5) Balancing growth investments with profitability
+          goals.
+      - question: |
+          How is Asana addressing technological evolution and competition?
+        answer: >
+          Strategic initiatives include: 1) Continued investment in AI
+          capabilities; 2) Platform enhancement and feature development; 3)
+          Focus on enterprise customer needs; 4) Maintenance of strong gross
+          margins for reinvestment; 5) Strategic balance between innovation and
+          operational efficiency.
+      - question: |
+          What risk management strategies has Asana implemented?
+        answer: >
+          Risk management approach includes: 1) Maintaining strong liquidity
+          position; 2) Diversification of investment portfolio; 3) Regular
+          evaluation of long-lived assets; 4) Compliance with financial
+          covenants; 5) Strategic management of operational and market risks.
+  - context: >
+      For the nine months ended October 31, 2024, Asana's deferred revenue
+      reached $282.14 million, with total remaining performance obligations of
+      $405.7 million. The company's customer acquisition costs and revenue
+      recognition patterns demonstrate strong future revenue visibility.
+    questions_and_answers:
+      - question: |
+          What insights do Asana's deferred revenue metrics provide?
+        answer: >
+          Deferred revenue insights show: 1) Total deferred revenue of $282.14
+          million; 2) Remaining performance obligations of $405.7 million; 3)
+          Strong future revenue visibility; 4) Effective contract renewal
+          management; 5) Healthy customer commitment levels.
+      - question: |
+          How does Asana manage its customer acquisition costs?
+        answer: >
+          Customer acquisition management includes: 1) Amortization over
+          three-year benefit period; 2) Total deferred costs of $39.8 million;
+          3) Strategic balance between acquisition and retention; 4) Efficient
+          sales and marketing spend; 5) Focus on customer lifetime value.
+      - question: |
+          What are the key indicators of Asana's future growth potential?
+        answer: >
+          Growth indicators include: 1) Strong remaining performance obligations
+          of $405.7 million; 2) Deferred revenue growth trends; 3) Efficient
+          customer acquisition metrics; 4) Healthy gross margin for
+          reinvestment; 5) Strategic focus on enterprise customer expansion.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

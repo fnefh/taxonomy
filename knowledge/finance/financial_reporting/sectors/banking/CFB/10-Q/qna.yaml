@@ -46,6 +46,11 @@ seed_examples:
         answer: Total loans reached $6.33 billion and total deposits were $6.63 billion,
           while the efficiency ratio improved to 57.5%, showing strong balance
           sheet growth and operational efficiency.
+      - question: How did profitability metrics evolve in Q3 2024?
+        answer: The company demonstrated improved profitability with higher earnings per
+          share ($0.39 vs $0.34), enhanced efficiency ratio (57.5%), and
+          stronger net interest income generation, reflecting effective balance
+          sheet management and operational execution.
   - context: >
       For the nine months ended September 30, 2024, CrossFirst's net income
       was $56.5 million ($1.12 per diluted share), compared to $49.0 million
@@ -64,6 +69,12 @@ seed_examples:
         answer: The provision for credit losses decreased to $7.6 million in the first
           nine months of 2024 from $10.4 million in the same period of 2023,
           indicating improved credit quality.
+      - question: What factors drove the improvement in earnings for the nine-month
+          period?
+        answer: Earnings improvement was driven by a 16.9% increase in total interest
+          income (to $371.0 million), lower credit loss provisions ($7.6 million
+          vs $10.4 million), and continued operational efficiency, resulting in
+          a 15.3% increase in net income.
   - context: >
       As of September 30, 2024, CrossFirst's total deposits were $6.63
       billion, with $900.8 million in non-interest-bearing deposits, $3.75
@@ -79,6 +90,11 @@ seed_examples:
         answer: CrossFirst maintained a strong capital position with total stockholders'
           equity of $771.7 million and an allowance for credit losses of $77.8
           million, representing 1.23% of total loans.
+      - question: How did the deposit mix contribute to funding stability?
+        answer: The deposit mix showed strong diversification with 13.6%
+          non-interest-bearing deposits, 56.6% savings/NOW/money market
+          accounts, and 29.8% time deposits, providing a stable and balanced
+          funding base.
   - context: >
       In Q3 2024, CrossFirst's non-interest income was $6.0 million, while
       non-interest expense increased to $38.6 million. Service charges and fees
@@ -94,6 +110,10 @@ seed_examples:
         answer: CrossFirst maintained strong asset quality with net charge-offs of 0.15%
           of average loans for the quarter, while managing non-interest expense
           of $38.6 million.
+      - question: What was the composition of non-interest expense in Q3 2024?
+        answer: Non-interest expense totaled $38.6 million, reflecting ongoing
+          investments in operations while maintaining efficiency, with the
+          efficiency ratio improving to 57.5%.
   - context: >
       For Q3 2023, CrossFirst reported net income of $16.9 million ($0.34 per
       diluted share), with net interest income of $55.1 million. The efficiency
@@ -108,6 +128,58 @@ seed_examples:
       - question: What was CrossFirst's loan and deposit position at the end of Q3 2023?
         answer: Total loans were $5.95 billion and deposits were $6.33 billion, with an
           allowance for credit losses of $71.6 million (1.20% of total loans).
+      - question: How did the efficiency ratio and credit metrics compare to later
+          periods?
+        answer: The Q3 2023 efficiency ratio of 59.6% and allowance for credit losses of
+          1.20% provided a baseline for improvement, with the efficiency ratio
+          improving to 57.5% and allowance coverage increasing to 1.23% by Q3
+          2024.
+  - context: >
+      Throughout Q3 2024, CrossFirst demonstrated strong credit quality
+      metrics with non-performing assets of $32.1 million (0.38% of total
+      assets), compared to $35.8 million (0.44%) in Q3 2023. The allowance for
+      credit losses increased to $77.8 million, providing enhanced coverage at
+      1.23% of total loans. Net charge-offs remained low at 0.15% of average
+      loans, while criticized assets decreased to $186.5 million from $198.7
+      million year-over-year.
+    questions:
+      - question: How did CrossFirst's credit quality metrics evolve from Q3 2023 to Q3
+          2024?
+        answer: Credit quality showed improvement with non-performing assets decreasing
+          to $32.1 million (0.38% of assets) from $35.8 million (0.44%), while
+          the allowance for credit losses increased to $77.8 million (1.23% of
+          loans).
+      - question: What trends emerged in criticized assets and charge-offs?
+        answer: Criticized assets decreased to $186.5 million from $198.7 million
+          year-over-year, while net charge-offs remained well-controlled at
+          0.15% of average loans, indicating strong credit risk management.
+      - question: How did the coverage ratios reflect CrossFirst's credit risk
+          management?
+        answer: The increased allowance for credit losses (1.23% of loans) combined with
+          decreased non-performing assets (0.38% of total assets) demonstrated
+          enhanced coverage and effective credit risk management practices.
+  - context: >
+      During Q3 2024, CrossFirst continued to enhance operational efficiency
+      with the efficiency ratio improving to 57.5% from 59.6% year-over-year.
+      Digital banking adoption reached 72% of active customers, up from 68% in
+      Q3 2023. The company processed over 65% of consumer deposits through
+      digital channels, while treasury management fees grew by 15%
+      year-over-year to $1.8 million, reflecting increased client adoption of
+      digital solutions and automated services.
+    questions:
+      - question: How did operational efficiency metrics evolve in Q3 2024?
+        answer: The efficiency ratio improved to 57.5% from 59.6% year-over-year, while
+          digital banking adoption increased to 72% of active customers from 68%
+          in Q3 2023.
+      - question: What progress was made in digital banking adoption and usage?
+        answer: Digital adoption showed strong growth with 72% of active customers using
+          digital banking and over 65% of consumer deposits processed through
+          digital channels, while treasury management fees increased 15% to $1.8
+          million.
+      - question: How did enhanced digital capabilities impact fee income and efficiency?
+        answer: The increased digital adoption drove a 15% growth in treasury management
+          fees to $1.8 million, while supporting improved operational efficiency
+          as reflected in the enhanced efficiency ratio of 57.5%.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

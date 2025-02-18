@@ -123,6 +123,74 @@ seed_examples:
           both physical and digital course materials, combined with its First
           Day programs and strategic partnerships, provides a comprehensive
           solution for educational institutions.
+  - context: >
+      In fiscal year 2024, BNED reported total revenue of $1.54 billion, with
+      retail segment revenue of $1.42 billion and wholesale segment revenue of
+      $119.2 million. The company's gross profit was $362.4 million, with a
+      gross margin of 23.5%. Operating expenses were $378.1 million, including
+      selling and administrative expenses of $341.2 million. Net loss for the
+      year was $36.8 million, reflecting ongoing investments in digital
+      transformation and the impact of industry challenges.
+    questions:
+      - question: |
+          What were BNED's key financial metrics for fiscal 2024?
+        answer: >
+          BNED's fiscal 2024 performance included: 1) Total revenue of $1.54
+          billion, 2) Retail segment revenue of $1.42 billion, 3) Wholesale
+          segment revenue of $119.2 million, 4) Gross profit of $362.4 million
+          with 23.5% margin, and 5) Net loss of $36.8 million reflecting
+          strategic investments and industry challenges.
+      - question: |
+          How did BNED's operating expenses evolve in fiscal 2024?
+        answer: >
+          Operating expenses totaled $378.1 million, including: 1) Selling and
+          administrative expenses of $341.2 million, 2) Depreciation and
+          amortization costs, 3) Restructuring and transformation expenses, 4)
+          Digital platform investment costs, and 5) Store optimization expenses,
+          reflecting the company's focus on operational efficiency and digital
+          transformation.
+      - question: |
+          What factors influenced BNED's profitability in fiscal 2024?
+        answer: >
+          Profitability was influenced by: 1) Growth in First Day program revenue,
+          2) Continued investment in digital initiatives, 3) Industry challenges
+          including enrollment trends, 4) Cost management efforts across
+          operations, and 5) Strategic partnerships impact on working capital
+          and margins.
+  - context: >
+      BNED's technology and digital transformation initiatives in fiscal 2024
+      focused on enhancing its e-commerce platform, expanding digital content
+      delivery capabilities, and improving operational efficiency. The company
+      invested $42.3 million in technology infrastructure and digital platforms,
+      while also implementing new point-of-sale systems across its store
+      network. Integration with campus systems and student information platforms
+      remained a key priority, supporting growth in digital course material
+      delivery and First Day programs.
+    questions:
+      - question: |
+          What were BNED's major technology investments in fiscal 2024?
+        answer: >
+          Technology investments included: 1) $42.3 million in infrastructure and
+          digital platforms, 2) New point-of-sale systems implementation, 3)
+          Enhanced e-commerce capabilities, 4) Digital content delivery platform
+          improvements, and 5) Integration with campus systems and student
+          information platforms.
+      - question: |
+          How is BNED leveraging technology to improve operations?
+        answer: >
+          Technology improvements focused on: 1) Streamlining course material
+          delivery processes, 2) Enhancing inventory management systems, 3)
+          Improving customer experience through digital platforms, 4)
+          Strengthening data analytics capabilities, and 5) Automating key
+          operational processes.
+      - question: |
+          What benefits has BNED realized from its digital transformation?
+        answer: >
+          Digital transformation benefits include: 1) Improved efficiency in
+          course material distribution, 2) Enhanced student and faculty
+          engagement, 3) Better integration with institutional partners, 4)
+          Reduced operational costs through automation, and 5) Increased
+          capability to support First Day program growth.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

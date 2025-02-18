@@ -259,6 +259,72 @@ seed_examples:
           higher interest income while maintaining cost control demonstrated
           effective balance sheet management despite increased research and
           development investments.
+  - context: >
+      Throughout Q3 2023 to Q3 2024, QuantumScape achieved significant
+      technology development milestones in its solid-state battery program. The
+      company successfully demonstrated A-sample cells meeting automotive
+      requirements, including over 800 cycles with greater than 80% capacity
+      retention under automotive test conditions. Cell performance improved with
+      enhanced cathode loading of 5.0 mAh/cm² and fast-charging capability of
+      10-80% in under 15 minutes. Manufacturing processes advanced with the
+      implementation of automated cell assembly systems, reducing manual
+      operations by 40% and improving production consistency.
+    questions_and_answers:
+      - question: What key technical milestones did QuantumScape achieve during this
+          period?
+        answer: >
+          QuantumScape reached significant technical achievements: 1) A-sample
+          cells demonstrated over 800 cycles with >80% capacity retention under
+          automotive conditions 2) Enhanced cathode loading achieved 5.0 mAh/cm²
+          3) Fast-charging capability demonstrated 10-80% in under 15 minutes 4)
+          Improved cell performance metrics across temperature ranges and test
+          conditions.
+      - question: How did QuantumScape's manufacturing capabilities advance?
+        answer: >
+          Manufacturing capabilities showed substantial progress: 1)
+          Implementation of automated cell assembly systems reduced manual
+          operations by 40% 2) Improved production consistency through automated
+          quality control 3) Enhanced throughput in key manufacturing processes
+          4) Advanced process control systems implementation for better yield
+          management.
+      - question: What progress was made in cell performance and validation?
+        answer: >
+          Cell performance validation showed significant advancement: 1)
+          Achievement of automotive-grade cycling performance 2) Successful
+          demonstration of fast-charging capabilities 3) Improved energy density
+          through enhanced cathode loading 4) Consistent performance validation
+          across multiple test conditions and cell formats.
+  - context: >
+      From Q3 2023 through Q3 2024, QuantumScape strengthened its strategic
+      partnerships and commercial development initiatives. The company expanded
+      collaboration with major automotive OEMs, increasing the number of active
+      sampling agreements from 3 to 5 partners. Joint development activities
+      progressed with the delivery of over 2,500 cells for testing and
+      validation, while achieving a 35% reduction in cell development cycle
+      time. The company also established new partnerships in the energy storage
+      sector, exploring applications beyond automotive use cases.
+    questions_and_answers:
+      - question: How did QuantumScape's partnership ecosystem evolve during this period?
+        answer: >
+          Partnership evolution showed significant progress: 1) Increased active
+          sampling agreements from 3 to 5 automotive OEMs 2) Expanded scope of
+          existing partnerships with enhanced testing programs 3) Established
+          new collaborations in energy storage applications 4) Strengthened
+          joint development activities with key partners.
+      - question: What progress was made in partner testing and validation?
+        answer: >
+          Testing and validation advanced substantially: 1) Delivered over 2,500
+          cells for partner testing and validation 2) Achieved 35% reduction in
+          cell development cycle time 3) Enhanced testing protocols aligned with
+          partner requirements 4) Expanded validation across multiple use cases
+          and applications.
+      - question: How has QuantumScape's commercial strategy evolved?
+        answer: >
+          Commercial strategy showed focused development: 1) Expanded partner base
+          beyond automotive sector 2) Advanced product development timelines
+          through improved processes 3) Enhanced alignment with partner
+          specifications and requirements 4) Developed new applications in
+          energy storage markets.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

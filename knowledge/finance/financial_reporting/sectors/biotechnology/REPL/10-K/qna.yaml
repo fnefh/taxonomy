@@ -132,6 +132,73 @@ seed_examples:
           operational infrastructure while advancing clinical programs,
           positioning the company for potential commercial production and
           expanded clinical development.
+  - context: >
+      Replimune has established a fully operational 63,000 square foot
+      manufacturing facility in Framingham, Massachusetts, completing the
+      transfer of RP1, RP2, and RP3 manufacturing from third-party contractors.
+      The facility has been designed to cover full global commercialization of
+      all current product candidates and has received FDA and European
+      regulatory approval for clinical trial material production. The company
+      recently completed a successful Type C meeting with the FDA confirming
+      alignment on chemistry, manufacturing, and controls plans to support BLA
+      submission for RP1.
+    questions_and_answers:
+      - question: |
+          What are the key features of Replimune's manufacturing capabilities?
+        answer: >
+          Replimune operates a 63,000 square foot manufacturing facility in
+          Framingham, Massachusetts, which has successfully transferred
+          production of RP1, RP2, and RP3 from third-party manufacturers and is
+          designed to support full global commercialization of all current
+          product candidates.
+      - question: |
+          What regulatory milestones has the manufacturing facility achieved?
+        answer: >
+          The facility has received approval from both FDA and European regulatory
+          agencies for clinical trial material production, and recently
+          completed a successful Type C meeting with the FDA confirming
+          alignment on CMC plans for RP1's BLA submission.
+      - question: >
+          How does the in-house manufacturing facility support Replimune's
+          strategic objectives?
+        answer: >
+          The facility gives Replimune control over key aspects of the supply
+          chain, reduces reliance on contract manufacturers, enables shorter
+          development timelines for new products, and positions the company for
+          commercial-scale production and market launch of approved products.
+  - context: >
+      As of March 31, 2024, Replimune employed 331 full-time employees, with
+      280 in research and development and 51 in selling, general and
+      administrative functions. The company maintains a flexible work paradigm
+      combining on-site, hybrid, and remote employees, and offers comprehensive
+      benefits supporting physical, mental, and financial well-being. Replimune
+      focuses on developing a diverse and inclusive culture, conducting regular
+      pay equity reviews, and providing equity and cash incentive plans to
+      attract and retain talent.
+    questions_and_answers:
+      - question: |
+          How is Replimune's workforce structured and managed?
+        answer: >
+          As of March 31, 2024, Replimune had 331 full-time employees, with 280
+          focused on R&D and 51 in SG&A roles, operating under a flexible work
+          model that includes on-site, hybrid, and remote arrangements to
+          accommodate various work profiles.
+      - question: |
+          What approaches does Replimune use to attract and retain talent?
+        answer: >
+          Replimune employs a comprehensive approach including equity and cash
+          incentive plans, regular internal and external pay equity reviews, and
+          comprehensive benefits covering physical, mental, and financial
+          well-being, while fostering a diverse and inclusive culture.
+      - question: >
+          How does Replimune's human capital strategy support its business
+          objectives?
+        answer: >
+          The company's human capital strategy focuses on identifying and
+          retaining highly talented employees, maintaining competitive
+          compensation and benefits, ensuring workplace flexibility, and
+          fostering an inclusive culture that supports long-term growth
+          objectives.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -95,6 +95,139 @@ seed_examples:
           America ($7.1M), Europe ($7.3M), Asia/Pacific ($8.8M), and Latin
           America ($1.1M). The company also established a $30 million revolving
           credit facility, though no amounts were outstanding at year-end.
+  - context: >
+      In fiscal year 2023, Richardson Electronics achieved record performance
+      with net sales of $262.7 million, representing a 23.8% increase from
+      fiscal 2022. The company's growth was driven by strong demand in the Power
+      and Microwave Technologies segment and successful expansion of Green
+      Energy Solutions. Operating income reached $25.0 million, with significant
+      investments in inventory and manufacturing capacity to support future
+      growth.
+    questions_and_answers:
+      - question: |
+          What were the key financial achievements in fiscal 2023?
+        answer: >
+          Richardson Electronics' fiscal 2023 achievements included: 1) Record net
+          sales of $262.7 million, up 23.8% from 2022, 2) Operating income of
+          $25.0 million demonstrating strong profitability, 3) Gross margin of
+          31.9% reflecting product mix and pricing strategies, 4) Strong cash
+          generation supporting operational investments, and 5) Successful
+          expansion across all business segments.
+      - question: |
+          How did segment performance contribute to 2023 results?
+        answer: >
+          Segment contributions included: 1) PMT sales growth driven by
+          semiconductor wafer fab equipment market, 2) GES expansion through new
+          product introductions and market penetration, 3) Canvys growth in
+          medical and industrial displays, 4) Healthcare segment stability
+          through diagnostic imaging parts sales, and 5) Improved profitability
+          across all segments.
+      - question: |
+          What strategic investments were made in fiscal 2023?
+        answer: >
+          Strategic investments focused on: 1) Expansion of manufacturing capacity
+          across facilities, 2) Inventory build-up to support customer demand,
+          3) Enhancement of global distribution capabilities, 4) Research and
+          development for new product initiatives, and 5) Strengthening of
+          technical sales and support teams.
+  - context: >
+      Richardson Electronics' Green Energy Solutions (GES) segment has
+      emerged as a strategic growth driver, focusing on renewable energy
+      applications and power management solutions. The segment's development
+      includes investments in energy storage technologies, power conversion
+      systems, and sustainable energy solutions, supported by the company's
+      engineering expertise and global distribution network.
+    questions_and_answers:
+      - question: |
+          How has the GES segment evolved as a strategic business unit?
+        answer: >
+          GES evolution includes: 1) Development of comprehensive renewable energy
+          product portfolio, 2) Expansion into energy storage and power
+          management markets, 3) Integration of engineering capabilities for
+          custom solutions, 4) Establishment of strategic supplier
+          relationships, and 5) Growth in global market presence through
+          distribution network.
+      - question: |
+          What are the key market opportunities driving GES growth?
+        answer: >
+          Market opportunities include: 1) Increasing demand for renewable energy
+          solutions, 2) Growth in energy storage applications, 3) Expansion of
+          power management requirements, 4) Development of smart grid
+          technologies, and 5) Rising focus on sustainable energy solutions
+          across industries.
+      - question: |
+          How does GES leverage Richardson's core capabilities?
+        answer: >
+          GES leverages capabilities through: 1) Integration of technical
+          expertise in power solutions, 2) Utilization of global distribution
+          infrastructure, 3) Application of engineering resources for custom
+          designs, 4) Deployment of manufacturing capabilities for specialized
+          products, and 5) Coordination with other segments for comprehensive
+          solutions.
+  - context: >
+      Richardson Electronics maintains a strong focus on operational
+      excellence and supply chain management, particularly important given the
+      global nature of its business and diverse customer base. The company's
+      initiatives include inventory optimization, manufacturing efficiency
+      improvements, and strategic sourcing relationships to support its
+      specialized product portfolio.
+    questions_and_answers:
+      - question: |
+          How does Richardson optimize its global supply chain?
+        answer: >
+          Supply chain optimization includes: 1) Strategic relationships with key
+          manufacturing partners, 2) Global inventory management across
+          distribution centers, 3) Implementation of efficient logistics
+          systems, 4) Balance of in-house and partner manufacturing, and 5)
+          Continuous improvement of procurement processes.
+      - question: |
+          What are the key operational efficiency initiatives?
+        answer: >
+          Efficiency initiatives encompass: 1) Manufacturing process improvements
+          across facilities, 2) Implementation of quality control systems, 3)
+          Enhancement of inventory management practices, 4) Optimization of
+          global distribution network, and 5) Development of supplier quality
+          programs.
+      - question: |
+          How does Richardson manage manufacturing partnerships?
+        answer: >
+          Partnership management includes: 1) Selection of qualified manufacturing
+          partners, 2) Implementation of quality control standards, 3)
+          Coordination of production scheduling and capacity, 4) Management of
+          technical specifications and requirements, and 5) Regular assessment
+          of partner performance and capabilities.
+  - context: >
+      Richardson Electronics' market position is strengthened by its
+      technical expertise, specialized product portfolio, and global
+      infrastructure. The company's competitive advantages include strong
+      relationships with leading manufacturers, in-house engineering
+      capabilities, and the ability to provide customized solutions across
+      multiple industries.
+    questions_and_answers:
+      - question: |
+          What are Richardson's key competitive advantages?
+        answer: >
+          Competitive advantages include: 1) Specialized technical expertise in
+          niche markets, 2) Global distribution and support infrastructure, 3)
+          Strong relationships with leading manufacturers, 4) In-house
+          engineering and design capabilities, and 5) Ability to provide
+          customized solutions for specific applications.
+      - question: |
+          How does Richardson maintain its market leadership?
+        answer: >
+          Market leadership is maintained through: 1) Continuous investment in
+          technical capabilities, 2) Development of new product solutions, 3)
+          Expansion of global market presence, 4) Focus on customer
+          relationships and support, and 5) Strategic positioning in growing
+          market segments.
+      - question: |
+          What strategies support long-term growth?
+        answer: >
+          Growth strategies include: 1) Investment in emerging technologies and
+          markets, 2) Expansion of manufacturing and engineering capabilities,
+          3) Development of new product applications, 4) Enhancement of global
+          distribution network, and 5) Focus on high-growth market segments such
+          as renewable energy and healthcare.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

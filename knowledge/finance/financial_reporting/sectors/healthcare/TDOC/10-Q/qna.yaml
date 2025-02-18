@@ -155,6 +155,77 @@ seed_examples:
           regulatory requirements including SEC climate disclosure rules, 5)
           Maintenance of strong cash position ($1.24 billion) to ensure
           operational flexibility and strategic options.
+  - context: >
+      In Q2 2024, Teladoc Health reported significant developments including
+      a $790 million goodwill impairment charge related to the BetterHelp
+      segment. Total revenue reached $650.1 million with continued growth in
+      virtual care visits. The company implemented strategic cost management
+      initiatives while maintaining investments in platform development and
+      market expansion.
+    questions_and_answers:
+      - question: |
+          What were the key financial results and developments in Q2 2024?
+        answer: >
+          Q2 2024 highlights included: 1) Total revenue of $650.1 million with
+          strong access fee performance, 2) Significant goodwill impairment
+          charge of $790 million related to BetterHelp segment, 3) Operating
+          loss impacted by impairment but showing underlying operational
+          improvements, 4) Continued growth in virtual care visits and platform
+          utilization, 5) Implementation of cost management initiatives while
+          maintaining strategic investments.
+      - question: |
+          How did the BetterHelp segment impairment impact operations?
+        answer: >
+          The BetterHelp impairment impact included: 1) $790 million reduction in
+          goodwill value, reflecting market challenges and revised growth
+          expectations, 2) Strategic review of segment operations and marketing
+          efficiency, 3) Implementation of cost optimization measures while
+          maintaining service quality, 4) Revised segment reporting to enhance
+          transparency, 5) Continued focus on core virtual mental health
+          services despite valuation adjustment.
+      - question: |
+          What strategic initiatives were implemented in Q2 2024?
+        answer: >
+          Strategic initiatives encompassed: 1) Enhanced cost management and
+          operational efficiency programs, 2) Continued investment in platform
+          development and technology infrastructure, 3) Expansion of virtual
+          care capabilities and service offerings, 4) Strengthening of
+          international market presence and partnerships, 5) Implementation of
+          improved segment reporting and performance metrics.
+  - context: >
+      Q1 2024 demonstrated Teladoc Health's continued focus on operational
+      excellence and market expansion, with total revenue of $630.2 million and
+      significant progress in technology platform development. The company
+      enhanced its virtual care capabilities while managing costs and investing
+      in growth initiatives.
+    questions_and_answers:
+      - question: |
+          What were the key financial and operational metrics in Q1 2024?
+        answer: >
+          Q1 2024 performance included: 1) Total revenue of $630.2 million with
+          strong access fee contribution, 2) Continued growth in virtual care
+          visits and platform utilization, 3) Operating expenses managed through
+          efficiency initiatives, 4) Investment in technology platform
+          development and enhancement, 5) Progress in international market
+          expansion and partnership development.
+      - question: |
+          How did Teladoc advance its technology and platform capabilities?
+        answer: >
+          Technology advancements included: 1) Enhanced virtual care platform
+          features and functionality, 2) Investment in AI and machine learning
+          capabilities for improved user experience, 3) Development of new
+          clinical tools and provider support systems, 4) Integration of
+          advanced analytics for performance monitoring, 5) Expansion of mobile
+          and digital engagement capabilities.
+      - question: |
+          What progress was made in market expansion and growth initiatives?
+        answer: >
+          Growth initiatives showed: 1) Expansion of international market presence
+          and revenue, 2) Development of new partnerships and strategic
+          relationships, 3) Enhancement of service offerings across virtual care
+          spectrum, 4) Implementation of targeted marketing and engagement
+          strategies, 5) Focus on cross-selling opportunities within existing
+          client base.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

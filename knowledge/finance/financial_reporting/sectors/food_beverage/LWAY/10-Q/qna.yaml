@@ -115,6 +115,73 @@ seed_examples:
           suppliers, implements strategic initiatives to manage costs, and
           focuses on maintaining product quality while navigating market
           competition and supply chain challenges.
+  - context: >
+      In Q2 2024, Lifeway Foods reported net sales of $45.3 million, an
+      increase of 21.5% from $37.3 million in Q2 2023. Gross profit rose to
+      $12.1 million from $9.8 million, while net income reached $3.2 million
+      ($0.21 per diluted share) compared to $2.4 million ($0.16 per diluted
+      share) in Q2 2023. The company's operating expenses increased to support
+      growth initiatives, with selling expenses at $3.8 million and advertising
+      expenses at $1.4 million. Operating income improved to $4.5 million from
+      $3.6 million in the same quarter last year.
+    questions_and_answers:
+      - question: |
+          What were the key financial results for Q2 2024?
+        answer: >
+          Lifeway Foods achieved strong results in Q2 2024 with net sales of $45.3
+          million, up 21.5% from Q2 2023. Gross profit increased to $12.1
+          million, and net income grew to $3.2 million ($0.21 per diluted share)
+          from $2.4 million. Operating income improved to $4.5 million,
+          demonstrating effective execution of growth strategies.
+      - question: |
+          How did operating expenses evolve in Q2 2024?
+        answer: >
+          Operating expenses increased to support growth initiatives, with selling
+          expenses reaching $3.8 million and advertising expenses at $1.4
+          million. Despite higher expenses, the company maintained profitability
+          through effective cost management and revenue growth, resulting in
+          improved operating income.
+      - question: |
+          What factors contributed to the improved profitability?
+        answer: >
+          The improved profitability was driven by higher sales volumes, effective
+          pricing strategies, and operational efficiency. Despite increased
+          operating expenses for growth initiatives, the company successfully
+          expanded gross profit and operating income through strategic market
+          expansion and cost management.
+  - context: >
+      In Q1 2024, Lifeway Foods demonstrated continued momentum with net
+      sales of $48.5 million, representing a 21.9% increase from $39.8 million
+      in Q1 2023. The company achieved gross profit of $13.2 million and net
+      income of $3.0 million ($0.19 per diluted share). Marketing investments
+      increased with advertising expenses of $1.5 million, while the company
+      maintained strong operational efficiency with improved inventory
+      management and production capabilities. The quarter also saw progress in
+      expanding distribution channels and product innovation initiatives.
+    questions_and_answers:
+      - question: |
+          How did Lifeway perform financially in Q1 2024?
+        answer: >
+          Lifeway Foods delivered strong Q1 2024 results with net sales growing
+          21.9% to $48.5 million from $39.8 million in Q1 2023. The company
+          achieved gross profit of $13.2 million and net income of $3.0 million
+          ($0.19 per diluted share), demonstrating successful execution of its
+          growth strategy.
+      - question: |
+          What operational improvements were achieved in Q1 2024?
+        answer: >
+          The company demonstrated improved operational efficiency through better
+          inventory management and enhanced production capabilities. These
+          improvements, combined with increased marketing investments including
+          $1.5 million in advertising expenses, supported strong sales growth
+          and market expansion.
+      - question: |
+          What strategic initiatives were implemented in Q1 2024?
+        answer: >
+          Lifeway focused on expanding distribution channels and advancing product
+          innovation initiatives. The company increased marketing investments to
+          support brand growth while maintaining operational efficiency,
+          resulting in improved financial performance and market presence.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

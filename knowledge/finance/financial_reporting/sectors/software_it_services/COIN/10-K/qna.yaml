@@ -32,116 +32,159 @@ document_outline: >
      - Technology risks
 seed_examples:
   - context: >
-      Coinbase is a leading provider of end-to-end financial infrastructure
-      and  technology for the cryptoeconomy. The company's mission is to
-      increase  economic freedom in the world by providing a trusted platform
-      that makes  it easy for customers to engage with crypto assets, including
-      trading,  staking, safekeeping, spending, and fast, free global transfers.
+      Coinbase operates a trusted platform that makes it easy for customers
+      to engage with crypto assets through trading, staking, safekeeping,
+      spending, and fast, free global transfers. The company serves three main
+      customer segments: Consumers (retail users), Institutions (businesses and
+      organizations), and Developers (creators and builders).
     questions_and_answers:
       - question: >
-          What is Coinbase's core business model and how does it serve
-          different  customer segments?
+          What are the main customer segments Coinbase serves and how does it
+          cater to each?
         answer: >
-          Coinbase operates a platform serving three main customer segments:  1)
-          Consumers - individual retail users seeking to discover or
-          trade  crypto assets and engage in onchain activities; 2) Institutions
-          -  businesses including market makers, asset managers, hedge funds,
-          banks,  and corporations; 3) Developers - creators, merchants, and
-          organizations  building decentralized protocols and applications. The
-          platform enables  activities including trading, staking, storing,
-          spending, earning, and  using crypto assets through both proprietary
-          and third-party products.
-      - question: >
-          What are the key technological capabilities and infrastructure
-          components  of Coinbase's platform?
-        answer: >
-          Coinbase's platform features: 1) Integrated trading and custody
-          solutions;  2) Support for multiple crypto assets and blockchain
-          networks; 3) Robust  security measures including cold storage for
-          crypto assets; 4) Integration  with major mobile operating systems and
-          third-party platforms; 5) Advanced  compliance and risk management
-          systems; and 6) APIs and developer tools  for building applications on
-          the platform.
+          Coinbase serves three distinct segments: 1) Consumers - individual
+          retail users seeking to discover or trade crypto assets and engage in
+          onchain activities; 2) Institutions - businesses including market
+          makers, asset managers, hedge funds, banks, and corporations; 3)
+          Developers - creators, merchants, and organizations building
+          decentralized protocols and applications; 4) Each segment has access
+          to specialized tools and services; 5) Platform enables trading,
+          staking, storing, spending, and using crypto assets.
       - question: |
-          How does Coinbase ensure regulatory compliance and risk management?
+          What are the key products and services offered by Coinbase?
         answer: >
-          Coinbase maintains comprehensive compliance through: 1) Robust KYC
-          (know-your-customer)  program for user verification; 2) Compliance
-          with multiple regulatory frameworks  including SEC, CFTC, and
-          international regulations; 3) Advanced security  measures to protect
-          customer assets and data; 4) Regular monitoring and  reporting of
-          suspicious activities; 5) Partnerships with regulated
-          financial  institutions; and 6) Dedicated legal and compliance teams.
+          Coinbase's key offerings include: 1) Trading products for consumers and
+          institutions; 2) Staking services for earning rewards on crypto
+          assets; 3) Custody solutions for secure asset storage; 4) Coinbase One
+          subscription service; 5) Developer tools including Base, Coinbase
+          Cloud, and Coinbase Pay; 6) Financing products for institutional
+          clients; 7) Self-custody wallet solutions.
+      - question: |
+          How does Coinbase ensure the security of customer assets?
+        answer: >
+          Coinbase protects assets through: 1) Holding customer assets 1:1 without
+          lending or rehypothecation; 2) Using both hot and cold wallet storage
+          with only 2% in hot wallets; 3) Implementing multi-party computation
+          and geographically distributed key management; 4) Regular security
+          audits and compliance reviews; 5) Comprehensive insurance coverage for
+          certain losses.
   - context: >
-      Coinbase operates in a highly regulated environment and faces various
-      risks  including cybersecurity threats, regulatory changes, and market
-      volatility.  The company maintains extensive security measures and
-      compliance programs  to protect customer assets and data.
+      Coinbase maintains extensive regulatory compliance and risk management
+      practices across multiple jurisdictions. The company operates under
+      various licenses and registrations, including money transmitter licenses
+      in U.S. states, BitLicense in New York, and multiple international
+      authorizations.
+    questions_and_answers:
+      - question: |
+          What key regulatory frameworks govern Coinbase's operations?
+        answer: >
+          Coinbase operates under: 1) U.S. state money transmitter licenses and
+          BitLicense; 2) Bank Secrecy Act and anti-money laundering regulations;
+          3) International licenses in jurisdictions like Germany, Singapore,
+          and Ireland; 4) Securities and commodities regulations; 5) Consumer
+          protection and data privacy laws.
+      - question: >
+          How does Coinbase ensure compliance with anti-money laundering
+          requirements?
+        answer: >
+          Compliance measures include: 1) Robust know-your-customer (KYC) program;
+          2) Transaction monitoring and suspicious activity reporting; 3)
+          Geographic restrictions and jurisdictional controls; 4) Regular staff
+          training on compliance requirements; 5) Partnerships with regulated
+          financial institutions.
+      - question: |
+          What measures does Coinbase take to protect customer data and privacy?
+        answer: >
+          Protection measures include: 1) Advanced security protocols and
+          encryption; 2) Compliance with global privacy regulations like GDPR
+          and CCPA; 3) Strict data handling and storage procedures; 4) Regular
+          security audits and penetration testing; 5) Comprehensive data privacy
+          policies and procedures.
+  - context: >
+      Coinbase's technology infrastructure is built to handle the unique
+      challenges of the cryptoeconomy, including 24/7 trading, high-frequency
+      transactions, and complex custody requirements. The company continuously
+      invests in platform security, scalability, and reliability.
     questions_and_answers:
       - question: >
-          What are the main risks and challenges Coinbase faces in its
+          How does Coinbase's technological infrastructure support its
           operations?
         answer: >
-          Key risks include: 1) Regulatory uncertainty and compliance
-          requirements  across multiple jurisdictions; 2) Cybersecurity threats
-          and potential  data breaches; 3) Market volatility affecting trading
-          volumes and revenue;  4) Technology risks including platform outages
-          and technical issues;  5) Competition from both traditional financial
-          institutions and crypto  platforms; 6) Dependence on third-party
-          service providers and payment  networks.
+          Infrastructure features include: 1) Integrated trading and custody
+          solutions; 2) Support for multiple blockchain networks and crypto
+          assets; 3) Advanced security measures including cold storage systems;
+          4) Scalable architecture for high-volume trading; 5) APIs and
+          developer tools for building applications.
       - question: |
-          How does Coinbase protect customer assets and data?
+          What security measures protect Coinbase's platform and infrastructure?
         answer: >
-          Coinbase protects assets and data through: 1) Cold storage for
-          majority  of crypto assets; 2) Advanced security protocols and
-          encryption; 3) Regular  security audits and penetration testing; 4)
-          Multi-factor authentication  and fraud detection systems; 5) Insurance
-          coverage for certain losses;  6) Comprehensive data privacy policies
-          and procedures compliant with  GDPR, CCPA, and other regulations.
-      - question: >
-          What measures does Coinbase take to prevent illegal activities on its
-          platform?
+          Security measures include: 1) Multi-layer security architecture; 2)
+          Advanced cryptographic techniques including multi-party computation;
+          3) Geographically distributed key management; 4) Regular security
+          audits and testing; 5) Comprehensive incident response protocols.
+      - question: |
+          How does Coinbase manage technological risks and challenges?
         answer: >
-          Coinbase implements multiple safeguards including: 1) Strict KYC
-          and  AML (anti-money laundering) procedures; 2) Transaction monitoring
-          for  suspicious activities; 3) Collaboration with law enforcement
-          agencies;  4) Blocking of prohibited jurisdictions and individuals; 5)
-          Regular  staff training on compliance requirements; 6) Automated
-          systems to detect  and prevent fraudulent activities.
+          Risk management includes: 1) Continuous monitoring and system updates;
+          2) Regular platform testing and maintenance; 3) Redundant systems and
+          backup procedures; 4) Incident response and recovery plans; 5)
+          Investment in emerging security technologies.
   - context: >
-      Coinbase's success depends on its ability to innovate, maintain
-      security,  and adapt to changing market conditions. The company faces
-      competition  from both traditional financial institutions and other crypto
-      platforms,  while operating in an evolving regulatory landscape.
+      Coinbase faces competition from various entities including traditional
+      financial technology firms, crypto-focused companies, and decentralized
+      exchanges. The company differentiates itself through regulatory
+      compliance, security measures, and comprehensive product offerings.
     questions_and_answers:
       - question: |
-          How does Coinbase maintain its competitive advantage in the market?
+          Who are Coinbase's main competitors and how does it compete?
         answer: >
-          Coinbase maintains competitiveness through: 1) Continuous product
-          innovation  and platform improvements; 2) Strong brand reputation and
-          trust in the  crypto industry; 3) Comprehensive regulatory compliance
-          and licenses;  4) Strategic partnerships with financial institutions
-          and technology  companies; 5) Investment in customer service and user
-          experience; 6)  Focus on security and reliability of its platform.
+          Competition includes: 1) Traditional financial technology and brokerage
+          firms; 2) Crypto-focused companies operating with different regulatory
+          standards; 3) Decentralized exchanges and protocols; 4) Institutional
+          crypto service providers; 5) Regional and international crypto
+          platforms.
       - question: |
-          What role does innovation play in Coinbase's business strategy?
+          What are Coinbase's key competitive advantages?
         answer: >
-          Innovation is central to Coinbase's strategy through: 1) Development  of
-          new products and services for crypto assets; 2) Investment in
-          blockchain  technology and infrastructure; 3) Support for emerging
-          crypto assets  and protocols; 4) Enhancement of platform security and
-          scalability;  5) Improvement of user experience and interface; 6)
-          Research and development  in areas like DeFi and NFTs.
+          Advantages include: 1) Strong regulatory compliance and licenses; 2)
+          Comprehensive security and risk management; 3) Integrated ecosystem of
+          products and services; 4) Trust and brand recognition; 5) Advanced
+          technology infrastructure.
       - question: |
-          How does Coinbase adapt to regulatory changes and market conditions?
+          How does Coinbase maintain its market position?
         answer: >
-          Coinbase adapts through: 1) Proactive engagement with regulators
-          and  policymakers; 2) Continuous monitoring of regulatory developments
-          across  jurisdictions; 3) Flexible platform architecture allowing
-          quick adaptation  to new requirements; 4) Strong capital position to
-          weather market volatility;  5) Diversification of revenue streams
-          beyond trading; 6) Investment  in compliance infrastructure and
-          expertise.
+          Market position maintained through: 1) Continuous product innovation; 2)
+          Strategic partnerships and acquisitions; 3) Investment in regulatory
+          compliance; 4) Focus on security and user trust; 5) Global expansion
+          and market presence.
+  - context: >
+      Coinbase's business model includes multiple revenue streams from
+      trading, subscription services, and ecosystem products. The company
+      focuses on sustainable growth while managing risks associated with market
+      volatility and regulatory changes.
+    questions_and_answers:
+      - question: |
+          What are Coinbase's main revenue sources?
+        answer: >
+          Revenue sources include: 1) Trading fees from retail and institutional
+          customers; 2) Subscription products like Coinbase One; 3) Staking
+          revenue from validator services; 4) Custody fees from institutional
+          clients; 5) Ecosystem product revenues including developer services.
+      - question: |
+          How does Coinbase manage market volatility and risk?
+        answer: >
+          Risk management includes: 1) Diversified revenue streams; 2) Strong
+          capital position maintenance; 3) Conservative asset management
+          practices; 4) Comprehensive insurance coverage; 5) Regular risk
+          assessment and mitigation strategies.
+      - question: |
+          What growth strategies is Coinbase pursuing?
+        answer: >
+          Growth strategies include: 1) Expansion of product offerings and
+          services; 2) International market development; 3) Investment in
+          technology and infrastructure; 4) Strategic partnerships and
+          acquisitions; 5) Focus on regulatory compliance and institutional
+          adoption.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

@@ -1,141 +1,200 @@
 version: 3
-domain: quarterly_reporting
+domain: annual_reporting
 created_by: fnefh
 document_outline: >
-  This document contains quarterly financial reports (Form 10-Q)
-  for The Williams Companies, Inc. covering quarters in 2023-2024.
+  This document contains annual financial reports (Form 10-K)
+  for Amgen Inc. covering fiscal years 2020-2023.
 
   The reports include detailed information about:
 
-  1. Financial Performance
-     - Quarterly revenue and profitability
-     - Segment-specific results
-     - Capital expenditures
-     - Cash flow management
+  1. Business Operations and Products
+     - Commercial Product Portfolio
+     - Pipeline Development
+     - Manufacturing Capabilities
+     - Global Market Presence
 
-  2. Strategic Growth
-     - Acquisition activities
-     - Infrastructure expansion
-     - Market penetration
-     - Asset integration
+  2. Research and Development
+     - Clinical Programs
+     - Technology Platforms
+     - Innovation Strategy
+     - Collaboration Initiatives
 
-  3. Operational Updates
-     - Pipeline utilization
-     - Processing volumes
-     - Storage capacity
-     - Service reliability
+  3. Financial Performance
+     - Revenue and Growth
+     - Operating Expenses
+     - Capital Allocation
+     - Market Position
 
-  4. Market Dynamics
-     - Energy demand trends
-     - Commodity price impacts
-     - Competitive position
-     - Industry developments
+  4. Strategic Initiatives
+     - Business Development
+     - Market Expansion
+     - Operational Efficiency
+     - Digital Transformation
 seed_examples:
   - context: >
-      During 2024, Williams Companies continued its strategic expansion
-      through key acquisitions, including the Discovery Acquisition (August
-      2024) and the integration of previously acquired assets such as
-      MountainWest Pipelines and Gulf Coast Storage facilities, strengthening
-      its position in critical energy markets.
+      Amgen's commercial portfolio includes several blockbuster products
+      across therapeutic areas including oncology, cardiovascular disease,
+      inflammation, bone health, and nephrology. In 2023, total product sales
+      reached $27.2 billion, with key growth drivers including Repatha®,
+      Prolia®, EVENITY®, and Blincyto®, while managing biosimilar competition
+      for mature products.
     questions_and_answers:
       - question: >
-          What strategic acquisitions has Williams Companies completed in recent
-          quarters?
+          What are Amgen's key commercial products and their performance in 2023?
         answer: >
-          Williams Companies has completed several strategic acquisitions
-          including the Discovery Acquisition (August 2024) gaining full
-          ownership of Gulf of Mexico gathering and Louisiana processing assets,
-          the Gulf Coast Storage Acquisition (January 2024) adding 115 Bcf of
-          storage capacity, and the DJ Basin Acquisitions (November 2023)
-          expanding midstream presence. These acquisitions enhance their
-          integrated service offerings and market position.
-      - question: |
-          How is Williams Companies integrating its newly acquired assets?
-        answer: >
-          Williams Companies is integrating acquired assets through strategic
-          operational alignment, including incorporating MountainWest's
-          2,000-mile pipeline system and 56 Bcf storage capacity into their
-          interstate pipeline network, connecting Gulf Coast Storage assets to
-          LNG export facilities, and optimizing DJ Basin operations within their
-          Western operations portfolio.
+          Amgen's product portfolio delivered strong performance in 2023 with
+          total product sales of $27.2 billion. Growth drivers included Repatha®
+          (cardiovascular), Prolia® and EVENITY® (bone health), and Blincyto®
+          (oncology). The company successfully managed biosimilar competition
+          for mature products while expanding market share in key therapeutic
+          areas through innovative medicines and biosimilars.
       - question: >
-          What market opportunities is Williams Companies targeting through its
-          acquisitions?
+          How does Amgen maintain competitiveness across different therapeutic
+          areas?
         answer: >
-          Williams Companies is targeting strategic market opportunities including
-          enhanced Gulf of Mexico gathering capabilities through Discovery,
-          increased LNG export support via Gulf Coast Storage assets, and
-          expanded Rocky Mountain presence through MountainWest. These moves
-          strengthen their position in key growth markets and support their
-          clean energy infrastructure strategy.
+          Amgen maintains competitiveness through a balanced approach including:
+          1) Continuous innovation in core therapeutic areas, 2) Strategic
+          lifecycle management of established products, 3) Global expansion of
+          market access, 4) Development of biosimilars portfolio, and 5)
+          Investment in new product launches and market development activities.
+      - question: >
+          What strategies does Amgen employ for product commercialization and
+          market access?
+        answer: >
+          Amgen's commercialization strategy includes: 1) Focused marketing and
+          sales efforts in key markets, 2) Strategic pricing and reimbursement
+          approaches, 3) Patient support programs and healthcare provider
+          education, 4) Digital engagement platforms, and 5) Partnerships with
+          healthcare systems and payers to ensure broad access to medicines.
   - context: >
-      Williams Companies maintains a strong focus on operational excellence
-      and infrastructure reliability, serving over 700 customers through its
-      extensive network of natural gas assets while advancing clean energy
-      initiatives and maintaining strong environmental standards.
+      Amgen's research and development pipeline demonstrates strong momentum
+      with over 50 clinical programs across various stages, supported by
+      investments of $4.5 billion in R&D during 2023. The company leverages
+      advanced technologies including human genetics, artificial intelligence,
+      and innovative drug delivery platforms to accelerate drug discovery and
+      development.
     questions_and_answers:
-      - question: >
-          How does Williams Companies maintain operational excellence across its
-          expanded asset base?
-        answer: >
-          Williams Companies maintains operational excellence through integrated
-          management of its pipeline systems, processing facilities, and storage
-          assets, focusing on reliability and safety. They serve over 700
-          customers through a coordinated network of assets, maintaining high
-          utilization rates and service quality while integrating newly acquired
-          operations.
-      - question: >
-          What measures does Williams Companies take to ensure infrastructure
-          reliability?
-        answer: >
-          The company ensures infrastructure reliability through comprehensive
-          maintenance programs, strategic capacity expansions, and systematic
-          integration of new assets. They maintain strict operational standards
-          across their pipeline network, processing facilities, and storage
-          assets, while adhering to regulatory requirements and safety
-          protocols.
       - question: |
-          How is Williams Companies advancing its clean energy initiatives?
+          How does Amgen structure its R&D investments and priorities?
         answer: >
-          Williams Companies advances clean energy initiatives by optimizing
-          natural gas infrastructure to support reduced emissions, enhancing the
-          efficiency of their operations, and strategically positioning assets
-          to support the clean energy transition. Their focus includes reliable
-          natural gas delivery for power generation and industrial use.
+          Amgen invested $4.5 billion in R&D during 2023, focusing on: 1)
+          Advancement of innovative pipeline programs, 2) Development of new
+          therapeutic modalities, 3) Enhancement of drug discovery platforms, 4)
+          Clinical trial execution and innovation, and 5) Strategic research
+          collaborations and technology partnerships.
+      - question: >
+          What technological capabilities distinguish Amgen's research and
+          development approach?
+        answer: >
+          Amgen's R&D capabilities are distinguished by: 1) Integration of human
+          genetics insights, 2) Advanced AI and machine learning applications,
+          3) Innovative drug delivery platforms, 4) Proprietary protein
+          engineering technologies, and 5) State-of-the-art research facilities
+          and infrastructure.
+      - question: >
+          How does Amgen manage its clinical development pipeline and program
+          prioritization?
+        answer: >
+          Amgen manages its pipeline through: 1) Strategic prioritization of over
+          50 clinical programs, 2) Data-driven decision making in program
+          advancement, 3) Efficient clinical trial design and execution, 4)
+          Focus on high-unmet medical needs, and 5) Balance between novel
+          therapeutics and biosimilar development.
   - context: >
-      Williams Companies' quarterly performance reflects the strength of its
-      business model, with stable fee-based revenues from its integrated natural
-      gas infrastructure network and strategic positioning in key growth
-      markets.
+      In 2023, Amgen demonstrated strong financial performance with total
+      revenues of $28.2 billion, operating income of $8.7 billion, and free cash
+      flow of $9.7 billion. The company maintained disciplined capital
+      allocation while investing in growth initiatives and returning value to
+      shareholders through dividends and share repurchases.
     questions_and_answers:
       - question: |
-          What are the key drivers of Williams Companies' quarterly performance?
+          What were Amgen's key financial metrics and achievements in 2023?
         answer: >
-          Williams Companies' performance is driven by stable fee-based revenues
-          from its interstate pipeline systems, gathering and processing
-          operations, and storage assets. Their diversified business model,
-          strategic acquisitions, and focus on key growth markets contribute to
-          consistent operational and financial results.
+          Amgen achieved strong financial results in 2023 including: 1) Total
+          revenues of $28.2 billion, 2) Operating income of $8.7 billion
+          reflecting operational efficiency, 3) Free cash flow of $9.7 billion,
+          4) Continued investment in growth initiatives, and 5) Return of
+          capital to shareholders through dividends and share repurchases.
+      - question: |
+          How does Amgen manage its capital allocation strategy?
+        answer: >
+          Amgen's capital allocation strategy focuses on: 1) Investment in
+          internal growth opportunities, 2) Strategic business development
+          activities, 3) Maintenance of strong credit ratings, 4) Commitment to
+          growing dividend, and 5) Opportunistic share repurchases while
+          maintaining financial flexibility.
+      - question: |
+          What drives Amgen's operational efficiency and margin performance?
+        answer: >
+          Operational efficiency is driven by: 1) Cost management initiatives, 2)
+          Manufacturing optimization programs, 3) Digital transformation
+          efforts, 4) Supply chain improvements, and 5) Strategic resource
+          allocation across global operations.
+  - context: >
+      Amgen's manufacturing capabilities include state-of-the-art facilities
+      across multiple locations, producing both small and large molecule
+      therapeutics. The company's manufacturing network demonstrates strong
+      operational performance with product quality excellence, supply
+      reliability, and continued investment in next-generation manufacturing
+      technologies.
+    questions_and_answers:
+      - question: |
+          How does Amgen ensure manufacturing excellence and supply reliability?
+        answer: >
+          Amgen maintains manufacturing excellence through: 1) State-of-the-art
+          production facilities, 2) Robust quality management systems, 3)
+          Strategic inventory management, 4) Global supply chain optimization,
+          and 5) Continuous investment in manufacturing capabilities and
+          technologies.
+      - question: |
+          What technological innovations is Amgen implementing in manufacturing?
+        answer: >
+          Manufacturing innovations include: 1) Next-generation biomanufacturing
+          facilities, 2) Advanced process control systems, 3) Digital
+          transformation initiatives, 4) Sustainable manufacturing practices,
+          and 5) Implementation of Industry 4.0 technologies across production
+          networks.
       - question: >
-          How does Williams Companies manage market risks in its quarterly
-          operations?
+          How does Amgen manage quality control and regulatory compliance in
+          manufacturing?
         answer: >
-          The company manages market risks through a balanced portfolio of
-          long-term contracts, geographic diversification, and strategic hedging
-          programs. Their focus on fee-based services and essential
-          infrastructure helps maintain stability despite market fluctuations,
-          while strategic acquisitions enhance their competitive position.
+          Quality and compliance are managed through: 1) Comprehensive quality
+          management systems, 2) Regular regulatory inspections and audits, 3)
+          Employee training and development programs, 4) Risk-based approach to
+          quality oversight, and 5) Implementation of advanced quality control
+          technologies.
+  - context: >
+      Amgen's global expansion strategy focuses on market penetration,
+      strategic partnerships, and infrastructure development across key regions.
+      The company continues to strengthen its presence in emerging markets while
+      maintaining leadership positions in established markets through innovative
+      medicines and biosimilars.
+    questions_and_answers:
+      - question: |
+          What are Amgen's key international growth strategies?
+        answer: >
+          International growth strategies include: 1) Market expansion in key
+          regions, 2) Strategic partnerships and collaborations, 3) Investment
+          in local infrastructure, 4) Development of market-specific product
+          portfolios, and 5) Enhancement of global commercial capabilities.
       - question: >
-          What growth opportunities is Williams Companies pursuing in its
-          operations?
+          How does Amgen adapt to different healthcare systems and market
+          dynamics?
         answer: >
-          Williams Companies pursues growth through strategic acquisitions,
-          infrastructure expansion, and market penetration. Their recent
-          acquisitions in the Gulf Coast, Rocky Mountains, and DJ Basin regions
-          demonstrate their commitment to expanding their integrated service
-          offerings and capturing opportunities in key growth markets.
+          Market adaptation involves: 1) Tailored pricing and access strategies,
+          2) Local partnerships and stakeholder engagement, 3) Market-specific
+          regulatory compliance, 4) Customized patient support programs, and 5)
+          Flexible commercial models aligned with local healthcare systems.
+      - question: |
+          What initiatives support Amgen's emerging markets expansion?
+        answer: >
+          Emerging markets initiatives include: 1) Strategic infrastructure
+          investments, 2) Development of local talent and capabilities, 3)
+          Partnerships with local healthcare providers, 4) Market-appropriate
+          product portfolios, and 5) Focus on accessibility and affordability of
+          medicines.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
-    - knowledge/finance/financial_reporting/sectors/oil_services/WMB/10-Q/data/*.md
+    - knowledge/finance/financial_reporting/sectors/pharmaceuticals/AMGN/10-K/data/*.md

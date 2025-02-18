@@ -123,6 +123,112 @@ seed_examples:
           including Eurosport in Europe, 4) International streaming service
           expansion starting with Latin America, 5) Strategic partnerships and
           local market presence through brands like TVN in Poland.
+  - context: >
+      Warner Bros. Discovery's financial performance in 2023 reflected the
+      company's focus on operational efficiency and debt reduction while
+      maintaining investment in content and platform development. The company
+      achieved significant cost synergies from the WarnerMedia merger while
+      managing the transition to streaming and digital platforms.
+    questions_and_answers:
+      - question: >
+          What were the key financial metrics and performance indicators for
+          Warner Bros. Discovery in 2023?
+        answer: >
+          Financial performance included: 1) Total revenues of $41.3 billion, 2)
+          Operating income of $2.1 billion, reflecting merger-related synergies
+          and cost management, 3) Free cash flow of $6.2 billion supporting debt
+          reduction efforts, 4) Gross debt reduction of approximately $5.4
+          billion, 5) Adjusted EBITDA of $10.4 billion demonstrating operational
+          efficiency.
+      - question: >
+          How did Warner Bros. Discovery manage its cost structure and
+          operational efficiency?
+        answer: >
+          Cost management included: 1) Achievement of $3.8 billion in merger-
+          related cost synergies, 2) Optimization of content production and
+          distribution costs, 3) Streamlining of organizational structure and
+          operations, 4) Implementation of strategic cost reduction initiatives
+          across segments, 5) Enhanced working capital management and cash flow
+          generation.
+      - question: |
+          What were the key drivers of segment performance and profitability?
+        answer: >
+          Performance drivers included: 1) Studios segment success with major
+          theatrical releases and gaming titles, 2) Networks segment maintaining
+          strong distribution revenue despite advertising challenges, 3) DTC
+          segment growth through Max launch and subscriber acquisition, 4)
+          International expansion contributing to revenue diversification, 5)
+          Cost synergies and operational efficiencies improving margins.
+  - context: >
+      The company's technology infrastructure and digital capabilities
+      support content delivery, streaming services, and advertising solutions
+      across platforms. Warner Bros. Discovery continues to invest in advanced
+      technologies while maintaining cybersecurity and data protection measures.
+    questions_and_answers:
+      - question: >
+          How does Warner Bros. Discovery leverage technology for content
+          delivery and streaming services?
+        answer: >
+          Technology utilization includes: 1) Advanced streaming platform
+          infrastructure supporting Max and discovery+, 2) Content delivery
+          networks ensuring global distribution capabilities, 3) Cloud-based
+          solutions for content management and distribution, 4) Advanced
+          compression and encoding technologies for optimal streaming quality,
+          5) Integration of artificial intelligence for content recommendations
+          and personalization.
+      - question: >
+          What are the key elements of the company's digital advertising and
+          monetization strategy?
+        answer: >
+          Digital strategy encompasses: 1) Advanced advertising technology
+          platforms for targeted delivery, 2) Data analytics capabilities for
+          audience insights and targeting, 3) Programmatic advertising solutions
+          across platforms, 4) Integration of measurement and attribution tools,
+          5) Development of innovative ad formats and sponsorship opportunities.
+      - question: >
+          How does Warner Bros. Discovery ensure technology infrastructure
+          security and reliability?
+        answer: >
+          Security measures include: 1) Comprehensive cybersecurity protocols
+          protecting content and user data, 2) Regular infrastructure upgrades
+          and maintenance, 3) Disaster recovery and business continuity
+          planning, 4) Compliance with global data protection regulations, 5)
+          Investment in security monitoring and threat detection systems.
+  - context: >
+      Warner Bros. Discovery's content strategy focuses on creating and
+      distributing premium entertainment across multiple platforms while
+      maintaining strong relationships with creative talent and production
+      partners. The company's extensive content library and intellectual
+      property portfolio support long-term growth opportunities.
+    questions_and_answers:
+      - question: >
+          How does Warner Bros. Discovery approach content development and
+          production?
+        answer: >
+          Content approach includes: 1) Investment in premium film and television
+          production across studios, 2) Development of original content for
+          streaming platforms, 3) Strategic franchise management through DC
+          Studios and other properties, 4) Collaboration with top creative
+          talent and production partners, 5) Balance of content investment
+          across genres and formats.
+      - question: |
+          What strategies drive content monetization and distribution?
+        answer: >
+          Monetization strategies include: 1) Multi-platform distribution across
+          theatrical, television, and streaming, 2) Strategic windowing of
+          content releases, 3) Licensing and syndication agreements for library
+          content, 4) Consumer products and merchandising opportunities, 5)
+          International distribution and localization initiatives.
+      - question: >
+          How does the company manage its content library and intellectual
+          property?
+        answer: >
+          Library management includes: 1) Preservation and digitization of
+          extensive content archives, 2) Strategic exploitation of intellectual
+          property across platforms, 3) Development of new content based on
+          existing properties, 4) Protection of intellectual property rights
+          globally, 5) Investment in new content creation while leveraging
+          existing assets.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

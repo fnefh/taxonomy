@@ -84,6 +84,130 @@ seed_examples:
           to $27.696 billion from $24.921 billion at year-end 2023, 5)
           Maintained strong liquidity with cash and short-term securities of
           $6.254 billion at quarter-end.
+  - context: >
+      In Q2 2024, Travelers' Business Insurance segment reported earned
+      premiums of $5.312  billion and operating income of $822 million. The
+      segment achieved a combined ratio of  93.2%, improving from 95.8% in Q2
+      2023. Retention rates in domestic business insurance  reached 87% for the
+      quarter. New business premiums were $652 million, with strong  growth in
+      Middle Market and Select Accounts. The segment's digital platform
+      processed  750,000 quotes, a 25% increase from Q2 2023, while automated
+      underwriting reached 65%  of eligible accounts.
+    questions_and_answers:
+      - question: |
+          What were the Business Insurance segment's key metrics in Q2 2024?
+        answer: >
+          The segment achieved earned premiums of $5.312 billion and operating
+          income of $822  million, with an improved combined ratio of 93.2%
+          (compared to 95.8% in Q2 2023),  while maintaining strong retention
+          rates of 87% in domestic business insurance.
+      - question: |
+          How did the segment's digital capabilities perform in Q2 2024?
+        answer: >
+          Digital capabilities showed significant growth with 750,000 quotes
+          processed through  the digital platform (25% increase year-over-year),
+          while automated underwriting  reached 65% of eligible accounts.
+      - question: |
+          What business growth indicators were evident in Q2 2024?
+        answer: >
+          Growth was demonstrated through new business premiums of $652 million,
+          strong  performance in Middle Market and Select Accounts, and high
+          retention rates of 87%,  indicating successful market penetration and
+          customer satisfaction.
+  - context: >
+      For Q2 2024, Travelers' investment portfolio performance showed net
+      investment income  of $876 million, up 15% from Q2 2023. Fixed maturity
+      investments generated $712 million,  benefiting from higher interest
+      rates, while non-fixed income investments contributed  $164 million. The
+      portfolio maintained a high-quality profile with 94% of fixed
+      maturities  rated A- or higher. New investments focused on corporate bonds
+      and municipal securities,  with an average duration of 4.2 years. The
+      pre-tax net unrealized investment loss  decreased to $2.8 billion from
+      $3.2 billion at year-end 2023.
+    questions_and_answers:
+      - question: |
+          What were the key investment performance metrics in Q2 2024?
+        answer: >
+          Investment performance showed net investment income of $876 million (up
+          15% from Q2  2023), with $712 million from fixed maturity investments
+          and $164 million from  non-fixed income investments, while maintaining
+          a high-quality portfolio with 94%  of fixed maturities rated A- or
+          higher.
+      - question: |
+          How did Travelers manage its investment portfolio composition?
+        answer: >
+          The company focused on high-quality investments with new allocations to
+          corporate  bonds and municipal securities, maintained an average
+          duration of 4.2 years, and  reduced pre-tax net unrealized investment
+          losses to $2.8 billion from $3.2 billion  at year-end 2023.
+      - question: |
+          What factors contributed to investment income growth?
+        answer: >
+          Investment income growth was driven by higher interest rates benefiting
+          fixed maturity  investments, strategic portfolio management focusing
+          on high-quality securities, and  positive contributions from non-fixed
+          income investments.
+  - context: >
+      In Q1 2024, Travelers' Personal Insurance segment reported earned
+      premiums of $4.102  billion and operating income of $435 million. Auto
+      insurance achieved a combined ratio  of 97.5%, while homeowners insurance
+      reported a combined ratio of 91.2%. The segment's  digital initiatives
+      showed strong momentum with mobile app engagement up 40%
+      year-over-year,  and IntelliDrive® enrollment reaching 1.2 million
+      customers. Policy retention rates  improved to 85% for auto and 89% for
+      homeowners, while new business premiums grew by  18% to $425 million.
+    questions_and_answers:
+      - question: |
+          What were the Personal Insurance segment's key results in Q1 2024?
+        answer: >
+          The segment generated earned premiums of $4.102 billion and operating
+          income of $435  million, with auto insurance achieving a 97.5%
+          combined ratio and homeowners insurance  at 91.2%, while growing new
+          business premiums by 18% to $425 million.
+      - question: |
+          How did digital engagement evolve in Personal Insurance?
+        answer: >
+          Digital engagement showed strong growth with mobile app usage increasing
+          40%  year-over-year and IntelliDrive® program enrollment reaching 1.2
+          million customers,  demonstrating successful digital adoption.
+      - question: |
+          What customer retention trends were evident in Q1 2024?
+        answer: >
+          The segment maintained strong customer relationships with improved
+          retention rates  of 85% for auto and 89% for homeowners policies,
+          while growing new business premiums  by 18% to $425 million.
+  - context: >
+      Following the Corvus Insurance acquisition in Q1 2024, Travelers' Bond
+      & Specialty  Insurance segment reported Q2 2024 earned premiums of $1.009
+      billion and operating  income of $265 million. The segment's combined
+      ratio improved to 81.5% from 83.2% in  Q2 2023. Cyber insurance premiums
+      grew by 85% year-over-year, including Corvus's  contribution.
+      International operations expanded with a 25% increase in net
+      written  premiums. The segment launched enhanced digital underwriting
+      platforms for management  liability and cyber products, processing 45%
+      more submissions compared to Q2 2023.
+    questions_and_answers:
+      - question: |
+          What were the Bond & Specialty segment's key achievements in Q2 2024?
+        answer: >
+          The segment achieved earned premiums of $1.009 billion and operating
+          income of $265  million, with an improved combined ratio of 81.5%
+          (from 83.2% in Q2 2023), while  growing cyber insurance premiums by
+          85% year-over-year.
+      - question: |
+          How did the Corvus acquisition impact segment performance?
+        answer: >
+          The acquisition contributed to significant growth in cyber insurance
+          premiums (85%  increase year-over-year) and enhanced digital
+          capabilities, while the segment  expanded international operations
+          with a 25% increase in net written premiums.
+      - question: |
+          What operational improvements were implemented in Q2 2024?
+        answer: >
+          The segment enhanced digital underwriting platforms for management
+          liability and  cyber products, resulting in 45% more submissions
+          processed compared to Q2 2023,  while maintaining strong profitability
+          with an 81.5% combined ratio.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

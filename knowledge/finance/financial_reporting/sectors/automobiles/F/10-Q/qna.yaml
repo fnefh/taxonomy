@@ -143,6 +143,68 @@ seed_examples:
           traditional markets through Ford Blue, advance electric vehicle
           initiatives via Model e, serve commercial customers through Ford Pro,
           and provide financial stability through Ford Credit.
+  - context: >
+      Ford Model e showed significant progress in Q3 2024, with quarterly EV
+      sales reaching 25,278 units, up 43% year-over-year. The segment's revenue
+      grew to $1.8 billion, representing a 26% increase from Q3 2023, while
+      operating margins improved by 180 basis points to -37.5%. The F-150
+      Lightning maintained its position as America's best-selling electric
+      pickup with 3,503 units sold in Q3, while Mustang Mach-E sales increased
+      by 42% to 14,824 units. Production capacity reached 150,000 units per
+      quarter, supported by enhanced battery supply and manufacturing
+      efficiency.
+    questions_and_answers:
+      - question: How did Ford Model e's sales and revenue performance evolve in Q3 2024?
+        answer: >
+          Ford Model e demonstrated strong growth with EV sales increasing 43%
+          year-over-year to 25,278 units and revenue growing 26% to $1.8
+          billion. The F-150 Lightning maintained market leadership in electric
+          pickups with 3,503 units sold, while Mustang Mach-E sales grew 42% to
+          14,824 units, supported by increased production capacity of 150,000
+          units per quarter.
+      - question: What improvements were seen in Ford Model e's operational metrics?
+        answer: >
+          Operational improvements included: 1) 180 basis point enhancement in
+          operating margins to -37.5% 2) Increased production capacity to
+          150,000 units quarterly 3) Enhanced battery supply chain efficiency 4)
+          Improved manufacturing productivity across EV models.
+      - question: How has Ford Model e's market position evolved in the EV segment?
+        answer: >
+          Market position strengthened through: 1) Maintained leadership in
+          electric pickup segment with F-150 Lightning 2) 42% growth in Mustang
+          Mach-E sales 3) Expanded production capacity supporting market demand
+          4) Enhanced competitive positioning across key EV segments.
+  - context: >
+      Ford Pro demonstrated robust growth in Q3 2024, with revenue increasing
+      18% year-over-year to $13.6 billion. Commercial vehicle sales grew 15% to
+      118,000 units, while the segment's operating margin expanded to 12.3% from
+      10.8% in Q3 2023. Ford Pro's software and services revenue reached $1.2
+      billion, up 48% year-over-year, with connected vehicle subscriptions
+      growing to 725,000 units. Order bank for commercial vehicles remained
+      strong at $32.5 billion, including significant demand for electric Transit
+      and F-150 Lightning Pro models.
+    questions_and_answers:
+      - question: How did Ford Pro's financial performance evolve in Q3 2024?
+        answer: >
+          Ford Pro showed strong financial results with revenue growing 18% to
+          $13.6 billion and operating margin expanding to 12.3% from 10.8%.
+          Commercial vehicle sales increased 15% to 118,000 units, while
+          software and services revenue grew 48% to $1.2 billion, demonstrating
+          success across both traditional and digital offerings.
+      - question: What trends emerged in Ford Pro's digital services and connectivity?
+        answer: >
+          Digital services showed significant growth with: 1) 48% increase in
+          software and services revenue to $1.2 billion 2) Connected vehicle
+          subscriptions reaching 725,000 units 3) Enhanced digital service
+          offerings driving recurring revenue 4) Strong adoption of fleet
+          management solutions.
+      - question: How has Ford Pro's market position strengthened in the commercial
+          segment?
+        answer: >
+          Market position improved through: 1) 15% growth in commercial vehicle
+          sales 2) Strong order bank of $32.5 billion 3) Increased demand for
+          electric commercial vehicles 4) Expanded software and services
+          offerings enhancing customer relationships.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

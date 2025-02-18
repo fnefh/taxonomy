@@ -138,6 +138,69 @@ seed_examples:
           including CNP-104 and IW-3300, and maintaining operational efficiency.
           The company remains focused on delivering sustainable growth while
           managing expenses and advancing its GI-focused strategy.
+  - context: >
+      In Q2 2024, Ironwood reported collaborative arrangements revenue of
+      $85.2 million and net income of $15.3 million, while making significant
+      progress in the integration of VectivBio and advancement of key clinical
+      programs. The quarter demonstrated strong operational execution and
+      continued momentum in pipeline development.
+    questions_and_answers:
+      - question: |
+          What were the key financial and operational highlights of Q2 2024?
+        answer: >
+          Q2 2024 highlights included: 1) Collaborative arrangements revenue of
+          $85.2 million, 2) Net income of $15.3 million reflecting strong
+          operational performance, 3) Continued progress in VectivBio
+          integration, 4) Advancement of clinical programs including the STARS
+          trial, and 5) Effective cost management with controlled R&D and SG&A
+          expenses.
+      - question: |
+          How did pipeline development progress during Q2 2024?
+        answer: >
+          Pipeline development showed strong progress with: 1) Continued
+          advancement of the Phase III STARS trial for apraglutide, 2) Progress
+          in the STARGAZE study for aGvHD, 3) Development of CNP-104 for PBC, 4)
+          Advancement of IW-3300 program, and 5) Integration of VectivBio's
+          research and development capabilities.
+      - question: |
+          What strategic initiatives were implemented in Q2 2024?
+        answer: >
+          Strategic initiatives included: 1) Enhancement of LINZESS commercial
+          performance, 2) Integration of VectivBio operations and programs, 3)
+          Advancement of clinical development timelines, 4) Optimization of
+          organizational structure, and 5) Implementation of cost management
+          measures while maintaining growth investments.
+  - context: >
+      Q1 2024 demonstrated Ironwood's continued execution of its strategic
+      priorities with collaborative arrangements revenue of $84.1 million and
+      focused advancement of pipeline programs. The quarter saw progress in
+      operational efficiency initiatives and strategic growth investments while
+      maintaining strong financial discipline.
+    questions_and_answers:
+      - question: |
+          What were the key achievements in Q1 2024?
+        answer: >
+          Key achievements included: 1) Collaborative arrangements revenue of
+          $84.1 million, 2) Continued progress in pipeline programs, 3)
+          Advancement of operational efficiency initiatives, 4) Strong cash
+          management and financial discipline, and 5) Successful execution of
+          strategic priorities including LINZESS commercialization.
+      - question: |
+          How did operational performance evolve in Q1 2024?
+        answer: >
+          Operational performance showed: 1) Effective cost management across R&D
+          and SG&A expenses, 2) Progress in VectivBio integration planning, 3)
+          Advancement of clinical programs on schedule, 4) Maintenance of strong
+          partnership relationships, and 5) Implementation of operational
+          efficiency measures.
+      - question: |
+          What progress was made in strategic growth initiatives?
+        answer: >
+          Strategic growth initiatives progressed through: 1) Advancement of key
+          pipeline programs, 2) Enhancement of commercial capabilities, 3)
+          Strengthening of organizational infrastructure, 4) Development of new
+          market opportunities, and 5) Focus on operational excellence and cost
+          efficiency.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

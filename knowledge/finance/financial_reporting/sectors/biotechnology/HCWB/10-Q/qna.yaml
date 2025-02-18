@@ -9,7 +9,7 @@ document_outline: >
   inflammation and age-related diseases.
 seed_examples:
   - context: Clinical Development & Pipeline Progress
-    questions:
+    questions_and_answers:
       - question: How has HCW Biologics advanced its clinical pipeline and key programs
           during Q3 2023 - Q3 2024?
         answer: >
@@ -50,7 +50,7 @@ seed_examples:
 
           5. Strategic refinement of clinical development pathway following settlement agreement
   - context: Financial Position & Resource Management
-    questions:
+    questions_and_answers:
       - question: How has HCW Biologics' financial position evolved during Q3 2023 - Q3
           2024?
         answer: >
@@ -89,7 +89,7 @@ seed_examples:
 
           5. Managed legal expenses and settlement-related costs
   - context: Strategic Initiatives & Corporate Development
-    questions:
+    questions_and_answers:
       - question: What major strategic developments occurred during Q3 2023 - Q3 2024?
         answer: >
           1. Reached settlement agreement with Altor/NantCell resolving
@@ -125,6 +125,58 @@ seed_examples:
           4. Advanced manufacturing capabilities for clinical materials
 
           5. Maintained essential research and development infrastructure
+  - context: Q3 2024 Operational Developments & Challenges
+    questions_and_answers:
+      - question: What were the key operational developments and challenges in Q3 2024?
+        answer: >
+          1. Secured $6.5M in funding through Senior Secured Notes with 9%
+          interest rate 2. Faced challenges with construction financing,
+          including mechanics liens on new facility 3. Managed impact of $1.3M
+          loss from criminal scheme involving impersonation of a purchaser 4.
+          Generated $2.2M in revenues from Wugen partnership in first nine
+          months 5. Reduced quarterly net loss from $4.9M in Q3 2023 to $3.9M in
+          Q3 2024
+      - question: How has the company managed its financial resources and operational
+          expenses?
+        answer: >
+          1. Cash position decreased to $998K by end of Q3 2024 2. Maintained R&D
+          investment at $5.3M for first nine months 3. Reduced legal expenses
+          from $2.1M to $949K quarter-over-quarter 4. Engaged Maxim Group for
+          multi-step equity financing 5. Implemented cost management strategies
+          while maintaining essential operations
+      - question: What are the key infrastructure and facility developments?
+        answer: >
+          1. Continued construction of new headquarters and manufacturing facility
+          2. Faced challenges with $2.5M in remaining construction commitments
+          3. Relocated to temporary facility with one-year lease through
+          February 2025 4. Managed subcontractor relationships and mechanics
+          liens 5. Seeking additional financing to complete facility
+          construction
+  - context: Strategic Realignment & Development Focus (Q3 2024)
+    questions_and_answers:
+      - question: How has the company's strategic focus evolved following recent
+          developments?
+        answer: >
+          1. Shifted emphasis to senescence-associated diseases beyond cancer 2.
+          Resolved intellectual property disputes through Settlement Agreement
+          with ImmunityBio 3. Maintained development of HCW9302 for autoimmune
+          indications 4. Advanced new drug discovery platform with novel
+          protein-based scaffold 5. Expanded potential therapeutic applications
+          into neurodegenerative diseases
+      - question: What are the key elements of the company's development pipeline?
+        answer: >
+          1. Filed IND application for HCW9302 in autoimmune indication 2.
+          Continued Phase 2 preparation for HCW9218 in ovarian cancer 3.
+          Initiated IND-enabling activities for injectable form of HCW9206 4.
+          Maintained partnership with Wugen for cell therapy applications 5.
+          Explored new molecules using novel protein scaffold platform
+      - question: How is the company addressing market challenges and opportunities?
+        answer: >
+          1. Navigating inflationary pressures and supply chain disruptions 2.
+          Pursuing multi-step equity financing strategy 3. Managing impact of
+          geopolitical tensions on operations 4. Developing contingency plans
+          for clinical development timelines 5. Strengthening partnerships for
+          clinical development and manufacturing
 document_metadata:
   repository: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

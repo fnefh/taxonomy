@@ -191,6 +191,72 @@ seed_examples:
           receivable of $582.5 million, inventory of $20.7 million, and deferred
           revenue of $16.8 million. The company maintained strong liquidity
           while investing in growth initiatives and platform development.
+  - context: >
+      Through Q2 FY2025, Stride demonstrated strong enrollment growth across
+      both General Education and Career Learning segments. Total enrollment
+      reached 190,500 students, a 7.2% increase from Q2 FY2024. General
+      Education enrollment grew to 142,300 students (up 5.8%), while Career
+      Learning Middle-High School enrollment increased to 48,200 students (up
+      11.6%). Student retention rates improved to 87.5% from 85.2% year-over-
+      year, while new student enrollment grew by 8.4%. The company's expansion
+      into new states and districts contributed to enrollment growth, with
+      presence increasing to 38 states in Q2 FY2025.
+    questions_and_answers:
+      - question: |
+          How did Stride's enrollment metrics perform in Q2 FY2025?
+        answer: >
+          Stride achieved strong enrollment growth with: 1) Total enrollment of
+          190,500 students (up 7.2% year-over-year) 2) General Education
+          reaching 142,300 students (up 5.8%) 3) Career Learning Middle-High
+          School growing to 48,200 students (up 11.6%) 4) Improved retention
+          rate of 87.5% from 85.2% year-over-year.
+      - question: |
+          What were the key drivers of enrollment growth?
+        answer: >
+          Growth drivers included: 1) 8.4% increase in new student enrollment 2)
+          Expansion into new states and districts, reaching 38 states 3)
+          Enhanced marketing and recruitment strategies 4) Strong retention
+          rates supported by improved student engagement and satisfaction
+          metrics.
+      - question: |
+          How did geographic expansion contribute to enrollment growth?
+        answer: >
+          Geographic expansion impact included: 1) Presence increased to 38 states
+          2) Successful entry into new districts and regions 3) Enhanced market
+          penetration in existing territories 4) Strategic partnerships with new
+          school districts contributing to enrollment growth.
+  - context: >
+      During Q2 FY2025, Stride's technology platform demonstrated robust
+      performance and scalability, supporting over 190,500 students with 99.9%
+      uptime. The platform processed an average of 2.8 million daily student
+      logins and delivered 475,000 live class sessions during the quarter. The
+      company invested $18.6 million in capitalized software development and
+      enhanced its learning management system with new features including
+      advanced analytics, personalized learning pathways, and improved mobile
+      accessibility. Student engagement metrics showed improvement with average
+      daily active users increasing by 12% year-over-year.
+    questions_and_answers:
+      - question: |
+          How did Stride's technology platform perform in Q2 FY2025?
+        answer: >
+          Platform performance metrics included: 1) 99.9% uptime supporting
+          190,500+ students 2) Processing 2.8 million daily student logins 3)
+          Delivery of 475,000 live class sessions 4) 12% increase in average
+          daily active users year-over-year.
+      - question: |
+          What technology investments and enhancements were implemented?
+        answer: >
+          Key investments included: 1) $18.6 million in capitalized software
+          development 2) Enhanced learning management system features 3)
+          Implementation of advanced analytics capabilities 4) Improved mobile
+          accessibility and personalized learning pathways.
+      - question: |
+          How did platform engagement metrics evolve?
+        answer: >
+          Engagement metrics showed: 1) 12% increase in average daily active users
+          2) Higher student participation in live class sessions 3) Improved
+          mobile platform usage 4) Enhanced student interaction with
+          personalized learning features.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

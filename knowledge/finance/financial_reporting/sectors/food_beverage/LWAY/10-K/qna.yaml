@@ -125,6 +125,74 @@ seed_examples:
           co-packing relationships; and implementing comprehensive risk
           management practices including cybersecurity and supply chain
           management.
+  - context: >
+      In fiscal year 2022, Lifeway Foods reported net sales of $141.1
+      million, representing a 16.8% increase from $120.7 million in 2021. The
+      growth was driven by higher volumes and price increases across their
+      product portfolio. The company's gross profit margin improved to 24.5%
+      from 23.8% in the prior year, despite facing challenges from increased
+      milk prices and other input costs. Lifeway continued to expand its
+      distribution network and invested in marketing initiatives to support
+      brand awareness and market penetration.
+    questions_and_answers:
+      - question: |
+          What were Lifeway's key financial metrics in FY2022?
+        answer: >
+          In fiscal year 2022, Lifeway Foods achieved net sales of $141.1 million,
+          a 16.8% increase from $120.7 million in 2021. The company's gross
+          profit margin improved to 24.5% from 23.8% in the previous year,
+          demonstrating effective management of pricing and costs despite input
+          cost pressures.
+      - question: |
+          How did Lifeway address market challenges in 2022?
+        answer: >
+          Lifeway successfully navigated challenges through strategic price
+          increases and volume growth across their product portfolio. The
+          company managed increased milk prices and other input costs while
+          expanding their distribution network and investing in marketing
+          initiatives to drive brand awareness and market penetration.
+      - question: |
+          What growth initiatives were implemented in 2022?
+        answer: >
+          The company focused on expanding its distribution network, investing in
+          marketing initiatives for brand awareness, and implementing strategic
+          pricing actions. These initiatives supported volume growth and helped
+          maintain profitability despite cost pressures in the operating
+          environment.
+  - context: >
+      In fiscal year 2021, Lifeway Foods achieved net sales of $120.7
+      million, up from $102.0 million in 2020, marking an 18.3% increase. The
+      company successfully expanded its product distribution, particularly in
+      the natural and specialty channels. Despite challenges from the ongoing
+      pandemic and supply chain disruptions, Lifeway maintained strong
+      operational performance and continued to invest in product innovation and
+      market expansion initiatives. The company also strengthened its e-commerce
+      presence and direct-to-consumer capabilities.
+    questions_and_answers:
+      - question: |
+          How did Lifeway perform financially in FY2021?
+        answer: >
+          Lifeway Foods delivered strong financial results in fiscal year 2021,
+          with net sales increasing 18.3% to $120.7 million from $102.0 million
+          in 2020. The growth was driven by expanded product distribution and
+          successful market penetration strategies, particularly in natural and
+          specialty channels.
+      - question: |
+          What operational achievements were notable in 2021?
+        answer: >
+          Despite pandemic-related challenges and supply chain disruptions,
+          Lifeway maintained strong operational performance while expanding
+          product distribution in natural and specialty channels. The company
+          also enhanced its e-commerce capabilities and direct-to-consumer
+          presence to adapt to changing consumer behaviors.
+      - question: |
+          How did Lifeway adapt to market conditions in 2021?
+        answer: >
+          The company demonstrated adaptability by strengthening its e-commerce
+          and direct-to-consumer capabilities, investing in product innovation,
+          and expanding market presence. These initiatives helped Lifeway
+          navigate pandemic-related challenges while positioning for future
+          growth in the evolving market environment.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

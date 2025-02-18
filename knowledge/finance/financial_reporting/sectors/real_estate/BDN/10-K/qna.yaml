@@ -162,6 +162,77 @@ seed_examples:
           company also focuses on maintaining financial flexibility and
           strengthening their balance sheet through capital retention and debt
           management.
+  - context: >
+      In fiscal year 2023, Brandywine Realty Trust demonstrated financial
+      resilience with total revenue of $506.1 million and net operating income
+      of $285.3 million. The company maintained a strong balance sheet with
+      total assets of $4.2 billion and managed its debt profile effectively.
+      Capital expenditures focused on property improvements and development
+      projects, while maintaining strategic flexibility through various funding
+      sources.
+    questions_and_answers:
+      - question: |
+          What were Brandywine's key financial metrics in 2023?
+        answer: >
+          Brandywine achieved total revenue of $506.1 million and net operating
+          income of $285.3 million in 2023. The company maintained a strong
+          balance sheet with total assets of $4.2 billion, while effectively
+          managing its debt profile and capital structure. Financial performance
+          reflected the company's focus on operational efficiency and strategic
+          growth initiatives.
+      - question: |
+          How does Brandywine manage its capital structure and funding sources?
+        answer: >
+          Brandywine maintains financial flexibility through diverse funding
+          sources including property-level debt, corporate-level financing,
+          joint venture partnerships, and strategic asset dispositions. The
+          company actively manages its debt maturity profile and maintains
+          relationships with multiple capital providers to ensure access to
+          funding for growth initiatives and operational needs.
+      - question: |
+          What drives Brandywine's investment decisions and capital allocation?
+        answer: >
+          Brandywine's capital allocation decisions are driven by market
+          opportunities, expected returns, and strategic fit within the
+          portfolio. The company focuses on value-creation opportunities through
+          development, redevelopment, and strategic acquisitions, while
+          maintaining discipline in capital deployment and risk management.
+  - context: >
+      Brandywine's development and redevelopment strategy focuses on creating
+      value through strategic projects in core markets. The company maintains an
+      active development pipeline with approximately $850 million in projects
+      under development or redevelopment as of December 2023. Projects emphasize
+      modern amenities, sustainability features, and location advantages to meet
+      evolving tenant demands and market opportunities.
+    questions_and_answers:
+      - question: >
+          How does Brandywine approach development project selection and
+          execution?
+        answer: >
+          Brandywine selects development projects based on market fundamentals,
+          location attributes, and potential returns. The company leverages its
+          extensive development expertise to manage complex projects, focusing
+          on locations with strong growth potential and barriers to entry.
+          Project execution involves careful risk management, cost control, and
+          timeline monitoring to ensure successful delivery.
+      - question: |
+          What characterizes Brandywine's development pipeline and strategy?
+        answer: >
+          Brandywine maintains an active development pipeline of approximately
+          $850 million, focusing on projects that incorporate modern amenities,
+          sustainability features, and strategic locations. The company's
+          development strategy emphasizes creating value through ground-up
+          development and redevelopment opportunities in core markets, with a
+          focus on office and mixed-use properties.
+      - question: |
+          How does Brandywine manage development risks and opportunities?
+        answer: >
+          Brandywine manages development risks through careful project selection,
+          phased development approaches, and active pre-leasing efforts. The
+          company maintains strong relationships with contractors and suppliers,
+          implements rigorous cost control measures, and leverages market
+          expertise to identify and capitalize on development opportunities
+          while managing potential risks.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

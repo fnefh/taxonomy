@@ -127,6 +127,67 @@ seed_examples:
           revenue streams, and continued investment in infrastructure support
           its ability to capture future growth opportunities in the midstream
           sector.
+  - context: >
+      In Q2 2024, Targa Resources reported strong operational performance
+      with total revenues of $3.91 billion and income from operations of $682.5
+      million. The quarter saw continued progress in infrastructure development
+      and gathering volumes, with significant achievements in operational
+      efficiency and asset optimization across its extensive midstream network.
+    questions_and_answers:
+      - question: |
+          What were the key financial and operational highlights from Q2 2024?
+        answer: >
+          Q2 2024 highlights included: 1) Total revenues of $3.91 billion
+          demonstrating strong market presence, 2) Income from operations of
+          $682.5 million reflecting operational efficiency, 3) Continued growth
+          in gathering volumes and processing capacity, 4) Enhanced
+          infrastructure utilization across key assets, 5) Strong cash flow
+          generation supporting strategic investments.
+      - question: |
+          How did infrastructure development progress in Q2 2024?
+        answer: >
+          Infrastructure progress included: 1) Expansion of gathering and
+          processing capabilities, 2) Enhancement of transportation and storage
+          assets, 3) Optimization of existing facilities for improved
+          efficiency, 4) Strategic placement of new assets in key growth areas,
+          5) Integration of acquired assets into operational network.
+      - question: |
+          What operational achievements were notable in Q2 2024?
+        answer: >
+          Key achievements included: 1) Improved gathering and processing volumes,
+          2) Enhanced asset utilization rates, 3) Strengthened customer
+          relationships and service offerings, 4) Successful integration of new
+          infrastructure projects, 5) Effective cost management across
+          operations.
+  - context: >
+      Q1 2024 demonstrated Targa Resources' focus on strategic growth and
+      operational excellence, with total revenues of $3.62 billion and continued
+      investment in infrastructure expansion. The company advanced its
+      development projects while maintaining strong customer relationships and
+      operational efficiency across its integrated midstream platform.
+    questions_and_answers:
+      - question: |
+          What strategic initiatives were implemented in Q1 2024?
+        answer: >
+          Strategic initiatives included: 1) Expansion of gathering and processing
+          infrastructure, 2) Enhancement of transportation and storage
+          capabilities, 3) Development of new market opportunities, 4)
+          Strengthening of customer relationships, 5) Implementation of
+          operational efficiency programs.
+      - question: |
+          How did market conditions impact Q1 2024 performance?
+        answer: >
+          Market impacts included: 1) Strong demand for midstream services, 2)
+          Effective management of commodity price exposure, 3) Stable fee-based
+          revenue generation, 4) Strategic positioning in key growth areas, 5)
+          Balanced approach to market opportunities and risks.
+      - question: |
+          What progress was made in infrastructure development?
+        answer: >
+          Development progress included: 1) Advancement of key growth projects, 2)
+          Expansion of gathering and processing capacity, 3) Enhancement of
+          transportation networks, 4) Optimization of existing assets, 5)
+          Strategic positioning for future growth opportunities.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
