@@ -140,6 +140,13 @@ seed_examples:
         answer: Citigroup returned approximately $11.8 billion of capital to
           shareholders in 2021, consisting of $4.2 billion in dividends and $7.6
           billion in common share repurchases.
+      - question: What factors contributed to the improvement in Citigroup's capital
+          ratios?
+        answer: The improvement in capital ratios was driven by 1) Strategic reduction
+          in risk-weighted assets (RWA); 2) Temporary pause in share repurchases
+          during Q4 2021; 3) Strong capital generation from operations; 4)
+          Effective balance sheet management; 5) Disciplined capital allocation
+          approach.
   - context: >
       From 2020 to 2023, Citigroup executed significant changes in its
       international footprint as part of its strategic refresh, announcing exits

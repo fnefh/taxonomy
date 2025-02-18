@@ -40,7 +40,7 @@ seed_examples:
       Company completed the integration of Farmers & Stockmens Bank acquisition
       and acquired Canyon Bancorporation, Inc., expanding its presence in
       Arizona through a branch in Tucson.
-    questions:
+    questions_and_answers:
       - question: What is CrossFirst Bankshares' business structure and geographic
           presence?
         answer: CrossFirst Bankshares is a Kansas-based bank holding company for
@@ -50,6 +50,13 @@ seed_examples:
         answer: In 2023, CrossFirst completed the integration of Farmers & Stockmens
           Bank (Colorado/New Mexico acquisition) and acquired Canyon
           Bancorporation, Inc., adding a branch in Tucson, Arizona.
+      - question: How has CrossFirst's market expansion strategy evolved since its
+          establishment?
+        answer: CrossFirst's market expansion has progressed through 1) Initial
+          establishment in Kansas in 2007; 2) Strategic expansion into key
+          markets across seven states; 3) Successful execution of acquisitions
+          to enter new markets; 4) Focus on high-growth metropolitan areas; 5)
+          Balanced approach to organic growth and strategic acquisitions.
   - context: >
       The Bank focuses on several loan categories including commercial and
       industrial loans, commercial real estate loans, construction and
@@ -59,7 +66,7 @@ seed_examples:
       accounts, international banking services, treasury management services,
       money market accounts, certificates of deposits, and mobile banking
       services.
-    questions:
+    questions_and_answers:
       - question: What are the main lending categories offered by CrossFirst Bank?
         answer: CrossFirst Bank offers various loan types including commercial and
           industrial, commercial real estate, construction and development,
@@ -69,6 +76,13 @@ seed_examples:
         answer: The Bank offers personal and business checking/savings accounts,
           international banking services, treasury management, money market
           accounts, certificates of deposits, and mobile banking services.
+      - question: How does CrossFirst's product mix support its business strategy?
+        answer: CrossFirst's product mix supports its strategy through 1) Comprehensive
+          commercial lending solutions for business growth; 2) Diverse deposit
+          products meeting both consumer and business needs; 3) Treasury
+          management services supporting commercial relationships; 4) Digital
+          banking capabilities enhancing customer convenience; 5) International
+          banking services supporting cross-border business.
   - context: >
       As of December 31, 2023, the Bank's energy loans totaled $214 million,
       or 3% of total loans. The Bank's CRE portfolio was 321% of total capital
@@ -77,7 +91,7 @@ seed_examples:
       relationships totaled approximately $1.9 billion in total commitments,
       representing 23% of total outstanding commitments, with the five largest
       borrowing relationships accounting for 8% of total commitments.
-    questions:
+    questions_and_answers:
       - question: What was CrossFirst's exposure to energy lending as of December 31,
           2023?
         answer: CrossFirst's energy loans totaled $214 million, representing 3% of total
@@ -87,6 +101,12 @@ seed_examples:
         answer: The 25 largest borrowing relationships represented 23% of total
           commitments ($1.9 billion), with the five largest relationships
           accounting for 8% of total commitments.
+      - question: What was the composition of CrossFirst's real estate lending portfolio?
+        answer: CrossFirst's real estate portfolio showed 1) CRE loans at 321% of total
+          capital and reserves; 2) Construction and land development loans at
+          112% of total capital and reserves; 3) Balanced mix of commercial and
+          residential real estate exposure; 4) Strategic focus on quality
+          commercial properties; 5) Prudent management of concentration risks.
   - context: >
       In 2022, CrossFirst completed several strategic initiatives including a
       $30 million share repurchase program and the acquisition of Farmers &
@@ -95,7 +115,7 @@ seed_examples:
       Risk Officer, and Tom Robinson as Chief Credit Officer. The Company
       completed $36 million in share repurchases during 2022, representing
       2,448,428 common shares at an average price of $14.61.
-    questions:
+    questions_and_answers:
       - question: What strategic initiatives did CrossFirst undertake in 2022?
         answer: In 2022, CrossFirst initiated a $30 million share repurchase program,
           acquired Farmers & Stockmens Bank, and completed $36 million in share
@@ -104,6 +124,13 @@ seed_examples:
         answer: W. Randall Rapp was promoted to President of the Bank, Jenny Payne was
           appointed Chief Risk Officer, and Tom Robinson became Chief Credit
           Officer.
+      - question: How did these strategic initiatives align with CrossFirst's long-term
+          growth objectives?
+        answer: The initiatives aligned with long-term objectives through 1) Strategic
+          expansion into new markets via acquisition; 2) Enhancement of
+          leadership team with experienced executives; 3) Efficient capital
+          management through share repurchases; 4) Strengthened risk management
+          framework; 5) Positioning for continued growth and market expansion.
   - context: >
       During 2021, CrossFirst participated in the second round of the
       Paycheck Protection Program (PPP), providing an additional $134 million in
@@ -112,7 +139,7 @@ seed_examples:
       in PPP funding starting in January 2021. These PPP loans earned interest
       at 1%, included fees between 1% and 5%, and typically matured in five
       years.
-    questions:
+    questions_and_answers:
       - question: How did CrossFirst participate in the PPP program during 2021?
         answer: CrossFirst provided $134 million in PPP funding during 2021 as part of
           the second round of the program, with loans earning 1% interest, fees
@@ -133,7 +160,7 @@ seed_examples:
       plan with Michael J. Maddox becoming CEO, opened a new branch in Frisco,
       Texas, and initiated a $20 million stock buyback program, repurchasing
       609,613 shares for approximately $6 million.
-    questions:
+    questions_and_answers:
       - question: What strategic portfolio changes did CrossFirst make in 2020?
         answer: CrossFirst strategically reduced its exposure to both energy sector
           lending and tribal nation lending, while providing $369 million in PPP

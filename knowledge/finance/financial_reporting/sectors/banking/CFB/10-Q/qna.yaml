@@ -37,7 +37,7 @@ seed_examples:
       2023. Net interest income increased to $61.2 million from $55.1 million
       year-over-year. Total loans grew to $6.33 billion, while deposits reached
       $6.63 billion. The efficiency ratio improved to 57.5% for Q3 2024.
-    questions:
+    questions_and_answers:
       - question: How did CrossFirst's Q3 2024 financial performance compare to Q3 2023?
         answer: CrossFirst's net income increased to $19.6 million ($0.39 per share)
           from $16.9 million ($0.34 per share), with net interest income growing
@@ -58,7 +58,7 @@ seed_examples:
       income increased to $371.0 million from $317.3 million, while the
       provision for credit losses decreased to $7.6 million from $10.4 million
       year-over-year.
-    questions:
+    questions_and_answers:
       - question: How did CrossFirst perform in the first nine months of 2024 compared
           to 2023?
         answer: CrossFirst's net income for the first nine months of 2024 increased to
@@ -81,7 +81,7 @@ seed_examples:
       billion in savings/NOW/money market accounts, and $1.99 billion in time
       deposits. The allowance for credit losses was $77.8 million (1.23% of
       total loans), and total stockholders' equity increased to $771.7 million.
-    questions:
+    questions_and_answers:
       - question: What was CrossFirst's deposit composition as of Q3 2024?
         answer: Total deposits were $6.63 billion, consisting of $900.8 million in
           non-interest-bearing deposits, $3.75 billion in savings/NOW/money
@@ -101,7 +101,7 @@ seed_examples:
       reached $2.3 million, and ATM/credit card interchange income was $1.5
       million. The company maintained strong asset quality with net charge-offs
       of 0.15% of average loans for the quarter.
-    questions:
+    questions_and_answers:
       - question: What were the key non-interest income sources in Q3 2024?
         answer: Non-interest income totaled $6.0 million, with service charges and fees
           of $2.3 million and ATM/credit card interchange income of $1.5 million
@@ -120,7 +120,7 @@ seed_examples:
       ratio was 59.6%, and non-interest income totaled $6.0 million. Total loans
       were $5.95 billion, while deposits reached $6.33 billion. The allowance
       for credit losses was $71.6 million, representing 1.20% of total loans.
-    questions:
+    questions_and_answers:
       - question: What were CrossFirst's key financial metrics in Q3 2023?
         answer: CrossFirst reported net income of $16.9 million ($0.34 per share), with
           net interest income of $55.1 million, an efficiency ratio of 59.6%,
@@ -142,7 +142,7 @@ seed_examples:
       1.23% of total loans. Net charge-offs remained low at 0.15% of average
       loans, while criticized assets decreased to $186.5 million from $198.7
       million year-over-year.
-    questions:
+    questions_and_answers:
       - question: How did CrossFirst's credit quality metrics evolve from Q3 2023 to Q3
           2024?
         answer: Credit quality showed improvement with non-performing assets decreasing
@@ -166,7 +166,7 @@ seed_examples:
       digital channels, while treasury management fees grew by 15%
       year-over-year to $1.8 million, reflecting increased client adoption of
       digital solutions and automated services.
-    questions:
+    questions_and_answers:
       - question: How did operational efficiency metrics evolve in Q3 2024?
         answer: The efficiency ratio improved to 57.5% from 59.6% year-over-year, while
           digital banking adoption increased to 72% of active customers from 68%
