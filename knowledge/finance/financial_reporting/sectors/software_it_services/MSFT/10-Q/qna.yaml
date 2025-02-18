@@ -290,18 +290,16 @@ seed_examples:
     questions_and_answers:
       - question: >
           What were Microsoft's key financial metrics for Q2 FY2025?
-
-          answer: >
+        answer: >
             Microsoft reported revenue of $69,632 million (up 12%), operating income of $31,653 million (up 17%), and net income of $24,108 million with EPS of $3.23 (both up 10% year-over-year).
       - question: >
           What was Microsoft's cash position at the end of Q2 FY2025?
-
-          answer: |
+        answer: |
             Microsoft had total cash, cash equivalents, and short-term investments of $71,555 million as of December 31, 2024.
       - question: >
           How did Microsoft's operating performance improve in Q2 FY2025?
 
-          answer: >
+        answer: >
             Operating performance improvements included: 1) Revenue growth of 12% to $69.6B; 2) Operating income growth of 17% to $31.7B; 3) Operating margin expansion; 4) EPS growth of 10% to $3.23; 5) Strong cash position maintained at $71.6B.
 document:
   repo: https://github.com/fnefh/taxonomy

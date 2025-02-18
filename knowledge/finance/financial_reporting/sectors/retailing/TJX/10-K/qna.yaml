@@ -49,6 +49,12 @@ seed_examples:
           which includes the back-to-school and year-end holiday seasons. Any
           decrease in sales or margins during this critical period could have a
           disproportionately adverse effect on annual results.
+      - question: How does TJX manage its inventory and supply chain to support the off-price model?
+        answer: TJX manages inventory through: 1) Operating with lean inventory levels
+          to maintain flexibility, 2) Rapid inventory turns to minimize markdown
+          risk, 3) Sophisticated distribution network supporting multiple
+          banners, 4) Strategic vendor relationships for opportunistic buying,
+          5) Data-driven allocation systems for optimal store distribution.
   - context: >
       TJX has implemented a comprehensive cybersecurity program designed to
       identify, assess, and manage material risks from cybersecurity threats.
@@ -73,6 +79,12 @@ seed_examples:
           Legal, and Audit. The IMSC is responsible for developing and updating
           policies to support the program and enhance the overall privacy,
           information security, and records management posture of the business.
+      - question: How does TJX protect customer data and maintain system security?
+        answer: TJX's data protection approach includes: 1) Multi-layered security
+          controls and monitoring systems, 2) Regular security assessments and
+          penetration testing, 3) Comprehensive incident response plans, 4)
+          Employee training on data protection and security awareness, 5)
+          Continuous evaluation and updating of security measures.
   - context: >
       TJX operates in highly competitive markets and faces various
       operational and strategic risks related to expansion, inventory
@@ -98,6 +110,13 @@ seed_examples:
           identifying suitable partners, and managing currency exchange
           fluctuations. The company must also navigate potential political,
           economic, and civil instability in new markets.
+      - question: How does TJX adapt to changing consumer preferences and market trends?
+        answer: TJX's adaptation strategy includes: 1) Regular market research and
+          trend analysis, 2) Flexible merchandising approach to respond to
+          changing preferences, 3) Investment in digital capabilities and
+          omnichannel experience, 4) Focus on value proposition across all
+          market conditions, 5) Continuous evaluation of store formats and
+          shopping experience.
   - context: >
       In fiscal year 2024, TJX achieved net sales of $52.8 billion, an
       increase of 8% from fiscal 2023. The company's store count grew to 4,878
