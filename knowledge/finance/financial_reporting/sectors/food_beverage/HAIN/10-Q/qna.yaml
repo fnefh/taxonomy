@@ -1,6 +1,6 @@
 version: 3
 domain: quarterly_reporting
-created_by: protoneutron
+created_by: fnefh
 document_outline: >
   This document contains quarterly financial reports (Form 10-Q)
   for The Hain Celestial Group, Inc. covering fiscal years 2023-2024.
@@ -188,7 +188,7 @@ seed_examples:
           operational improvements and efficiency initiatives under the Hain
           Reimagined strategy.
 document:
-  repo: https://github.com/protoneutron/taxonomy
+  repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
     - knowledge/finance/financial_reporting/sectors/food_beverage/HAIN/10-Q/data/*.md
