@@ -3,10 +3,9 @@ domain: annual_reporting
 created_by: fnefh
 document_outline: >
   This document contains annual financial reports (Form 10-K)
-  for Paychex, Inc. covering fiscal years 
+  for Paychex, Inc. covering fiscal years 2021-2024.
 
-  2021-2024. The reports include detailed information about:
-
+  The reports include detailed information about:
 
   1. Financial Performance
      - Annual revenue and operating income
@@ -338,3 +337,9 @@ seed_examples:
           Enhancement of data analytics tools; 3) Platform feature development;
           4) Integration of innovative technologies; 5) Balance of automation
           with human expertise.
+document:
+  repo: https://github.com/fnefh/taxonomy
+  commit: 64435d1ca0c755f507949525c9739a4edc4113fe
+  patterns:
+    - knowledge/finance/financial_reporting/sectors/software_it_services/PAYX/10-K/data/*.md
+s
