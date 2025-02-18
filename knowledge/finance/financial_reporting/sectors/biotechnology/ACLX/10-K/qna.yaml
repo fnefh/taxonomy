@@ -195,7 +195,7 @@ seed_examples:
           indications 3) Exploration of solid tumor applications 4)
           Investigation of potential autoimmune disease applications
 document:
-  repo: https://github.com/taxonomy
+  repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
     - knowledge/finance/financial_reporting/sectors/biotechnology/ACLX/10-K/data/*.md
