@@ -1,25 +1,33 @@
 version: 3
 domain: annual_reporting
 created_by: fnefh
-document_outline:
-  - Financial Performance:
-      - Revenue and Income
-      - Segment Performance
-      - Capital and Liquidity
-      - Credit Quality
-  - Business Operations:
-      - Institutional Clients Group
-      - Personal Banking and Wealth Management
-      - Legacy Franchises
-  - Strategic Initiatives:
-      - Transformation Program
-      - Risk and Control Environment
-      - Market Exits and Divestitures
-  - Risk Management:
-      - Credit Risk
-      - Market Risk
-      - Operational Risk
-      - Regulatory Compliance
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Citigroup Inc. covering fiscal years 2020-2023.
+
+  The reports include detailed information about:
+
+  1. Financial Performance
+     - Revenue and Income
+     - Segment Performance
+     - Capital and Liquidity
+     - Credit Quality
+
+  2. Business Operations
+     - Institutional Clients Group
+     - Personal Banking and Wealth Management
+     - Legacy Franchises
+
+  3. Strategic Initiatives
+     - Transformation Program
+     - Risk and Control Environment
+     - Market Exits and Divestitures
+
+  4. Risk Management
+     - Credit Risk
+     - Market Risk
+     - Operational Risk
+     - Regulatory Compliance
 seed_examples:
   - context: >
       Citigroup reported net income of $22.0 billion, or $10.14 per share in
