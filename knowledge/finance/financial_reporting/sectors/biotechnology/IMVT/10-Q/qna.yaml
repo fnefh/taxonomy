@@ -181,7 +181,7 @@ seed_examples:
           4. Maintained strong cash position while advancing multiple programs
           5. Focus on value-driving activities and operational efficiency
 document:
-  repository: https://github.com/fnefh/taxonomy
+  repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:
     - knowledge/finance/financial_reporting/sectors/biotechnology/IMVT/10-Q/data/*.md
