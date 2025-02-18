@@ -31,7 +31,7 @@ seed_examples:
       company's success depends on executing its opportunistic buying strategy
       and managing inventory effectively. Key elements include operating with
       lean inventory levels and frequent inventory turns.
-    questions:
+    questions_and_answers:
       - question: What are the key elements of TJX's off-price business strategy and
           what risks are associated with it?
         answer: TJX's off-price business strategy centers on opportunistic buying,
@@ -55,7 +55,7 @@ seed_examples:
       The program is integrated into the broader enterprise risk management
       framework and includes various assessment activities, security awareness
       training, and controls governing access to facilities and systems.
-    questions:
+    questions_and_answers:
       - question: What are the key components of TJX's cybersecurity risk management
           strategy?
         answer: TJX's cybersecurity risk management strategy includes multiple
@@ -79,7 +79,7 @@ seed_examples:
       management, and changing consumer preferences. The company's success
       depends on meeting customer demand and expectations across different
       markets and channels.
-    questions:
+    questions_and_answers:
       - question: What are the main competitive factors in TJX's market environment?
         answer: TJX competes on multiple factors affecting value, including brand,
           fashion, price, and quality. Other key competitive factors include

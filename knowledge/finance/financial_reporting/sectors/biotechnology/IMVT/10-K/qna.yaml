@@ -209,7 +209,7 @@ seed_examples:
           4. Flexible dosing options enabling tailored therapy
 
           5. Strategic focus on both validated and novel autoimmune indications
-document_metadata:
+document:
   repository: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:

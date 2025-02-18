@@ -189,6 +189,42 @@ seed_examples:
           fleet 2) Enhanced passenger experience through modern amenities 3)
           Reduced maintenance costs and improved reliability 4) Increased
           operational flexibility through standardized systems and processes.
+  - context: >
+      As of 2022, Carnival Corporation & plc had 166,194,101 total shares
+      outstanding, consisting of 156,794,851 shares of common stock and
+      9,399,250 shares of Class B common stock. The company's market value of
+      shares held by non-affiliates was approximately $7.3 billion as of June
+      30, 2021. Vimeo operates as a software-as-a-service (SaaS) company,
+      focusing on video software solutions while managing historical losses and
+      revenue growth challenges.
+    questions_and_answers:
+      - question: |
+          What is Carnival's approach to capital structure and debt management?
+        answer: >
+          Capital management includes: 1) Strategic debt reduction initiatives
+          reducing total debt to $31.1B 2) Balanced approach to capital
+          allocation between growth investments and debt reduction 3) Focus on
+          maintaining strong liquidity position with $4.6B in cash and
+          investments 4) Active management of debt maturity profile and interest
+          costs 5) Prudent financial risk management through diversified funding
+          sources.
+      - question: |
+          How does Carnival manage market and operational risks?
+        answer: >
+          Risk management approach includes: 1) Comprehensive enterprise risk
+          management framework 2) Active monitoring and hedging of fuel price and
+          currency risks 3) Geographic diversification of operations to mitigate
+          regional market risks 4) Strong insurance coverage for operational and
+          catastrophic risks 5) Regular review and updating of risk mitigation
+          strategies.
+      - question: |
+          What are Carnival's key strategies for maintaining financial stability?
+        answer: >
+          Financial stability maintained through: 1) Strong focus on revenue
+          management and yield optimization 2) Cost control initiatives across
+          fleet operations 3) Strategic working capital management 4) Balanced
+          approach to capital investments and returns 5) Maintenance of
+          substantial liquidity buffers for operational flexibility.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe

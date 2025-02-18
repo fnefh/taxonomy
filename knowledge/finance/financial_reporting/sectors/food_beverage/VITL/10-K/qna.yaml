@@ -1,7 +1,6 @@
 version: 3
 domain: annual_reporting
-creator: instructlab
-description: QnA pairs for Vital Farms (VITL) annual reports from 2020-2023
+created_by: fnefh
 document_outline: |
   Vital Farms Annual Reports (2020-2023)
   1. Business Model & Operations

@@ -1,13 +1,26 @@
 version: 3
 domain: annual_reporting
 created_by: fnefh
-document_outline:
-  - Business Model & Operations - Restaurant Concept & Brand - Menu & Product
-    Strategy - Restaurant Development
-  - Strategic Initiatives - North Star Plan - Digital Transformation -
-    Operational Excellence
-  - Risk Management & Growth - Market Competition - Supply Chain - Financial
-    Management
+document_outline: >
+  This document contains annual financial reports (Form 10-K)
+  for Red Robin Gourmet Burgers, Inc. covering fiscal years 2021-2024.
+
+  The reports include detailed information about:
+
+  1. Business Model & Operations
+     - Restaurant Concept & Brand
+     - Menu & Product Strategy
+     - Restaurant Development
+
+  2. Strategic Initiatives
+     - North Star Plan
+     - Digital Transformation
+     - Operational Excellence
+
+  3. Risk Management & Growth
+     - Market Competition
+     - Supply Chain
+     - Financial Management
 seed_examples:
   - context: >
       Red Robin is a casual dining restaurant chain known for its gourmet
@@ -16,7 +29,7 @@ seed_examples:
       experience. As of December 31, 2023, they had 415 company-owned
       restaurants and 91 franchised locations across the United States and
       Canada.
-    questions:
+    questions_and_answers:
       - question: What is Red Robin's core business model and how does it generate
           revenue?
         answer: Red Robin operates primarily through company-owned restaurants (415
@@ -57,7 +70,7 @@ seed_examples:
       company has implemented various systems to enhance operational efficiency
       and guest experience, while managing costs and maintaining quality
       standards.
-    questions:
+    questions_and_answers:
       - question: How is Red Robin leveraging technology to improve operations and guest
           experience?
         answer: Red Robin is investing in multiple technology initiatives to enhance
@@ -99,7 +112,7 @@ seed_examples:
       financial management considerations. The company has implemented specific
       strategies to address these challenges while pursuing growth
       opportunities.
-    questions:
+    questions_and_answers:
       - question: What are the primary competitive challenges Red Robin faces and how
           does it address them?
         answer: Red Robin faces intense competition in the restaurant industry with low
@@ -145,7 +158,7 @@ seed_examples:
       company continued to invest in technology and infrastructure improvements.
       The Donatos® pizza program expanded to 273 restaurants, contributing to
       incremental sales growth.
-    questions:
+    questions_and_answers:
       - question: |
           What were Red Robin's key financial metrics in FY2023?
         answer: >
@@ -183,7 +196,7 @@ seed_examples:
       for debt reduction and operational improvements. Restaurant development
       focused on maintaining and enhancing existing locations while evaluating
       opportunities for strategic growth.
-    questions:
+    questions_and_answers:
       - question: |
           How does Red Robin approach real estate and location strategy?
         answer: >

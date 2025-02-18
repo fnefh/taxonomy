@@ -180,7 +180,7 @@ seed_examples:
           3. Controlled G&A expense growth at 19.8M in Q3 2024
           4. Maintained strong cash position while advancing multiple programs
           5. Focus on value-driving activities and operational efficiency
-document_metadata:
+document:
   repository: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
   patterns:

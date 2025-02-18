@@ -140,6 +140,69 @@ seed_examples:
           3) Successful implementation of environmental compliance measures 4)
           Strengthened operational margins through scale and efficiency
           initiatives.
+  - context: >
+      Carnival Corporation's liquidity position remained strong through Q3
+      2024, with $5.7 billion of liquidity including cash, short-term
+      investments, and borrowings available under the revolving credit facility.
+      The company continued its debt reduction strategy, decreasing total debt
+      to $28.856 billion from $30.572 billion at fiscal year-end 2023. Capital
+      expenditures for the quarter included $654 million of ship additions and
+      improvements, while maintaining strong working capital management with
+      customer deposits of $6.8 billion.
+    questions_and_answers:
+      - question: |
+          How did Carnival's liquidity position evolve in Q3 2024?
+        answer: >
+          Liquidity metrics showed strength with: 1) Total liquidity of $5.7
+          billion including cash and available credit 2) Continued debt
+          reduction to $28.856 billion from $30.572 billion 3) Strong customer
+          deposits of $6.8 billion 4) Effective working capital management 5)
+          Strategic capital allocation for fleet improvements.
+      - question: |
+          What were the key capital expenditure priorities?
+        answer: >
+          Capital expenditures focused on: 1) $654 million in ship additions and
+          improvements 2) Strategic fleet modernization initiatives 3)
+          Environmental compliance investments 4) Infrastructure upgrades 5)
+          Technology and operational enhancement projects.
+      - question: |
+          How is Carnival managing its debt and capital structure?
+        answer: >
+          Debt management strategy included: 1) Reduction in total debt by $1.716
+          billion from year-end 2023 2) Balanced approach to capital allocation
+          3) Maintenance of strong liquidity position 4) Strategic use of
+          customer deposits 5) Efficient working capital management.
+  - context: >
+      Geographic revenue distribution in Q3 2024 showed balanced growth
+      across regions, with North American brands contributing 58% of revenue,
+      European brands 31%, and UK/Australia brands 11%. The company's brand
+      portfolio demonstrated strong performance with increased yields across all
+      major markets. Passenger ticket revenue reached $5.239 billion, while
+      onboard and other revenue totaled $2.657 billion. The company's strategic
+      focus on market-specific offerings and tailored experiences continued to
+      drive customer engagement and satisfaction across regions.
+    questions_and_answers:
+      - question: |
+          How was revenue distributed across geographic regions in Q3 2024?
+        answer: >
+          Geographic revenue distribution showed: 1) North American brands at 58%
+          of total revenue 2) European brands contributing 31% 3) UK/Australia
+          brands at 11% 4) Balanced growth across all regions 5) Strong
+          performance in key markets.
+      - question: |
+          What were the key revenue components and their performance?
+        answer: >
+          Revenue components included: 1) Passenger ticket revenue of $5.239
+          billion 2) Onboard and other revenue of $2.657 billion 3) Improved
+          yields across all brands 4) Enhanced market-specific offerings 5)
+          Successful customer engagement strategies.
+      - question: |
+          How is Carnival optimizing its brand portfolio across regions?
+        answer: >
+          Brand optimization includes: 1) Tailored experiences for specific
+          markets 2) Strategic brand positioning in key regions 3) Enhanced
+          customer satisfaction initiatives 4) Market-specific product offerings
+          5) Balanced portfolio management across geographies.
 document:
   repo: https://github.com/fnefh/taxonomy
   commit: 64435d1ca0c755f507949525c9739a4edc4113fe
