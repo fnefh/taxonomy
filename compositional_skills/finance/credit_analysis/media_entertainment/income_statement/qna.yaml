@@ -1,0 +1,111 @@
+version: 3
+task_description: Teach the model to analyze a media and entertainment company's
+  income statement, focusing on revenue streams, cost structure, profitability,
+  content performance, technological trends, international operations, and
+  non-recurring items.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate revenue streams and recognition
+      in a media
+
+      income statement?
+    answer: >
+      Analysts should assess revenue from various segments such as
+      advertising,
+
+      subscriptions, box office sales, content licensing, streaming, and merchandise.
+
+      They must review diversification of revenue sources and evaluate recognition
+
+      policies, including timing for long-term agreements and multi-element arrangements.
+  - question: >
+      What key cost structure elements should be analyzed in a media and
+      entertainment
+
+      income statement?
+    answer: >
+      Analysts must review costs associated with content production, including
+      talent
+
+      and production expenses, as well as the amortization of capitalized content assets.
+
+      They should also evaluate marketing, distribution, SG&A, and any impairment charges
+
+      relative to revenue.
+  - question: >
+      Which profitability metrics are critical for evaluating a media
+      company's income
+
+      statement?
+    answer: >
+      Key metrics include operating income, operating margin, EBITDA, net
+      income, and
+
+      earnings per share (EPS). These ratios should be tracked over time and compared with
+
+      industry peers to gauge efficiency, pricing power, and overall profitability.
+  - question: >
+      How does content performance and the content pipeline impact a media
+      company's
+
+      income statement?
+    answer: >
+      Analysts should assess the company's reliance on blockbuster releases,
+      successful
+
+      series, or popular franchises. The strength of the content pipeline and investments
+
+      in new projects are crucial drivers of future revenue and profitability.
+  - question: >
+      What impact do technological and market trends have on the income
+      statement of a
+
+      media and entertainment company?
+    answer: >
+      Shifts toward digital and streaming platforms, changing consumer
+      behavior, and
+
+      competition in digital advertising can affect both revenue and costs. Analysts must
+
+      review investments in digital transformation and evaluate the effectiveness of these
+
+      strategies.
+  - question: >
+      How should foreign exchange and international operations be evaluated
+      in the 
+
+      income statement?
+    answer: >
+      Analysts need to assess the effects of currency fluctuations on revenue
+      and costs,
+
+      particularly from international box office sales and streaming services. Hedging
+
+      strategies and geopolitical risks are also important considerations.
+  - question: >
+      How should non-recurring items be treated in the income statement
+      analysis of a
+
+      media company?
+    answer: >
+      One-time charges or gains, such as restructuring costs, asset
+      impairments, or legal
+
+      settlements, should be excluded from core earnings. Adjusting for these items
+
+      provides a clearer picture of sustainable operational performance.
+  - question: >
+      What overall insights can be drawn from an income statement analysis
+      in the media
+
+      and entertainment industry?
+    answer: >
+      A comprehensive analysis integrates revenue quality, cost control, and
+      profitability
+
+      metrics with the impact of content performance, technological trends, and international
+
+      factors. This holistic view highlights strengths and risks that affect the company's
+
+      ability to generate consistent earnings and maintain creditworthiness.

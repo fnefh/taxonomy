@@ -1,0 +1,109 @@
+version: 3
+task_description: Teach the model to analyze an education services company's
+  income statement, focusing on revenue quality, cost management, profitability,
+  enrollment trends, international operations, sustainability, and non-recurring
+  items.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate revenue streams and growth
+      drivers in an
+
+      education services income statement?
+    answer: >
+      Analysts should assess revenue from tuition and enrollment fees,
+      government grants,
+
+      donations and endowment distributions, research grants, and auxiliary services such as
+
+      housing and dining. They must consider enrollment trends, product diversification, pricing
+
+      strategies, and the impact of new program launches on revenue growth.
+  - question: >
+      What factors are critical when analyzing the cost structure of an
+      education services
+
+      company?
+    answer: >
+      Analysts must review the cost of services including faculty salaries,
+      instructional
+
+      materials, and technology costs. They should also evaluate SG&A expenses, R&D spending,
+
+      depreciation and amortization of facilities and intangibles, and other operating expenses,
+
+      comparing gross profit margins with industry benchmarks.
+  - question: >
+      Which profitability metrics are essential for evaluating an education
+      services company's
+
+      income statement?
+    answer: >
+      Key metrics include operating income and operating margin, EBITDA, net
+      income, and
+
+      earnings per share (EPS). Analysts should study trends over time and compare these ratios
+
+      with industry peers to assess operational efficiency and cost control.
+  - question: >
+      How do enrollment trends and retention rates impact revenue and
+      profitability in
+
+      education services?
+    answer: >
+      Changes in student enrollment directly affect tuition revenue and the
+      overall growth
+
+      potential. High retention and graduation rates support revenue stability, while effective
+
+      recruitment and retention strategies are essential to maintain a strong income base.
+  - question: >
+      How should foreign exchange and international operations be evaluated
+      in an income
+
+      statement analysis for education services?
+    answer: >
+      Analysts must assess the impact of currency fluctuations on revenue and
+      expenses for
+
+      international campuses and student enrollments. Hedging strategies and market-specific
+
+      challenges should be reviewed to mitigate currency risks.
+  - question: >
+      What role do sustainability and social responsibility play in an
+      education services
+
+      company's income statement?
+    answer: >
+      Investments in energy-efficient facilities, sustainable practices, and
+      community
+
+      programs can influence both costs and brand reputation. Evaluating these initiatives
+
+      helps determine their impact on operating expenses and long-term competitiveness.
+  - question: >
+      How should non-recurring items be treated in the income statement
+      analysis of an
+
+      education services company?
+    answer: >
+      Analysts should isolate one-time charges or gains, such as restructuring
+      costs,
+
+      asset impairments, litigation settlements, or gains from asset sales, to reveal the
+
+      true recurring profitability of the company.
+  - question: >
+      What overall insights can be drawn from an income statement analysis
+      in the education
+
+      services industry?
+    answer: >
+      A comprehensive analysis integrates revenue quality, cost management,
+      and profitability
+
+      metrics with the impact of enrollment, international operations, and sustainability
+
+      initiatives. This holistic view highlights strengths and risks affecting the company's
+
+      ability to generate consistent earnings and maintain creditworthiness.

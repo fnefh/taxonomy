@@ -1,0 +1,94 @@
+version: 3
+task_description: Teach the model to analyze a cryptocurrency company's income
+  statement, focusing on revenue streams, operating expenses, profitability,
+  market conditions, and risk management in a volatile market.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate trading fee revenue in a
+      cryptocurrency
+
+      income statement?
+    answer: >
+      Analysts should review trading volume trends, fee structures, and the
+      mix between
+
+      retail and institutional trading. They must assess the impact of fee competition
+
+      and market volatility on revenue quality.
+  - question: |
+      What other revenue sources should be considered in a crypto firm's income
+      statement?
+    answer: >
+      Analysts must examine revenue from staking rewards, validator income,
+      custody fees,
+
+      interest income from lending, and NFT marketplace fees to gauge revenue diversification
+
+      and sustainability.
+  - question: >
+      How can operating expenses related to technology infrastructure be
+      analyzed?
+    answer: >
+      Analysts should review costs for cloud computing, server operations,
+      security and
+
+      custody infrastructure, and platform development. These expenses affect overall
+
+      margins and operational efficiency.
+  - question: >
+      What are the key compliance and regulatory expense considerations for
+      a crypto
+
+      company?
+    answer: >
+      Key factors include expenditures on KYC/AML programs, regulatory
+      filings, licensing,
+
+      and legal and compliance staff costs. These expenses directly impact operating margins.
+  - question: >
+      Which profitability metrics are critical for evaluating a crypto
+      firm's income
+
+      statement?
+    answer: >
+      Critical metrics include operating margins and customer acquisition
+      costs. Trends in
+
+      these ratios, along with the balance between recurring and non-recurring revenue,
+
+      reveal the firm's core operational efficiency.
+  - question: >
+      How do market conditions such as crypto cycles and competition affect
+      revenue and
+
+      margins in the cryptocurrency industry?
+    answer: >
+      Analysts should assess revenue sensitivity to crypto price movements and
+      bear market
+
+      conditions. Fee compression from competitors and shifts in market share can adversely
+
+      affect both revenue and profitability.
+  - question: >
+      How should risks related to trading losses and counterparty exposures
+      be evaluated?
+    answer: >
+      The analysis must include an evaluation of proprietary trading
+      activities and the
+
+      counterparty risks associated with them. These factors can lead to significant
+
+      trading losses and impact overall earnings.
+  - question: >
+      What is the impact of security incidents on a crypto firm's income
+      statement,
+
+      and how should these risks be managed?
+    answer: >
+      Security breaches or technical failures can result in direct financial
+      losses and
+
+      reputational damage. Analysts should review cybersecurity spending and insurance
+
+      coverage to assess the firm's ability to mitigate such risks.

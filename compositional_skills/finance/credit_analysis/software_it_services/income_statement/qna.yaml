@@ -1,0 +1,111 @@
+version: 3
+task_description: Teach the model to analyze a software and IT services
+  company's income statement, focusing on revenue streams, cost structure,
+  profitability, technological trends, customer contracts, foreign exchange, and
+  non-recurring items.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate revenue streams and growth
+      drivers in a 
+
+      software and IT services income statement?
+    answer: >
+      Analysts should review revenue from software licenses, subscription
+      services, 
+
+      and SaaS offerings, as well as professional services and consulting. They must 
+
+      assess trends in recurring versus non-recurring revenue, customer retention, 
+
+      geographic diversification, channel distribution, and the impact of new product 
+
+      launches on revenue growth.
+  - question: >
+      What factors are important when analyzing the cost structure in a
+      software and IT 
+
+      services income statement?
+    answer: >
+      Analysts must evaluate costs associated with delivering software and
+      services, 
+
+      including COGS, cloud infrastructure costs, and third-party licensing fees. They 
+
+      should also analyze operating expenses such as R&D, SG&A, depreciation, and 
+
+      amortization to gauge cost efficiency.
+  - question: >
+      Which profitability metrics are key for evaluating a software and IT
+      services 
+
+      company's performance?
+    answer: >
+      Key metrics include operating income, operating margin, EBITDA, net
+      income, and 
+
+      EPS. Tracking these ratios over time and comparing them with industry peers reveals 
+
+      the company's operational efficiency and pricing power.
+  - question: >
+      How do technological advancements and digital transformation affect
+      the income 
+
+      statement of a software and IT services company?
+    answer: >
+      Analysts should assess the impact of cloud adoption, AI, and automation
+      on both 
+
+      revenue models and cost structures. Investments in new technologies can enhance 
+
+      competitiveness but may increase operating expenses in the short term.
+  - question: >
+      How should customer concentration and contract terms be evaluated in a
+      software 
+
+      and IT services income statement?
+    answer: >
+      Analysts need to examine revenue concentration among key customers and
+      the 
+
+      average duration and renewal rates of contracts. This helps determine revenue 
+
+      predictability and the risk associated with losing major clients.
+  - question: >
+      What role do foreign exchange and economic conditions play in a
+      software and IT 
+
+      services income statement?
+    answer: >
+      Analysts must evaluate the effect of currency fluctuations on revenue
+      and costs, 
+
+      especially for companies with significant international operations. Economic 
+
+      cycles and trends in IT spending also impact sales and margins.
+  - question: >
+      How should non-recurring items be treated in the analysis of a
+      software and IT 
+
+      services income statement?
+    answer: >
+      Non-recurring items, such as restructuring charges, asset impairments,
+      and gains or 
+
+      losses from asset sales, should be isolated from core earnings to provide a clearer 
+
+      view of sustainable operating performance.
+  - question: >
+      What overall insights can be drawn from a comprehensive analysis of a
+      software and IT 
+
+      services income statement?
+    answer: >
+      A holistic analysis integrates revenue quality, cost management, and
+      profitability 
+
+      metrics with the impact of technological trends, customer contract stability, and 
+
+      non-recurring items. This approach highlights strengths and risks that affect the 
+
+      company's ability to generate consistent earnings and maintain creditworthiness.

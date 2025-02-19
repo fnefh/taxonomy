@@ -1,0 +1,103 @@
+version: 3
+task_description: Teach the model to analyze an insurance company's cash flow
+  statement, focusing on operating, investing, and financing cash flows,
+  liquidity, reinsurance impacts, and regulatory compliance.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in an
+      insurance company's
+
+      cash flow statement?
+    answer: >
+      Analysts should assess cash inflows from premiums and investment income.
+      They must
+
+      adjust for non-cash items such as changes in reserves, deferred acquisition costs,
+
+      and unrealized investment gains/losses, and analyze outflows for claims, policyholder
+
+      benefits, and operating expenses. Timing differences between premium receipts and
+
+      claim payments are critical for cash flow stability.
+  - question: >
+      How can the quality and sustainability of earnings be evaluated using
+      operating cash
+
+      flow?
+    answer: >
+      Analysts compare operating cash flow to net income to determine earnings
+      quality.
+
+      Sustainable operating cash flows should be sufficient to cover obligations without
+
+      reliance on asset sales.
+  - question: >
+      What key factors should be reviewed in the investing cash flow section
+      for an
+
+      insurance company?
+    answer: >
+      Analysts must review cash flows from investment activities, including
+      purchases,
+
+      sales, and maturities of investment securities. They should also examine capital
+
+      expenditures on infrastructure and technology, and cash flows from acquisitions or
+
+      divestitures.
+  - question: >
+      How should financing cash flow be analyzed in the context of an
+      insurance company?
+    answer: >
+      The analysis should focus on cash inflows from debt issuance and equity
+      financing,
+
+      and outflows for debt repayments, share repurchases, and dividends. Evaluating the
+
+      maturity profile of debt and potential refinancing risks is also essential.
+  - question: >
+      How is free cash flow (FCF) calculated for an insurance company, and
+      why is it
+
+      important?
+    answer: >
+      Free cash flow is calculated by subtracting capital expenditures from
+      operating cash
+
+      flow. This metric indicates the firm's ability to fund operations, service debt, and
+
+      invest in growth, even when working capital fluctuates.
+  - question: >
+      What liquidity measures are essential for assessing an insurance
+      company's cash flow
+
+      health?
+    answer: >
+      Analysts should evaluate cash and cash equivalents, current and quick
+      ratios, and
+
+      the availability of credit facilities. They must also consider the timing mismatch
+
+      between premium inflows and claim outflows.
+  - question: |
+      How should reinsurance impacts be incorporated into cash flow analysis?
+    answer: >
+      Analysts must review cash flows related to reinsurance, including
+      premiums paid and
+
+      recoveries received. The net effect of reinsurance on operating cash flow is crucial
+
+      for assessing overall liquidity.
+  - question: >
+      What role do regulatory and compliance considerations play in cash
+      flow management
+
+      for insurance companies?
+    answer: >
+      Analysts should ensure that the company meets regulatory liquidity and
+      capital
+
+      adequacy requirements. They must also consider how evolving regulations affect cash
+
+      flow management and the ability to cover large claim events.

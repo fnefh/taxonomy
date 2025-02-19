@@ -1,0 +1,106 @@
+version: 3
+task_description: Teach the model to analyze a transportation and logistics
+  company's balance sheet, focusing on asset composition, liabilities, equity,
+  liquidity, off- balance sheet items, and risk management specific to the
+  industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate the asset composition of a
+      transportation 
+
+      company's balance sheet?
+    answer: >
+      Analysts should review PP&E such as trucks, ships, airplanes, railcars,
+      warehouses, 
+
+      terminals, and handling equipment. They must assess valuation methods, asset age, 
+
+      condition, and technological relevance, while considering geographic risks and 
+
+      environmental factors.
+  - question: >
+      How can leased assets and off-balance sheet items affect the balance
+      sheet in the 
+
+      transportation industry?
+    answer: >
+      Analysts should examine operating and finance leases for equipment and
+      facilities, 
+
+      especially under IFRS 16 or ASC 842. They must evaluate the impact of these items on 
+
+      cash flows and financial flexibility.
+  - question: |
+      What key factors should be considered when analyzing liabilities in the 
+      transportation and logistics sector?
+    answer: >
+      Analysts must evaluate short- and long-term debt, including bank loans,
+      bonds, and 
+
+      lease liabilities. They should calculate leverage ratios like Debt-to-Equity and 
+
+      Debt-to-EBITDA, and review deferred revenue, customer deposits, and environmental or 
+
+      legal liabilities.
+  - question: >
+      How should shareholders' equity and capital structure be assessed in a
+      transportation 
+
+      company's balance sheet?
+    answer: >
+      Analysts should analyze changes in retained earnings, accumulated other 
+
+      comprehensive income, and treasury stock. They must assess equity financing, share 
+
+      repurchase programs, and any minority interests in joint ventures or partnerships.
+  - question: >
+      Which liquidity ratios and working capital metrics are crucial for
+      evaluating a 
+
+      transportation company's financial health?
+    answer: >
+      Key liquidity measures include the current ratio and quick ratio.
+      Analysts should also 
+
+      analyze working capital management through the cash conversion cycle (DIO, DSO, DPO) 
+
+      to assess operational efficiency.
+  - question: >
+      How should off-balance sheet items and contingent liabilities be
+      evaluated in the 
+
+      transportation sector?
+    answer: >
+      Analysts must identify off-balance sheet obligations such as operating
+      leases or SPEs 
+
+      and review contingent liabilities arising from legal disputes, environmental issues, 
+
+      or construction defects, to determine their impact on future cash flows.
+  - question: >
+      What risk management factors should be considered on a transportation
+      company's 
+
+      balance sheet?
+    answer: >
+      Analysts should evaluate exposure to fuel price volatility, currency
+      fluctuations, 
+
+      and environmental liabilities. Effective fleet management, supplier relationships, 
+
+      and hedging strategies are critical to mitigating these risks.
+  - question: >
+      What overall insights can be drawn from a comprehensive balance sheet
+      analysis 
+
+      in the transportation and logistics industry?
+    answer: >
+      A holistic analysis integrates asset quality, debt management, and
+      liquidity measures 
+
+      with off-balance sheet exposures and risk management practices. This approach helps 
+
+      identify strengths and risks, such as high leverage or significant lease obligations, 
+
+      that affect the company's creditworthiness.

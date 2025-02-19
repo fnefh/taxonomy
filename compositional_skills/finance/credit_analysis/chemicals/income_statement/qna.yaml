@@ -1,0 +1,109 @@
+version: 3
+task_description: Teach the model to analyze a chemicals company's income
+  statement, focusing on revenue quality, cost management, profitability,
+  cyclicality, foreign exchange effects, environmental compliance costs, and
+  non-recurring items.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate revenue streams and pricing
+      dynamics in a 
+
+      chemicals company?
+    answer: >
+      The analyst should review revenue from various product segments such as
+      basic 
+
+      chemicals, specialty chemicals, agrochemicals, plastics, and performance materials.
+
+      They must assess product diversification across geographic regions, evaluate the 
+
+      impact of commodity price fluctuations, and consider how capacity utilization 
+
+      influences pricing and volume trends.
+  - question: >
+      What factors are important when analyzing the cost of goods sold
+      (COGS) for a 
+
+      chemicals company?
+    answer: >
+      Analysts should examine costs related to raw materials, energy
+      consumption, and 
+
+      manufacturing processes. Gross profit margins should be compared with industry 
+
+      benchmarks, and the effect of volatile commodity prices on COGS must be closely 
+
+      monitored.
+  - question: >
+      How do operating expenses such as SG&A and R&D affect a chemicals
+      company's income 
+
+      statement?
+    answer: >
+      Operating expenses, including SG&A for marketing and administrative
+      functions and 
+
+      R&D investments for new product development, significantly impact operating margins.
+
+      Effective cost control in these areas is vital for maintaining profitability.
+  - question: >
+      Which profitability metrics should be used to assess a chemicals
+      company's income 
+
+      statement performance?
+    answer: >
+      Key metrics include operating income and margins, net profit margin, and
+      earnings 
+
+      per share (EPS). These ratios help determine the efficiency of cost management and 
+
+      the company's competitive pricing power.
+  - question: >
+      How do cyclicality and market conditions impact the income statement
+      in the 
+
+      chemicals industry?
+    answer: >
+      Demand from end markets, such as automotive and construction, can
+      fluctuate with 
+
+      economic cycles. Analysts must evaluate the impact of such cyclicality and intense 
+
+      competition on revenue growth and margin stability.
+  - question: >
+      How does foreign exchange risk affect a chemicals company's income
+      statement?
+    answer: >
+      Currency fluctuations can alter the value of international sales and
+      expenses.
+
+      Analysts should assess hedging strategies and examine how exchange rate movements 
+
+      impact both revenues and cost structures.
+  - question: >
+      What is the impact of environmental compliance costs on a chemicals
+      company's 
+
+      income statement?
+    answer: >
+      Expenses for meeting environmental regulations, such as emission
+      standards and 
+
+      hazardous waste disposal, can significantly increase operating costs. Analysts must 
+
+      determine whether these costs are offset by pricing strategies or recovered through 
+
+      higher margins.
+  - question: >
+      How should non-recurring items be treated in the income statement
+      analysis of a 
+
+      chemicals company?
+    answer: >
+      One-time charges or gains, such as restructuring costs, asset
+      impairments, or gains 
+
+      from asset sales, should be isolated from recurring earnings. Adjusting for these 
+
+      items provides a clearer view of the company's sustainable profitability.

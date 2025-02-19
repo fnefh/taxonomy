@@ -1,0 +1,97 @@
+version: 3
+task_description: Teach the model to analyze a consumer goods company's cash
+  flow statement, focusing on operating activities, investing flows, financing,
+  free cash flow, liquidity, currency/commodity exposures, and sensitivity
+  analysis.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in a consumer
+      goods
+
+      company?
+    answer: >
+      The analyst should review cash generated from core operations by
+      adjusting net
+
+      income for non-cash expenses like depreciation, amortization, and stock-based
+
+      compensation. They must analyze changes in working capital components such as
+
+      receivables, inventory, and payables, and consider the impact of seasonal
+
+      fluctuations.
+  - question: |
+      How should investing cash flow be analyzed for a consumer goods company?
+    answer: >
+      Analysts should review capital expenditures on manufacturing facilities,
+
+      technology upgrades, distribution networks, and retail outlets. It is vital to
+
+      assess CapEx relative to depreciation and operating cash flow, and to examine
+
+      cash flows from acquisitions or divestitures.
+  - question: >
+      What key factors should be considered when evaluating financing cash
+      flow in
+
+      the consumer goods industry?
+    answer: >
+      The analysis should include cash inflows from debt and equity issuance
+      and outflows
+
+      for debt repayments, share repurchases, and dividend payments. Analysts should also
+
+      evaluate the maturity profile of debt and potential refinancing risks.
+  - question: >
+      How is free cash flow (FCF) calculated, and why is it important in the
+      consumer
+
+      goods sector?
+    answer: >
+      Free cash flow is calculated by subtracting capital expenditures from
+      operating
+
+      cash flow. This metric indicates the company's ability to fund reinvestment,
+
+      service debt, and provide returns to shareholders, even amid working capital
+
+      fluctuations.
+  - question: >
+      What liquidity and financial flexibility measures are critical for a
+      consumer
+
+      goods company?
+    answer: >
+      Key liquidity measures include the level of cash and cash equivalents,
+      as well as
+
+      current and quick ratios. Analysts should also review available credit facilities,
+
+      revolving credit agreements, and covenant compliance to assess overall financial
+
+      flexibility.
+  - question: >
+      How should currency and commodity exposure be managed in the consumer
+      goods
+
+      industry?
+    answer: >
+      Analysts must evaluate the impact of foreign exchange and commodity
+      price
+
+      fluctuations on costs and revenues. Effective hedging strategies, such as using
+
+      forward contracts and swaps, help stabilize cash flows and mitigate risk.
+  - question: >
+      How does scenario analysis contribute to assessing cash flow
+      sensitivity in a
+
+      consumer goods company?
+    answer: >
+      Scenario analysis tests the impact of changes in sales volume, commodity
+      prices,
+
+      operating costs, and capital expenditures on cash flow projections. This helps
+
+      determine the company's ability to adjust spending and maintain stable cash flows.

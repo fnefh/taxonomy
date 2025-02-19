@@ -1,0 +1,89 @@
+version: 3
+task_description: Teach the model to analyze a biotech company's income
+  statement, focusing on unique revenue streams, R&D and SG&A expenses,
+  profitability metrics, and non-operating items that impact financial stability
+  and credit risk in the biotech industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate revenue from product sales and
+      licensing in a 
+
+      biotech income statement?
+    answer: >
+      Analysts should differentiate revenue derived from direct product sales
+      versus 
+
+      licensing agreements and partnerships. Early-stage biotech firms may rely on 
+
+      licensing revenue before products are fully commercialized, so assessing the quality 
+
+      and sustainability of these revenue streams is essential.
+  - question: >
+      What is the significance of milestone and orphan drug revenue for a
+      biotech company?
+    answer: >
+      Milestone payments and orphan drug revenues can provide a steady, though
+      limited, 
+
+      cash flow. Analysts must determine how these non-recurring revenue sources contribute 
+
+      to overall income and affect credit risk.
+  - question: >
+      How should R&D expenditures be analyzed in the income statement of a
+      biotech firm?
+    answer: >
+      Analysts should examine both the trend and the percentage of revenue
+      allocated to 
+
+      R&D. High R&D spending is critical for innovation but can strain cash reserves during 
+
+      long development phases if not managed effectively.
+  - question: >
+      What factors should be considered when evaluating SG&A expenses in the
+      biotech sector?
+    answer: >
+      SG&A expenses, including marketing, administrative costs, and expenses
+      related to 
+
+      new product launches, should be analyzed relative to revenue. High SG&A costs may 
+
+      signal inefficiencies or overinvestment that could pressure profitability.
+  - question: >
+      How do gross, operating, and net profit margins provide insight into a
+      biotech 
+
+      company's performance?
+    answer: >
+      Gross margin indicates production and pricing efficiency, while
+      operating and net 
+
+      profit margins reveal the company’s ability to cover operating costs and achieve profit. 
+
+      In biotech, low or negative margins during early R&D phases may signal reliance on external funding.
+  - question: >
+      How should non-operating items, such as interest income/expense and
+      gains from asset 
+
+      sales, be evaluated in a biotech income statement?
+    answer: >
+      Analysts need to isolate non-operating items to assess core earnings.
+      High interest 
+
+      expenses or significant gains/losses from asset sales can distort profitability and must 
+
+      be adjusted for a true picture of operational performance.
+  - question: >
+      How do the income statement components collectively reflect a biotech
+      firm's financial 
+
+      health and credit risk?
+    answer: >
+      By analyzing revenue composition, R&D and SG&A expenditures, profit
+      margins, and 
+
+      non-operating items, analysts can assess the firm's operational efficiency and its 
+
+      ability to generate consistent earnings. Key risks include high R&D costs and heavy 
+
+      reliance on external funding.

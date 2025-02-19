@@ -1,0 +1,86 @@
+version: 3
+task_description: Teach the model to analyze a bank's cash flow statement,
+  focusing on operating, investing, and financing cash flows, liquidity,
+  off-balance sheet exposures, and regulatory considerations in the banking
+  industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in a bank's
+      cash flow statement?
+    answer: >
+      The analyst should review cash generated from core banking operations,
+      including net 
+
+      interest and fee income. Adjustments for non-cash items such as depreciation and loan 
+
+      loss provisions must be made, and changes in operating assets and liabilities (loans, 
+
+      deposits, trading assets) should be analyzed to assess earnings quality.
+  - question: >
+      What key factors should be considered in the investing cash flow
+      section of a bank's 
+
+      cash flow statement?
+    answer: >
+      Analysts must examine cash flows used for investments in securities and
+      for capital 
+
+      expenditures on technology and infrastructure. In addition, they should review cash 
+
+      inflows from asset sales, mergers, and acquisitions, as these impact long-term growth 
+
+      and liquidity.
+  - question: >
+      How should financing cash flows be analyzed in a bank's cash flow
+      statement?
+    answer: >
+      The analysis should focus on funding activities such as cash inflows
+      from deposits and 
+
+      debt issuance, and outflows for debt repayments. Equity transactions like share issuances, 
+
+      buybacks, and dividend payments should also be evaluated to determine their impact on 
+
+      the bank's capital structure.
+  - question: >
+      Which liquidity metrics are critical when assessing a bank's cash flow
+      health?
+    answer: >
+      Key metrics include the level of cash and cash equivalents, as well as
+      regulatory 
+
+      liquidity ratios like the Liquidity Coverage Ratio (LCR). Analysts should also review 
+
+      strategies for liquidity management, including access to credit facilities and central 
+
+      bank support.
+  - question: |
+      How is cash flow adequacy and stability evaluated in the banking industry?
+    answer: >
+      Analysts should calculate ratios such as Operating Cash Flow to Total
+      Liabilities and 
+
+      review historical trends. Stress testing under adverse economic scenarios helps assess 
+
+      the bank's ability to sustain cash flow amid market disruptions.
+  - question: >
+      How should off-balance sheet activities be factored into a bank's cash
+      flow analysis?
+    answer: >
+      Off-balance sheet exposures, such as contingent liabilities from loan
+      commitments, 
+
+      letters of credit, and derivatives, must be identified and incorporated into risk 
+
+      assessments and liquidity planning to reveal the true financial risk.
+  - question: >
+      What regulatory considerations are essential when analyzing a bank's
+      cash flow statement?
+    answer: >
+      Analysts must verify that the bank complies with liquidity standards
+      such as LCR and 
+
+      NSFR, and consider the impact of evolving regulatory requirements on funding sources 
+
+      and overall cash flow management.

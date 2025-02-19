@@ -1,0 +1,97 @@
+version: 3
+task_description: Teach the model to analyze a cryptocurrency company's balance
+  sheet, focusing on digital asset holdings, traditional assets, liabilities,
+  capital structure, and off-balance sheet exposures, with attention to
+  regulatory and cybersecurity risks.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate digital asset holdings on a
+      cryptocurrency
+
+      balance sheet?
+    answer: >
+      Analysts should assess the composition and valuation of the
+      cryptocurrency portfolio,
+
+      ensuring diversification across various coins and tokens. They must also review custody
+
+      arrangements and security measures to mitigate theft and hacking risks.
+  - question: >
+      What factors should be considered when analyzing staking assets in a
+      crypto firm?
+    answer: >
+      Analysts must examine assets locked in staking activities, considering
+      potential returns,
+
+      lockup periods, and associated risks. Evaluating the expected rewards and liquidity of these
+
+      assets is crucial for estimating future cash inflows.
+  - question: >
+      How should traditional assets be evaluated in a cryptocurrency
+      company's balance sheet?
+    answer: >
+      Traditional assets include fiat cash and cash equivalents, as well as
+      other investments,
+
+      such as strategic stakes in blockchain companies. Analysts should review the ratio of crypto
+
+      to fiat holdings and assess overall liquidity.
+  - question: >
+      What key aspects of liabilities, including customer deposits and debt,
+      should be analyzed
+
+      in a cryptocurrency firm?
+    answer: >
+      Analysts should evaluate customer cryptocurrency deposits by verifying
+      proper segregation,
+
+      insurance coverage, and collection practices. In addition, both traditional debt and crypto-
+
+      backed loans should be examined for maturity profiles and refinancing risks.
+  - question: >
+      How can a credit analyst assess a cryptocurrency company's equity and
+      regulatory capital?
+    answer: >
+      The analyst should review shareholders' equity, considering the impact
+      of crypto price volatility
+
+      on asset values. Compliance with regulatory capital requirements and maintenance of adequate
+
+      reserves for operational risks are also critical.
+  - question: >
+      What off-balance sheet items are unique to the cryptocurrency
+      industry, and how should they
+
+      be analyzed?
+    answer: >
+      Off-balance sheet items may include smart contract commitments and
+      contingent liabilities
+
+      arising from DeFi protocols. Analysts must assess these risks by evaluating protocol
+
+      vulnerabilities, potential regulatory penalties, and exposure to cyber threats.
+  - question: >
+      How should currency and commodity exposures be managed on a
+      cryptocurrency company's
+
+      balance sheet?
+    answer: >
+      Analysts need to evaluate the impact of foreign exchange fluctuations on
+      revenue and costs,
+
+      particularly for companies with significant international operations. Reviewing hedging
+
+      strategies and risk management instruments is essential.
+  - question: >
+      How do regulatory and cybersecurity risks affect the balance sheet of
+      a cryptocurrency
+
+      company?
+    answer: >
+      Regulatory changes can alter asset valuations and capital adequacy,
+      while weak cybersecurity
+
+      measures increase the risk of asset loss. Analysts should examine these factors to determine
+
+      their overall effect on the firm's financial stability.

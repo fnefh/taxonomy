@@ -1,0 +1,142 @@
+---
+version: 3
+task_description: Teach the model to perform a comprehensive balance sheet
+  analysis for agriculture companies, focusing on asset composition,
+  liabilities, equity, liquidity, off-balance sheet items, and risk management.
+created_by: fnefh
+seed_examples:
+  - question: |
+      How should a credit analyst evaluate the valuation and classification of 
+      agricultural land in the balance sheet?
+    answer: >
+      The analyst should assess whether land is owned or leased, examine its
+      quality, 
+
+      fertility, location, and size, and analyze trends in land appreciation or 
+
+      depreciation based on market conditions and agricultural productivity.
+  - question: >
+      How should investments in PP&E be analyzed in an agricultural balance
+      sheet?
+    answer: >
+      Analysts should review investments in machinery, equipment, irrigation
+      systems, 
+
+      storage facilities, and transportation assets. They must assess asset age, 
+
+      condition, and technological relevance, and review capital expenditure trends.
+  - question: >
+      What factors are critical when evaluating intangible assets in the
+      agriculture 
+
+      industry?
+    answer: >
+      It is essential to examine goodwill arising from acquisitions and to
+      review 
+
+      intangible assets like proprietary farming techniques and patents. Analysts must 
+
+      assess amortization policies and potential impairment risks.
+  - question: |
+      How should inventory levels be assessed on an agricultural balance sheet?
+    answer: >
+      Inventory analysis should cover seeds, fertilizers, pesticides,
+      livestock, and 
+
+      harvested crops. Key factors include perishability, storage conditions, and the 
+
+      impact of valuation methods such as FIFO, LIFO, or weighted average cost.
+  - question: >
+      What working capital components, including accounts receivable, should
+      be evaluated?
+    answer: >
+      Analysts must evaluate the quality and aging of receivables from buyers
+      and 
+
+      distributors, review credit terms, and assess collection efficiency using metrics 
+
+      like Days Sales Outstanding.
+  - question: >
+      Which debt structure factors are vital for evaluating an agricultural
+      company's 
+
+      liabilities?
+    answer: >
+      Critical factors include both short-term and long-term debt obligations,
+      interest 
+
+      rates, maturity profiles, and covenants. Analysts should calculate ratios such as 
+
+      Debt-to-Equity and Debt-to-EBITDA and compare them with industry benchmarks.
+  - question: >
+      How do off-balance sheet items and contingent liabilities affect the
+      balance sheet?
+    answer: >
+      Off-balance sheet items—such as operating leases for equipment or
+      storage, as well 
+
+      as contingent liabilities from crop failures or natural disasters—should be factored 
+
+      into assessments of future cash flow risks and financial flexibility.
+  - question: >
+      What risk management factors are essential in an agricultural balance
+      sheet analysis?
+    answer: >
+      Analysts should evaluate exposure to commodity price fluctuations for
+      key inputs, 
+
+      assess hedging strategies, and consider climate and weather risks that impact 
+
+      asset values and operational stability.
+  - question: >
+      How do regulatory and compliance considerations affect the balance
+      sheet in the 
+
+      agriculture industry?
+    answer: >
+      Compliance with agricultural laws, environmental regulations, and trade
+      policies 
+
+      can influence asset valuations and liabilities. Analysts should review any 
+
+      provisions for environmental or regulatory liabilities and assess their financial 
+
+      impact.
+  - question: >
+      How should sustainability and ESG factors be evaluated in agricultural
+      balance sheets?
+    answer: >
+      Analysts should assess environmental liabilities, sustainability
+      investments, and 
+
+      ESG-related assets like renewable energy infrastructure. They should also evaluate 
+
+      compliance with environmental regulations and potential future capital requirements 
+
+      for sustainability initiatives.
+  - question: >
+      What are key considerations when analyzing biological assets in
+      agricultural 
+
+      balance sheets?
+    answer: >
+      Analysts should evaluate the valuation methods for biological assets
+      like crops 
+
+      and livestock, assess growth cycles and maturity stages, and consider factors 
+
+      affecting fair value measurements including market prices and transformation costs.
+  - question: >
+      How should government subsidies and support programs be considered in
+      balance 
+
+      sheet analysis?
+    answer: >
+      Analysts should review government grants, subsidies, and support
+      payments 
+
+      reflected in assets or deferred income. They should assess the reliability and 
+
+      sustainability of these programs and their impact on the company's financial 
+
+      position.

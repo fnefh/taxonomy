@@ -1,0 +1,97 @@
+version: 3
+task_description: Teach the model to analyze an insurance company's balance
+  sheet, focusing on asset quality, reserve adequacy, capital strength,
+  liquidity, and risk management specific to the insurance industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate the investment portfolio on an
+      insurance
+
+      company's balance sheet?
+    answer: >
+      Analysts should review the composition and quality of investments,
+      including bonds,
+
+      equities, real estate, and alternative assets. They must assess credit quality,
+
+      liquidity, and maturity profiles to understand market, credit, and interest rate risks.
+  - question: >
+      How should reinsurance recoverables and deferred acquisition costs
+      (DAC) be assessed?
+    answer: >
+      Analysts must examine amounts due from reinsurers and review DAC
+      policies. They should
+
+      verify that assumptions align with industry practices and assess potential risks if
+
+      counterparties fail to meet their obligations.
+  - question: >
+      What liability factors are critical in evaluating an insurance
+      company's balance
+
+      sheet?
+    answer: >
+      Key liabilities include policyholder reserves, unearned premiums, and
+      debt obligations.
+
+      Analysts should assess the adequacy of loss reserves using actuarial assumptions,
+
+      evaluate unearned premium reserves, and calculate leverage ratios like Debt-to-
+
+      Equity.
+  - question: |
+      How is capital adequacy and solvency evaluated for an insurance firm?
+    answer: >
+      Analysts should review shareholders' equity or policyholders' surplus
+      and compare
+
+      regulatory capital ratios, such as RBC or Solvency II, with industry benchmarks.
+
+      This assessment indicates the firm's ability to absorb unexpected losses.
+  - question: >
+      What liquidity measures should be considered when analyzing an
+      insurance company's
+
+      balance sheet?
+    answer: >
+      Analysts must evaluate liquid assets such as cash, cash equivalents, and
+      highly liquid
+
+      investments. They should also consider the timing mismatch between premium inflows
+
+      and claims outflows to assess overall liquidity.
+  - question: >
+      How should off-balance sheet items be analyzed in the context of an
+      insurance
+
+      company's balance sheet?
+    answer: >
+      Analysts should review reinsurance arrangements and contingent
+      liabilities,
+
+      including guarantees or legal commitments. Understanding these items is critical to
+
+      assess their potential impact on future cash flows and financial flexibility.
+  - question: >
+      How is asset-liability management (ALM) evaluated in the insurance
+      industry?
+    answer: >
+      Analysts should examine the matching of asset durations with liability
+      durations
+
+      to manage interest rate risk. Sensitivity analysis can help assess the impact of
+
+      rate changes and market conditions on the balance sheet.
+  - question: >
+      What additional factors, such as credit ratings and regulatory
+      compliance, should be
+
+      considered in an insurance balance sheet analysis?
+    answer: >
+      Analysts must review credit ratings from agencies like A.M. Best,
+      Standard & Poor's,
+
+      and Moody's, and ensure compliance with statutory accounting principles and regulatory
+
+      requirements to gauge the company's financial strength and risk exposure.

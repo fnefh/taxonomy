@@ -1,0 +1,88 @@
+version: 3
+task_description: Teach the model to analyze a cryptocurrency company's cash
+  flow statement, focusing on operating activities, investing and financing
+  flows, risk management, and liquidity management specific to the crypto
+  sector.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in a
+      cryptocurrency
+
+      company?
+    answer: >
+      The analyst should assess cash generated from core activities such as
+      trading
+
+      fees, commissions, staking rewards, and validator operations. Adjustments for
+
+      non-cash expenses and market volatility are key, along with analyzing changes in
+
+      digital asset inventory, customer deposit flows, and payment processor settlement
+
+      timing.
+  - question: >
+      What factors should be considered when analyzing investing cash flow
+      in the crypto
+
+      sector?
+    answer: >
+      Analysts must review cash flows from digital asset investments,
+      including the
+
+      purchases and sales of cryptocurrencies and investments in mining or validator
+
+      infrastructure. They should also evaluate spending on technology infrastructure,
+
+      such as security systems and compliance tools, as well as strategic investments in
+
+      blockchain projects.
+  - question: |
+      How should financing cash flows be analyzed in a cryptocurrency firm?
+    answer: >
+      The analysis should focus on cash inflows from equity issuance and debt
+      financing,
+
+      and outflows for debt repayments, dividends, or token distributions. Regulatory
+
+      capital requirements and cash flows from licensing and compliance should also be
+
+      reviewed.
+  - question: >
+      How do risk management activities impact the cash flow health of a
+      cryptocurrency
+
+      company?
+    answer: >
+      Risk management includes evaluating hedging strategies for foreign
+      exchange and
+
+      commodity risks, assessing premiums paid for crypto insurance, and reviewing spending
+
+      on cybersecurity measures. These strategies help stabilize cash flows amid market
+
+      volatility.
+  - question: >
+      What liquidity management factors are critical in evaluating a
+      cryptocurrency
+
+      company's cash flow statement?
+    answer: >
+      Analysts should evaluate the adequacy of fiat currency reserves and
+      manage the balance
+
+      between hot and cold wallets. They must also assess access to credit facilities, liquidity
+
+      buffers for stress scenarios, and the company's ability to meet sudden withdrawal demands.
+  - question: >
+      What overall insights can be drawn from a comprehensive analysis of a
+      crypto firm's cash
+
+      flow statement?
+    answer: >
+      By integrating the analysis of operating, investing, and financing cash
+      flows with risk
+
+      management and liquidity assessments, analysts can gauge the firm's ability to generate
+
+      sustainable cash, mitigate market risks, and maintain strong creditworthiness.

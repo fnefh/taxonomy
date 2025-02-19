@@ -1,0 +1,96 @@
+version: 3
+task_description: Teach the model to analyze a Real Estate company's balance
+  sheet, focusing on asset quality, property portfolio valuation, debt
+  management, liquidity, off-balance sheet items, and regulatory compliance
+  specific to the real estate industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate the portfolio of investment
+      properties,
+
+      including commercial, residential, industrial, and retail assets?
+    answer: >
+      Analysts should assess the composition and valuation of investment
+      properties by
+
+      reviewing the methods used (cost model vs. fair value), frequency of revaluations,
+
+      occupancy rates, lease terms, tenant quality, and geographic diversification.
+  - question: |
+      How should properties under development be analyzed on the balance sheet?
+    answer: >
+      Analysts must review properties under construction, land holdings, and
+      pre-sale or
+
+      pre-lease agreements. They should assess development stages, expected completion
+
+      dates, and risks such as cost overruns or market demand shifts.
+  - question: >
+      How should intangible assets, such as goodwill and brand equity, be
+      evaluated in
+
+      a real estate company?
+    answer: >
+      Analysts should examine goodwill from acquisitions and assess valuation
+      of
+
+      intangible assets like management contracts and trademarks. Evaluating impairment
+
+      risks is crucial if acquired entities underperform.
+  - question: >
+      How can the debt structure and leverage of a real estate company be
+      analyzed?
+    answer: >
+      Analysts must review short-term and long-term debt obligations,
+      including mortgages,
+
+      bonds, and loans. Calculating leverage ratios such as Loan-to-Value, Debt-to-
+
+      Equity, and Debt-to-EBITDA, and assessing debt servicing ability amid market cycles
+
+      are essential.
+  - question: >
+      What liquidity measures are critical when evaluating a real estate
+      company's
+
+      balance sheet?
+    answer: >
+      Key liquidity metrics include the current ratio and quick ratio.
+      Analysts should review
+
+      working capital management by analyzing receivables from tenants, payables to
+
+      suppliers, and the impact of property sales cycles on short-term liquidity.
+  - question: >
+      How should off-balance sheet items be evaluated in the context of real
+      estate?
+    answer: >
+      Analysts must identify off-balance sheet obligations such as operating
+      leases for
+
+      retail spaces, warehouses, or equipment, as well as long-term purchase commitments
+
+      and joint venture arrangements, to gauge their impact on future cash flows.
+  - question: |
+      How can asset valuation and impairment risks be analyzed for a real estate
+      portfolio?
+    answer: >
+      Analysts should assess sensitivity of property values to market
+      conditions,
+
+      interest rates, and economic cycles. Reviewing cap rate analysis and policies for
+
+      recognizing impairments or write-downs is essential to understand reserve adequacy.
+  - question: >
+      What regulatory and compliance considerations are important in a real
+      estate
+
+      balance sheet analysis?
+    answer: >
+      Analysts must evaluate compliance with zoning laws, environmental and
+      safety
+
+      regulations, and building codes. They should also review potential liabilities
+
+      from regulatory non-compliance and assess risks from changes in industry policies.

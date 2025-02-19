@@ -1,0 +1,87 @@
+---
+version: 3
+task_description: Teach the model to perform a detailed balance sheet analysis
+  for airline companies, focusing on aircraft fleet, intangible assets,
+  liabilities, liquidity, and asset utilization.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate the aircraft fleet and capital
+      assets in an
+
+      airline balance sheet?
+    answer: >
+      The analyst should assess both owned and leased aircraft by considering
+      fleet age,
+
+      fuel efficiency, maintenance costs, and technological advancements. Additional
+
+      capital assets like airport facilities, equipment, and tech systems should also be
+
+      evaluated.
+  - question: >
+      What key factors must be examined when analyzing intangible assets in
+      the airline
+
+      industry?
+    answer: >
+      Intangible assets include airport slots, gates, routes, and brand value.
+      Analysts
+
+      should evaluate how these assets contribute to competitive advantage and future
+
+      revenue generation.
+  - question: >
+      How is Air Traffic Liability (ATL) considered in asset analysis for
+      airlines?
+    answer: >
+      ATL represents money received for passenger tickets and cargo services
+      that have
+
+      not yet been provided. Analysts must adjust asset analysis to account for this
+
+      unearned revenue.
+  - question: >
+      What debt structure factors are essential for evaluating an airline's
+      liabilities?
+    answer: >
+      Analysts must review both short- and long-term debt, calculate leverage
+      ratios such as
+
+      Debt-to-Equity and Debt-to-EBITDA, and assess the company's ability to service debt,
+
+      especially during economic downturns.
+  - question: >
+      How do lease obligations and labor-related liabilities affect an
+      airline's balance
+
+      sheet?
+    answer: >
+      Lease obligations, including operating and capital leases for aircraft
+      and equipment,
+
+      can restrict financial flexibility. In addition, significant labor obligations such as
+
+      pensions and post-retirement benefits add to fixed costs and impact overall stability.
+  - question: >
+      How should liquidity and working capital management be analyzed in the
+      airline
+
+      industry?
+    answer: >
+      Analysts should calculate liquidity ratios like the current and quick
+      ratios, and then
+
+      assess working capital components such as receivables, payables, and spare parts
+
+      inventory to determine operational efficiency.
+  - question: >
+      What does fixed asset turnover indicate in an airline's balance sheet
+      analysis?
+    answer: >
+      Fixed asset turnover measures how effectively the company uses its
+      aircraft and
+
+      facilities to generate revenue. Higher turnover indicates efficient use of
+
+      capital-intensive assets.

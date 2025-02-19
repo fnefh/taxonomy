@@ -1,0 +1,96 @@
+---
+version: 3
+task_description: Teach the model to analyze an airline company's cash flow
+  statement with a focus on operating, investing, and financing activities, free
+  cash flow, liquidity, sensitivity analysis, and working capital management.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in an
+      airline's cash flow
+
+      statement?
+    answer: >
+      The analyst should assess the ability to generate positive operating
+      cash flow by 
+
+      adjusting net income for non-cash items such as depreciation of aircraft, amortization,
+
+      impairments, and stock-based compensation. Changes in working capital, including 
+
+      receivables, inventory, and payables, must also be reviewed, along with the cash impact 
+
+      of advance ticket payments (Air Traffic Liability).
+  - question: |
+      How should investing cash flow be analyzed for an airline company?
+    answer: >
+      The analyst should review cash outflows for capital expenditures on
+      aircraft, engines, 
+
+      and other significant assets. Investments in fleet modernization and efficiency 
+
+      improvements, as well as proceeds from asset sales, must be evaluated.
+  - question: >
+      What key elements are critical in analyzing financing cash flow for an
+      airline?
+    answer: >
+      Analysts must examine cash inflows from new debt issuance and outflows
+      for debt 
+
+      repayments. They should also assess lease financing for aircraft and equipment, 
+
+      review equity financing activities, and evaluate dividend payments and share 
+
+      repurchases.
+  - question: >
+      How is free cash flow (FCF) calculated for an airline, and why is it
+      important?
+    answer: >
+      Free cash flow is calculated by subtracting capital expenditures from
+      operating cash
+
+      flow. It indicates the surplus cash available for debt servicing, reinvestment, and 
+
+      returning capital to shareholders.
+  - question: >
+      What liquidity metrics should be considered when analyzing an
+      airline's cash flow 
+
+      statement?
+    answer: >
+      The analyst should calculate current and quick ratios, assess cash and
+      cash 
+
+      equivalents, and review available credit facilities and revolving credit lines to 
+
+      ensure the company can meet its short-term obligations.
+  - question: >
+      How does fuel price volatility affect airline cash flows, and what
+      strategies can 
+
+      mitigate this risk?
+    answer: >
+      Fluctuations in fuel prices can significantly impact operating costs and
+      cash flow. 
+
+      Effective fuel hedging strategies help stabilize expenses and protect profit margins.
+  - question: >
+      How do economic conditions and demand fluctuations influence an
+      airline's cash flow?
+    answer: >
+      Economic downturns and shifts in passenger demand can disrupt revenue
+      generation.
+
+      Analysts should examine trends in load factors, ticket pricing, and seasonality to 
+
+      assess the impact on cash flow stability.
+  - question: >
+      What aspects of working capital management are crucial in analyzing
+      airline cash flows?
+    answer: >
+      Efficient management of receivables from travel agencies and customers,
+      optimization 
+
+      of payables to suppliers, and prudent inventory management for spare parts are vital 
+
+      to maintain smooth cash flow and operational efficiency.

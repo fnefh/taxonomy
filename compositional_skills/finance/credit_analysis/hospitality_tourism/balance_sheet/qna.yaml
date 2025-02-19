@@ -1,0 +1,109 @@
+version: 3
+task_description: Teach the model to analyze a hospitality and tourism company's
+  balance sheet, focusing on asset quality, liabilities, equity, liquidity,
+  off-balance sheet items, risk management, and regulatory compliance specific
+  to the hospitality industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate PP&E in a hospitality and tourism
+      company?
+    answer: >
+      Analysts should review the composition and valuation of properties such
+      as hotels,
+
+      resorts, restaurants, and other facilities. They must assess asset age, condition, and
+
+      location, and analyze capital expenditure trends for maintenance, renovations, or
+
+      expansions to enhance guest experiences and operational efficiency.
+  - question: >
+      What factors are important when analyzing intangible assets in the
+      hospitality sector?
+    answer: >
+      Key intangible assets include goodwill from acquisitions and brand
+      equity from
+
+      trademarks and franchise agreements. Analysts should evaluate valuation methods,
+
+      amortization policies, and potential impairment risks that affect competitive
+
+      advantage and revenue generation.
+  - question: >
+      How should inventory be evaluated on the balance sheet of a
+      hospitality company?
+    answer: >
+      Analysts should review inventory levels of food and beverage supplies,
+      amenities,
+
+      and other operational items. They must assess management practices, seasonal
+
+      build-ups, perishability risks, and the impact of valuation methods (e.g., FIFO,
+
+      LIFO, weighted average) on financial statements.
+  - question: >
+      How can accounts receivable be assessed for a hospitality and tourism
+      company?
+    answer: >
+      Analysts should analyze the quality and aging of receivables from
+      retailers,
+
+      distributors, and service contracts. Evaluating credit terms, collection efficiency,
+
+      and Days Sales Outstanding (DSO) is essential to determine receivables risk.
+  - question: >
+      What liability factors must be considered when evaluating a
+      hospitality company's
+
+      balance sheet?
+    answer: >
+      Analysts need to examine short- and long-term debt obligations,
+      including interest
+
+      rates, maturity profiles, covenants, and the mix of fixed and variable-rate debt.
+
+      They should also review accounts payable, deferred revenue from group bookings or
+
+      events, and any contingent liabilities arising from legal or regulatory issues.
+  - question: >
+      How should liquidity and working capital management be assessed in
+      this industry?
+    answer: >
+      Key liquidity measures include the current and quick ratios and the
+      adequacy of cash
+
+      reserves to meet short-term obligations. Analysts should review working capital
+
+      management, particularly the impact of seasonal occupancy and sales cycles on receivables,
+
+      payables, and inventory.
+  - question: >
+      How do off-balance sheet items impact the analysis of a hospitality
+      company's
+
+      balance sheet?
+    answer: >
+      Off-balance sheet items such as operating leases for retail spaces,
+      warehouses, or
+
+      equipment, as well as joint ventures and strategic partnerships, must be identified.
+
+      Their potential impact on future cash flows and financial flexibility should be
+
+      carefully evaluated.
+  - question: >
+      What risk management and regulatory factors should be considered in
+      the hospitality
+
+      and tourism industry?
+    answer: >
+      Analysts should evaluate exposure to currency and foreign exchange risks
+      for
+
+      international operations and consider economic risks from market downturns.
+
+      Additionally, compliance with health, safety, and labor regulations, along with
+
+      environmental obligations and potential legal liabilities, is critical for assessing
+
+      overall financial stability.

@@ -1,0 +1,105 @@
+version: 3
+task_description: Teach the model to analyze a media and entertainment company's
+  balance sheet, focusing on asset quality, liabilities, equity, liquidity,
+  off-balance sheet items, and risk management specific to the industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate intangible assets in a media
+      company’s 
+
+      balance sheet?
+    answer: >
+      Analysts should review content libraries, digital rights, and
+      intellectual 
+
+      property. They must assess valuation and amortization policies, useful life 
+
+      assumptions, and impairment risks from shifting consumer preferences and 
+
+      rapid technological changes.
+  - question: >
+      What factors are important when analyzing PP&E for a media and
+      entertainment 
+
+      company?
+    answer: >
+      Analysts must assess investments in production facilities, studios,
+      broadcasting 
+
+      equipment, theme parks, and theaters. Evaluating asset age, condition, and 
+
+      modernization efforts is essential to support current operations and future growth.
+  - question: >
+      How can strategic investments in joint ventures and affiliates be
+      evaluated on 
+
+      the balance sheet?
+    answer: >
+      Analysts should examine equity investments in co-productions, joint
+      ventures, 
+
+      and partnerships. Assessing their strategic importance and financial performance 
+
+      helps determine their impact on overall asset quality and stability.
+  - question: >
+      What liability factors should be considered in the balance sheet of a
+      media and 
+
+      entertainment company?
+    answer: >
+      Key liabilities include short- and long-term debt, deferred revenue from
+      licensing 
+
+      and distribution deals, and profit-sharing obligations with talent. Analysts should 
+
+      calculate leverage ratios and assess covenant compliance.
+  - question: |
+      How should shareholders' equity and capital structure be analyzed in this 
+      industry?
+    answer: >
+      Analysts must review changes in retained earnings, accumulated other 
+
+      comprehensive income, and treasury stock. Evaluating dividend policies, stock 
+
+      issuances, and share repurchase programs reveals the strength of the company’s 
+
+      capital base.
+  - question: >
+      What liquidity measures are essential for assessing a media company's
+      balance 
+
+      sheet?
+    answer: >
+      Analysts should calculate current and quick ratios and evaluate cash
+      reserves. 
+
+      They must also review working capital management, focusing on receivables from 
+
+      advertisers and subscription services.
+  - question: >
+      How do off-balance sheet items and contingent liabilities impact
+      financial 
+
+      flexibility in the media industry?
+    answer: >
+      Analysts must identify off-balance sheet obligations such as operating
+      leases for 
+
+      studios, offices, or equipment, as well as long-term content licensing agreements 
+
+      and contingent liabilities from legal disputes or regulatory actions. These 
+
+      factors affect future cash flows and overall flexibility.
+  - question: |
+      What risk management and regulatory factors should be considered in the 
+      analysis of a media company's balance sheet?
+    answer: >
+      Analysts should evaluate exposure to currency fluctuations and market
+      risks, 
+
+      along with compliance with content regulations, censorship laws, and licensing 
+
+      standards. Assessing hedging strategies and legal risks is critical for overall 
+
+      financial stability.

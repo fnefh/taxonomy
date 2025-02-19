@@ -1,0 +1,87 @@
+version: 3
+task_description: Teach the model to conduct a detailed utilities balance sheet
+  analysis for credit evaluation, addressing industry-specific asset
+  composition, liability structure, liquidity metrics, off-balance sheet
+  commitments, and regulatory impacts.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate the composition and valuation of
+      PP&E in a
+
+      utilities company's balance sheet?
+    answer: >
+      The analyst should segment PP&E into categories such as power generation
+      facilities
+
+      (coal, natural gas, nuclear, renewable plants), transmission/distribution networks, and
+
+      supporting infrastructure. Key steps include assessing the age, efficiency, and
+
+      technological relevance of each asset group, reviewing historical capital expenditure
+
+      trends, and factoring in regulatory and environmental standards that may necessitate
+
+      future investments or lead to asset impairments.
+  - question: >
+      What is the significance of regulatory assets on a utilities company's
+      balance sheet?
+    answer: >
+      Regulatory assets arise from timing differences between cost incurrence
+      and rate-based
+
+      recovery. They provide a financial buffer that can enhance liquidity and support future
+
+      earnings; however, they also pose a risk if regulatory changes impact recoverability.
+
+      Analysts must evaluate the quality of these assets, monitor any signs of impairment, and
+
+      understand the underlying regulatory framework governing cost recovery.
+  - question: >
+      Which debt metrics and qualitative factors are essential in assessing
+      a utilities
+
+      company's leverage and debt servicing capacity?
+    answer: >
+      Critical metrics include Debt-to-Equity and Debt-to-Capital ratios.
+      Qualitative factors
+
+      include the maturity profiles of short-term and long-term debt, interest rate exposure
+
+      (fixed versus variable), and any restrictive covenants. Given the capital-intensive nature
+
+      of utilities, it is important to examine cash flow stability from regulated operations and
+
+      the company's historical debt servicing performance.
+  - question: >
+      How do off-balance sheet items, such as operating leases and power
+      purchase agreements,
+
+      affect the financial analysis of utilities companies?
+    answer: >
+      Off-balance sheet items like long-term operating leases, fuel supply
+      contracts, and PPAs
+
+      can obscure the true level of financial commitments. Analysts should adjust liquidity and
+
+      leverage assessments by considering these hidden obligations, ensuring that all potential
+
+      future cash outflows are incorporated into the overall risk and financial flexibility
+
+      evaluation.
+  - question: >
+      What are the key considerations when evaluating Asset Retirement
+      Obligations (AROs)
+
+      in the utilities industry?
+    answer: >
+      Asset Retirement Obligations represent future costs for decommissioning
+      assets and
+
+      complying with environmental regulations. Analysts should assess the accuracy of the
+
+      estimated liabilities, the discount rates used in present value calculations, and the
+
+      adequacy of any reserves set aside. Underestimation may expose the company to unforeseen
+
+      financial burdens, whereas overestimation could distort profitability metrics.

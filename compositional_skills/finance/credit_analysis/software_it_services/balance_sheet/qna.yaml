@@ -1,0 +1,108 @@
+version: 3
+task_description: Teach the model to analyze a software and IT services
+  company's balance sheet, focusing on asset quality, liabilities, equity,
+  liquidity, off-balance sheet items, and regulatory risks in the industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate intangible assets and
+      intellectual property 
+
+      on a software and IT services company's balance sheet?
+    answer: >
+      Analysts should review the capitalization policies for software
+      development costs,
+
+      both internally developed and acquired. They must assess amortization methods,
+
+      useful life assumptions, and impairment risks for these assets, as well as evaluate 
+
+      patents, trademarks, and other proprietary technologies for competitive advantage.
+  - question: >
+      How should property, plant, and equipment (PP&E) be analyzed in this
+      industry?
+    answer: >
+      Analysts should evaluate investments in office spaces, data centers,
+      servers, and 
+
+      other physical infrastructure. Key factors include asset age, condition, and 
+
+      technological relevance, along with trends in capital expenditures for upgrades or 
+
+      replacements.
+  - question: >
+      What aspects of accounts receivable are critical when analyzing a
+      software 
+
+      company's balance sheet?
+    answer: >
+      Analysts must examine the quality and aging of receivables from
+      subscription 
+
+      services, licensing agreements, and professional services. Evaluating credit terms 
+
+      and calculating Days Sales Outstanding (DSO) help gauge collection efficiency and 
+
+      customer concentration risks.
+  - question: >
+      How should debt structure and leverage be assessed in a software and
+      IT services 
+
+      company?
+    answer: >
+      Analysts should review short- and long-term debt obligations, including
+      interest rates,
+
+      maturity profiles, and covenants. Calculating leverage ratios such as Debt-to-Equity 
+
+      and Debt-to-EBITDA and assessing the company's ability to service debt amid market 
+
+      competition are essential.
+  - question: >
+      How should deferred revenue and contract liabilities be analyzed on
+      the balance sheet?
+    answer: >
+      Analysts must examine advance payments received for subscription
+      services and 
+
+      long-term contracts. They should assess the timing of revenue recognition and the 
+
+      company's obligations to deliver products or services over time.
+  - question: >
+      How can off-balance sheet items affect the balance sheet of a software
+      company?
+    answer: >
+      Analysts should identify significant off-balance sheet financing
+      arrangements such as 
+
+      operating leases for office spaces or data centers, and any joint ventures or strategic 
+
+      partnerships. Evaluating these commitments is important to understand their impact 
+
+      on future cash flows and financial flexibility.
+  - question: >
+      What liquidity metrics are essential for evaluating a software and IT
+      services 
+
+      company's balance sheet?
+    answer: >
+      Key liquidity measures include the current ratio and quick ratio, as
+      well as an 
+
+      analysis of working capital management and the cash conversion cycle, considering 
+
+      the impact of subscription billing cycles.
+  - question: >
+      How should regulatory and risk management considerations be
+      incorporated into 
+
+      the balance sheet analysis?
+    answer: >
+      Analysts must evaluate compliance with data privacy and cybersecurity
+      regulations, 
+
+      as well as intellectual property laws. They should also assess hedging strategies 
+
+      for foreign exchange risks and review contingent liabilities arising from legal 
+
+      disputes or regulatory issues.

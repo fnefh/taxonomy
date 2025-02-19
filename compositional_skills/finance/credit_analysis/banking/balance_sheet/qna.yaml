@@ -1,0 +1,77 @@
+version: 3
+task_description: Teach the model to perform a detailed analysis of a bank's
+  balance sheet, focusing on asset quality, capital adequacy, funding,
+  liquidity, ALM, off-balance sheet exposures, and risk management practices.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst assess asset quality in a bank's balance sheet?
+    answer: >
+      The analyst should evaluate the loan portfolio composition by type, such
+      as commercial 
+
+      loans, consumer loans, mortgages, and credit cards. They should measure the 
+
+      proportion of non-performing loans and review loan loss reserves. Concentration risks 
+
+      by industry, geography, or borrower must also be assessed. Investment securities and 
+
+      the allowance for loan and lease losses (ALLL) should be analyzed relative to risk.
+  - question: >
+      What capital adequacy metrics are essential for evaluating a bank's
+      financial 
+
+      strength?
+    answer: >
+      Key metrics include the Tier 1 Capital Ratio, Total Capital Ratio, and
+      Common Equity 
+
+      Tier 1 (CET1) Ratio. Analysts should also evaluate the leverage ratio, defined as 
+
+      Tier 1 Capital divided by Average Total Assets, and compare these to Basel III 
+
+      standards and industry benchmarks.
+  - question: |
+      How should funding and liquidity be analyzed in a bank's balance sheet?
+    answer: >
+      Analysts must examine the stability and composition of the deposit base,
+      including 
+
+      demand, savings, and time deposits. They should assess the cost of deposits and 
+
+      evaluate wholesale funding sources such as interbank loans or repurchase agreements. 
+
+      Liquidity ratios like the Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio 
+
+      (NSFR) are critical.
+  - question: |
+      How is asset-liability management (ALM) assessed in the banking sector?
+    answer: >
+      ALM analysis involves examining the mismatch between asset and liability
+      maturities, 
+
+      evaluating the sensitivity of both to interest rate changes, and reviewing hedging 
+
+      strategies that use derivatives to mitigate interest rate risk.
+  - question: >
+      What off-balance sheet exposures should be considered when analyzing a
+      bank's risk?
+    answer: >
+      Off-balance sheet items include contingent liabilities such as loan
+      commitments, 
+
+      letters of credit, and guarantees. Analysts should also review exposures from 
+
+      derivatives and securitized assets to assess potential impacts on liquidity and risk.
+  - question: >
+      Which other considerations are important when evaluating a bank's
+      balance sheet for 
+
+      credit analysis?
+    answer: >
+      Analysts should verify regulatory compliance with capital requirements
+      and review 
+
+      the bank's risk management practices. This includes assessing internal controls for 
+
+      managing credit, market, and operational risks to ensure overall financial stability.

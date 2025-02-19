@@ -1,0 +1,126 @@
+version: 3
+task_description: Teach the model to perform a detailed income statement
+  analysis for Aerospace and Defense companies. The analysis covers revenue
+  recognition, cost structure, profitability metrics, contract performance,
+  government influences, and non-recurring items.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate revenue streams in an aerospace
+      and defense
+
+      income statement?
+    answer: >
+      The analyst should distinguish between revenue from segments such as
+      commercial 
+
+      aviation, defense contracts, space systems, and services. It is important to assess 
+
+      diversification and reliance on key programs or customers.
+  - question: >
+      What key revenue recognition methods and contract types should be analyzed?
+    answer: >
+      The analyst should review the mix of fixed-price, cost-plus, and
+      time-and-materials 
+
+      contracts, along with methods such as percentage-of-completion versus completed-
+
+      contract. This helps assess how contract modifications and change orders impact revenue.
+  - question: >
+      How are operating expenses and cost structures analyzed in the income
+      statement 
+
+      for this industry?
+    answer: >
+      Analysis should focus on the cost of goods sold, including direct
+      materials, labor, 
+
+      and overhead. In addition, R&D expenses, SG&A costs, and any restructuring or 
+
+      impairment charges must be evaluated to understand their effect on gross and operating 
+
+      margins.
+  - question: >
+      Which profitability metrics are critical in assessing an aerospace and
+      defense 
+
+      company's performance?
+    answer: >
+      Key metrics include operating income, operating margin, and EBITDA
+      margins. These 
+
+      ratios help determine the efficiency of cost management and indicate the impact of 
+
+      pricing pressures and cost overruns.
+  - question: >
+      How do contract performance risks, such as cost overruns and schedule
+      delays, affect 
+
+      income statement analysis?
+    answer: >
+      Historical incidences of cost overruns or schedule delays can erode
+      profitability. 
+
+      Adjustments in contract profit estimates and potential revisions in revenue forecasts 
+
+      should be factored into the analysis.
+  - question: >
+      What is the impact of government defense budgets and regulatory
+      compliance costs on 
+
+      revenue and profitability?
+    answer: >
+      Changes in defense spending and government policies directly influence
+      revenue 
+
+      levels and margins. Regulatory compliance costs, such as export controls and quality 
+
+      standards, also add to operating expenses and can affect overall profitability.
+  - question: >
+      How should non-operating items and one-time charges be treated in the
+      analysis?
+    answer: >
+      Non-operating items like interest expense, foreign exchange
+      gains/losses, and 
+
+      one-time charges or gains must be isolated from core operations to adjust earnings 
+
+      metrics and reveal the true operational performance.
+  - question: >
+      What are the key backlog metrics to analyze in aerospace and defense
+      income statements?
+    answer: |
+      Key backlog metrics include:
+      - Book-to-bill ratio trends by segment
+      - Funded vs unfunded backlog composition
+      - Average contract duration in backlog
+      - Backlog quality and potential for cancellations
+      - Conversion rate of backlog to revenue
+  - question: >
+      How should segment mix changes be evaluated for their impact on
+      profitability?
+    answer: |
+      Analysis should consider:
+      - Margin differences between commercial and defense segments
+      - Product vs services revenue mix trends
+      - Impact of new program ramp-ups on margins
+      - Legacy program wind-downs and margin implications
+      - Geographic market mix effects on profitability
+  - question: |
+      What are important considerations when analyzing R&D spending patterns?
+    answer: |
+      Key factors include:
+      - Customer-funded vs company-funded R&D ratio
+      - R&D intensity compared to industry peers
+      - Program-specific development risks
+      - R&D tax credits and government incentives
+      - Return on R&D investment track record
+  - question: |
+      How should supply chain disruptions and input cost volatility be assessed?
+    answer: |
+      Analysis should focus on:
+      - Raw material and component cost trends
+      - Labor cost inflation and availability
+      - Contract pricing adjustment mechanisms
+      - Supplier health and concentration risks
+      - Inventory management effectiveness

@@ -1,0 +1,112 @@
+version: 3
+task_description: Teach the model to analyze a manufacturing company's balance
+  sheet, focusing on asset quality, inventory management, debt levels,
+  liquidity, and industry- specific risks.
+created_by: fnefh
+seed_examples:
+  - question: |
+      How should a credit analyst evaluate asset composition in a manufacturing 
+      company's balance sheet?
+    answer: >
+      Analysts should review PP&E such as manufacturing facilities,
+      machinery, 
+
+      equipment, and technology assets. They must assess asset age, condition, and 
+
+      modernization, analyze capital expenditure trends, and review inventory levels, 
+
+      turnover ratios, and valuation methods. In addition, intangible assets like 
+
+      goodwill and patents and the quality of receivables should be examined.
+  - question: >
+      How should liabilities be assessed in the balance sheet of a
+      manufacturing 
+
+      company?
+    answer: >
+      Analysts need to evaluate both short- and long-term debt obligations by
+      reviewing 
+
+      interest rates, maturity profiles, covenants, and the mix of fixed and variable-rate 
+
+      debt. They should also examine accounts payable, accrued expenses, pension and 
+
+      post-retirement obligations, and any contingent liabilities from warranties, 
+
+      recalls, or litigation.
+  - question: >
+      How can shareholders' equity and capital structure be analyzed in a
+      manufacturing 
+
+      company's balance sheet?
+    answer: >
+      Analysts should examine changes in retained earnings, accumulated other 
+
+      comprehensive income, and treasury stock. Evaluating dividend policies, stock 
+
+      issuances, share repurchase programs, and non-controlling interests provides insight 
+
+      into the company’s capital strength.
+  - question: >
+      What liquidity measures are critical for assessing a manufacturing
+      company's 
+
+      balance sheet?
+    answer: >
+      Key liquidity metrics include the current ratio and quick ratio.
+      Analysts should 
+
+      review working capital management by analyzing accounts receivable, accounts payable, 
+
+      and inventory levels, considering the impact of cyclical demand on liquidity.
+  - question: >
+      How should off-balance sheet items be analyzed for a manufacturing company?
+    answer: >
+      Analysts must identify off-balance sheet obligations such as operating
+      leases for 
+
+      facilities, equipment, or vehicles, and long-term purchase commitments. These items 
+
+      must be assessed for their potential impact on future cash flows and financial 
+
+      flexibility.
+  - question: >
+      How can risk management factors be evaluated in a manufacturing
+      company's balance 
+
+      sheet analysis?
+    answer: >
+      Analysts should evaluate exposure to currency fluctuations and commodity
+      price 
+
+      volatility, such as for metals, plastics, or energy. Reviewing hedging strategies, 
+
+      procurement contracts, and supply chain management is critical to mitigate these risks.
+  - question: >
+      What regulatory and compliance considerations should be taken into
+      account in 
+
+      the balance sheet analysis of a manufacturing company?
+    answer: >
+      Analysts should assess compliance with environmental laws, safety
+      standards, and 
+
+      industry regulations. They must consider potential liabilities from non-compliance, 
+
+      environmental remediation, and risks from technological obsolescence.
+  - question: >
+      What overall insights can be drawn from a comprehensive analysis of a
+      manufacturing 
+
+      company's balance sheet?
+    answer: >
+      A thorough analysis integrates asset quality, debt management,
+      liquidity, and 
+
+      off-balance sheet exposures, while considering risk management and regulatory 
+
+      compliance. This holistic view helps identify strengths and risks, such as high 
+
+      leverage, inventory obsolescence, and economic cycle exposure, which can impact 
+
+      creditworthiness.

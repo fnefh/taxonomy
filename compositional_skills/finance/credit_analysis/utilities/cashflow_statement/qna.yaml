@@ -1,0 +1,76 @@
+version: 3
+task_description: Teach the model how to analyze a utilities company’s cash flow
+  statement, focusing on operating, investing, and financing activities, free
+  cash flow, and liquidity.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate the operating cash flow in a
+      utilities company?
+    answer: >
+      The analyst should review cash flows from core operating activities and
+      adjust for 
+
+      non-cash expenses such as depreciation and amortization. They should also analyze 
+
+      changes in working capital components like accounts receivable, accounts payable, 
+
+      and regulatory assets. Seasonal demand fluctuations and fuel cost pass-through timing 
+
+      must be considered.
+  - question: >
+      What factors should be examined when analyzing investing cash flows,
+      particularly 
+
+      capital expenditures, in the utilities sector?
+    answer: >
+      The analyst must examine cash outflows for infrastructure investments,
+      including 
+
+      maintenance, upgrades, and expansion projects. It is essential to compare CapEx 
+
+      relative to both depreciation expense and operating cash flow, and to ensure that 
+
+      investment plans align with regulatory approvals and future demand forecasts.
+  - question: >
+      Which aspects of financing cash flow are critical for assessing a
+      utilities company's 
+
+      financial flexibility and debt servicing capacity?
+    answer: >
+      Key aspects include analyzing cash inflows from new borrowings and
+      outflows for debt 
+
+      repayments, assessing the maturity profile and interest structure of the debt, and 
+
+      reviewing equity financing activities such as share issuances and repurchases. The 
+
+      sustainability of dividend payments should also be evaluated.
+  - question: >
+      How is free cash flow (FCF) calculated in this context, and why is it
+      important for 
+
+      credit analysis in utilities?
+    answer: >
+      Free cash flow is calculated by subtracting capital expenditures from
+      operating cash 
+
+      flow. This measure reflects the company's ability to generate surplus cash for debt 
+
+      servicing, reinvestment, and shareholder returns, which is particularly important in 
+
+      a capital-intensive, regulated industry.
+  - question: >
+      What elements should be considered in a cash flow sensitivity analysis
+      for a utilities 
+
+      company?
+    answer: >
+      The analysis should assess the impact of changes in operating
+      conditions, regulatory 
+
+      decisions, fuel prices, and capital expenditure requirements on cash flow projections. 
+
+      It should also consider the company's ability to adjust expenditures and maintain liquidity 
+
+      through available credit facilities and compliance with financial covenants.

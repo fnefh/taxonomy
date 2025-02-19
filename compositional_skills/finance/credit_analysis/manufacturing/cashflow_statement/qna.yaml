@@ -1,0 +1,104 @@
+version: 3
+task_description: Teach the model to analyze a manufacturing company's cash flow
+  statement, focusing on operating, investing, and financing cash flows, free
+  cash flow, liquidity, sensitivity analysis, and risk management in the
+  manufacturing industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in a
+      manufacturing 
+
+      company?
+    answer: >
+      Analysts should assess cash flows from core operations by adjusting net
+      income
+
+      for non-cash expenses such as depreciation, amortization, impairments, and
+
+      stock-based compensation. They must also analyze changes in working capital,
+
+      including receivables, inventory, and payables, to understand cash flow stability.
+  - question: >
+      What working capital components are critical in evaluating operating
+      cash flow?
+    answer: >
+      Key components include accounts receivable from customers, inventory
+      levels,
+
+      and accounts payable. Analysts should review credit policies, collection efficiency,
+
+      and the impact of inventory fluctuations on cash flow, especially during demand
+
+      cycles.
+  - question: >
+      How should investing cash flow be analyzed in terms of capital
+      expenditures (CapEx)?
+    answer: >
+      Analysts must review cash outflows for investments in manufacturing
+      facilities,
+
+      machinery, equipment upgrades, automation, and technology enhancements. They
+
+      should assess CapEx relative to depreciation and operating cash flow, and evaluate
+
+      capital investment plans for growth or maintenance.
+  - question: >
+      How should cash flows from acquisitions, divestitures, and R&D
+      investments be 
+
+      evaluated?
+    answer: >
+      Analysts should examine cash used for acquiring or selling businesses
+      and assets,
+
+      and review expenditures on R&D projects that may be capitalized. These cash flows
+
+      indicate the firm's focus on innovation and its strategic growth plans.
+  - question: |
+      How can financing cash flow be assessed in a manufacturing company?
+    answer: >
+      Analysts must evaluate cash inflows from new borrowings and equity
+      issuance,
+
+      and outflows for debt repayments, share repurchases, and dividends. Examining the
+
+      maturity profile of debt and refinancing risks is critical to understand the funding
+
+      strategy.
+  - question: >
+      How is free cash flow (FCF) calculated and why is it important for a
+      manufacturing 
+
+      company?
+    answer: >
+      Free cash flow is calculated by subtracting capital expenditures from
+      operating
+
+      cash flow. It measures the company's ability to generate surplus cash for debt
+
+      servicing, reinvestment, and shareholder returns despite working capital fluctuations.
+  - question: >
+      What liquidity measures are essential for evaluating a manufacturing
+      company's 
+
+      cash flow health?
+    answer: >
+      Analysts should calculate liquidity ratios such as the current and quick
+      ratios.
+
+      They must also review cash reserves, access to credit facilities, and compliance
+
+      with covenants to assess the firm's ability to meet short-term obligations.
+  - question: >
+      How should sensitivity analysis and risk management be incorporated
+      into cash flow 
+
+      analysis?
+    answer: >
+      Analysts should evaluate the impact of economic cycles, demand
+      fluctuations, and
+
+      raw material price volatility on cash flow projections. Assessing hedging strategies,
+
+      procurement practices, and the effectiveness of derivatives in mitigating risk is key.

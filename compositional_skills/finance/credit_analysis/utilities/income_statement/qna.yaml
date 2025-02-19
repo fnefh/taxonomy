@@ -1,0 +1,94 @@
+version: 3
+task_description: Teach the model to conduct a detailed income statement
+  analysis for utilities companies, focusing on revenue streams, operating
+  expenses, profitability metrics, interest expense, regulatory impacts, and
+  environmental compliance costs.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How do you differentiate between regulated and unregulated revenue
+      streams in
+
+      a utilities income statement?
+    answer: >
+      Regulated revenue is derived from operations such as transmission and
+
+      distribution under regulatory oversight, making it stable and predictable.
+
+      Unregulated revenue, such as from merchant power generation or energy trading,
+
+      is more volatile.
+  - question: >
+      What role does customer segmentation play in analyzing a utilities
+      company's
+
+      income statement?
+    answer: >
+      Customer segmentation breaks down revenue by customer classes like
+      residential,
+
+      commercial, and industrial. This analysis helps assess the impact of demand
+
+      fluctuations and economic conditions on revenue stability.
+  - question: >
+      How should operating expenses be analyzed in the income statement of a
+      utilities
+
+      company?
+    answer: >
+      The analyst should focus on fuel and purchased power costs, operations
+      and
+
+      maintenance expenses, and depreciation. Evaluating the impact of fuel price
+
+      volatility and cost control measures is also critical.
+  - question: >
+      Which profitability metrics are crucial for evaluating a utilities
+      company's
+
+      performance?
+    answer: >
+      Key metrics include operating income, operating margin, and EBIT. These
+      reflect
+
+      the company's core operational efficiency and are influenced by regulatory rate
+
+      cases and allowed returns.
+  - question: >
+      How does the company's interest expense and debt structure affect its
+      income
+
+      statement analysis?
+    answer: >
+      A high interest expense relative to EBIT may indicate financial strain.
+      Evaluating
+
+      interest coverage ratios and analyzing the maturity and structure of debt are
+
+      essential to assess the company's ability to service its obligations.
+  - question: >
+      What impact do regulatory rate cases and cost recovery clauses have on
+      a utilities
+
+      company's income statement?
+    answer: >
+      Regulatory rate cases can lead to approved rate increases and
+      adjustments to
+
+      allowed returns, which directly influence revenue and profitability. Cost 
+
+      recovery clauses help stabilize income by allowing certain costs to be passed
+
+      through to customers.
+  - question: >
+      How are environmental compliance costs reflected in a utilities
+      company's income
+
+      statement?
+    answer: >
+      Expenses for emission controls and investments in renewable energy are
+      included
+
+      in operating expenses. Although these costs reduce margins, regulatory mechanisms
+
+      may allow partial recovery of these expenses.

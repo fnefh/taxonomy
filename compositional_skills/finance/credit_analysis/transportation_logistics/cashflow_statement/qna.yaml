@@ -1,0 +1,110 @@
+version: 3
+task_description: Teach the model to analyze a transportation and logistics
+  company's cash flow statement, focusing on operating, investing, and financing
+  cash flows, liquidity, sensitivity analysis, and risk management.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in a
+      transportation 
+
+      company?
+    answer: >
+      Analysts should assess the ability to generate cash from core operations
+      by 
+
+      adjusting net income for non-cash expenses (e.g., depreciation, amortization, 
+
+      impairments, stock-based compensation). They must analyze working capital 
+
+      changes—including receivables, payables, and accrued expenses—and consider the 
+
+      impact of seasonality and economic cycles.
+  - question: >
+      What working capital components are critical for evaluating operating
+      cash flow 
+
+      in the transportation sector?
+    answer: >
+      Key components include accounts receivable from customers, accounts
+      payable to 
+
+      suppliers, and accrued expenses. Analysts should evaluate credit policies, 
+
+      collection efficiency, and supplier payment terms to gauge cash flow timing.
+  - question: >
+      How should investing cash flow be analyzed in a transportation and
+      logistics 
+
+      company?
+    answer: >
+      Analysts must review cash outflows for capital expenditures on
+      equipment, 
+
+      technology upgrades, terminals, warehouses, and infrastructure. They should 
+
+      also examine cash flows from asset sales, acquisitions, divestitures, and 
+
+      investments in logistics technology.
+  - question: >
+      What factors should be considered when evaluating financing cash flow
+      in the 
+
+      transportation industry?
+    answer: >
+      Analysts should examine cash inflows from new borrowings and equity
+      financing, 
+
+      along with outflows for debt repayments, share repurchases, dividend payments, 
+
+      and lease payments. The maturity profile of debt, refinancing risks, and interest 
+
+      rate exposure are critical factors.
+  - question: |
+      How is free cash flow (FCF) calculated, and why is it important for a 
+      transportation company?
+    answer: >
+      Free cash flow is calculated by subtracting capital expenditures from
+      operating 
+
+      cash flow. It measures the company’s ability to generate surplus cash for debt 
+
+      servicing, reinvestment, and shareholder returns.
+  - question: >
+      What liquidity measures are essential for assessing a transportation
+      company's 
+
+      financial flexibility?
+    answer: >
+      Key liquidity measures include cash and cash equivalents, the current
+      ratio, and 
+
+      the quick ratio. Analysts should also assess working capital management and 
+
+      available credit facilities.
+  - question: >
+      How should cash flow sensitivity analysis be performed in the
+      transportation 
+
+      sector?
+    answer: >
+      Analysts should conduct scenario analysis to evaluate the impact of
+      changes in 
+
+      fuel prices, freight rates, and demand on cash flow projections. They must assess 
+
+      the company's ability to adjust expenditures and manage cash flows in response to 
+
+      market conditions.
+  - question: >
+      How can risk management activities, such as hedging, be integrated
+      into cash flow 
+
+      analysis for a transportation company?
+    answer: >
+      Analysts should review hedging strategies for managing fuel price and
+      foreign 
+
+      exchange risks. Evaluating the effectiveness of derivatives, insurance policies, 
+
+      and contingency plans helps stabilize cash flows and mitigate financial risks.

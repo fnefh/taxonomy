@@ -1,0 +1,84 @@
+version: 3
+task_description: Teach the model to analyze a balance sheet for an internet
+  portal company in the insurance industry, focusing on intangible assets, PP&E,
+  liabilities, equity, liquidity, off-balance sheet items, and asset quality.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate intangible assets for an internet
+      portal company?
+    answer: >
+      Analysts should assess goodwill from acquisitions, brand value, and
+      capitalized customer
+
+      acquisition costs. They must review impairment testing and amortization policies for
+
+      content, technology rights, and proprietary software.
+  - question: >
+      What aspects of PP&E should be analyzed in the balance sheet of an
+      internet portal company?
+    answer: >
+      Analysts must review investments in data centers, servers, and network
+      infrastructure.
+
+      They should assess asset age, condition, and scalability to support user growth.
+  - question: >
+      How can strategic investments and alliances be evaluated on the
+      balance sheet?
+    answer: >
+      Analysts should examine investments in joint ventures, strategic
+      partnerships, and
+
+      equity-method investments. Evaluating the purpose and potential returns of these
+
+      investments is key to understanding their impact on financial stability.
+  - question: >
+      What liability factors are critical when analyzing an internet portal
+      company's balance
+
+      sheet?
+    answer: >
+      Analysts must evaluate short- and long-term debt, including interest
+      rates, maturity
+
+      profiles, and covenants. They should also review accounts payable and deferred revenue
+
+      from subscription services.
+  - question: >
+      How should shareholders' equity and the company's burn rate be
+      assessed in this industry?
+    answer: >
+      Analysts should review changes in retained earnings, additional paid-in
+      capital, and
+
+      treasury stock. The burn rate, or cash consumption rate, is crucial to determine if
+
+      cash reserves are sufficient until profitability is achieved.
+  - question: >
+      Which liquidity measures are most important for an internet portal company?
+    answer: >
+      Key liquidity measures include the current and quick ratios, and the
+      adequacy of cash
+
+      and cash equivalents. Analysts must consider the company's access to capital markets
+
+      amid high cash burn.
+  - question: |
+      How should off-balance sheet items be factored into the analysis?
+    answer: >
+      Analysts should identify off-balance sheet obligations such as operating
+      leases and
+
+      contingent liabilities from legal or regulatory risks, and assess their potential impact
+
+      on future cash flows and financial flexibility.
+  - question: >
+      How can asset quality and impairment risks be evaluated for an
+      internet portal company?
+    answer: >
+      Analysts must assess the potential impairment of intangible assets,
+      including goodwill
+
+      and technology rights, and evaluate the fair value of strategic investments to determine
+
+      any write-down risks.

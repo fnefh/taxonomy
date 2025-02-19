@@ -1,0 +1,109 @@
+version: 3
+task_description: Teach the model to analyze an education services company's
+  cash flow statement, focusing on operating activities, investing flows,
+  financing, free cash flow, liquidity, sensitivity analysis, and risk
+  management in the education sector.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate cash flows from operating
+      activities in an
+
+      education services company?
+    answer: >
+      Analysts should assess cash generated from core educational operations
+      such as
+
+      tuition, grants, and service fees. They must adjust for non-cash expenses including
+
+      depreciation, amortization of intangibles, impairments, and stock-based compensation.
+
+      In addition, changes in working capital, like receivables, deferred revenue, and
+
+      payables, must be analyzed.
+  - question: >
+      What working capital components are critical in assessing operating
+      cash flow in
+
+      education services?
+    answer: >
+      Key components include accounts receivable from students, corporate
+      partners, and
+
+      government grants, as well as deferred revenue from tuition and subscriptions.
+
+      Evaluating collection efficiency and billing practices is essential.
+  - question: >
+      How should investing cash flow be analyzed in the context of education
+      services?
+    answer: >
+      Analysts should review cash outflows for capital expenditures on
+      educational
+
+      facilities, technology upgrades, research infrastructure, and equipment.
+
+      They must also consider cash flows from acquisitions, divestitures, and investments
+
+      in R&D to support long-term growth.
+  - question: >
+      What are the critical elements of financing cash flow in an education
+      services company?
+    answer: >
+      The analysis should focus on cash inflows from new borrowings and equity
+      issuance,
+
+      as well as outflows for debt repayment, share repurchases, and dividends. It is also
+
+      important to evaluate the maturity profile of debt and refinancing risks.
+  - question: >
+      How is free cash flow (FCF) calculated, and why is it important for an
+      education
+
+      services company?
+    answer: >
+      Free cash flow is calculated by subtracting capital expenditures from
+      operating cash
+
+      flow. It indicates the company's ability to fund future investments, service debt,
+
+      and provide shareholder returns despite fluctuations in working capital.
+  - question: >
+      What liquidity measures are crucial for assessing an education
+      services company's
+
+      cash flow health?
+    answer: >
+      Analysts should evaluate the adequacy of cash and cash equivalents to
+      meet short-
+
+      term obligations. Reviewing available credit facilities, revolving credit agreements,
+
+      and compliance with financial covenants helps gauge overall financial flexibility.
+  - question: >
+      How does cash flow sensitivity analysis help manage risks related to
+      enrollment and
+
+      grant funding in education services?
+    answer: >
+      Sensitivity analysis assesses the impact of changes in student
+      enrollment, tuition
+
+      payment schedules, and government grant disbursements on cash flow projections.
+
+      This analysis aids in understanding the firm's ability to adjust expenditures in
+
+      response to market or policy shifts.
+  - question: >
+      How should risk management activities, such as hedging and insurance,
+      be evaluated
+
+      in the cash flow analysis of an education services company?
+    answer: >
+      Analysts must review cash flows related to hedging strategies for
+      interest and
+
+      currency risks, as well as assess insurance coverage for property, liability, and
+
+      data security. These measures are critical in stabilizing cash flows and mitigating
+
+      operational risks.

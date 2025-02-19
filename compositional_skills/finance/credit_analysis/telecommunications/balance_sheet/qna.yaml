@@ -1,0 +1,97 @@
+version: 3
+task_description: Teach the model to analyze a telecommunications company's
+  balance sheet, focusing on asset quality, debt management, liquidity,
+  off-balance sheet items, and regulatory risks specific to the telecom
+  industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate PP&E in a telecommunications
+      company's 
+
+      balance sheet?
+    answer: >
+      Analysts should assess the composition and valuation of PP&E such as
+      network 
+
+      infrastructure, transmission systems, and switching equipment. They must review 
+
+      asset age, condition, and technological relevance, along with capital expenditure 
+
+      trends and investments in network upgrades.
+  - question: |
+      How should intangible assets be evaluated on a telecom balance sheet?
+    answer: >
+      Analysts must review intangible assets including spectrum licenses,
+      goodwill 
+
+      from acquisitions, patents, and trademarks. Evaluating amortization policies and 
+
+      impairment risks is key to understanding the company’s competitive positioning.
+  - question: |
+      What factors should be considered when analyzing inventory in the telecom 
+      industry?
+    answer: >
+      Analysts should examine inventory levels of mobile devices, equipment,
+      and 
+
+      components. They must evaluate inventory turnover ratios and assess risks of 
+
+      obsolescence due to rapid technological changes.
+  - question: >
+      How should a credit analyst assess debt structure and leverage in a
+      telecom 
+
+      company?
+    answer: >
+      Analysts should review short- and long-term debt obligations, including
+      interest 
+
+      rates, maturity profiles, and covenants. Calculating leverage ratios such as 
+
+      Debt-to-Equity and Debt-to-EBITDA against industry benchmarks is essential.
+  - question: >
+      How can deferred revenue and accounts payable be analyzed on a telecom
+      balance 
+
+      sheet?
+    answer: >
+      Analysts must evaluate deferred revenue from prepaid services and
+      contracts, as 
+
+      well as accounts payable to suppliers and equipment vendors, to gauge working 
+
+      capital management and cash flow timing.
+  - question: >
+      What aspects of shareholders' equity and capital structure are
+      important in the 
+
+      telecom industry?
+    answer: >
+      Analysts should review changes in retained earnings, accumulated other 
+
+      comprehensive income, and treasury stock. They must assess the impact of recent 
+
+      equity financing, share repurchases, or dividend policies on financial strength.
+  - question: |
+      Which liquidity measures are critical when evaluating a telecom company's 
+      balance sheet?
+    answer: >
+      Key liquidity metrics include the current ratio and quick ratio.
+      Analysts must also 
+
+      evaluate working capital efficiency to ensure the company can meet short-term 
+
+      obligations despite high capital expenditures.
+  - question: >
+      How should off-balance sheet items and asset depreciation be evaluated
+      in the 
+
+      telecommunications industry?
+    answer: >
+      Analysts must identify off-balance sheet obligations such as operating
+      leases for 
+
+      network equipment or real estate and review depreciation methods and impairment 
+
+      indicators related to technological obsolescence.

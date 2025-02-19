@@ -1,0 +1,86 @@
+version: 3
+task_description: Teach the model to analyze a bank's income statement with a
+  focus on interest income/expense, non-interest income, loan loss provisions,
+  operating expenses, profitability metrics, interest rate sensitivity, and
+  non-recurring items.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate net interest income (NII) in a
+      bank's income 
+
+      statement?
+    answer: >
+      Analysts calculate NII by subtracting interest expense from interest
+      income.
+
+      They must review components of interest income from loans and securities and
+
+      assess interest expense from deposits and borrowings to gauge overall profitability.
+  - question: |
+      What is net interest margin (NIM) and how is it evaluated?
+    answer: >
+      NIM is calculated as Net Interest Income divided by Average Earning
+      Assets.
+
+      Analysts should examine trends over time, compare with industry averages, and
+
+      assess how changes in interest rates affect NIM and overall profitability.
+  - question: >
+      How should non-interest income be assessed in a bank's income
+      statement analysis?
+    answer: >
+      Analysts review fee-based revenue from account and transaction fees, as
+      well as
+
+      gains or losses from trading and investment activities, to evaluate revenue
+
+      diversification and sustainability.
+  - question: >
+      How are credit loss provisions analyzed and what is their impact on
+      earnings?
+    answer: >
+      Analysts compare provisions for loan losses to actual charge-offs to
+      assess the
+
+      adequacy of the allowance (ALLL) relative to credit risk. These provisions can
+
+      significantly affect net income and overall profitability.
+  - question: >
+      What operating expense metrics are key for evaluating cost management
+      in banks?
+    answer: >
+      Key metrics include personnel, occupancy, and technology expenses. The
+      Efficiency
+
+      Ratio—Non-Interest Expenses divided by the sum of Net Interest and Non-Interest
+
+      Income—is critical for assessing cost control and operational efficiency.
+  - question: >
+      Which profitability metrics should be analyzed to assess a bank's
+      performance?
+    answer: >
+      Analysts focus on Return on Assets (ROA), Return on Equity (ROE), and
+      Earnings Per
+
+      Share (EPS). These ratios reveal how effectively the bank utilizes its assets and
+
+      capital to generate profits.
+  - question: |
+      How does interest rate sensitivity affect a bank's income statement?
+    answer: >
+      Changes in interest rates impact net interest income. Analysts should
+      review the
+
+      bank's asset and liability management, including hedging strategies, to understand
+
+      the effects on earnings.
+  - question: |
+      How should non-recurring items be treated in income statement analysis?
+    answer: >
+      Non-recurring items, such as one-time gains or losses from asset sales,
+      restructuring,
+
+      or impairments, must be isolated from core operating performance to provide a clearer
+
+      picture of sustainable earnings.

@@ -1,0 +1,100 @@
+version: 3
+task_description: Teach the model to analyze a transportation and logistics
+  company's income statement, focusing on revenue streams, cost structure,
+  profitability, and market dynamics.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate service mix and pricing dynamics
+      in a 
+
+      transportation company's income statement?
+    answer: >
+      Analysts should review revenue from various segments such as freight,
+      logistics, 
+
+      warehousing, courier, and supply chain services. They must assess service mix, 
+
+      geographic diversification, and the impact of fuel surcharges and demand on pricing.
+  - question: >
+      What factors should be considered when analyzing operating expenses in
+      the 
+
+      transportation sector?
+    answer: >
+      Analysts should examine fuel and energy costs, labor and maintenance
+      expenses, 
+
+      depreciation, lease and rent expenses, and costs for outsourced services to assess 
+
+      efficiency and margin pressures.
+  - question: |
+      Which profitability metrics are essential for evaluating a transportation 
+      company's income statement?
+    answer: >
+      Key metrics include operating income, operating margin, net income, EPS,
+      and 
+
+      EBITDAR. Comparing these ratios with industry benchmarks helps gauge operational 
+
+      efficiency and pricing power.
+  - question: |
+      How do economic cycles and market conditions affect revenue in the 
+      transportation industry?
+    answer: >
+      Analysts must assess cyclical demand patterns, trade volumes, and
+      consumer 
+
+      spending, and evaluate the company's ability to manage fluctuations through pricing 
+
+      adjustments and cost control measures.
+  - question: >
+      How should fuel price volatility and currency fluctuations be
+      incorporated into 
+
+      revenue analysis?
+    answer: >
+      Analysts need to evaluate the impact of fuel surcharges and recovery
+      mechanisms, 
+
+      and assess how hedging strategies and exchange rate movements affect revenue and 
+
+      costs.
+  - question: >
+      What role do regulatory compliance costs play in a transportation
+      company's 
+
+      income statement?
+    answer: >
+      Analysts should review expenses related to safety, environmental, and
+      labor 
+
+      regulations. They must assess how these regulatory costs impact operating 
+
+      expenses and the potential for cost recovery through pricing strategies.
+  - question: >
+      How should non-recurring items be treated in the income statement
+      analysis for 
+
+      transportation companies?
+    answer: >
+      Analysts should isolate one-time charges such as restructuring costs,
+      asset 
+
+      impairments, or legal settlements to adjust earnings and reveal the true core 
+
+      operational performance.
+  - question: >
+      What overall insights can be drawn from a comprehensive income
+      statement analysis 
+
+      in the transportation and logistics industry?
+    answer: >
+      A comprehensive analysis integrates revenue quality, cost management,
+      and 
+
+      profitability metrics with the impact of economic cycles, fuel and currency risks, 
+
+      and regulatory expenses. This approach highlights strengths and risks that affect the 
+
+      company's ability to generate consistent earnings and maintain creditworthiness.

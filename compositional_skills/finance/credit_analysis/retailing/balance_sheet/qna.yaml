@@ -1,0 +1,102 @@
+version: 3
+task_description: Teach the model to analyze a retail company's balance sheet,
+  focusing on inventory management, PP&E, intangible assets, liabilities,
+  equity, liquidity, and off-balance sheet items.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate inventory management in a retail
+      company?
+    answer: >
+      Analysts should review the composition and valuation of inventory,
+      including raw 
+
+      materials, work-in-progress, and finished goods. They must calculate the Inventory 
+
+      Turnover Ratio (COGS/Average Inventory) and compare it with industry benchmarks. 
+
+      Additionally, assessing seasonal stock buildups and their impact on working capital 
+
+      is crucial.
+  - question: |
+      How should PP&E be analyzed on a retail company's balance sheet?
+    answer: >
+      Analysts should evaluate fixed assets such as store locations,
+      warehouses, and 
+
+      distribution centers. They must consider the valuation methods used and the 
+
+      proportion of owned versus leased properties, which has implications for long-term 
+
+      financial commitments.
+  - question: >
+      What factors are important when analyzing intangible assets in the
+      retail sector?
+    answer: >
+      Analysts need to examine intangible assets like trademarks, brand value,
+      and 
+
+      customer relationships. These assets contribute to competitive advantage and 
+
+      future revenue generation.
+  - question: |
+      How should liabilities be assessed in a retail company's balance sheet?
+    answer: >
+      Analysts must review accounts payable and supplier relationships by
+      evaluating 
+
+      payment terms and bargaining power. They should also analyze the debt structure 
+
+      by calculating leverage ratios such as Debt-to-Equity, comparing them with industry 
+
+      norms.
+  - question: >
+      How can shareholders' equity and capital structure be analyzed in the
+      retail 
+
+      industry?
+    answer: >
+      Analysts should examine changes in shareholder equity, including
+      retained earnings, 
+
+      accumulated other comprehensive income, and treasury stock. Evaluating dividend 
+
+      policies, equity financing history, and share repurchase programs helps gauge capital 
+
+      strength.
+  - question: >
+      What liquidity metrics are critical for evaluating a retail company's
+      balance sheet?
+    answer: >
+      Key liquidity measures include the current ratio and quick ratio.
+      Analysts should also 
+
+      analyze working capital management by reviewing the cash conversion cycle, including 
+
+      DIO, DSO, and DPO, to assess operational efficiency.
+  - question: >
+      How should off-balance sheet obligations be incorporated into a retail
+      balance 
+
+      sheet analysis?
+    answer: >
+      Analysts must identify significant off-balance sheet financing
+      arrangements, such as 
+
+      operating leases for retail spaces, warehouses, or equipment. These items should be 
+
+      evaluated for their impact on future cash flows and overall financial flexibility.
+  - question: >
+      What overall insights can be drawn from a comprehensive analysis of a
+      retail 
+
+      company's balance sheet?
+    answer: >
+      A comprehensive analysis integrates asset quality, inventory management,
+      liability 
+
+      structure, equity, and liquidity metrics. This approach highlights risks such as 
+
+      high inventory levels, excessive leverage, liquidity constraints, and significant lease 
+
+      obligations that may affect the company's creditworthiness.

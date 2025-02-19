@@ -1,0 +1,122 @@
+version: 3
+task_description: Teach the model to analyze a company's cash flow statement for
+  Aerospace and Defense, focusing on operating, investing, and financing cash
+  flows, free cash flow, liquidity, debt service, and sensitivity analysis.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate operating cash flow in an
+      aerospace and 
+
+      defense company?
+    answer: >
+      The analyst should review cash flows from core operations and adjust for
+      non-cash 
+
+      expenses such as depreciation, amortization, and stock-based compensation. They must 
+
+      also analyze changes in working capital components—including receivables, contract 
+
+      assets, inventory, and accrued expenses—while considering the timing of billings, 
+
+      advance payments, and pension contributions.
+  - question: >
+      What aspects of investing cash flow are critical for an aerospace and
+      defense firm?
+    answer: >
+      Key aspects include reviewing capital expenditures for investments in
+      facilities, 
+
+      machinery, equipment, and technology upgrades. Analysts should compare CapEx levels 
+
+      with both depreciation expense and operating cash flow, and also examine cash flows 
+
+      from acquisitions, divestitures, and the capitalization of R&D costs.
+  - question: >
+      Which factors in financing cash flow should be examined to assess
+      financial risk?
+    answer: >
+      Analysts must evaluate cash inflows from new borrowings and outflows for
+      debt 
+
+      repayments, along with equity financing activities such as share issuances or 
+
+      repurchases and dividend payments. The maturity profile of debt and reliance on 
+
+      capital markets are also vital considerations.
+  - question: >
+      How is free cash flow (FCF) calculated, and why is it important in
+      this industry?
+    answer: >
+      Free Cash Flow is calculated by subtracting capital expenditures from
+      operating 
+
+      cash flow. This metric reveals the company's ability to generate surplus cash for 
+
+      debt servicing, reinvestment, and shareholder returns, even amid working capital 
+
+      fluctuations.
+  - question: >
+      What should be considered when evaluating liquidity and financial
+      flexibility?
+    answer: >
+      The analysis should assess the adequacy of cash reserves and cash
+      equivalents to 
+
+      meet short-term obligations. In addition, analysts should review available credit 
+
+      facilities, revolving credit agreements, and any covenants that may restrict financial 
+
+      flexibility or require maintaining specific ratios.
+  - question: >
+      Which metrics are used to evaluate a company's debt service capacity
+      in this sector?
+    answer: >
+      Key metrics include ratios such as Operating Cash Flow to Interest
+      Expense, as well as 
+
+      an examination of the debt maturity schedule to assess refinancing risks and the 
+
+      company's ability to manage debt repayments.
+  - question: >
+      How can scenario analysis aid in assessing the sensitivity of cash
+      flow projections?
+    answer: >
+      Scenario analysis involves testing the impact of changes in contract
+      awards, production 
+
+      schedules, cost overruns, and capital expenditure requirements. This approach helps 
+
+      determine the company's ability to adjust expenditures and manage cash flows under 
+
+      varying market conditions and government budget changes.
+  - question: |
+      How should contract-specific risks be evaluated in cash flow projections?
+    answer: |
+      Analysts should assess:
+      - Cost overrun risks and their impact on cash flows
+      - Fixed-price vs. cost-plus contract mix
+      - Milestone payment schedules and potential delays
+      - Performance penalties or incentive payments
+      - Historical track record of program execution
+  - question: >
+      What are the key considerations when analyzing working capital
+      seasonality 
+
+      in aerospace and defense companies?
+    answer: |
+      Analysis should focus on:
+      - Government fiscal year-end spending patterns
+      - Impact of defense budget cycles on order timing
+      - Quarterly patterns in milestone payments
+      - Inventory build-ups for major deliveries
+      - Timing of progress payments vs. supplier payments
+  - question: |
+      How should international program cash flows be evaluated?
+    answer: |
+      Key considerations include:
+      - Foreign exchange risks and hedging costs
+      - Export compliance requirements impact on timing
+      - Country-specific payment terms and risks
+      - Offset requirements and local content obligations
+      - Repatriation restrictions and tax implications

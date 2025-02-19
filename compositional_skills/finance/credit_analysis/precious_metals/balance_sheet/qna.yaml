@@ -1,0 +1,98 @@
+version: 3
+task_description: Teach the model to analyze a precious metals company's balance
+  sheet, focusing on asset quality, debt management, liquidity, and risk factors
+  specific to the mining and metals industry.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate mining properties and capital
+      assets in a
+
+      precious metals company?
+    answer: >
+      Analysts should assess the valuation and classification of mining
+      properties,
+
+      including exploration properties and proven/probable reserves. They must review
+
+      the condition, age, and efficiency of mining equipment and production facilities,
+
+      while considering geographic risks and environmental factors.
+  - question: >
+      How should a credit analyst evaluate gold reserves and resources on
+      the balance
+
+      sheet?
+    answer: >
+      Analysts should examine the quantity and quality of gold reserves,
+      reviewing ore
+
+      grades and ore types (oxide vs. sulphide) to determine extraction feasibility and
+
+      cost-effectiveness. They must also assess potential impairment indicators.
+  - question: >
+      What factors should be considered when analyzing inventory levels in a
+      precious
+
+      metals company?
+    answer: >
+      Analysts need to review inventories of bullion, work-in-progress, and
+      raw materials.
+
+      They should assess inventory management practices, turnover ratios, and valuation
+
+      methods (FIFO, LIFO, weighted average) to understand the impact on financials.
+  - question: >
+      How should intangible assets, such as mining rights and permits, be
+      evaluated?
+    answer: >
+      Analysts should review intangible assets including mining licenses,
+      exploration
+
+      permits, and environmental permits. Evaluating amortization policies and potential
+
+      impairment risks is key to understanding future resource potential.
+  - question: >
+      How should liabilities be analyzed in the balance sheet of a precious
+      metals company?
+    answer: >
+      Analysts must evaluate short- and long-term debt obligations, reviewing
+      interest
+
+      rates, maturity profiles, and covenants. They should also assess environmental
+
+      liabilities, deferred tax liabilities, and contingent liabilities for a complete risk
+
+      profile.
+  - question: >
+      How can shareholders' equity and capital structure be assessed in this
+      industry?
+    answer: >
+      Analysts should review changes in retained earnings, accumulated other
+      comprehensive
+
+      income, and treasury stock. Evaluating dividend policies, equity financing history,
+
+      and any non-controlling interests helps gauge capital strength.
+  - question: >
+      What liquidity measures are critical for a precious metals company's
+      balance sheet?
+    answer: >
+      Key liquidity metrics include the current and quick ratios, along with
+      an analysis of
+
+      working capital management. Analysts must consider the impact of gold price volatility
+
+      on liquidity needs.
+  - question: >
+      How should off-balance sheet items and risk management factors be
+      incorporated into
+
+      the analysis?
+    answer: >
+      Analysts should identify off-balance sheet obligations, such as
+      operating leases and
+
+      long-term purchase commitments, and assess exposure to commodity price and currency
+
+      risks to determine their impact on future cash flows and financial flexibility.

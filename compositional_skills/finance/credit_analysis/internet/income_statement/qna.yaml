@@ -1,0 +1,95 @@
+version: 3
+task_description: Teach the model to analyze an internet portal company's income
+  statement, focusing on revenue streams, cost structure, profitability, user
+  metrics, and non-recurring items in the context of digital advertising and
+  user monetization.
+created_by: fnefh
+seed_examples:
+  - question: >
+      How should a credit analyst evaluate advertising revenue in an
+      internet portal
+
+      income statement?
+    answer: >
+      Analysts should assess revenue generated from display ads, sponsored
+      content,
+
+      and search advertising. They must evaluate client diversification, trends in
+
+      ad spend, and click-through rates, considering the competitive pressures on
+
+      ad dollars.
+  - question: >
+      What factors are critical when analyzing subscription and paid
+      services revenue?
+    answer: >
+      Analysts must review revenue from premium content, paid memberships, and
+
+      subscription services. They should assess user conversion rates from free to
+
+      paid, and evaluate the sustainability of these revenue streams.
+  - question: >
+      How can e-commerce and transaction revenue be assessed in an internet
+      portal's
+
+      income statement?
+    answer: >
+      Analysts should examine revenue from e-commerce activities, affiliate
+      marketing,
+
+      and transaction fees. Evaluating margins and competition from established retailers
+
+      is essential to gauge revenue quality.
+  - question: |
+      How should the cost of revenue be analyzed for an internet portal company?
+    answer: >
+      Analysts must evaluate costs associated with content acquisition,
+      bandwidth,
+
+      and payment processing fees. Comparing gross profit margins with industry benchmarks
+
+      helps assess efficiency.
+  - question: |
+      What operating expenses should be considered in an internet portal income
+      statement?
+    answer: >
+      Key expenses include sales and marketing for user acquisition, R&D for
+      platform
+
+      enhancements, and general administrative costs. Effective cost control is crucial
+
+      for maintaining profitability.
+  - question: |
+      Which profitability metrics are vital for evaluating an internet portal's
+      financial performance?
+    answer: >
+      Operating income, operating margin, EBITDA, and EPS are critical
+      metrics.
+
+      Analysts should monitor these over time and compare them with industry peers
+
+      to assess overall operational performance.
+  - question: >
+      How do user metrics and growth indicators impact revenue quality in
+      the income
+
+      statement of an internet portal company?
+    answer: >
+      Analysts should assess growth in active users, engagement rates,
+      conversion
+
+      from free to paid subscriptions, and ARPU. These metrics indicate the success
+
+      of monetization strategies and forecast future revenue trends.
+  - question: >
+      How should non-recurring items be treated in the analysis of an
+      internet portal's
+
+      income statement?
+    answer: >
+      Non-recurring items, such as restructuring costs, asset impairments, or
+      one-time
+
+      gains, should be excluded from core earnings to provide a clearer view of the
+
+      company's sustainable operational performance.
