@@ -6,97 +6,58 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate revenue streams and growth
-      drivers in a 
-
-      consumer goods income statement?
+      drivers in a consumer goods income statement?
     answer: >
-      Analysts should assess revenue from various product categories or
-      brands, 
-
-      considering diversification and reliance on key products. They must evaluate 
-
-      the impact of new product launches, product innovation, and shifts in consumer 
-
+      Analysts should assess revenue from various product categories or brands,
+      considering diversification and reliance on key products. They must evaluate
+      the impact of new product launches, product innovation, and shifts in consumer
       preferences (e.g., organic, health-conscious) on revenue growth.
   - question: >
       What factors should be analyzed regarding geographical diversification
-      and 
-
-      channel distribution of revenue?
+      and channel distribution of revenue?
     answer: >
-      Analysts should examine revenue by geographic regions, evaluating
-      market 
-
-      maturity and growth potential. They must also assess sales through retail, 
-
-      e-commerce, wholesale, and direct channels to understand the effect of changing 
-
+      Analysts should examine revenue by geographic regions, evaluating market
+      maturity and growth potential. They must also assess sales through retail,
+      e-commerce, wholesale, and direct channels to understand the effect of changing
       consumer shopping behaviors.
   - question: >
-      How does pricing strategy and volume trends affect revenue in the
-      consumer goods 
-
+      How does pricing strategy and volume trends affect revenue in the consumer goods
       sector?
     answer: >
-      Pricing actions, promotional activities, and volume changes directly
-      impact 
-
-      revenue. Analysts must assess the company’s ability to pass on raw material cost 
-
+      Pricing actions, promotional activities, and volume changes directly impact
+      revenue. Analysts must assess the company's ability to pass on raw material cost
       increases to customers amidst commodity price volatility.
   - question: >
-      What cost structure elements are critical when analyzing the cost of
-      goods sold 
-
+      What cost structure elements are critical when analyzing the cost of goods sold
       (COGS) for a consumer goods company?
     answer: >
-      Analysts must review raw material, manufacturing, and distribution
-      costs. They 
-
-      should compare gross profit margins with industry benchmarks and evaluate the 
-
+      Analysts must review raw material, manufacturing, and distribution costs. They
+      should compare gross profit margins with industry benchmarks and evaluate the
       impact of supply chain efficiency on COGS.
-  - question: |
-      How should operating expenses, including SG&A and R&D, be evaluated in an 
+  - question: >
+      How should operating expenses, including SG&A and R&D, be evaluated in an
       income statement?
     answer: >
-      Analysts should examine expenses related to marketing, promotions,
-      administrative 
-
-      functions, and R&D investments. Evaluating cost control measures helps determine 
-
+      Analysts should examine expenses related to marketing, promotions, administrative
+      functions, and R&D investments. Evaluating cost control measures helps determine
       their effect on operating margins.
   - question: >
-      Which profitability metrics are most important for assessing a
-      consumer goods 
-
+      Which profitability metrics are most important for assessing a consumer goods
       company's performance?
     answer: >
-      Key metrics include operating income, operating margin, net profit
-      margin, and 
-
-      EPS. Tracking these ratios over time and comparing them with industry peers reveals 
-
+      Key metrics include operating income, operating margin, net profit margin, and
+      EPS. Tracking these ratios over time and comparing them with industry peers reveals
       cost efficiencies and pricing power.
   - question: >
-      How do external factors like commodity prices, economic conditions,
-      and currency 
-
+      How do external factors like commodity prices, economic conditions, and currency
       fluctuations impact the income statement?
     answer: >
-      Analysts should assess how changes in raw material costs, inflation, and
-      exchange 
-
+      Analysts should assess how changes in raw material costs, inflation, and exchange
       rates affect revenue and expenses. Hedging strategies can mitigate these risks.
   - question: >
-      How should non-recurring items be treated in the income statement
-      analysis of a 
-
+      How should non-recurring items be treated in the income statement analysis of a
       consumer goods company?
     answer: >
-      Non-recurring items such as restructuring costs, asset impairments, or
-      one-time 
-
-      gains/losses should be isolated from core earnings. Adjusting for these items helps 
-
+      Non-recurring items such as restructuring costs, asset impairments, or one-time
+      gains/losses should be isolated from core earnings. Adjusting for these items helps
       reveal the sustainable operating performance of the company.

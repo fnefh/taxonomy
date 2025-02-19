@@ -10,11 +10,8 @@ seed_examples:
     answer: >
       Analysts should assess cash flows from core operations by adjusting net
       income for
-
       non-cash expenses like depreciation of equipment and analyzing changes in working
-
       capital components such as accounts receivable and payables, particularly during
-
       industry downturns.
   - question: >
       What working capital components are critical for operating cash flow
@@ -22,30 +19,23 @@ seed_examples:
     answer: >
       Key components include accounts receivable from clients, inventory
       levels, and 
-
       accounts payable. Evaluating collection efficiency, credit policies, and the timing
-
       of cash inflows versus outflows is essential.
   - question: |
       How should investing cash flow be analyzed in the oil services industry?
     answer: >
       Analysts must review cash outflows for capital expenditures on new
       equipment,
-
       technology upgrades, and maintenance of existing assets. They should also assess
-
       cash inflows from the sale of obsolete equipment and investments in R&D.
   - question: >
       What factors are important when analyzing financing cash flow in an
       oil services
-
       company?
     answer: >
       Analysts should examine cash inflows from debt issuance and equity
       financing, as well
-
       as outflows for debt repayments, share repurchases, and dividend payments. Evaluating
-
       the maturity profile of debt and potential refinancing risks is critical.
   - question: >
       How is free cash flow (FCF) calculated and why is it important in this
@@ -53,41 +43,31 @@ seed_examples:
     answer: >
       Free cash flow is calculated by subtracting capital expenditures from
       operating cash
-
       flow. This metric indicates the company's ability to generate surplus cash for debt
-
       servicing, reinvestment, and shareholder returns.
   - question: >
       What liquidity measures are essential for evaluating cash flow health
       in oil services
-
       companies?
     answer: >
       Key liquidity measures include cash and cash equivalents, the current
       ratio, and the
-
       quick ratio. Analysts should also assess access to credit facilities and capital markets.
   - question: >
       How should cash flow sensitivity to industry cycles be assessed in the
       oil services
-
       sector?
     answer: >
       Sensitivity analysis should evaluate the impact of changes in oil prices
       and production
-
       volumes on cash flows. Analysts must consider the company's ability to adjust operating
-
       costs and capital expenditures in response to market conditions.
   - question: >
       How do debt covenants and restrictions affect cash flow management in
       the oil
-
       services industry?
     answer: >
       Analysts must review debt covenants that require maintaining specific
       financial ratios.
-
       Non-compliance with these covenants can limit financial flexibility and indicate
-
       potential cash flow vulnerabilities.

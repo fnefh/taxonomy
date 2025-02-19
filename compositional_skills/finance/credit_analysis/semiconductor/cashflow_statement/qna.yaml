@@ -7,95 +7,56 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate operating cash flow in a
-      semiconductor 
-
-      company?
+      semiconductor company?
     answer: >
       Analysts should assess cash flows from core operations by adjusting net
-      income 
-
-      for non-cash expenses such as depreciation, depletion, and amortization. They 
-
-      must also review changes in working capital to understand cash flow stability amid 
-
+      income for non-cash expenses such as depreciation, depletion, and amortization. They
+      must also review changes in working capital to understand cash flow stability amid
       industry cyclicality.
   - question: >
-      What working capital components are critical for operating cash flow
-      analysis?
+      What working capital components are critical for operating cash flow analysis?
     answer: >
-      Key components include accounts receivable, accounts payable, and
-      inventory 
-
-      levels. Analysts should examine collection efficiency and credit policies to 
-
+      Key components include accounts receivable, accounts payable, and inventory
+      levels. Analysts should examine collection efficiency and credit policies to
       gauge the impact of rapid obsolescence and demand shifts.
   - question: >
-      How should investing cash flow be analyzed with respect to CapEx in
-      this industry?
+      How should investing cash flow be analyzed with respect to CapEx in this industry?
     answer: >
-      Analysts must review cash outflows for capital expenditures on new fabs
-      and 
-
-      advanced manufacturing equipment. They should distinguish between sustaining 
-
+      Analysts must review cash outflows for capital expenditures on new fabs and
+      advanced manufacturing equipment. They should distinguish between sustaining
       CapEx and growth CapEx, assessing the company's capacity to fund these investments.
   - question: >
-      How should investments in technology and acquisitions be evaluated in
-      investing 
-
+      How should investments in technology and acquisitions be evaluated in investing
       cash flow?
     answer: >
-      Analysts should examine cash used for technology development, strategic
-      acquisitions, 
-
-      and alliances that enhance manufacturing capabilities. Evaluating these outflows 
-
-      reveals the company’s focus on innovation and market positioning.
+      Analysts should examine cash used for technology development, strategic acquisitions,
+      and alliances that enhance manufacturing capabilities. Evaluating these outflows
+      reveals the company's focus on innovation and market positioning.
   - question: >
-      What factors are important when analyzing financing cash flow in a
-      semiconductor 
-
+      What factors are important when analyzing financing cash flow in a semiconductor
       company?
     answer: >
-      Analysts should evaluate cash inflows from debt and equity financing, as
-      well as 
-
-      outflows for debt repayments, share repurchases, and dividends. They must consider 
-
+      Analysts should evaluate cash inflows from debt and equity financing, as well as
+      outflows for debt repayments, share repurchases, and dividends. They must consider
       the maturity profile of debt and potential refinancing risks.
   - question: >
-      How is free cash flow (FCF) calculated, and why is it crucial in this
-      industry?
+      How is free cash flow (FCF) calculated, and why is it crucial in this industry?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash 
-
-      flow. It measures the company's ability to generate surplus cash for debt servicing, 
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
+      flow. It measures the company's ability to generate surplus cash for debt servicing,
       reinvestment, and shareholder returns amid high capital expenditure needs.
   - question: >
-      What liquidity measures are essential for evaluating a semiconductor
-      company's cash 
-
+      What liquidity measures are essential for evaluating a semiconductor company's cash
       flow health?
     answer: >
-      Key liquidity metrics include cash and cash equivalents, the current
-      ratio, and the 
-
-      quick ratio. Analysts should also assess access to credit facilities to cover short-term 
-
+      Key liquidity metrics include cash and cash equivalents, the current ratio, and the
+      quick ratio. Analysts should also assess access to credit facilities to cover short-term
       obligations during downturns.
   - question: >
-      How can sensitivity analysis and risk management be integrated into
-      cash flow 
-
+      How can sensitivity analysis and risk management be integrated into cash flow
       assessments in the semiconductor industry?
     answer: >
-      Analysts should perform scenario analysis to model the impact of changes
-      in demand, 
-
-      production volumes, and energy prices on cash flows. Evaluating hedging strategies and 
-
-      operational flexibility helps determine the company's ability to adjust costs amid market 
-
+      Analysts should perform scenario analysis to model the impact of changes in demand,
+      production volumes, and energy prices on cash flows. Evaluating hedging strategies and
+      operational flexibility helps determine the company's ability to adjust costs amid market
       fluctuations.

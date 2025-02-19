@@ -7,100 +7,59 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate operating cash flow in a Food and
-      Beverage 
-
-      company?
-    answer: >
-      Analysts should assess cash generated from core operations by adjusting
-      net income 
-
-      for non-cash expenses such as depreciation, amortization, impairments, and 
-
-      stock-based compensation. They must analyze changes in working capital components, 
-
-      including receivables, inventory, and payables, and consider seasonal fluctuations.
-  - question: >
-      What factors are critical when analyzing investing cash flow for a
-      Food and 
-
       Beverage company?
     answer: >
-      Analysts should review capital expenditures on production facilities,
-      technology 
-
-      upgrades, distribution networks, and retail outlets. They must assess CapEx relative 
-
-      to depreciation and operating cash flow, and examine cash flows from acquisitions 
-
+      Analysts should assess cash generated from core operations by adjusting net income
+      for non-cash expenses such as depreciation, amortization, impairments, and
+      stock-based compensation. They must analyze changes in working capital components,
+      including receivables, inventory, and payables, and consider seasonal fluctuations.
+  - question: >
+      What factors are critical when analyzing investing cash flow for a Food and
+      Beverage company?
+    answer: >
+      Analysts should review capital expenditures on production facilities, technology
+      upgrades, distribution networks, and retail outlets. They must assess CapEx relative
+      to depreciation and operating cash flow, and examine cash flows from acquisitions
       or divestitures.
   - question: >
       How should financing cash flow be analyzed in the Food and Beverage sector?
     answer: >
-      The analysis should focus on cash inflows from debt and equity issuance
-      and outflows 
-
-      for debt repayments, share repurchases, and dividend payments. Evaluating debt maturity 
-
+      The analysis should focus on cash inflows from debt and equity issuance and outflows
+      for debt repayments, share repurchases, and dividend payments. Evaluating debt maturity
       profiles and refinancing risks is also essential.
   - question: >
-      How is free cash flow (FCF) calculated, and why is it important for a
-      Food and 
-
+      How is free cash flow (FCF) calculated, and why is it important for a Food and
       Beverage company?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash 
-
-      flow. It indicates the company's ability to fund reinvestment, service debt, and 
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
+      flow. It indicates the company's ability to fund reinvestment, service debt, and
       provide shareholder returns despite working capital fluctuations.
   - question: >
-      What liquidity measures should be considered in a Food and Beverage
-      company's cash 
-
+      What liquidity measures should be considered in a Food and Beverage company's cash
       flow analysis?
     answer: >
-      Analysts must evaluate cash reserves, current and quick ratios, and the
-      availability 
-
-      of credit facilities. Assessing these measures helps determine if the company can meet 
-
+      Analysts must evaluate cash reserves, current and quick ratios, and the availability
+      of credit facilities. Assessing these measures helps determine if the company can meet
       short-term obligations and fund strategic initiatives during downturns.
   - question: >
-      How does cash flow sensitivity analysis aid in understanding a Food
-      and Beverage 
-
+      How does cash flow sensitivity analysis aid in understanding a Food and Beverage
       company's performance?
     answer: >
-      Sensitivity analysis examines the impact of changes in commodity prices,
-      energy costs, 
-
-      and consumer demand on cash flow projections. It helps determine the firm's ability to 
-
+      Sensitivity analysis examines the impact of changes in commodity prices, energy costs,
+      and consumer demand on cash flow projections. It helps determine the firm's ability to
       adjust expenditures in response to market fluctuations.
   - question: >
-      What risk management activities are important for stabilizing cash
-      flows in the 
-
+      What risk management activities are important for stabilizing cash flows in the
       Food and Beverage industry?
     answer: >
-      Analysts should review hedging strategies for commodity price risks and
-      foreign exchange 
-
-      fluctuations. Evaluating the effectiveness of these strategies and other risk management 
-
+      Analysts should review hedging strategies for commodity price risks and foreign exchange
+      fluctuations. Evaluating the effectiveness of these strategies and other risk management
       measures, such as insurance coverage, is critical for maintaining cash flow stability.
   - question: >
-      What overall insights can be drawn from an analysis of a Food and
-      Beverage 
-
+      What overall insights can be drawn from an analysis of a Food and Beverage
       company's cash flow statement?
     answer: >
-      A comprehensive analysis integrates operating, investing, and financing
-      cash flows 
-
-      with free cash flow, liquidity, and sensitivity assessments. This approach highlights 
-
-      strengths and risks that influence the firm's ability to generate sustainable cash 
-
+      A comprehensive analysis integrates operating, investing, and financing cash flows
+      with free cash flow, liquidity, and sensitivity assessments. This approach highlights
+      strengths and risks that influence the firm's ability to generate sustainable cash
       flow and maintain creditworthiness.

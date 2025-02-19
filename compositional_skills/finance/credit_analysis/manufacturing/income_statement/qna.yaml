@@ -8,28 +8,21 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate product portfolio analysis as a
       revenue 
-
       driver in a manufacturing income statement?
     answer: >
       Analysts should review revenue contributions from various product lines
       or 
-
       divisions, assess product diversification and reliance on key products, and 
-
       evaluate the impact of new product launches, technological advancements, and 
-
       product life cycles on revenue growth.
   - question: >
       How can geographical diversification be assessed in the revenue
       streams of a 
-
       manufacturing company?
     answer: >
       Analysts should examine revenue by geographic regions, considering
       market 
-
       maturity, growth potential, and economic conditions, and compare exposure to 
-
       emerging versus developed markets.
   - question: |
       How do market demand and cyclicality affect revenue in a manufacturing 
@@ -37,21 +30,16 @@ seed_examples:
     answer: >
       Analysts must analyze the effects of economic cycles on demand for
       products. 
-
       They should assess the company's ability to adapt to changing market conditions 
-
       and customer needs, which influences revenue stability.
   - question: >
       How should pricing strategy and competitive positioning be evaluated
       in the 
-
       income statement?
     answer: >
       Analysts should evaluate the company's pricing power, promotional
       activities, 
-
       and volume trends, and assess its ability to pass on cost increases to customers, 
-
       which affects revenue and margins.
   - question: |
       What key aspects of cost structure should be analyzed in a manufacturing 
@@ -59,9 +47,7 @@ seed_examples:
     answer: >
       Analysts should review the cost of goods sold, including raw materials,
       labor, 
-
       and manufacturing processes. They must compare gross profit margins with industry 
-
       benchmarks and assess the impact of commodity price fluctuations on COGS.
   - question: >
       How should operating expenses, such as SG&A, R&D, and depreciation, be
@@ -69,9 +55,7 @@ seed_examples:
     answer: >
       Analysts must assess expenses related to marketing, administration, and
       R&D 
-
       investments, as well as depreciation and amortization of assets. These factors 
-
       impact operating income and capital expenditure requirements.
   - question: |
       Which profitability metrics are critical for evaluating a manufacturing 
@@ -79,21 +63,15 @@ seed_examples:
     answer: >
       Key metrics include operating income, operating margin, net income,
       EBITDA, and 
-
       earnings per share (EPS). Analysts should track these ratios over time and compare 
-
       them with industry peers to gauge operational efficiency and cost control.
   - question: >
       How should foreign exchange risks, commodity price volatility, and
       non-recurring 
-
       items be incorporated into income statement analysis?
     answer: >
       Analysts should evaluate the effect of currency fluctuations on revenue
       and 
-
       expenses, assess raw material cost changes and hedging strategies, and isolate 
-
       non-recurring items like restructuring costs or asset impairments to reveal core 
-
       operating performance.

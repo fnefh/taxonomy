@@ -6,103 +6,62 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate revenue streams and growth
-      drivers in a 
-
-      consumer goods income statement?
+      drivers in a consumer goods income statement?
     answer: >
-      Analysts should assess revenue from various product categories or
-      brands, 
-
-      considering diversification and reliance on key products. They must analyze 
-
-      the impact of new product launches, product life cycles, and innovation on 
-
-      revenue growth, as well as review revenue by geographic regions and sales 
-
+      Analysts should assess revenue from various product categories or brands,
+      considering diversification and reliance on key products. They must analyze
+      the impact of new product launches, product life cycles, and innovation on
+      revenue growth, as well as review revenue by geographic regions and sales
       channels.
   - question: >
       What key factors must be considered when analyzing the cost structure
-      in a 
-
-      consumer goods company?
+      in a consumer goods company?
     answer: >
-      Analysts must evaluate the cost of goods sold by reviewing raw
-      material, 
-
-      manufacturing, and distribution costs. They should also analyze SG&A expenses 
-
-      such as marketing and administrative costs, R&D investments, and depreciation, 
-
+      Analysts must evaluate the cost of goods sold by reviewing raw material,
+      manufacturing, and distribution costs. They should also analyze SG&A expenses
+      such as marketing and administrative costs, R&D investments, and depreciation,
       and compare gross profit margins with industry benchmarks.
-  - question: |
-      Which profitability metrics are critical in evaluating a consumer goods 
+  - question: >
+      Which profitability metrics are critical in evaluating a consumer goods
       company's income statement performance?
     answer: >
-      Key metrics include operating income and operating margin, net profit
-      margin, 
-
-      and earnings per share (EPS). Analysts should study trends over time and compare 
-
+      Key metrics include operating income and operating margin, net profit margin,
+      and earnings per share (EPS). Analysts should study trends over time and compare
       these ratios with industry peers to assess cost efficiencies and pricing power.
   - question: >
-      How do consumer trends and competition impact revenue quality in the
-      consumer 
-
+      How do consumer trends and competition impact revenue quality in the consumer
       goods sector?
     answer: >
-      Analysts must examine shifts in consumer preferences, such as demand
-      for 
-
-      sustainable or health-conscious products, and evaluate competitive pressures, 
-
+      Analysts must examine shifts in consumer preferences, such as demand for
+      sustainable or health-conscious products, and evaluate competitive pressures,
       including market share dynamics and the effect of private labels or new entrants.
-  - question: |
-      What role do foreign exchange and economic conditions play in a consumer 
+  - question: >
+      What role do foreign exchange and economic conditions play in a consumer
       goods income statement?
     answer: >
-      Currency fluctuations can affect both revenue and expenses, especially
-      for 
-
-      companies with international operations. Economic cycles, consumer spending 
-
+      Currency fluctuations can affect both revenue and expenses, especially for
+      companies with international operations. Economic cycles, consumer spending
       patterns, and inflation also impact sales volumes and profit margins.
   - question: >
-      How does seasonality and cyclicality affect revenue and expense
-      recognition in 
-
+      How does seasonality and cyclicality affect revenue and expense recognition in
       the consumer goods industry?
     answer: >
-      Seasonal demand patterns can lead to inventory build-ups and
-      fluctuations in 
-
-      receivables and payables. Analysts should assess the company’s strategies for 
-
-      managing these seasonal effects to maintain stable revenue recognition and cost 
-
+      Seasonal demand patterns can lead to inventory build-ups and fluctuations in
+      receivables and payables. Analysts should assess the company's strategies for
+      managing these seasonal effects to maintain stable revenue recognition and cost
       control.
   - question: >
-      How should non-recurring items be treated in the income statement
-      analysis of a 
-
+      How should non-recurring items be treated in the income statement analysis of a
       consumer goods company?
     answer: >
-      Non-recurring items such as restructuring costs, asset impairments, or
-      gains 
-
-      from asset sales should be isolated from recurring earnings. Adjusting for these 
-
-      items provides a clearer picture of the company’s core operational performance.
+      Non-recurring items such as restructuring costs, asset impairments, or gains
+      from asset sales should be isolated from recurring earnings. Adjusting for these
+      items provides a clearer picture of the company's core operational performance.
   - question: >
-      What overall insights can be drawn from an income statement analysis
-      in the 
-
+      What overall insights can be drawn from an income statement analysis in the
       consumer goods sector?
     answer: >
-      A comprehensive analysis should integrate revenue quality, cost
-      management, and 
-
-      profitability metrics with the effects of consumer trends, economic factors, 
-
-      and seasonality. This approach highlights strengths and risks, such as exposure 
-
+      A comprehensive analysis should integrate revenue quality, cost management, and
+      profitability metrics with the effects of consumer trends, economic factors,
+      and seasonality. This approach highlights strengths and risks, such as exposure
       to commodity price volatility and competitive pressures, that affect creditworthiness.

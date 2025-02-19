@@ -8,18 +8,13 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate operating cash flow in a
       construction and
-
       engineering company?
     answer: >
       The analyst should assess cash generated from core operations by
       adjusting for
-
       non-cash expenses such as depreciation, amortization, impairments, and stock-based
-
       compensation. Changes in working capital—accounts receivable, unbilled revenue,
-
       accounts payable, and accrued expenses, as well as contract assets and liabilities—
-
       should be analyzed in light of project cycles, seasonality, and economic conditions.
   - question: >
       How should investing cash flow be analyzed in a construction and
@@ -27,49 +22,36 @@ seed_examples:
     answer: >
       Analysts must review cash outflows for capital expenditures on
       equipment,
-
       technology upgrades, and facility improvements. They should also examine cash
-
       flows from acquisitions, divestitures, and investments in joint ventures or equity-
-
       method investees, considering strategic alignment and expected returns.
   - question: >
       What key factors should be considered when evaluating financing cash
       flow in this
-
       industry?
     answer: >
       The analysis should focus on cash inflows from new debt issuances and
       outflows for
-
       debt repayments. Equity financing activities such as share issuances, repurchases,
-
       and dividend payments must also be reviewed to assess the company's funding strategy
-
       and capital structure.
   - question: >
       How is free cash flow (FCF) calculated, and why is it important for a
       construction
-
       and engineering company?
     answer: >
       Free cash flow is calculated by subtracting capital expenditures from
       operating cash
-
       flow. It indicates the company's ability to generate surplus cash for debt servicing,
-
       reinvestment, and shareholder returns, even amid fluctuations in working capital.
   - question: >
       What liquidity measures are critical for assessing financial
       flexibility in this
-
       industry?
     answer: >
       Analysts should evaluate cash and cash equivalents to meet short-term
       obligations.
-
       They must also review credit facilities, bank guarantees, and covenants, and assess
-
       access to capital markets to determine overall liquidity under varying market conditions.
   - question: >
       How does cash flow sensitivity analysis aid in assessing a firm's
@@ -77,21 +59,15 @@ seed_examples:
     answer: >
       Sensitivity analysis examines the impact of project payment delays,
       change orders,
-
       and disputes on cash flow timing. Analysts must also evaluate how interest rate
-
       changes affect cash flows, including the effectiveness of hedging strategies.
   - question: >
       How are risk management activities incorporated into cash flow
       analysis in the
-
       construction and engineering sector?
     answer: >
       Analysts should review hedging activities using derivatives to manage
       foreign
-
       exchange and interest rate risks. They must also assess overall risk management,
-
       including strategies for mitigating project delays and maintaining financial
-
       flexibility.

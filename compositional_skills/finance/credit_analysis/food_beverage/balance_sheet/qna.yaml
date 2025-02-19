@@ -6,105 +6,63 @@ task_description: Teach the model to analyze a Food and Beverage company's
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate inventory management in a Food
-      and Beverage 
-
-      company?
+      How should a credit analyst evaluate inventory management in a Food and
+      Beverage company?
     answer: >
-      The analyst should examine the levels and composition of inventory,
-      including raw 
-
-      materials, work-in-progress, and finished goods. They must assess turnover ratios, 
-
-      evaluate the risk of obsolescence due to perishability and seasonal fluctuations, 
-
+      The analyst should examine the levels and composition of inventory, including raw
+      materials, work-in-progress, and finished goods. They must assess turnover ratios,
+      evaluate the risk of obsolescence due to perishability and seasonal fluctuations,
       and analyze the impact of valuation methods such as FIFO, LIFO, or weighted average cost.
-  - question: |
+  - question: >
       How should PP&E be analyzed in the Food and Beverage industry?
     answer: >
-      Analysts must review investments in production facilities, processing
-      plants, 
-
-      warehouses, and distribution centers. They should assess asset age, condition, and 
-
-      modernization, ensuring compliance with food safety standards, and evaluate CapEx 
-
+      Analysts must review investments in production facilities, processing plants,
+      warehouses, and distribution centers. They should assess asset age, condition, and
+      modernization, ensuring compliance with food safety standards, and evaluate CapEx
       trends and expansion plans.
   - question: >
       What aspects of intangible assets are critical for a Food and Beverage
       company?
     answer: >
-      Key intangible assets include brand equity, trademarks, and goodwill
-      from acquisitions. 
-
-      Analysts should evaluate the valuation of these assets, the company's investment in brand 
-
-      development and protection, and potential impairment risks due to market or reputational 
-
+      Key intangible assets include brand equity, trademarks, and goodwill from acquisitions.
+      Analysts should evaluate the valuation of these assets, the company's investment in brand
+      development and protection, and potential impairment risks due to market or reputational
       issues.
   - question: >
-      How should accounts receivable be evaluated on the balance sheet of a
-      Food and Beverage 
-
-      company?
+      How should accounts receivable be evaluated on the balance sheet of a Food
+      and Beverage company?
     answer: >
-      Analysts need to assess the quality and aging of receivables from
-      retailers, distributors, 
-
-      and foodservice customers. Evaluating credit terms and calculating Days Sales Outstanding 
-
+      Analysts need to assess the quality and aging of receivables from retailers, distributors,
+      and foodservice customers. Evaluating credit terms and calculating Days Sales Outstanding
       (DSO) are essential to gauge collection efficiency and potential payment delays.
   - question: >
-      What key factors must be considered when analyzing the debt structure
-      of a Food and 
-
-      Beverage company?
+      What key factors must be considered when analyzing the debt structure of a
+      Food and Beverage company?
     answer: >
-      Analysts should review both short- and long-term debt obligations,
-      including interest rates, 
-
-      maturity profiles, covenants, and the mix of fixed versus variable-rate debt. Leverage ratios 
-
-      such as Debt-to-Equity and Debt-to-EBITDA must be compared with industry benchmarks, while 
-
+      Analysts should review both short- and long-term debt obligations, including interest rates,
+      maturity profiles, covenants, and the mix of fixed versus variable-rate debt. Leverage ratios
+      such as Debt-to-Equity and Debt-to-EBITDA must be compared with industry benchmarks, while
       considering commodity price volatility.
   - question: >
-      How can liquidity and working capital management be assessed in the
-      Food and Beverage 
-
-      industry?
+      How can liquidity and working capital management be assessed in the Food
+      and Beverage industry?
     answer: >
-      Key liquidity measures include the current and quick ratios. Analysts
-      must analyze the 
-
-      management of receivables, payables, and inventory, and consider the impact of seasonal 
-
+      Key liquidity measures include the current and quick ratios. Analysts must analyze the
+      management of receivables, payables, and inventory, and consider the impact of seasonal
       sales fluctuations and inventory build-up on the company's cash flow.
   - question: >
-      What off-balance sheet items are relevant for a Food and Beverage
-      company, and how 
-
-      should they be evaluated?
+      What off-balance sheet items are relevant for a Food and Beverage company,
+      and how should they be evaluated?
     answer: >
-      Analysts should identify off-balance sheet obligations such as operating
-      leases for 
-
-      retail spaces, warehouses, or equipment, as well as long-term purchase commitments for 
-
-      raw materials. Evaluating these items helps determine their potential impact on future 
-
+      Analysts should identify off-balance sheet obligations such as operating leases for
+      retail spaces, warehouses, or equipment, as well as long-term purchase commitments for
+      raw materials. Evaluating these items helps determine their potential impact on future
       cash flows and financial flexibility.
   - question: >
-      How should currency and commodity exposures, along with regulatory
-      compliance, be 
-
-      assessed on the balance sheet?
+      How should currency and commodity exposures, along with regulatory compliance,
+      be assessed on the balance sheet?
     answer: >
-      Analysts must evaluate the impact of foreign exchange fluctuations on
-      assets and 
-
-      liabilities and assess hedging strategies. They should also consider commodity price risks 
-
-      for inputs like sugar, grains, dairy, coffee, or cocoa, and review compliance with food 
-
+      Analysts must evaluate the impact of foreign exchange fluctuations on assets and
+      liabilities and assess hedging strategies. They should also consider commodity price risks
+      for inputs like sugar, grains, dairy, coffee, or cocoa, and review compliance with food
       safety, quality, and environmental regulations.

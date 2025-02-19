@@ -1,80 +1,52 @@
 version: 3
-task_description: Teach the model to analyze a biotech company's cash flow
-  statement, focusing on operating cash flow, investing activities, financing
-  flows, free cash flow, and liquidity risks that are unique to the biotech
-  industry.
+task_description: Teach the model to analyze a biotech company's cash flow statement, focusing on operating cash flow, investing activities, financing flows, free cash flow, and liquidity risks that are unique to the biotech industry.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate net cash from operations in a
-      biotech 
-
+      How should a credit analyst evaluate net cash from operations in a biotech
       cash flow statement?
     answer: >
-      Analysts should assess the cash generated from core operations, noting
-      that 
-
-      many biotech companies report negative operating cash flow due to high R&D 
-
-      spending. They must determine if cash flow is bolstered by non-recurring 
-
+      Analysts should assess the cash generated from core operations, noting that
+      many biotech companies report negative operating cash flow due to high R&D
+      spending. They must determine if cash flow is bolstered by non-recurring
       milestone payments or licensing revenue.
   - question: |
       How do changes in working capital affect a biotech company's cash flow?
     answer: |
-      Analysts should review variations in accounts receivable and payable to 
-      identify liquidity fluctuations. These changes may indicate issues with 
+      Analysts should review variations in accounts receivable and payable to
+      identify liquidity fluctuations. These changes may indicate issues with
       collection efficiency or payment delays that affect overall cash flow.
   - question: >
-      What factors should be considered when analyzing capital expenditures
-      (CapEx)
-
+      What factors should be considered when analyzing capital expenditures (CapEx)
       in biotech cash flow statements?
     answer: >
-      CapEx analysis involves reviewing investments in facilities, laboratory 
-
-      equipment, and technology infrastructure. It is important to assess whether 
-
+      CapEx analysis involves reviewing investments in facilities, laboratory
+      equipment, and technology infrastructure. It is important to assess whether
       CapEx spending aligns with R&D and manufacturing goals.
   - question: |
-      How do acquisitions and divestitures impact the investing cash flow of a 
+      How do acquisitions and divestitures impact the investing cash flow of a
       biotech firm?
     answer: >
-      Cash flows from acquiring or divesting technologies, subsidiaries, or
-      IP 
-
-      assets can affect cash flow stability and future revenue potential. Analysts 
-
+      Cash flows from acquiring or divesting technologies, subsidiaries, or IP
+      assets can affect cash flow stability and future revenue potential. Analysts
       should evaluate these transactions to gauge their long-term impact.
   - question: |
       How should financing cash flows be evaluated in the biotech sector?
     answer: >
-      Given the high R&D risks, biotech firms often rely on equity financing. 
-
-      Analysts should assess the frequency of new equity issuances, the potential 
-
+      Given the high R&D risks, biotech firms often rely on equity financing.
+      Analysts should assess the frequency of new equity issuances, the potential
       dilution of shareholders, and any existing debt financing and repayments.
   - question: >
-      What is the significance of free cash flow (FCF) in a biotech
-      company's cash 
-
+      What is the significance of free cash flow (FCF) in a biotech company's cash
       flow analysis?
     answer: >
-      Free cash flow is calculated by subtracting CapEx from operating cash
-      flow. 
-
-      It indicates the firm's ability to fund additional R&D and expansion without 
-
+      Free cash flow is calculated by subtracting CapEx from operating cash flow.
+      It indicates the firm's ability to fund additional R&D and expansion without
       relying on external financing, which is crucial for long-term sustainability.
   - question: >
-      What liquidity risks are unique to biotech companies as reflected in
-      their 
-
+      What liquidity risks are unique to biotech companies as reflected in their
       cash flow statements?
     answer: >
-      Due to high cash burn from R&D and clinical trials, biotech firms must
-      maintain 
-
-      robust cash reserves. Analysts should evaluate liquidity metrics and the cash 
-
+      Due to high cash burn from R&D and clinical trials, biotech firms must maintain
+      robust cash reserves. Analysts should evaluate liquidity metrics and the cash
       burn rate to identify potential funding risks during extended development phases.

@@ -7,16 +7,12 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate product sales revenue and growth
       drivers in a
-
       pharmaceuticals income statement?
     answer: >
       Analysts should review revenue contributions from key drugs and
       therapeutic areas.
-
       They must assess revenue concentration among top-selling products, examine sales
-
       trends by geography and lifecycle stage, and evaluate the impact of new product
-
       launches and innovation on revenue growth.
   - question: >
       How should collaborations and licensing revenue be analyzed in the
@@ -24,9 +20,7 @@ seed_examples:
     answer: >
       Analysts must evaluate income from collaborations, licensing agreements,
       royalties,
-
       and milestone payments. They should assess the sustainability and variability of
-
       these revenue streams over time.
   - question: >
       What other revenue sources should be considered in a pharmaceuticals
@@ -34,45 +28,34 @@ seed_examples:
     answer: >
       In addition to product sales and licensing, analysts should review
       revenue from
-
       over-the-counter products, diagnostics, and consumer health divisions to gauge
-
       overall revenue diversification.
   - question: >
       How should the cost of goods sold (COGS) and operating expenses be
       analyzed for a
-
       pharmaceuticals company?
     answer: >
       Analysts need to evaluate manufacturing and distribution costs,
       comparing gross
-
       profit margins with industry benchmarks. They should also assess SG&A expenses,
-
       including marketing and administrative costs, to understand overall cost structure.
   - question: >
       How should R&D expenses and productivity be evaluated in a
       pharmaceuticals income
-
       statement?
     answer: >
       Analysts must review R&D spending as a percentage of revenue and assess
       investments
-
       in drug development, clinical trials, and pipeline progression. Evaluating new drug
-
       approvals helps measure R&D efficiency.
   - question: >
       Which profitability metrics are critical for evaluating a
       pharmaceuticals company's
-
       performance?
     answer: >
       Key metrics include operating income, operating margin, EBITDA, net
       income, and EPS.
-
       Tracking these ratios over time and comparing them with industry peers reveals the
-
       company's operational efficiency and pricing power.
   - question: >
       How should the impact of generic competition and pricing pressures be
@@ -80,19 +63,14 @@ seed_examples:
     answer: >
       Analysts should assess the timing of patent expirations and evaluate
       pricing
-
       strategies. They must consider reimbursement challenges and competitive pressures,
-
       which can affect revenue and margins.
   - question: >
       How should litigation, regulatory risks, and non-recurring items be
       factored into
-
       the income statement analysis?
     answer: >
       Analysts must review significant legal settlements, regulatory
       compliance costs, and
-
       one-time items like restructuring charges or asset impairments. Adjusting earnings
-
       metrics for these items provides a clearer view of core operational performance.

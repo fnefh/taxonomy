@@ -8,16 +8,12 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate premium income in an insurance
       income 
-
       statement?
     answer: >
       Analysts should review gross written, net written, and net earned
       premiums.
-
       They must assess trends in premium growth, retention rates, and the balance 
-
       between new business and renewals, along with pricing strategies and 
-
       underwriting standards.
   - question: |
       How should investment income be analyzed in the context of an insurance 
@@ -25,9 +21,7 @@ seed_examples:
     answer: >
       Analysts should examine income from interest, dividends, and both
       realized 
-
       and unrealized gains or losses on investments. They must consider the 
-
       volatility of investment returns and its contribution to overall profitability.
   - question: |
       How can fee and other income be assessed in an insurance company's income 
@@ -35,9 +29,7 @@ seed_examples:
     answer: >
       Analysts should evaluate revenue from asset management services, policy
       fees, 
-
       and other non-premium sources. Understanding the diversification and 
-
       sustainability of these income streams is crucial.
   - question: |
       What factors should be considered when evaluating claims and policyholder 
@@ -45,20 +37,15 @@ seed_examples:
     answer: >
       Analysts must review incurred claims, including reported and IBNR
       claims,
-
       and assess loss ratios by comparing claims incurred to net earned premiums.
-
       They should also evaluate policyholder benefit expenses and trends in policy 
-
       surrenders.
   - question: >
       How should underwriting expenses, including acquisition costs, be analyzed?
     answer: >
       Analysts should examine expenses such as commissions, broker fees, and
       the 
-
       amortization of deferred acquisition costs (DAC), along with SG&A and other 
-
       operating costs, to measure efficiency via expense ratios.
   - question: |
       Which profitability metrics are essential for assessing an insurance 
@@ -66,9 +53,7 @@ seed_examples:
     answer: >
       Key metrics include operating income, operating margin, EBITDA, net
       income, 
-
       ROE, and ROA. Analysts should track these ratios over time and compare them 
-
       with industry benchmarks to evaluate operational efficiency.
   - question: |
       How does reinsurance affect the income statement of an insurance company?
@@ -82,9 +67,6 @@ seed_examples:
     answer: >
       Analysts must assess investment yield and returns, considering both
       market 
-
       value changes and the impact on earnings. Additionally, isolating one-time 
-
       charges or gains—such as restructuring costs or asset sale gains—helps reveal 
-
       core operational performance.

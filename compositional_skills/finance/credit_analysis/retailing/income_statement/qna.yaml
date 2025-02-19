@@ -6,83 +6,65 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate sales revenue and same-store
-      sales growth in a 
-
+      sales growth in a
       retail income statement?
     answer: >
       Analysts should review total sales revenue, distinguishing between
-      comparable 
-
-      same-store sales and revenue from new stores. They must assess trends in comps, 
-
+      comparable
+      same-store sales and revenue from new stores. They must assess trends in comps,
       seasonality, and the impact of promotional activities on revenue.
   - question: >
       What factors are important when analyzing product mix and segmentation
       in retail?
     answer: >
       Analysts need to examine revenue contributions from different product
-      categories, 
-
-      assessing diversification and reliance on key products. They should evaluate how 
-
+      categories,
+      assessing diversification and reliance on key products. They should evaluate how
       the product mix impacts margins and overall revenue stability.
   - question: >
       How can the cost of goods sold (COGS) and gross profit margins be
-      analyzed in a 
-
+      analyzed in a
       retail income statement?
     answer: >
       Analysts should evaluate merchandise costs, including procurement and
-      inventory 
-
-      shrinkage. Calculating gross profit margin and comparing it with industry benchmarks 
-
+      inventory
+      shrinkage. Calculating gross profit margin and comparing it with industry benchmarks
       reveals efficiency in pricing and sourcing.
   - question: |
       What operating expenses should be considered in a retail income statement?
     answer: >
       Analysts must review SG&A expenses such as store operations, marketing,
-      and 
-
-      administrative costs, along with occupancy and labor costs. These expenses affect 
-
+      and
+      administrative costs, along with occupancy and labor costs. These expenses affect
       overall operating margins.
   - question: >
       Which profitability metrics are vital for evaluating a retail
       company's performance?
     answer: >
       Key metrics include operating income, operating margin, net income, and
-      EPS. Analysts 
-
-      should track these ratios over time and compare them with industry peers to gauge 
-
+      EPS. Analysts
+      should track these ratios over time and compare them with industry peers to gauge
       operational efficiency.
   - question: >
       How should non-operating items, such as interest expense and one-time
-      charges, be 
-
+      charges, be
       treated in income statement analysis?
     answer: >
       Analysts should isolate non-recurring items—like restructuring costs or
-      asset 
-
+      asset
       impairments—to adjust earnings and focus on core operational performance.
   - question: |
       What profitability and efficiency ratios are critical in retail analysis?
     answer: >
       Analysts should calculate ratios such as ROA, ROE, and sales per square
-      foot to assess 
-
+      foot to assess
       asset utilization and the productivity of retail space relative to competitors.
   - question: >
       How do market conditions and consumer trends impact a retail company's
-      income 
-
+      income
       statement?
     answer: >
       Analysts must evaluate the effects of consumer confidence, disposable
-      income, and 
-
-      competitive dynamics on sales. Shifts in consumer behavior and economic cycles 
-
+      income, and
+      competitive dynamics on sales. Shifts in consumer behavior and economic cycles
       directly influence pricing strategies and overall profitability.

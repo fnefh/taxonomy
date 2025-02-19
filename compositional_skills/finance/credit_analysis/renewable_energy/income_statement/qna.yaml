@@ -7,37 +7,28 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate product sales revenue in a
       pharmaceuticals 
-
       income statement?
     answer: >
       Analysts should review revenue from key pharmaceutical products by
       examining 
-
       sales by therapeutic area, geographic region, and lifecycle stage. They must 
-
       assess revenue concentration among top-selling drugs and the impact of patent 
-
       expirations on future revenue.
   - question: >
       What factors should be considered when analyzing collaborations and
       licensing 
-
       revenue?
     answer: >
       Analysts must evaluate income from partnerships, licensing agreements,
       royalties, 
-
       and milestone payments. The sustainability and variability of these revenue streams 
-
       are key to understanding revenue diversification.
   - question: >
       How can the cost of goods sold (COGS) and gross profit margins be assessed?
     answer: >
       Analysts should evaluate manufacturing and distribution costs by
       comparing 
-
       gross profit margins with industry benchmarks, and assess the impact of production 
-
       efficiencies and commodity price fluctuations.
   - question: |
       How should R&D expenses and their productivity be evaluated in the income 
@@ -45,9 +36,7 @@ seed_examples:
     answer: >
       Analysts need to review R&D spending as a percentage of revenue and
       examine the 
-
       company's pipeline, clinical trial progress, and new drug approvals to gauge the 
-
       efficiency of R&D investments.
   - question: |
       Which profitability metrics are essential in evaluating a pharmaceuticals 
@@ -55,20 +44,15 @@ seed_examples:
     answer: >
       Key metrics include operating income, operating margin, EBITDA, net
       income, and 
-
       EPS. Tracking these ratios over time and comparing them with industry peers reveals 
-
       operational efficiency and pricing power.
   - question: >
       How do technological advancements and energy storage trends affect
       revenue and 
-
       cost structures?
     answer: >
       Analysts should assess the impact of innovations such as improved drug 
-
       formulations, digital health technologies, and advanced manufacturing processes on 
-
       both revenue growth and cost management.
   - question: |
       What role do customer concentration and contract terms play in revenue 
@@ -76,16 +60,12 @@ seed_examples:
     answer: >
       Analysts must examine the mix of revenue from major accounts, contract
       durations, 
-
       and renewal rates. High customer concentration can increase revenue risk, while 
-
       long-term contracts stabilize earnings.
   - question: >
       How should non-recurring items be treated in the income statement analysis?
     answer: >
       Analysts should isolate one-time charges, such as restructuring costs,
       asset 
-
       impairments, or litigation settlements, to adjust earnings metrics and reveal the 
-
       company’s core operational performance.

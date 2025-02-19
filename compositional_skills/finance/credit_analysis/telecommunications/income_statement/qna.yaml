@@ -1,86 +1,53 @@
 version: 3
-task_description: Teach the model to analyze a telecommunications company's
-  income statement, focusing on revenue streams, cost structure, profitability,
-  interest expense, customer churn, and non-recurring items.
+task_description: Teach the model to analyze a telecommunications company's income statement, focusing on revenue streams, cost structure, profitability, interest expense, customer churn, and non-recurring items.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate service revenue in a telecom
-      income statement?
+      How should a credit analyst evaluate service revenue in a telecom income statement?
     answer: >
-      Analysts should review revenue from voice, data, and broadband services,
-      focusing on 
-
-      ARPU trends and the mix of prepaid versus postpaid customers. They must assess the 
-
+      Analysts should review revenue from voice, data, and broadband services, focusing on
+      ARPU trends and the mix of prepaid versus postpaid customers. They must assess the
       impact of pricing strategies, competition, and customer churn on revenue stability.
   - question: |
       How can equipment sales revenue be assessed in a telecom income statement?
     answer: >
-      Analysts should examine revenue from device and equipment sales,
-      considering the 
-
-      profitability of these sales and any subsidies offered. This analysis helps determine 
-
+      Analysts should examine revenue from device and equipment sales, considering the
+      profitability of these sales and any subsidies offered. This analysis helps determine
       the contribution of equipment sales to overall income.
   - question: >
-      How should wholesale and interconnection revenue be analyzed in a
-      telecom income 
-
+      How should wholesale and interconnection revenue be analyzed in a telecom income
       statement?
     answer: >
-      Analysts must evaluate revenue from providing network access to other
-      operators, ISPs, 
-
-      and corporate clients. They should consider the impact of regulatory changes and market 
-
+      Analysts must evaluate revenue from providing network access to other operators, ISPs,
+      and corporate clients. They should consider the impact of regulatory changes and market
       competition on these revenue streams.
   - question: |
       How should operating expenses be evaluated in a telecom income statement?
     answer: >
-      Analysts should review expenses related to network maintenance,
-      interconnection fees, 
-
-      and technology upgrades, along with SG&A expenses such as marketing and customer support. 
-
+      Analysts should review expenses related to network maintenance, interconnection fees,
+      and technology upgrades, along with SG&A expenses such as marketing and customer support.
       Depreciation and amortization of capital assets should also be considered.
   - question: >
-      Which profitability metrics are essential for evaluating a telecom
-      income statement?
+      Which profitability metrics are essential for evaluating a telecom income statement?
     answer: >
-      Key metrics include EBITDA, operating income, and net income. Analysts
-      should calculate 
-
-      operating margins and track EPS trends over time, comparing these figures with industry peers 
-
+      Key metrics include EBITDA, operating income, and net income. Analysts should calculate
+      operating margins and track EPS trends over time, comparing these figures with industry peers
       to assess operational efficiency.
   - question: >
-      How should interest expense and leverage be analyzed in the
-      telecommunications industry?
+      How should interest expense and leverage be analyzed in the telecommunications industry?
     answer: >
-      Analysts should calculate interest coverage ratios, such as EBITDA to
-      Interest Expense, 
-
-      to assess the company's ability to service its debt. High leverage relative to earnings 
-
+      Analysts should calculate interest coverage ratios, such as EBITDA to Interest Expense,
+      to assess the company's ability to service its debt. High leverage relative to earnings
       may signal increased financial risk.
   - question: >
-      What role do customer churn and acquisition costs play in a telecom
-      income statement?
+      What role do customer churn and acquisition costs play in a telecom income statement?
     answer: >
-      Analysts must assess customer churn rates and analyze customer
-      acquisition costs (CAC) 
-
-      to determine their impact on recurring revenue. High churn or rising CAC can erode 
-
+      Analysts must assess customer churn rates and analyze customer acquisition costs (CAC)
+      to determine their impact on recurring revenue. High churn or rising CAC can erode
       revenue stability and profitability.
   - question: >
-      How should non-recurring items be treated in telecom income statement
-      analysis?
+      How should non-recurring items be treated in telecom income statement analysis?
     answer: >
-      Analysts should isolate one-time charges such as restructuring costs,
-      asset impairments, 
-
-      or litigation settlements from recurring earnings. Adjusting for these items provides a 
-
+      Analysts should isolate one-time charges such as restructuring costs, asset impairments,
+      or litigation settlements from recurring earnings. Adjusting for these items provides a
       clearer view of the company's core operational performance.

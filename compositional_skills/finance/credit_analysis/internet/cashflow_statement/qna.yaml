@@ -7,16 +7,12 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate operating cash flow in an
       internet portal 
-
       company?
     answer: >
       Analysts should assess cash flows from core operations such as trading
       fees, 
-
       commissions, and service revenues. They must adjust for non-cash expenses like 
-
       depreciation, amortization, and stock-based compensation, and analyze changes in 
-
       working capital components including receivables, payables, and deferred revenue.
   - question: >
       How does the company’s burn rate impact its operating cash flow and
@@ -24,81 +20,60 @@ seed_examples:
     answer: >
       The burn rate indicates the speed at which cash is consumed. Analysts
       must 
-
       evaluate whether operating cash flows can cover ongoing expenses without 
-
       resorting to asset sales, ensuring sustainable operations.
   - question: >
       What key factors should be reviewed in the investing cash flow section
       for an 
-
       internet portal company?
     answer: >
       Analysts should review capital expenditures on technology
       infrastructure, data 
-
       centers, software development, and equipment. They must also assess cash flows 
-
       from acquisitions, strategic investments, and the capitalization of development costs.
   - question: >
       How should financing cash flow be analyzed in the context of an
       internet portal 
-
       company?
     answer: >
       The analysis should focus on cash inflows from issuing new equity or
       debt and 
-
       outflows for debt repayments, share repurchases, and dividends. Evaluating the 
-
       maturity profile of debt and refinancing risks is also critical.
   - question: >
       How is free cash flow (FCF) calculated and why is it important for an
       internet 
-
       portal company?
     answer: >
       Free cash flow is calculated by subtracting capital expenditures from
       operating 
-
       cash flow. It indicates the firm's ability to fund operations and growth without 
-
       additional external financing.
   - question: >
       What liquidity measures are essential for evaluating an internet
       portal company's 
-
       cash flow health?
     answer: >
       Analysts must assess the level of cash and cash equivalents and
       calculate the 
-
       cash runway (cash reserves divided by monthly burn). Evaluating access to credit 
-
       facilities and market conditions is also important.
   - question: >
       How should risk factors and sensitivity analysis be incorporated into
       cash flow 
-
       assessments for internet companies?
     answer: >
       Analysts should perform scenario analysis to evaluate the impact of
       changes in 
-
       revenue growth, expense levels, and capital needs on cash flows. They must also 
-
       assess reliance on external financing and the effects of market volatility.
   - question: >
       What overall insights can be drawn from a comprehensive cash flow
       analysis in the 
-
       internet industry?
     answer: >
       A thorough analysis integrates operating, investing, and financing cash
       flows, 
-
       liquidity measures, and sensitivity analysis. This holistic view helps identify 
-
       risks such as high burn rates, reliance on external funding, and market volatility, 
-
       which affect the company's creditworthiness.

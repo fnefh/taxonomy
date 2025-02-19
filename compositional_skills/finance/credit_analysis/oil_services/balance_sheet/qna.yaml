@@ -7,109 +7,78 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate capital-intensive equipment in an
       oil services
-
       company's balance sheet?
     answer: >
       Analysts should review the composition and valuation of equipment assets
       such as
-
       drilling rigs, pumping trucks, and seismic testing equipment. They must assess
-
       asset age, technological advancement, and operational efficiency, and analyze
-
       capital expenditure trends for maintenance or upgrades.
   - question: >
       What factors are important when analyzing inventory levels for an oil
       services
-
       company?
     answer: >
       Analysts must examine inventory levels of spare parts and equipment,
       considering
-
       the effects of oil price fluctuations and demand variability. They should assess
-
       risks of obsolescence using valuation methods such as FIFO, LIFO, or weighted
-
       average cost.
   - question: >
       How should intangible assets be evaluated on the balance sheet of an
       oil services
-
       company?
     answer: >
       Analysts should review intangible assets such as proprietary
       technologies,
-
       patents, and specialized expertise. Evaluating amortization policies and
-
       impairment risks is key to determining how these assets support competitive
-
       positioning and future revenue.
   - question: >
       How can a credit analyst assess the debt structure and leverage of an
       oil services
-
       company?
     answer: >
       Analysts must evaluate short- and long-term debt obligations by
       reviewing interest
-
       rates, maturity profiles, and covenants. Leverage ratios such as Debt-to-Equity and
-
       Debt-to-EBITDA should be calculated and compared with industry benchmarks to assess
-
       debt servicing capacity.
   - question: >
       What liquidity measures are essential for evaluating an oil services
       company's
-
       balance sheet?
     answer: >
       Analysts should calculate liquidity ratios such as the current ratio and
       quick
-
       ratio, and assess the adequacy of cash reserves. They must also evaluate working
-
       capital management, particularly during periods of volatile oil prices.
   - question: >
       How should operational liabilities, such as environmental and safety
       obligations,
-
       be assessed in the balance sheet?
     answer: >
       Analysts must examine liabilities related to environmental regulations,
-
       safety compliance, and legal obligations arising from accidents or spills. They
-
       should evaluate the adequacy of provisions and the potential financial impact of these
-
       risks.
   - question: >
       How does the analysis of shareholder equity and retained earnings
       inform the 
-
       financial stability of an oil services company?
     answer: >
       Analysts should review changes in shareholder equity, including retained
       earnings
-
       and treasury stock, and assess the impact of equity financing or share repurchase
-
       programs. This analysis provides insight into historical profitability and 
-
       reinvestment strategies.
   - question: >
       What overall insights can be drawn from a comprehensive balance sheet
       analysis
-
       in the oil services industry?
     answer: >
       A comprehensive analysis integrates asset quality, debt management,
       liquidity,
-
       and operational liabilities. This holistic view highlights risks such as high leverage,
-
       exposure to commodity volatility, and environmental obligations that may impact
-
       the company's creditworthiness.

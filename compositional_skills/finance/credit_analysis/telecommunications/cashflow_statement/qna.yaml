@@ -1,104 +1,61 @@
 version: 3
-task_description: Teach the model to analyze a telecommunications company's cash
-  flow statement, focusing on operating, investing, and financing cash flows,
-  liquidity, and sensitivity analysis specific to the industry.
+task_description: Teach the model to analyze a telecommunications company's cash flow statement, focusing on operating, investing, and financing cash flows, liquidity, and sensitivity analysis specific to the industry.
 created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate operating cash flow in a
-      telecommunications
-
-      company?
+      telecommunications company?
     answer: >
-      Analysts should assess cash flows from core telecom operations by
-      adjusting net 
-
-      income for non-cash expenses like depreciation and amortization. They must analyze 
-
-      changes in working capital components including accounts receivable, accounts payable, 
-
-      and inventories, while considering the impact of customer payment terms and prepaid 
-
+      Analysts should assess cash flows from core telecom operations by adjusting net
+      income for non-cash expenses like depreciation and amortization. They must analyze
+      changes in working capital components including accounts receivable, accounts payable,
+      and inventories, while considering the impact of customer payment terms and prepaid
       services on cash flow timing.
   - question: >
-      What working capital factors are critical when analyzing operating
-      cash flow for 
-
+      What working capital factors are critical when analyzing operating cash flow for
       telecom companies?
     answer: >
-      Key factors include the management of receivables from customers, the
-      efficiency of 
-
-      billing and collection, and the timing of payments. Evaluating inventory levels and 
-
+      Key factors include the management of receivables from customers, the efficiency of
+      billing and collection, and the timing of payments. Evaluating inventory levels and
       accounts payable terms is essential to understand cash conversion cycles.
   - question: >
-      How should investing cash flow be analyzed in the telecommunications
-      industry?
+      How should investing cash flow be analyzed in the telecommunications industry?
     answer: >
-      Analysts must review cash outflows for capital expenditures on network
-      infrastructure, 
-
-      technology upgrades, spectrum licenses, and expansion projects. They should assess 
-
-      CapEx relative to revenue and operating cash flow, and consider cash flows from asset 
-
+      Analysts must review cash outflows for capital expenditures on network infrastructure,
+      technology upgrades, spectrum licenses, and expansion projects. They should assess
+      CapEx relative to revenue and operating cash flow, and consider cash flows from asset
       sales and acquisitions.
   - question: >
-      What are the key aspects to consider when evaluating financing cash
-      flow in a telecom 
-
+      What are the key aspects to consider when evaluating financing cash flow in a telecom
       company?
     answer: >
-      Analysts should examine cash inflows from debt and equity financing and
-      outflows for 
-
-      debt repayments, share repurchases, and dividend payments. Evaluating the maturity 
-
+      Analysts should examine cash inflows from debt and equity financing and outflows for
+      debt repayments, share repurchases, and dividend payments. Evaluating the maturity
       profile of debt and refinancing risks is also crucial.
   - question: >
-      How is free cash flow (FCF) calculated, and why is it important for
-      telecom companies?
+      How is free cash flow (FCF) calculated, and why is it important for telecom companies?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash 
-
-      flow. It measures the company's ability to generate surplus cash for debt servicing, 
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
+      flow. It measures the company's ability to generate surplus cash for debt servicing,
       reinvestment, and shareholder returns, despite high CapEx requirements.
   - question: >
-      What liquidity measures are essential for assessing a telecom
-      company's cash flow 
-
+      What liquidity measures are essential for assessing a telecom company's cash flow
       health?
     answer: >
-      Key liquidity measures include cash and cash equivalents, the current
-      ratio, and the 
-
-      quick ratio. Analysts should also evaluate access to credit facilities and the overall 
-
+      Key liquidity measures include cash and cash equivalents, the current ratio, and the
+      quick ratio. Analysts should also evaluate access to credit facilities and the overall
       working capital management.
   - question: >
-      How should debt service coverage be evaluated in a telecommunications
-      company?
+      How should debt service coverage be evaluated in a telecommunications company?
     answer: >
-      Analysts must calculate ratios such as Operating Cash Flow to Interest
-      Paid, and 
-
-      examine the debt maturity schedule to assess refinancing risks and the company's 
-
+      Analysts must calculate ratios such as Operating Cash Flow to Interest Paid, and
+      examine the debt maturity schedule to assess refinancing risks and the company's
       ability to service its debt.
   - question: >
-      How can scenario analysis be used to assess cash flow sensitivity in
-      the telecom 
-
+      How can scenario analysis be used to assess cash flow sensitivity in the telecom
       industry?
     answer: >
-      Scenario analysis should model the impact of changes in revenue,
-      operating costs, and 
-
-      CapEx requirements on cash flow projections. Analysts must consider the company's 
-
-      ability to adjust expenditures in response to market conditions and technological 
-
+      Scenario analysis should model the impact of changes in revenue, operating costs, and
+      CapEx requirements on cash flow projections. Analysts must consider the company's
+      ability to adjust expenditures in response to market conditions and technological
       shifts.

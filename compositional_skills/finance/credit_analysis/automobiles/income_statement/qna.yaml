@@ -1,97 +1,64 @@
 version: 3
-task_description: Teach the model to analyze an automobile company's income
-  statement with a focus on revenue streams, cost structure, operating expenses,
-  profitability, non-operating items, tax considerations, and earnings metrics.
+task_description: Teach the model to analyze an automobile company's income statement with a focus on revenue streams, cost structure, operating expenses, profitability, non-operating items, tax considerations, and earnings metrics.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate revenue streams in an automotive
-      income
-
+      How should a credit analyst evaluate revenue streams in an automotive income
       statement?
     answer: >
-      Analysts should review revenue from vehicle sales by distinguishing
-      between
-
+      Analysts should review revenue from vehicle sales by distinguishing between
       consumer and fleet sales across various regions. They must also evaluate
-
       financing and leasing income—including interest and lease payments—and assess
-
       revenue from after-sales services such as extended warranties, maintenance
-
       contracts, and replacement parts.
   - question: >
-      What factors are important when analyzing the cost of goods sold
-      (COGS) for
-
+      What factors are important when analyzing the cost of goods sold (COGS) for
       an automotive company?
     answer: >
       Analysts should examine manufacturing costs, including labor, materials,
-
       and overhead. They must also assess the impact of supply chain dynamics,
-
       commodity price fluctuations, and global sourcing on production costs, as well
-
       as review depreciation of production facilities and equipment.
   - question: |
       How can gross profit margin be used to evaluate an automotive company's
       performance?
     answer: >
-      Gross profit margin, calculated as gross profit divided by revenue,
-      reflects
-
+      Gross profit margin, calculated as gross profit divided by revenue, reflects
       production efficiency and cost control. Analysts should compare margin trends
-
       over multiple periods and against industry benchmarks.
   - question: |
       What aspects of operating expenses should be considered in an automotive
       income statement analysis?
     answer: >
-      Analysts must review SG&A expenses, including marketing, advertising,
-      and
-
+      Analysts must review SG&A expenses, including marketing, advertising, and
       administrative costs, as well as R&D investments in new vehicle designs and
-
       technological innovations. Warranty, recall, and related litigation costs should
-
       also be examined.
   - question: |
       Which operating income metrics are critical for assessing profitability in
       the automotive industry?
     answer: >
-      Key metrics include operating margin and net income trends. Evaluating
-      earnings
-
+      Key metrics include operating margin and net income trends. Evaluating earnings
       per share (EPS) volatility alongside these measures helps determine the ability
-
       to manage high fixed costs and sustain competitive performance.
   - question: >
       How should non-operating items be evaluated in an automotive income
       statement?
     answer: >
-      Non-operating items—such as interest expense and gains or losses from
-      asset sales,
-
+      Non-operating items—such as interest expense and gains or losses from asset sales,
       impairments, or restructuring charges—must be isolated from core operations to
-
       reveal the true recurring profitability.
   - question: |
       What role do tax considerations, such as the effective tax rate, play in
       income statement analysis?
     answer: >
-      The effective tax rate reflects the company's overall tax strategy,
-      including
-
+      The effective tax rate reflects the company's overall tax strategy, including
       the impact of incentives, credits, and deferrals. Analyzing this rate helps assess
-
       how tax policies affect net income and overall profitability.
   - question: |
       How can earnings per share (EPS) trends be used to assess an automotive
       company's financial performance?
     answer: >
-      EPS trends, influenced by share repurchases, new equity issuances, and
-      dilution,
-
+      EPS trends, influenced by share repurchases, new equity issuances, and dilution,
       indicate the company's ability to generate consistent profits. Tracking EPS over
-
       time helps evaluate long-term creditworthiness and shareholder value.

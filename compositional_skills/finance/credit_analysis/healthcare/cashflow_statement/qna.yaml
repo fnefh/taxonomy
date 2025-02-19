@@ -9,104 +9,64 @@ seed_examples:
       How should a credit analyst evaluate operating cash flow in a
       healthcare company?
     answer: >
-      Analysts should assess cash generated from core operations, such as
-      patient fees and
-
+      Analysts should assess cash generated from core operations, such as patient fees and
       reimbursements, while adjusting for non-cash expenses like depreciation, amortization,
-
       and provisions for doubtful accounts. Changes in working capital—including receivables,
-
       payables, and inventory—must also be examined, along with the impact of seasonal
-
       variations in patient volume.
-  - question: |
+  - question: >
       How should investing cash flow be analyzed for a healthcare company?
     answer: >
-      Analysts must review cash outflows for capital expenditures on
-      facilities,
-
+      Analysts must review cash outflows for capital expenditures on facilities,
       medical equipment, technology upgrades, and expansion projects. They should assess
-
       CapEx relative to depreciation and operating cash flow, and examine cash flows from
-
       acquisitions or divestitures of medical practices or ancillary services.
   - question: >
       What factors are critical when analyzing financing cash flow in the
       healthcare sector?
     answer: >
-      The analysis should focus on cash inflows from new borrowings and
-      outflows for debt
-
+      The analysis should focus on cash inflows from new borrowings and outflows for debt
       repayments, as well as equity financing activities like share issuances and repurchases.
-
       Analysts should consider the maturity profile of debt and assess refinancing risks,
-
       along with dividend payments relative to free cash flow.
   - question: >
       How is free cash flow (FCF) calculated, and why is it important for a
       healthcare firm?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
       flow. It measures the firm's ability to generate surplus cash to service debt,
-
       reinvest in growth, and return capital to shareholders, despite working capital
-
       fluctuations and high CapEx requirements.
   - question: >
       What liquidity and financial flexibility measures are essential in a
-      healthcare 
-
-      company's cash flow analysis?
+      healthcare company's cash flow analysis?
     answer: >
-      Analysts should assess cash and cash equivalents, current and quick
-      ratios, and the
-
+      Analysts should assess cash and cash equivalents, current and quick ratios, and the
       availability of credit facilities or revolving credit agreements. These measures help
-
       determine if the company can meet short-term obligations and fund strategic needs
-
       during reimbursement delays.
   - question: >
-      How should debt service coverage be evaluated in a healthcare
-      company's cash flow
-
-      analysis?
+      How should debt service coverage be evaluated in a healthcare company's
+      cash flow analysis?
     answer: >
-      Evaluating debt service involves calculating ratios such as operating
-      cash flow to
-
+      Evaluating debt service involves calculating ratios such as operating cash flow to
       interest expense. Analysts should review the timing of debt maturities and the firm's
-
       ability to refinance or repay debt, ensuring that cash flows sufficiently cover interest
-
       obligations.
   - question: >
       How does scenario analysis help assess cash flow sensitivity in the
       healthcare sector?
     answer: >
-      Scenario analysis involves modeling the impact of changes in
-      reimbursement rates,
-
+      Scenario analysis involves modeling the impact of changes in reimbursement rates,
       patient volumes, operating costs, and capital expenditure needs. This helps analysts
-
       understand the firm's ability to adjust expenditures and maintain stable cash flows in
-
       response to regulatory or market shifts.
   - question: >
       What overall risks and strengths in cash flow management should be
-      considered in a
-
-      healthcare company?
+      considered in a healthcare company?
     answer: >
-      A comprehensive analysis must integrate operating, investing, and
-      financing cash flows
-
+      A comprehensive analysis must integrate operating, investing, and financing cash flows
       with liquidity and sensitivity assessments. Key risks include reimbursement delays,
-
       reliance on external financing, high capital intensity, and regulatory constraints,
-
       while strengths may include effective working capital management and a robust cash
-
       reserve.

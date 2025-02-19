@@ -6,87 +6,67 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate technology assets and
-      intellectual property 
-
+      intellectual property
       on a semiconductor company's balance sheet?
     answer: >
       Analysts should review investments in patents, proprietary technologies,
-      and other 
-
-      intellectual property. They must assess valuation methods, amortization policies, 
-
+      and other
+      intellectual property. They must assess valuation methods, amortization policies,
       and impairment risks, and examine how these assets contribute to competitive advantage.
   - question: |
       How should R&D investments be assessed in the semiconductor industry?
     answer: >
       Analysts must evaluate the proportion of assets dedicated to R&D and
-      compare R&D 
-
-      spending as a percentage of total assets. They should consider the company’s commitment 
-
+      compare R&D
+      spending as a percentage of total assets. They should consider the company's commitment
       to innovation under Moore's Law and its ability to fund new product development.
   - question: >
       How can inventory levels and management be analyzed for semiconductor
       companies?
     answer: >
       Analysts should assess inventory composition, including raw materials,
-      WIP, and finished 
-
-      chips, and calculate the Inventory Turnover Ratio. High inventory levels may signal the 
-
+      WIP, and finished
+      chips, and calculate the Inventory Turnover Ratio. High inventory levels may signal the
       risk of obsolescence in a rapidly evolving technology market.
   - question: >
       What liability factors are critical when analyzing a semiconductor
-      company's 
-
+      company's
       balance sheet?
     answer: >
       Analysts must review short- and long-term debt obligations, including
-      project financing 
-
-      and equipment loans. They should calculate leverage ratios, assess capital expenditure 
-
+      project financing
+      and equipment loans. They should calculate leverage ratios, assess capital expenditure
       commitments, and evaluate supplier obligations for specialized materials and equipment.
   - question: >
       How should shareholders' equity and capital structure, including the
-      book-to-bill ratio, 
-
+      book-to-bill ratio,
       be evaluated?
     answer: >
       Analysts should examine changes in retained earnings, additional paid-in
-      capital, and 
-
-      treasury stock. The book-to-bill ratio is vital to gauge demand versus supply dynamics, 
-
+      capital, and
+      treasury stock. The book-to-bill ratio is vital to gauge demand versus supply dynamics,
       indicating future revenue potential and financial strength.
   - question: >
-      What liquidity measures are essential for a semiconductor company’s
+      What liquidity measures are essential for a semiconductor company's
       balance sheet?
     answer: >
       Key liquidity metrics include the current and quick ratios. Analysts
-      must assess working 
-
+      must assess working
       capital management by reviewing receivables and payables, ensuring the firm can meet short-
-
       term obligations during cyclical downturns.
   - question: |
       How should asset utilization be analyzed in the semiconductor industry?
     answer: >
       Analysts must evaluate fixed asset turnover to determine how efficiently
-      manufacturing 
-
-      facilities and equipment generate revenue. High capital costs require effective utilization 
-
+      manufacturing
+      facilities and equipment generate revenue. High capital costs require effective utilization
       to maintain profitability.
   - question: >
       What overall insights can be drawn from a semiconductor company's
       balance sheet analysis?
     answer: >
       A comprehensive analysis integrates asset quality, R&D investment, and
-      effective inventory 
-
-      management with a review of debt structure, liquidity, and fixed asset utilization. This 
-
-      holistic view helps identify strengths and risks, such as high leverage or exposure to 
-
+      effective inventory
+      management with a review of debt structure, liquidity, and fixed asset utilization. This
+      holistic view helps identify strengths and risks, such as high leverage or exposure to
       rapid technological change, impacting creditworthiness.

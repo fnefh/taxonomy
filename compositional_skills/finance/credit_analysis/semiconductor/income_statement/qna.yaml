@@ -6,97 +6,57 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate product segmentation in a
-      semiconductor 
-
-      income statement?
+      semiconductor income statement?
     answer: >
-      Analysts should break down revenue by product categories such as
-      Memory, 
-
-      Microprocessors, Commodity Integrated Circuits, and Complex SOCs. They must 
-
+      Analysts should break down revenue by product categories such as Memory,
+      Microprocessors, Commodity Integrated Circuits, and Complex SOCs. They must
       assess the contribution of each segment to identify key revenue drivers.
   - question: >
       How do cyclicality and market share gains affect revenue in the
-      semiconductor 
-
-      industry?
-    answer: >
-      Analysts should analyze historical sales trends to determine the impact
-      of 
-
-      industry cycles on revenue. They must also assess the company's ability to gain 
-
-      or maintain market share amid intense competition.
-  - question: >
-      How should manufacturing efficiency and supply chain management be
-      evaluated 
-
-      in relation to COGS?
-    answer: >
-      Analysts need to review production costs, including yield improvements
-      and the 
-
-      effect of economies of scale. Comparing gross profit margins with industry benchmarks 
-
-      reveals operational efficiency and cost management.
-  - question: >
-      How can operating expenses, including R&D and SG&A, be assessed in a
-      semiconductor 
-
-      income statement?
-    answer: >
-      Analysts should evaluate R&D expenses as a percentage of sales to gauge
-      innovation 
-
-      efforts and examine SG&A costs for efficiency. These factors indicate how well the 
-
-      company controls costs while investing in new technology.
-  - question: >
-      Which profitability metrics are critical for evaluating a
-      semiconductor company's 
-
-      performance?
-    answer: >
-      Key metrics include gross margin, operating margin, and net profit
-      margin. Tracking 
-
-      these ratios over time and comparing them with industry peers helps assess pricing power 
-
-      and operational efficiency.
-  - question: >
-      How do cyclicality and price competition impact earnings volatility in
-      the 
-
       semiconductor industry?
     answer: >
-      Analysts must assess how fluctuations in end-market demand and rapid
-      price erosion 
-
+      Analysts should analyze historical sales trends to determine the impact of
+      industry cycles on revenue. They must also assess the company's ability to gain
+      or maintain market share amid intense competition.
+  - question: >
+      How should manufacturing efficiency and supply chain management be evaluated
+      in relation to COGS?
+    answer: >
+      Analysts need to review production costs, including yield improvements and the
+      effect of economies of scale. Comparing gross profit margins with industry benchmarks
+      reveals operational efficiency and cost management.
+  - question: >
+      How can operating expenses, including R&D and SG&A, be assessed in a semiconductor
+      income statement?
+    answer: >
+      Analysts should evaluate R&D expenses as a percentage of sales to gauge innovation
+      efforts and examine SG&A costs for efficiency. These factors indicate how well the
+      company controls costs while investing in new technology.
+  - question: >
+      Which profitability metrics are critical for evaluating a semiconductor company's
+      performance?
+    answer: >
+      Key metrics include gross margin, operating margin, and net profit margin. Tracking
+      these ratios over time and comparing them with industry peers helps assess pricing power
+      and operational efficiency.
+  - question: >
+      How do cyclicality and price competition impact earnings volatility in the
+      semiconductor industry?
+    answer: >
+      Analysts must assess how fluctuations in end-market demand and rapid price erosion
       affect earnings stability, especially in commodity segments where margins are thin.
   - question: >
-      How should non-operating items, such as interest expense and one-time
-      gains or losses, 
-
+      How should non-operating items, such as interest expense and one-time gains or losses,
       be treated in income statement analysis?
     answer: >
-      Analysts should isolate non-recurring items like restructuring costs,
-      asset impairments, 
-
-      or gains from asset sales to adjust earnings metrics and reveal the company's core 
-
+      Analysts should isolate non-recurring items like restructuring costs, asset impairments,
+      or gains from asset sales to adjust earnings metrics and reveal the company's core
       operational performance.
   - question: >
-      What overall insights can be drawn from a comprehensive analysis of a
-      semiconductor 
-
+      What overall insights can be drawn from a comprehensive analysis of a semiconductor
       company's income statement?
     answer: >
-      A thorough analysis integrates revenue segmentation, cost control, and
-      profitability 
-
-      metrics with the impact of cyclicality and non-operating items. This holistic view 
-
-      highlights risks and strengths that affect the company's ability to generate consistent 
-
+      A thorough analysis integrates revenue segmentation, cost control, and profitability
+      metrics with the impact of cyclicality and non-operating items. This holistic view
+      highlights risks and strengths that affect the company's ability to generate consistent
       earnings and maintain creditworthiness.

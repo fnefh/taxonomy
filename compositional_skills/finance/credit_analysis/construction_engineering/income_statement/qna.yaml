@@ -6,109 +6,63 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate revenue streams and pricing
-      dynamics in a 
-
-      construction and engineering income statement?
+      dynamics in a construction and engineering income statement?
     answer: >
-      Analysts should review revenue from segments such as construction
-      contracts,
-
+      Analysts should review revenue from segments such as construction contracts,
       engineering services, maintenance, and consulting. They must assess the mix
-
       of contract types—fixed-price, cost-plus, time-and-materials, and unit-price—
-
       and the methods of revenue recognition, such as percentage-of-completion or
-
       completed-contract. Evaluating order backlog quality and the impact of change
-
       orders is also essential.
   - question: >
       What key factors must be considered when analyzing the cost structure
-      of a 
-
-      construction and engineering company?
+      of a construction and engineering company?
     answer: >
-      Analysts need to evaluate direct project costs, including materials,
-      labor,
-
+      Analysts need to evaluate direct project costs, including materials, labor,
       subcontractor expenses, and overhead allocations. Gross profit margins should
-
       be compared with industry benchmarks, and the impact of SG&A, R&D, depreciation,
-
       and any impairment charges must be reviewed.
   - question: >
-      Which profitability metrics are essential for evaluating a
-      construction and 
-
-      engineering company's income statement?
+      Which profitability metrics are essential for evaluating a construction
+      and engineering company's income statement?
     answer: >
-      Critical metrics include operating income and operating margin, net
-      profit margin,
-
+      Critical metrics include operating income and operating margin, net profit margin,
       and EBITDA. Analysts should also examine earnings per share (EPS) trends to assess
-
       how project execution and cost efficiencies affect overall profitability.
   - question: >
       How can contract performance risks affect the income statement of a
-      construction 
-
-      and engineering firm?
+      construction and engineering firm?
     answer: >
-      Contract risks such as cost overruns, schedule delays, and claims can
-      adversely
-
+      Contract risks such as cost overruns, schedule delays, and claims can adversely
       impact revenue and margins. Analysts must assess historical project performance,
-
       the quality of the order backlog, and the effect of change orders on revenue
-
       recognition to gauge these risks.
   - question: >
       How do economic cycles and competitive pressures influence the income
-      statement 
-
-      in this industry?
+      statement in this industry?
     answer: >
-      Demand for construction and engineering projects is cyclical. Analysts
-      should
-
+      Demand for construction and engineering projects is cyclical. Analysts should
       evaluate how economic downturns, changes in government spending, and competitive
-
       bidding affect revenue, margins, and cost structures.
   - question: >
       How should foreign exchange risks and international operations be
-      assessed in 
-
-      the income statement?
+      assessed in the income statement?
     answer: >
-      For companies with international projects, currency fluctuations can
-      impact
-
+      For companies with international projects, currency fluctuations can impact
       revenue and expenses. Analysts should review hedging strategies and consider
-
       geopolitical risks that might affect exchange rates.
   - question: >
       What is the impact of non-recurring items on the income statement
-      analysis of a 
-
-      construction and engineering firm?
+      analysis of a construction and engineering firm?
     answer: >
-      Non-recurring items—such as restructuring charges, asset impairments,
-      and legal
-
+      Non-recurring items—such as restructuring charges, asset impairments, and legal
       settlements—should be isolated from recurring earnings. Adjusting for these items
-
       provides a clearer picture of sustainable operational performance.
   - question: >
       What overall insights can be drawn from an income statement analysis
-      in the 
-
-      construction and engineering sector?
+      in the construction and engineering sector?
     answer: >
-      A comprehensive analysis should integrate revenue quality, cost control,
-      and 
-
-      profitability metrics with an assessment of contract performance and market 
-
-      conditions. This approach highlights strengths and risks that influence the 
-
+      A comprehensive analysis should integrate revenue quality, cost control, and
+      profitability metrics with an assessment of contract performance and market
+      conditions. This approach highlights strengths and risks that influence the
       company's ability to generate consistent earnings and maintain creditworthiness.

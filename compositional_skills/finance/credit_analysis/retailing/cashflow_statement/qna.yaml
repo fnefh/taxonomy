@@ -11,11 +11,8 @@ seed_examples:
     answer: >
       Analysts should assess cash generated from core retail operations by
       adjusting net
-
       income for non-cash expenses such as depreciation and amortization. They must analyze
-
       changes in working capital components, including inventory levels, accounts receivable,
-
       and accounts payable, and consider the impact of seasonality on cash flow timing.
   - question: >
       How can investing cash flow be analyzed in a retail company's cash
@@ -23,11 +20,8 @@ seed_examples:
     answer: >
       Analysts must review cash outflows for capital expenditures on new store
       openings,
-
       renovations, technology upgrades, and supply chain enhancements. They should distinguish
-
       between maintenance CapEx and growth CapEx, and examine cash flows from acquisitions or
-
       asset sales.
   - question: >
       What factors are critical when evaluating financing cash flow in the
@@ -35,9 +29,7 @@ seed_examples:
     answer: >
       Analysts should examine cash inflows from debt and equity financing and
       outflows for debt
-
       repayments, share repurchases, and dividend payments. They must consider the maturity
-
       profile of debt, refinancing risks, and the impact on shareholder equity.
   - question: >
       How is free cash flow (FCF) calculated, and why is it important for
@@ -45,59 +37,43 @@ seed_examples:
     answer: >
       Free cash flow is calculated by subtracting capital expenditures from
       operating cash flow.
-
       This metric indicates the company's ability to generate surplus cash for debt servicing,
-
       reinvestment, and shareholder returns.
   - question: >
       What liquidity measures are essential for evaluating a retail
       company's cash flow
-
       health?
     answer: >
       Key liquidity measures include cash and cash equivalents, the current
       ratio, and the quick
-
       ratio. Analysts should also assess access to credit facilities and the adequacy of cash
-
       reserves during periods of high inventory levels.
   - question: >
       How should working capital management be assessed in a retail
       company's cash flow
-
       analysis?
     answer: >
       Analysts should analyze the cash conversion cycle by examining days
       inventory
-
       outstanding (DIO), days sales outstanding (DSO), and days payable outstanding (DPO).
-
       This helps determine how efficiently the company manages its working capital compared
-
       to industry peers.
   - question: >
       How can scenario analysis be used to assess cash flow sensitivity in
       the retail
-
       industry?
     answer: >
       Analysts should perform scenario analysis to model the impact of changes
       in sales volumes,
-
       consumer spending, and supplier terms on cash flow projections. This evaluation helps
-
       determine the company's ability to adjust expenditures in response to market conditions.
   - question: >
       What role does financial flexibility and capital allocation play in
       retail cash flow
-
       management?
     answer: >
       Analysts must evaluate management's capital allocation strategy,
       including debt reduction,
-
       investments in growth initiatives, and technology upgrades. Assessing resilience to
-
       economic cycles and the ability to fund strategic projects is critical for long-term
-
       financial flexibility.

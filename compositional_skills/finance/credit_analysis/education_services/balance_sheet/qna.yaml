@@ -6,112 +6,67 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate educational facilities and PP&E
-      on the balance
-
-      sheet of an education services company?
+      on the balance sheet of an education services company?
     answer: >
-      Analysts should examine the valuation and classification of properties
-      such as
-
+      Analysts should examine the valuation and classification of properties such as
       classrooms, laboratories, libraries, dormitories, and administrative buildings.
-
       They must assess asset age, condition, and location, and analyze capital expenditure
-
       trends to determine investments for maintenance, renovations, or expansion.
-  - question: |
+  - question: >
       How should intangible assets be analyzed in the education services sector?
     answer: >
-      Analysts must review goodwill from acquisitions and intellectual
-      property such as
-
+      Analysts must review goodwill from acquisitions and intellectual property such as
       proprietary curricula, trademarks, and educational technologies. They should assess
-
       amortization policies and potential impairment risks due to market or reputational
-
       changes.
   - question: >
       What factors should be considered when analyzing investments on the
       balance sheet?
     answer: >
-      Investments in educational technologies, research projects,
-      partnerships, and
-
+      Investments in educational technologies, research projects, partnerships, and
       endowment funds must be evaluated. Analysts should review their performance,
-
       valuation, and contribution to the company's overall financial stability.
   - question: >
       How should accounts receivable be evaluated on the balance sheet of an
-      education
-
-      services company?
+      education services company?
     answer: >
-      Analysts should analyze the quality and aging of receivables from
-      students,
-
+      Analysts should analyze the quality and aging of receivables from students,
       corporate partners, and government grants. Evaluating credit terms and calculating
-
       Days Sales Outstanding (DSO) are key to assessing collection efficiency.
   - question: >
       What key liability factors must be considered in an education services
-      company's
-
-      balance sheet?
+      company's balance sheet?
     answer: >
-      Analysts need to review short- and long-term debt obligations, lease
-      commitments,
-
+      Analysts need to review short- and long-term debt obligations, lease commitments,
       and deferred revenue from tuition and course enrollments. They should also evaluate
-
       contingent liabilities from legal disputes or accreditation issues, and compare
-
       leverage ratios with industry benchmarks.
   - question: >
       How can liquidity and working capital management be assessed for an
-      education
-
-      services company?
+      education services company?
     answer: >
-      Key liquidity measures include the current and quick ratios. Analysts
-      should review
-
+      Key liquidity measures include the current and quick ratios. Analysts should review
       working capital by analyzing receivables, payables, and any inventory of educational
-
       materials, as well as cash tied up in projects, considering enrollment cycles.
   - question: >
       How should off-balance sheet items be incorporated into the analysis
-      of an education
-
-      services company's balance sheet?
+      of an education services company's balance sheet?
     answer: >
-      Analysts must identify off-balance sheet obligations such as operating
-      leases for
-
+      Analysts must identify off-balance sheet obligations such as operating leases for
       facilities or equipment and any joint ventures or special purpose entities. These items
-
       can impact future cash flows and financial flexibility.
   - question: >
       How should risk management and regulatory compliance be evaluated in
-      the context
-
-      of education services?
+      the context of education services?
     answer: >
-      Analysts should consider enrollment and retention risks, as well as
-      compliance with
-
+      Analysts should consider enrollment and retention risks, as well as compliance with
       educational laws, accreditation standards, and data privacy regulations. Evaluating
-
       the potential financial impact of non-compliance or accreditation loss is essential.
   - question: >
       What overall insights can be drawn from an analysis of the balance
-      sheet in the
-
-      education services industry?
+      sheet in the education services industry?
     answer: >
-      A comprehensive analysis should integrate asset quality, capital
-      structure,
-
+      A comprehensive analysis should integrate asset quality, capital structure,
       debt management, liquidity, and off-balance sheet exposures. This provides a clear
-
       view of financial stability, while highlighting risks such as high leverage, enrollment
-
       fluctuations, and the need for effective risk management.

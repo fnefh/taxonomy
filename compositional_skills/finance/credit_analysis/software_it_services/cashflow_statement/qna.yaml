@@ -1,121 +1,69 @@
 version: 3
-task_description: Teach the model to analyze a software and IT services
-  company's cash flow statement, focusing on operating, investing, and financing
-  cash flows, liquidity, sensitivity analysis, and risk management in the
-  technology sector.
+task_description: Teach the model to analyze a software and IT services company's cash flow statement, focusing on operating, investing, and financing cash flows, liquidity, sensitivity analysis, and risk management in the technology sector.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate operating cash flow in a software
-      and IT 
-
+      How should a credit analyst evaluate operating cash flow in a software and IT
       services company?
     answer: >
-      Analysts should assess cash generated from core software development,
-      licensing, 
-
-      and service operations. Adjustments for non-cash expenses (e.g., depreciation, 
-
-      amortization, impairments, stock-based compensation) are necessary, along with a 
-
-      detailed review of working capital changes in accounts receivable, deferred revenue, 
-
-      and accounts payable. Consider the impact of subscription billing cycles and customer 
-
+      Analysts should assess cash generated from core software development, licensing,
+      and service operations. Adjustments for non-cash expenses (e.g., depreciation,
+      amortization, impairments, stock-based compensation) are necessary, along with a
+      detailed review of working capital changes in accounts receivable, deferred revenue,
+      and accounts payable. Consider the impact of subscription billing cycles and customer
       churn on cash flow stability.
   - question: >
-      How can investing cash flow be analyzed for a software and IT services
-      company?
+      How can investing cash flow be analyzed for a software and IT services company?
     answer: >
-      Analysts must review cash outflows for capital expenditures on data
-      centers, IT 
-
-      infrastructure, software development tools, and office expansions. They should also 
-
-      examine cash flows from acquisitions, divestitures, and investments in R&D projects 
-
+      Analysts must review cash outflows for capital expenditures on data centers, IT
+      infrastructure, software development tools, and office expansions. They should also
+      examine cash flows from acquisitions, divestitures, and investments in R&D projects
       that drive innovation and long-term competitiveness.
   - question: >
-      What factors are important when evaluating financing cash flow in the
-      software and 
-
+      What factors are important when evaluating financing cash flow in the software and
       IT services industry?
     answer: >
-      Analysts should analyze cash inflows from debt issuance and equity
-      financing, and 
-
-      outflows for debt repayments, share repurchases, and dividend payments. Evaluating the 
-
-      maturity profile of debt, refinancing risks, and the impact on shareholder equity is 
-
+      Analysts should analyze cash inflows from debt issuance and equity financing, and
+      outflows for debt repayments, share repurchases, and dividend payments. Evaluating the
+      maturity profile of debt, refinancing risks, and the impact on shareholder equity is
       critical.
   - question: >
-      How is free cash flow (FCF) calculated, and why is it important in
-      this industry?
+      How is free cash flow (FCF) calculated, and why is it important in this industry?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash 
-
-      flow. This metric is crucial as it shows the company's ability to generate surplus cash 
-
-      for debt servicing, reinvestment, and shareholder returns, despite working capital 
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
+      flow. This metric is crucial as it shows the company's ability to generate surplus cash
+      for debt servicing, reinvestment, and shareholder returns, despite working capital
       fluctuations.
   - question: >
-      What liquidity measures are essential when assessing a software and IT
-      services 
-
+      What liquidity measures are essential when assessing a software and IT services
       company's cash flow health?
     answer: >
-      Key liquidity measures include the level of cash and cash equivalents,
-      the current 
-
-      ratio, and the quick ratio. Analysts should also evaluate the effectiveness of working 
-
-      capital management and the availability of credit facilities to cover short-term 
-
+      Key liquidity measures include the level of cash and cash equivalents, the current
+      ratio, and the quick ratio. Analysts should also evaluate the effectiveness of working
+      capital management and the availability of credit facilities to cover short-term
       obligations.
   - question: >
-      How can cash flow sensitivity analysis be applied in the software and
-      IT services 
-
+      How can cash flow sensitivity analysis be applied in the software and IT services
       industry?
     answer: >
-      Sensitivity analysis should model the impact of changes in subscription
-      renewals, 
-
-      customer churn, and new customer acquisitions on cash flow projections. Analysts must 
-
-      also assess how adjustments in technology investments and operating costs affect 
-
+      Sensitivity analysis should model the impact of changes in subscription renewals,
+      customer churn, and new customer acquisitions on cash flow projections. Analysts must
+      also assess how adjustments in technology investments and operating costs affect
       recurring revenue.
   - question: >
-      What risk management activities are critical for stabilizing cash
-      flows in the 
-
+      What risk management activities are critical for stabilizing cash flows in the
       software and IT services industry?
     answer: >
-      Analysts should evaluate hedging strategies to manage foreign exchange
-      and 
-
-      interest rate risks, and review insurance coverage and contingency planning to 
-
-      mitigate operational disruptions. These measures help stabilize cash flows amid 
-
+      Analysts should evaluate hedging strategies to manage foreign exchange and
+      interest rate risks, and review insurance coverage and contingency planning to
+      mitigate operational disruptions. These measures help stabilize cash flows amid
       market volatility.
   - question: >
-      What overall insights can be drawn from a comprehensive cash flow
-      analysis in the 
-
+      What overall insights can be drawn from a comprehensive cash flow analysis in the
       software and IT services industry?
     answer: >
-      A thorough analysis integrates operating, investing, and financing cash
-      flows with 
-
-      free cash flow, liquidity, and sensitivity assessments. This holistic view highlights 
-
-      strengths and risks such as revenue volatility, high capital expenditures, and the 
-
-      effectiveness of working capital management, all of which impact the company's 
-
+      A thorough analysis integrates operating, investing, and financing cash flows with
+      free cash flow, liquidity, and sensitivity assessments. This holistic view highlights
+      strengths and risks such as revenue volatility, high capital expenditures, and the
+      effectiveness of working capital management, all of which impact the company's
       creditworthiness.

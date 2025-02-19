@@ -10,21 +10,16 @@ seed_examples:
     answer: >
       Analysts should examine the levels and composition of inventory,
       including raw
-
       materials, work-in-progress, and finished goods. They must assess turnover ratios,
-
       compare them to a benchmark, and evaluate the risk of obsolescence due to shifting
-
       consumer preferences or technological changes.
   - question: >
-      How can PP&E be assessed in the context of a consumer goods company’s
+      How can PP&E be assessed in the context of a consumer goods company's
       balance sheet?
     answer: >
       Analysts should review investments in manufacturing facilities,
       distribution
-
       centers, and equipment. They need to assess asset age, utilization rates, and the
-
       need for modernization to meet production demands and ensure efficiency.
   - question: >
       How should intangible assets, such as brand equity and goodwill, be
@@ -32,62 +27,47 @@ seed_examples:
     answer: >
       Analysts must evaluate the value of trademarks, brand names, and
       customer
-
       relationships, along with goodwill from acquisitions. They should consider the
-
-      company’s investment in brand development and potential impairment risks.
+      company's investment in brand development and potential impairment risks.
   - question: >
       What factors are critical when evaluating the debt structure and
-      leverage of a 
-
+      leverage of a
       consumer goods company?
     answer: >
       Analysts should analyze both short- and long-term debt, including
       interest rates,
-
       maturity profiles, and covenants. Leverage ratios like Debt-to-Equity and Debt-to-
-
       EBITDA must be compared with industry benchmarks to gauge the ability to service debt.
   - question: >
       How can liquidity and working capital management be assessed on the
-      balance 
-
+      balance
       sheet of a consumer goods company?
     answer: >
       Key liquidity measures include the current and quick ratios. Analysts
       should also
-
       review working capital by analyzing receivables, payables, and inventory levels,
-
       considering seasonal fluctuations and the impact on cash flow.
   - question: >
       What off-balance sheet items should be considered in the analysis of a
-      consumer 
-
+      consumer
       goods company?
     answer: >
       Analysts must identify off-balance sheet obligations such as operating
       leases for
-
       retail spaces or warehouses, as well as any contingent liabilities from legal
-
       disputes or regulatory issues, and assess their impact on future cash flows.
-  - question: |
-      How do currency and commodity exposures affect a consumer goods company's 
+  - question: >
+      How do currency and commodity exposures affect a consumer goods company's
       balance sheet?
     answer: >
       Currency fluctuations and raw material price volatility can
-      significantly affect 
-
-      asset values and cost structures. Analysts should review hedging strategies and 
-
+      significantly affect
+      asset values and cost structures. Analysts should review hedging strategies and
       procurement contracts to mitigate these risks.
-  - question: |
+  - question: >
       How does seasonality impact a consumer goods company's balance sheet?
     answer: >
       Seasonal demand variations can affect inventory levels, receivables, and
       payables.
-
       Analysts must evaluate the company's strategies to manage seasonal working capital
-
       fluctuations and maintain liquidity during peak and off-peak periods.

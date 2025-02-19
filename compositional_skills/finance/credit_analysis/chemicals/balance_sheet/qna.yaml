@@ -1,94 +1,57 @@
 version: 3
-task_description: Teach the model to analyze a chemical company's balance sheet,
-  focusing on asset quality, capital investments, debt structure, liquidity, and
-  industry-specific risks.
+task_description: Teach the model to analyze a chemical company's balance sheet, focusing on asset quality, capital investments, debt structure, liquidity, and industry-specific risks.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate PP&E in a chemical company's
-      balance sheet?
+      How should a credit analyst evaluate PP&E in a chemical company's balance sheet?
     answer: >
-      Analysts should review the composition and valuation of PP&E, including
-      chemical
-
+      Analysts should review the composition and valuation of PP&E, including chemical
       production facilities, manufacturing plants, equipment, and technology assets. They
-
       must assess asset age, condition, and technological relevance, and analyze CapEx trends
-
       and investments made for modernization and environmental compliance.
   - question: |
       How should intangible assets be assessed in the chemicals industry?
     answer: >
-      Analysts should examine intangible assets such as goodwill from
-      acquisitions, and
-
+      Analysts should examine intangible assets such as goodwill from acquisitions, and
       intellectual property including patents, licenses, and trademarks. They must review
-
       amortization policies, estimate the remaining useful life, and evaluate impairment risks.
   - question: >
-      What factors must be considered when analyzing inventory in a chemical
-      company?
+      What factors must be considered when analyzing inventory in a chemical company?
     answer: >
-      Inventory analysis should cover raw materials, work-in-progress, and
-      finished goods.
-
+      Inventory analysis should cover raw materials, work-in-progress, and finished goods.
       Analysts must assess management practices, valuation methods (FIFO, LIFO, weighted
-
       average), and the risks of obsolescence and commodity price fluctuations.
   - question: |
       How can accounts receivable be evaluated for a chemicals company?
     answer: >
-      Analysts need to assess customer creditworthiness and examine the aging
-      of receivables.
-
+      Analysts need to assess customer creditworthiness and examine the aging of receivables.
       They should review credit terms and calculate Days Sales Outstanding (DSO) to gauge
-
       collection efficiency, considering cyclical risks in end markets.
   - question: >
-      What are the key considerations when analyzing debt structure and
-      leverage in this
-
+      What are the key considerations when analyzing debt structure and leverage in this
       industry?
     answer: >
-      Analysts should examine both short- and long-term debt obligations,
-      interest rates,
-
+      Analysts should examine both short- and long-term debt obligations, interest rates,
       maturity profiles, and covenants. Leverage ratios such as Debt-to-Equity and Debt-to-
-
       EBITDA must be compared to industry benchmarks, and currency risks for foreign-
-
       denominated debt should be evaluated.
   - question: >
-      How should environmental liabilities be incorporated into the balance
-      sheet analysis?
+      How should environmental liabilities be incorporated into the balance sheet analysis?
     answer: >
-      Analysts must review provisions for environmental remediation and
-      compliance with
-
+      Analysts must review provisions for environmental remediation and compliance with
       environmental regulations. They should assess the adequacy of reserves for potential
-
       liabilities arising from pollution or hazardous waste and the overall financial impact.
   - question: >
-      What liquidity measures are crucial for a chemical company’s balance
-      sheet analysis?
+      What liquidity measures are crucial for a chemical company's balance sheet analysis?
     answer: >
-      Key liquidity metrics include the current and quick ratios. Analysts
-      should evaluate
-
+      Key liquidity metrics include the current and quick ratios. Analysts should evaluate
       working capital management by reviewing the management of receivables, payables, and
-
       inventory turnover, while considering cyclicality and commodity price volatility.
   - question: >
-      Which regulatory and risk management factors should be examined in the
-      chemicals
-
+      Which regulatory and risk management factors should be examined in the chemicals
       industry?
     answer: >
-      Analysts should assess compliance with environmental and health/safety
-      regulations,
-
+      Analysts should assess compliance with environmental and health/safety regulations,
       including emission standards and chemical safety. They must also evaluate exposure to
-
       commodity and energy price fluctuations, currency risks, and the effectiveness of
-
       hedging strategies.

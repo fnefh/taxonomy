@@ -7,89 +7,64 @@ created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate cash flows from operating
-      activities in a
-
-      hospitality company?
+      activities in a hospitality company?
     answer: >
       Analysts should assess cash generated from core operations such as
-      accommodations,
-
-      F&B services, and event management. They must adjust for non-cash expenses like
-
-      depreciation, amortization, impairments, and stock-based compensation, while also
-
-      analyzing changes in working capital.
+      accommodations, F&B services, and event management. They must adjust for non-cash
+      expenses like depreciation, amortization, impairments, and stock-based
+      compensation, while also analyzing changes in working capital.
   - question: >
       What working capital components are critical in evaluating operating
       cash flow?
     answer: >
       Key components include accounts receivable from corporate clients and
-      travel agencies,
-
-      inventory levels of F&B supplies and amenities, and accounts payable to suppliers.
-
-      Evaluating collection efficiency, billing practices, and payment terms is essential.
+      travel agencies, inventory levels of F&B supplies and amenities, and accounts
+      payable to suppliers. Evaluating collection efficiency, billing practices, and
+      payment terms is essential.
   - question: >
       How should investing cash flow be analyzed in the hospitality and
       tourism industry?
     answer: >
       Analysts should review cash outflows for CapEx on property acquisitions,
-      renovations,
-
-      equipment upgrades, and technology enhancements. They must also assess cash flows
-
-      from acquisitions or divestitures of hotels, resorts, and strategic assets.
+      renovations, equipment upgrades, and technology enhancements. They must also
+      assess cash flows from acquisitions or divestitures of hotels, resorts, and
+      strategic assets.
   - question: >
       What factors are important when analyzing financing cash flow in a
       hospitality firm?
     answer: >
       The analysis should include cash inflows from new borrowings and equity
-      issuance, as
-
-      well as outflows for debt repayments, share repurchases, and dividend payments.
-
-      Debt maturity profiles and refinancing risks should be carefully evaluated.
+      issuance, as well as outflows for debt repayments, share repurchases, and
+      dividend payments. Debt maturity profiles and refinancing risks should be
+      carefully evaluated.
   - question: >
       How is free cash flow (FCF) calculated, and why is it important for
       hospitality companies?
     answer: >
       Free cash flow is calculated by subtracting capital expenditures from
-      operating cash flow.
-
-      It indicates the firm's ability to generate surplus cash for debt servicing,
-
-      reinvestment, and shareholder returns, despite fluctuations in working capital.
+      operating cash flow. It indicates the firm's ability to generate surplus cash
+      for debt servicing, reinvestment, and shareholder returns, despite fluctuations
+      in working capital.
   - question: >
       Which liquidity measures should be used to assess financial
-      flexibility in the
-
-      hospitality industry?
+      flexibility in the hospitality industry?
     answer: >
       Analysts must evaluate cash and cash equivalents, current and quick
-      ratios, and
-
-      the availability of credit facilities. These metrics help determine if the company
-
-      can meet short-term obligations and fund strategic initiatives during downturns.
+      ratios, and the availability of credit facilities. These metrics help determine
+      if the company can meet short-term obligations and fund strategic initiatives
+      during downturns.
   - question: >
       How does scenario analysis aid in assessing cash flow sensitivity in
       hospitality?
     answer: >
       Scenario analysis examines the impact of changes in occupancy rates,
-      seasonal demand,
-
-      and event bookings on cash flows. It also considers the effects of economic cycles
-
-      and market conditions on the firm's ability to adjust expenditures.
+      seasonal demand, and event bookings on cash flows. It also considers the
+      effects of economic cycles and market conditions on the firm's ability to
+      adjust expenditures.
   - question: >
       What risk management activities are essential for stabilizing cash
-      flows in the
-
-      hospitality and tourism sector?
+      flows in the hospitality and tourism sector?
     answer: >
       Analysts should review hedging strategies for interest, currency, and
-      commodity risks,
-
-      and evaluate insurance coverage and contingency planning measures to mitigate
-
-      operational risks and ensure cash flow stability.
+      commodity risks, and evaluate insurance coverage and contingency planning
+      measures to mitigate operational risks and ensure cash flow stability.

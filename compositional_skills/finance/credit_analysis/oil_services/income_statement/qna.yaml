@@ -7,25 +7,19 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate revenue streams in an oil
       services income 
-
       statement?
     answer: >
       Analysts should review revenue from service contracts including
       drilling,
-
       seismic testing, transportation, and directional services. They must assess
-
       dayrates, meterage rates, and client diversification while considering market
-
       competition.
   - question: |
       What factors influence revenue stability in the oil services industry?
     answer: >
       Evaluating the mix of long-term contracts versus spot market sales and
       the
-
       diversity of clients—from major oil producers to smaller explorers—is crucial to
-
       determine revenue stability.
   - question: >
       How should operating expenses be analyzed in an oil services income
@@ -33,9 +27,7 @@ seed_examples:
     answer: >
       Analysts must examine labor costs, equipment maintenance, and fuel and
       energy
-
       expenses. They should also review R&D investments for new technologies and adjust
-
       for non-cash items like depreciation and impairments.
   - question: >
       Which profitability metrics are key for evaluating an oil services company?
@@ -49,36 +41,27 @@ seed_examples:
     answer: >
       Fluctuations in oil prices directly impact service demand and pricing
       strategies.
-
       Analysts must assess how revenue and margins respond to changes in oil prices.
   - question: >
       How should contract structure and order backlog be evaluated in the
       income 
-
       statement?
     answer: >
       Analysts should examine the proportion of revenue from long-term
       contracts versus
-
       spot market sales, and analyze the order backlog to estimate future revenue
-
       visibility and stability.
   - question: >
       What non-operating items are important in an oil services income statement?
     answer: >
       Analysts should isolate non-operating items such as interest expense and
-
       one-time charges like restructuring costs or asset impairments to reveal the
-
       company's core earnings.
   - question: >
       What overall insights can be drawn from an oil services income
       statement analysis?
     answer: >
       A comprehensive analysis integrates revenue trends, cost control, and
-
       profitability metrics with the impact of oil price volatility and contract
-
       structure. This holistic view highlights risks like high operating leverage and
-
       reliance on external financing.

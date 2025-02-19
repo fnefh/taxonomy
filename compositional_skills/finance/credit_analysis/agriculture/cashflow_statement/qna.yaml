@@ -1,123 +1,77 @@
----
 version: 3
-task_description: Teach the model to analyze an agriculture company's cash flow
-  statement, focusing on operating, investing, and financing cash flows, free
-  cash flow, liquidity, sensitivity analysis, and risk management.
+task_description: Teach the model to analyze an agriculture company's cash flow statement, focusing on operating, investing, and financing cash flows, free cash flow, liquidity, sensitivity analysis, and risk management.
 created_by: fnefh
 seed_examples:
   - question: >
       How should a credit analyst evaluate operating cash flow in an
       agriculture company?
     answer: >
-      The analyst should review cash flows from core agricultural operations
-      and adjust for
-
+      The analyst should review cash flows from core agricultural operations and adjust for
       non-cash expenses such as depreciation, amortization, impairments, and stock-based
-
       compensation. They should also analyze changes in working capital components including
-
       receivables, inventory, and payables, while considering seasonal fluctuations and crop
-
       cycles.
   - question: >
       What factors are critical when analyzing investing cash flow in the
       agriculture sector?
     answer: >
-      Key factors include reviewing cash outflows for capital expenditures on
-      land, machinery,
-
+      Key factors include reviewing cash outflows for capital expenditures on land, machinery,
       irrigation systems, storage facilities, and technology upgrades. Analysts should compare
-
       CapEx with depreciation expense and operating cash flow, and examine acquisitions,
-
       divestitures, and R&D investments for long-term competitiveness.
   - question: |
       How should financing cash flow be analyzed in an agricultural context?
     answer: >
-      The analyst should examine cash inflows from new borrowings and outflows
-      for debt
-
+      The analyst should examine cash inflows from new borrowings and outflows for debt
       repayments, including loans for land, equipment, and operational expenses. They must
-
       also review equity financing activities such as share issuances or repurchases and
-
       dividend payments, while assessing debt maturity profiles and refinancing risks.
   - question: >
       How is free cash flow (FCF) calculated and why is it important for an
       agricultural firm?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash flow.
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash flow.
       This metric reflects the company's ability to generate surplus cash for debt servicing,
-
       reinvestment, and shareholder returns, despite fluctuations in working capital.
   - question: >
       What aspects of liquidity and financial flexibility should be
       considered in this industry?
     answer: >
-      Analysts should assess the adequacy of cash reserves and cash
-      equivalents to meet
-
+      Analysts should assess the adequacy of cash reserves and cash equivalents to meet
       short-term obligations, fund seasonal operations, and cushion against downturns. They
-
       should also review available credit facilities, revolving credit agreements, and any
-
       restrictive covenants, as well as evaluate access to capital markets.
   - question: >
-      How does cash flow sensitivity analysis aid in understanding an
-      agriculture company's
-
+      How does cash flow sensitivity analysis aid in understanding an agriculture company's
       financial health?
     answer: >
-      Sensitivity analysis tests the impact of changes in commodity prices,
-      crop yields, and
-
+      Sensitivity analysis tests the impact of changes in commodity prices, crop yields, and
       market demand on cash flow projections. It also considers the effects of adverse weather,
-
       climate risks, and the company's ability to adjust expenditures under varying market
-
       conditions.
   - question: >
-      What risk management activities are crucial for stabilizing cash flows
-      in agriculture?
+      What risk management activities are crucial for stabilizing cash flows in agriculture?
     answer: >
-      Key risk management activities include evaluating hedging strategies for
-      commodity,
-
+      Key risk management activities include evaluating hedging strategies for commodity,
       interest rate, and currency risks, as well as reviewing insurance coverage and
-
       contingency planning measures to mitigate losses from crop failures, natural disasters,
-
       and other unforeseen events.
   - question: >
-      How should working capital management be analyzed in relation to
-      agricultural 
-
+      How should working capital management be analyzed in relation to agricultural
       cash flow cycles?
     answer: >
-      Working capital analysis should focus on the timing mismatches between
-      cash 
-
-      outflows for planting/growing seasons and cash inflows from harvest sales. 
-
-      Key considerations include inventory holding periods for crops/livestock, 
-
+      Working capital analysis should focus on the timing mismatches between cash
+      outflows for planting/growing seasons and cash inflows from harvest sales.
+      Key considerations include inventory holding periods for crops/livestock,
       supplier payment terms, customer collection periods, and seasonal financing needs.
   - question: |
-      What metrics and ratios are most useful for evaluating cash flow quality 
+      What metrics and ratios are most useful for evaluating cash flow quality
       in agricultural companies?
     answer: >
       Important metrics include:
-
       - Operating Cash Flow / Net Income ratio to assess earnings quality
-
       - Cash Flow Coverage ratios for debt service capability
-
       - Cash Conversion Cycle adjusted for growing seasons
-
       - Working Capital to Sales ratio for seasonal requirements
-
       - Free Cash Flow Yield for investment returns
-
       These should be compared across multiple periods and against industry peers.

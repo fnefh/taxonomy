@@ -1,7 +1,5 @@
 version: 3
-task_description: Teach the model to perform comprehensive credit analysis,
-  covering industry risks, company-specific business risks, management factors,
-  and financial risk analysis.
+task_description: Teach the model to perform comprehensive credit analysis, covering industry risks, company-specific business risks, management factors, and financial risk analysis.
 created_by: fnefh
 seed_examples:
   - question: |
@@ -20,119 +18,74 @@ seed_examples:
       6. Risks and Opportunities (swot and porter's five forces)
       7. Recommendations
   - question: >
-      What are the key components of industry risk assessment and why are
-      they important?
+      What are the key components of industry risk assessment and why are they important?
     answer: >
       Industry risk assessment involves analyzing:
-
       1. Short and long-term sales growth trends and potential
-
       2. Events and competitors that challenge those prospects
-
       3. Company's relative strength within the industry compared to competitors
 
-
-      This analysis is crucial because industry risk sets the stage for analyzing specific 
-
-      company risk factors and establishes their priority in overall evaluation. Industry 
-
-      dynamics can rapidly undermine relevance, as seen historically with horse carriages 
-
+      This analysis is crucial because industry risk sets the stage for analyzing specific
+      company risk factors and establishes their priority in overall evaluation. Industry
+      dynamics can rapidly undermine relevance, as seen historically with horse carriages
       and more recently with Internet firms.
   - question: >
-      How are industries characterized in terms of their sales and revenue
-      prospects?
+      How are industries characterized in terms of their sales and revenue prospects?
     answer: >
       Industries can be characterized in five ways:
-
       1. Growth industry: Not yet achieved sales in all markets, high growth potential (>5%)
-
       2. Mature industry: Already selling to most markets, average growth (-5% to 5%)
-
       3. Niche sector: Small, narrow businesses within larger industries
-
       4. Global business: Mature business with cross-border sales
-
       5. Highly cyclical: Experiences wide swings in demand and supply
   - question: |
       How do business cycles and seasonality affect different industries?
     answer: >
       Industries are affected differently by economic cycles:
-
       - Highly affected: Paper/forestry, metals/mining, manufacturing, airlines, retail
-
       - Moderately affected: Telecommunications, technology, broadcasting
-
       - Slightly affected: Healthcare, utilities, military defense
 
-
-      Seasonality creates natural performance swings that must be evaluated on both 
-
-      annual and seasonal bases, particularly in industries like retail, agriculture, 
-
+      Seasonality creates natural performance swings that must be evaluated on both
+      annual and seasonal bases, particularly in industries like retail, agriculture,
       and utilities.
   - question: >
-      What are the key components of competitive strategy analysis and why
-      are they important?
+      What are the key components of competitive strategy analysis and why are they important?
     answer: >
       Competitive strategy analysis involves examining:
-
       1. Company's position against competitive forces
-
       2. Critical strengths and weaknesses relative to competitors
-
       3. Strategic positioning within the industry
-
       4. Areas where strategic changes may yield greatest payoff
-
       5. Industry trends that present opportunities or threats
 
-
-      This analysis is crucial because it determines how successfully a company can defend 
-
+      This analysis is crucial because it determines how successfully a company can defend
       itself against competitive forces or influence them in its favor.
   - question: |
       How should market position and sales growth be evaluated?
     answer: >
       Key evaluation factors include:
-
       1. Market share analysis in main markets/products
-
       2. Trends in market share over time
-
       3. Product differentiation from competitors
-
       4. Consistency of sales demand
-
       5. Pricing power and ability to maintain it
-
       6. Product diversity and customer base
 
-
-      Note: Market share claims should be critically evaluated as companies often 
-
+      Note: Market share claims should be critically evaluated as companies often
       overstate their market position.
   - question: >
-      What are the key components of management factor assessment and why
-      are they important?
+      What are the key components of management factor assessment and why are they important?
     answer: >
       Management factor assessment involves analyzing:
-
       1. Management's strategies and execution capabilities
-
       2. Decision-making track record and consistency
-
       3. Risk tolerance and financial policies
-
       4. Corporate governance practices
 
-
-      This analysis is crucial because management's influence on successes and failures 
-
-      is irrefutable, affecting both credit quality and shareholder returns. Good 
-
-      governance supports sustainable performance while poor governance often leads to 
-
+      This analysis is crucial because management's influence on successes and failures
+      is irrefutable, affecting both credit quality and shareholder returns. Good
+      governance supports sustainable performance while poor governance often leads to
       credit deterioration.
   - question: |
       What are the key signals of aggressive or concerning management behavior?
@@ -147,8 +100,7 @@ seed_examples:
       7. Frequent litigation or regulatory actions
       8. Excessive executive compensation relative to peers
   - question: >
-      What are the key components of financial risk analysis and why are
-      they important?
+      What are the key components of financial risk analysis and why are they important?
     answer: |
       Financial risk analysis involves four critical areas:
       1. Balance Sheet Analysis

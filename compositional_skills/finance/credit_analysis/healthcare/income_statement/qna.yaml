@@ -7,29 +7,21 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate patient service revenue in a
       healthcare
-
       income statement?
     answer: >
       Analysts should review revenue from various patient care services,
       including
-
       inpatient, outpatient, surgical, and emergency services. They must assess the
-
       contribution from different payer types—Medicare, Medicaid, commercial insurers,
-
       and self-pay—and examine trends in patient volume and average revenue per
-
       encounter.
   - question: |
       How can ancillary revenue streams be assessed in the income statement?
     answer: >
       Analysts should evaluate revenue from ancillary services such as
       laboratory
-
       testing, imaging, pharmacy operations, and wellness programs. Additionally,
-
       income from joint ventures and managed care arrangements should be considered
-
       to gauge overall revenue diversification.
   - question: >
       What key operating expenses should be analyzed in a healthcare income
@@ -37,23 +29,17 @@ seed_examples:
     answer: >
       Analysts must review expenses related to salaries and benefits for
       healthcare
-
       professionals and administrative staff, costs for medical supplies and drugs,
-
       and expenses for facility maintenance, utilities, and technology. They should
-
       also examine depreciation, amortization, and provisions for doubtful accounts.
   - question: >
       Which profitability metrics are essential for evaluating a healthcare
       company's
-
       income statement performance?
     answer: >
       Key metrics include operating income, operating margin, EBITDA, net
       profit margin,
-
       and earnings per share (EPS). Analysts should study these trends over time and
-
       compare them with industry peers to assess efficiency and pricing power.
   - question: >
       How do changes in reimbursement rates and value-based purchasing
@@ -61,25 +47,18 @@ seed_examples:
     answer: >
       Analysts should assess how shifts in Medicare, Medicaid, and private
       insurance
-
       reimbursement rates impact patient service revenue. In addition, performance in
-
       value-based purchasing programs can lead to bonuses or penalties that influence
-
       overall income.
   - question: >
       How should non-operating items be treated in the income statement
       analysis of a
-
       healthcare company?
     answer: >
       Non-operating items, such as investment income and interest expense,
       should be
-
       isolated from core earnings. Analysts must adjust for one-time charges or gains,
-
       including legal settlements or asset sales, to reveal sustainable operational
-
       performance.
   - question: |
       How should regulatory and policy changes be factored into income statement
@@ -87,25 +66,17 @@ seed_examples:
     answer: >
       Analysts must consider the impact of evolving healthcare laws,
       reimbursement
-
       policies, and accreditation standards on both revenue and operating expenses.
-
       Such changes can significantly affect profitability and overall financial
-
       stability.
   - question: >
       What overall insights can be drawn from a comprehensive analysis of a
       healthcare
-
       company's income statement?
     answer: >
       A comprehensive analysis integrates revenue streams, operating expenses,
       and
-
       profitability metrics with the effects of reimbursement variability, regulatory
-
       impacts, and non-recurring items. This holistic view highlights strengths and
-
       risks that influence the company's ability to generate consistent earnings and
-
       maintain creditworthiness.

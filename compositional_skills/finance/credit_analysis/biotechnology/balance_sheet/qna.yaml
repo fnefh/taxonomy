@@ -1,74 +1,46 @@
 version: 3
-task_description: Teach the model to analyze a biotech company's balance sheet,
-  focusing on R&D investments, intangible assets, liquidity, debt, contingent
-  liabilities, and shareholder equity.
+task_description: Teach the model to analyze a biotech company's balance sheet, focusing on R&D investments, intangible assets, liquidity, debt, contingent liabilities, and shareholder equity.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should R&D investments be evaluated on a biotech company's balance
-      sheet?
+      How should R&D investments be evaluated on a biotech company's balance sheet?
     answer: >
-      Analysts should assess the proportion of assets allocated to R&D and
-      consider the 
-
-      potential for innovation alongside the risks if projects fail to yield commercial 
-
+      Analysts should assess the proportion of assets allocated to R&D and consider the
+      potential for innovation alongside the risks if projects fail to yield commercial
       products. Reviewing trends in R&D spending and possible write-offs is crucial.
   - question: |
       How should intangible assets be analyzed for a biotech firm?
     answer: >
-      Intangible assets, including patents, licenses, and proprietary
-      technologies, are 
-
-      key drivers of value. Analysts must evaluate their legal protection, amortization 
-
+      Intangible assets, including patents, licenses, and proprietary technologies, are
+      key drivers of value. Analysts must evaluate their legal protection, amortization
       policies, and potential impairment risks to determine their impact on credit risk.
   - question: |
       Why are cash reserves and liquidity critical for biotech companies?
     answer: >
-      Given the long R&D phases and delayed revenue generation, sufficient
-      cash reserves 
-
-      and liquidity are essential to sustain operations and fund innovation without 
-
+      Given the long R&D phases and delayed revenue generation, sufficient cash reserves
+      and liquidity are essential to sustain operations and fund innovation without
       excessive reliance on external financing.
   - question: >
-      How should debt levels and structure be assessed in the context of a
-      biotech company?
+      How should debt levels and structure be assessed in the context of a biotech company?
     answer: >
-      Since biotech firms generally rely more on equity than debt, any
-      existing debt 
-
-      should be scrutinized for interest rates, maturity profiles, and terms to ensure 
-
+      Since biotech firms generally rely more on equity than debt, any existing debt
+      should be scrutinized for interest rates, maturity profiles, and terms to ensure
       manageable obligations despite limited revenues.
   - question: >
-      What are the implications of contingent liabilities on a biotech
-      firm's balance sheet?
+      What are the implications of contingent liabilities on a biotech firm's balance sheet?
     answer: >
-      Contingent liabilities from clinical trials, regulatory issues, or IP
-      disputes may 
-
-      pose significant risks. Analysts must estimate their potential impact and factor these 
-
+      Contingent liabilities from clinical trials, regulatory issues, or IP disputes may
+      pose significant risks. Analysts must estimate their potential impact and factor these
       liabilities into the overall assessment of financial stability.
   - question: >
-      How should shareholder equity and financing needs be evaluated in the
-      biotech sector?
+      How should shareholder equity and financing needs be evaluated in the biotech sector?
     answer: >
-      Analysts should examine the equity base to gauge the firm’s ability to
-      attract further 
-
-      investment for long-term R&D projects. A heavy reliance on additional equity financing 
-
+      Analysts should examine the equity base to gauge the firm's ability to attract further
+      investment for long-term R&D projects. A heavy reliance on additional equity financing
       may indicate underlying financial vulnerability.
   - question: >
-      What overall insights can be drawn from a biotech firm's balance sheet
-      analysis?
+      What overall insights can be drawn from a biotech firm's balance sheet analysis?
     answer: >
-      A comprehensive analysis should balance high R&D investments and
-      valuable intangible 
-
-      assets against liquidity levels, limited debt, and contingent liabilities. These factors 
-
+      A comprehensive analysis should balance high R&D investments and valuable intangible
+      assets against liquidity levels, limited debt, and contingent liabilities. These factors
       collectively reflect the firm's financial stability and credit risk.

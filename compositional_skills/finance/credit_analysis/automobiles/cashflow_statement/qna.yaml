@@ -1,91 +1,55 @@
 version: 3
-task_description: Teach the model to analyze an automobile company's cash flow
-  statement, focusing on industry-specific dynamics in operating, investing, and
-  financing cash flows, free cash flow, liquidity, debt service, sensitivity
-  analysis, and risk management.
+task_description: Teach the model to analyze an automobile company's cash flow statement, focusing on industry-specific dynamics in operating, investing, and financing cash flows, free cash flow, liquidity, debt service, sensitivity analysis, and risk management.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate operating cash flow in an
-      automobile company?
+      How should a credit analyst evaluate operating cash flow in an automobile company?
     answer: >
-      The analyst should review cash generated from core automotive operations
-      by adjusting
-
+      The analyst should review cash generated from core automotive operations by adjusting
       net income for non-cash expenses such as depreciation and amortization, and by analyzing
-
       changes in working capital components like receivables, payables, and inventory.
   - question: >
-      What is the impact of financing and leasing activities on operating
-      cash flow?
+      What is the impact of financing and leasing activities on operating cash flow?
     answer: >
-      Analysts must consider cash flows from the financing arm, including the
-      quality and
-
+      Analysts must consider cash flows from the financing arm, including the quality and
       collectability of receivables from leasing operations, as these affect overall cash
-
       flow timing and introduce potential credit risks.
   - question: |
       How should investing cash flow be analyzed for an automobile company?
     answer: >
-      The analyst should assess cash outflows for CapEx on manufacturing
-      facilities,
-
+      The analyst should assess cash outflows for CapEx on manufacturing facilities,
       equipment upgrades, and new technology development. It is important to distinguish
-
       between maintenance CapEx and growth CapEx aimed at expanding capacity.
   - question: >
-      What financing cash flow factors are critical for evaluating an
-      automobile company's
-
+      What financing cash flow factors are critical for evaluating an automobile company's
       financial health?
     answer: >
-      Key factors include examining cash inflows from new debt issuance and
-      outflows for debt
-
+      Key factors include examining cash inflows from new debt issuance and outflows for debt
       repayments, as well as reviewing equity financing activities, dividend payments, and
-
       share repurchases to understand leverage and capital structure.
   - question: >
-      How is free cash flow (FCF) calculated and why is it important in the
-      automobile
-
+      How is free cash flow (FCF) calculated and why is it important in the automobile
       industry?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
       flow. This metric measures the surplus cash available for debt servicing, reinvestment,
-
       and shareholder returns, while FCF margins indicate operational efficiency.
   - question: |
       What liquidity metrics and working capital components should be analyzed?
     answer: >
-      Analysts should calculate current and quick ratios to assess short-term
-      liquidity.
-
+      Analysts should calculate current and quick ratios to assess short-term liquidity.
       Additionally, evaluating cash reserves and the management of receivables, payables,
-
       and inventory levels is essential to ensure the company can meet its obligations.
   - question: >
-      How can debt service coverage be evaluated in the context of the
-      automobile industry?
+      How can debt service coverage be evaluated in the context of the automobile industry?
     answer: >
-      Evaluating the ratio of operating cash flow to interest expense, along
-      with reviewing
-
-      the debt maturity profile, helps determine the company’s ability to service its debt
-
+      Evaluating the ratio of operating cash flow to interest expense, along with reviewing
+      the debt maturity profile, helps determine the company's ability to service its debt
       and manage refinancing risks.
   - question: >
-      How does scenario analysis and capital allocation strategy affect cash
-      flow sensitivity?
+      How does scenario analysis and capital allocation strategy affect cash flow sensitivity?
     answer: >
-      Scenario analysis should assess the impact of changes in sales volumes,
-      economic
-
+      Scenario analysis should assess the impact of changes in sales volumes, economic
       conditions, and commodity prices on cash flows. Reviewing management's capital
-
       allocation strategy also reveals the company's flexibility in adjusting production
-
       levels and cost structures in response to external shocks.

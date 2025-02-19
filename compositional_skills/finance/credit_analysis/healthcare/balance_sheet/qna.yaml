@@ -8,85 +8,55 @@ seed_examples:
       How should a credit analyst evaluate PP&E in a healthcare company's
       balance sheet?
     answer: >
-      Analysts should review the composition and valuation of PP&E, including
-      hospitals,
-
+      Analysts should review the composition and valuation of PP&E, including hospitals,
       clinics, medical facilities, and specialized medical equipment. They must assess the
-
       age, condition, and technological relevance of these assets, and analyze CapEx trends
-
       for facility upgrades and regulatory compliance.
-  - question: |
+  - question: >
       How should intangible assets be assessed in the healthcare industry?
     answer: >
-      Analysts must examine intangible assets such as goodwill from
-      acquisitions and
-
+      Analysts must examine intangible assets such as goodwill from acquisitions and
       intellectual property like licenses, patents, and proprietary technologies.
-
       Evaluating amortization policies and impairment risks is critical when acquired
-
       entities underperform.
   - question: >
       How can accounts receivable be analyzed on a healthcare company's
       balance sheet?
     answer: >
-      Analysts should analyze the quality and aging of receivables from
-      insurance companies,
-
+      Analysts should analyze the quality and aging of receivables from insurance companies,
       Medicare/Medicaid, and patients. Evaluating credit terms, billing practices, and
-
       calculating Days Sales Outstanding (DSO) help assess revenue cycle efficiency.
-  - question: |
+  - question: >
       How should inventory be assessed in the healthcare industry?
     answer: >
-      Analysts need to review inventories of medical supplies and
-      pharmaceuticals.
-
+      Analysts need to review inventories of medical supplies and pharmaceuticals.
       Evaluating inventory management practices, valuation methods (e.g., FIFO, LIFO, weighted
-
       average), and risks of obsolescence due to perishability and demand fluctuations is key.
   - question: >
       What liability factors are critical in analyzing a healthcare
       company's balance sheet?
     answer: >
-      Analysts must examine short- and long-term debt obligations, pension and
-      post-retirement
-
+      Analysts must examine short- and long-term debt obligations, pension and post-retirement
       liabilities, and reserves for malpractice claims. Evaluating interest rates, maturity
-
       profiles, and covenant compliance is essential to assess debt servicing capacity.
   - question: >
       How should a healthcare company's equity and capital structure be
       evaluated?
     answer: >
-      Analysts should review changes in shareholders' equity, including
-      retained earnings and
-
+      Analysts should review changes in shareholders' equity, including retained earnings and
       accumulated other comprehensive income, as well as any non-controlling interests.
-
       Dividend policies and share repurchase programs should also be examined.
   - question: >
-      How can liquidity and working capital management be assessed on a
-      healthcare 
-
+      How can liquidity and working capital management be assessed on a healthcare
       balance sheet?
     answer: >
-      Key liquidity measures include current and quick ratios, along with cash
-      and cash
-
-      equivalents. Analysts should evaluate the management of receivables, payables, and 
-
+      Key liquidity measures include current and quick ratios, along with cash and cash
+      equivalents. Analysts should evaluate the management of receivables, payables, and
       inventory, considering the impact of delayed reimbursements and high operating costs.
   - question: >
       How should regulatory compliance and off-balance sheet items be
-      incorporated into the 
-
-      analysis of a healthcare company's balance sheet?
+      incorporated into the analysis of a healthcare company's balance sheet?
     answer: >
-      Analysts must review compliance with healthcare regulations and assess
-      off-balance 
-
+      Analysts must review compliance with healthcare regulations and assess off-balance
       sheet items such as operating leases for equipment and contingent liabilities from
-
       legal disputes. These factors can affect future cash flows and overall financial risk.

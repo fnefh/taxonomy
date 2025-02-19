@@ -1,91 +1,53 @@
 version: 3
-task_description: Teach the model to analyze a chemicals company's cash flow
-  statement, focusing on operating, investing, and financing cash flows,
-  liquidity, sensitivity analysis, and risk management practices specific to the
-  chemicals industry.
+task_description: Teach the model to analyze a chemicals company's cash flow statement, focusing on operating, investing, and financing cash flows, liquidity, sensitivity analysis, and risk management practices specific to the chemicals industry.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate operating cash flow in a
-      chemicals company?
+      How should a credit analyst evaluate operating cash flow in a chemicals company?
     answer: >
-      Analysts should assess cash generated from core operations by adjusting
-      net income
-
+      Analysts should assess cash generated from core operations by adjusting net income
       for non-cash expenses such as depreciation, amortization, impairments, and stock-based
-
       compensation. They must also analyze changes in working capital, including receivables,
-
       payables, and inventory, to gauge cash flow stability amid cyclical conditions.
   - question: >
-      What key factors should be considered when analyzing investing cash
-      flow in a
-
+      What key factors should be considered when analyzing investing cash flow in a
       chemicals company?
     answer: >
-      Analysts should review capital expenditures for investments in
-      manufacturing
-
+      Analysts should review capital expenditures for investments in manufacturing
       facilities, technology upgrades, capacity expansions, and environmental compliance.
-
       They must also consider cash flows from acquisitions, divestitures, and R&D
-
       investments that support long-term innovation.
   - question: >
-      How can financing cash flow be evaluated in the context of a chemicals
-      company?
+      How can financing cash flow be evaluated in the context of a chemicals company?
     answer: >
-      The analysis should focus on cash inflows from new debt issuance and
-      outflows for debt
-
+      The analysis should focus on cash inflows from new debt issuance and outflows for debt
       repayments. It should also examine equity financing activities such as share issuances,
-
       repurchases, and dividend payments to assess the company's reliance on external
-
       financing and its impact on capital structure.
   - question: >
-      How is free cash flow (FCF) calculated, and why is it important for a
-      chemicals firm?
+      How is free cash flow (FCF) calculated, and why is it important for a chemicals firm?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash
-
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
       flow. This metric reflects the firm's ability to generate surplus cash to fund R&D,
-
       service debt, and return capital to shareholders despite working capital fluctuations.
   - question: >
-      What liquidity measures are crucial in evaluating a chemicals
-      company's cash flow
-
+      What liquidity measures are crucial in evaluating a chemicals company's cash flow
       health?
     answer: >
-      Analysts should evaluate the level of cash and cash equivalents, review
-      available credit
-
+      Analysts should evaluate the level of cash and cash equivalents, review available credit
       facilities and revolving credit agreements, and assess compliance with financial covenants
-
       to ensure the company can meet short-term obligations and unexpected expenses.
   - question: >
-      How does cash flow sensitivity analysis help in understanding the
-      risks faced by a
-
+      How does cash flow sensitivity analysis help in understanding the risks faced by a
       chemicals company?
     answer: >
-      Sensitivity analysis examines the impact of commodity price
-      fluctuations, changes in demand,
-
+      Sensitivity analysis examines the impact of commodity price fluctuations, changes in demand,
       and foreign exchange movements on cash flows. This analysis helps determine the firm's
-
       ability to adjust expenditures and manage liquidity under varying market conditions.
   - question: >
-      What role do hedging and derivatives play in managing cash flow risks
-      in the
-
+      What role do hedging and derivatives play in managing cash flow risks in the
       chemicals industry?
     answer: >
-      Hedging strategies and the use of derivatives are essential to mitigate
-      risks arising from
-
+      Hedging strategies and the use of derivatives are essential to mitigate risks arising from
       volatile raw material and energy prices as well as currency fluctuations. Evaluating these
-
       strategies provides insights into the stability of cash flows and the overall financial health.

@@ -1,91 +1,55 @@
 version: 3
-task_description: Teach the model to perform a detailed balance sheet analysis
-  for an automobile company, focusing on capital assets, inventory, intangibles,
-  liabilities, liquidity, solvency, and off-balance sheet obligations.
+task_description: Teach the model to perform a detailed balance sheet analysis for an automobile company, focusing on capital assets, inventory, intangibles, liabilities, liquidity, solvency, and off-balance sheet obligations.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate capital assets and production
-      facilities 
-
+      How should a credit analyst evaluate capital assets and production facilities
       in an automobile company?
     answer: >
-      The analyst should assess the composition and valuation of manufacturing
-      plants, 
-
-      machinery, and equipment. They must consider the efficiency, modernity, and 
-
-      technological relevance of production facilities, as these factors impact 
-
+      The analyst should assess the composition and valuation of manufacturing plants,
+      machinery, and equipment. They must consider the efficiency, modernity, and
+      technological relevance of production facilities, as these factors impact
       production costs and competitiveness.
   - question: >
-      What key factors must be considered when analyzing inventory levels on
-      the 
-
+      What key factors must be considered when analyzing inventory levels on the
       balance sheet of an automotive firm?
     answer: >
-      Analysts should review raw materials, work-in-progress, and finished
-      goods. They 
-
-      should calculate Day Sales Inventory and compare it to the industry benchmark of 
-
-      60 days, noting that sustained high inventory levels may signal working capital 
-
+      Analysts should review raw materials, work-in-progress, and finished goods. They
+      should calculate Day Sales Inventory and compare it to the industry benchmark of
+      60 days, noting that sustained high inventory levels may signal working capital
       issues and potential write-downs.
   - question: |
       How should intangible assets be evaluated in the automobile industry?
     answer: >
-      Intangible assets such as brand value, patents, proprietary
-      technologies, and R&D 
-
-      investments must be assessed. These assets contribute to competitive advantage and 
-
+      Intangible assets such as brand value, patents, proprietary technologies, and R&D
+      investments must be assessed. These assets contribute to competitive advantage and
       can drive future revenue streams if managed effectively.
   - question: |
-      What liabilities are critical when assessing the debt structure of an 
+      What liabilities are critical when assessing the debt structure of an
       automobile company?
     answer: >
-      Analysts must examine both short-term and long-term debt obligations,
-      including 
-
-      interest rates, maturity profiles, and covenants. The debt-to-equity ratio is key for 
-
+      Analysts must examine both short-term and long-term debt obligations, including
+      interest rates, maturity profiles, and covenants. The debt-to-equity ratio is key for
       comparing financial leverage to industry benchmarks.
   - question: >
-      How do liquidity ratios and working capital management impact an
-      automotive 
-
+      How do liquidity ratios and working capital management impact an automotive
       company's balance sheet?
     answer: >
-      Liquidity ratios such as the current and quick ratios help determine the
-      company's 
-
-      ability to meet short-term obligations. In addition, efficient management of 
-
-      receivables, payables, and inventory turnover is essential for maintaining smooth 
-
+      Liquidity ratios such as the current and quick ratios help determine the company's
+      ability to meet short-term obligations. In addition, efficient management of
+      receivables, payables, and inventory turnover is essential for maintaining smooth
       cash flow.
   - question: >
-      What role do solvency ratios, like the interest coverage ratio, play
-      in evaluating 
-
+      What role do solvency ratios, like the interest coverage ratio, play in evaluating
       financial stability?
     answer: >
-      Solvency ratios, including the debt-to-equity and interest coverage
-      ratios, reveal 
-
-      the company’s ability to service its debt. A robust interest coverage ratio indicates 
-
+      Solvency ratios, including the debt-to-equity and interest coverage ratios, reveal
+      the company's ability to service its debt. A robust interest coverage ratio indicates
       that earnings sufficiently cover interest expenses, signaling lower financial risk.
   - question: >
-      How should off-balance sheet obligations, such as operating leases or
-      special 
-
+      How should off-balance sheet obligations, such as operating leases or special
       purpose entities, be factored into the balance sheet analysis?
     answer: >
-      Analysts should identify any significant off-balance sheet financing
-      arrangements 
-
-      as these can obscure the true extent of financial commitments. Recognizing these 
-
+      Analysts should identify any significant off-balance sheet financing arrangements
+      as these can obscure the true extent of financial commitments. Recognizing these
       items is vital for an accurate assessment of risk and financial transparency.

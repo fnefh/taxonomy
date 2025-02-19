@@ -11,62 +11,44 @@ seed_examples:
     answer: >
       Analysts should assess cash flows from core operations, such as rental
       income
-
       and service fees, adjusting for non-cash expenses (e.g., depreciation,
-
       amortization) and changes in working capital components like receivables,
-
       deferred revenue, and payables. They must also consider occupancy rates and
-
       lease renewals.
   - question: >
       What factors should be considered when analyzing investing cash flow
       in a real
-
       estate company?
     answer: >
       Analysts must review cash outflows for capital expenditures on property
-
       acquisitions, renovations, and technology upgrades. They should also evaluate
-
       cash flows from acquisitions, dispositions, and investments in joint ventures
-
       or strategic partnerships.
   - question: |
       How can financing cash flow be evaluated for a real estate company?
     answer: >
       The analysis should focus on cash inflows from debt issuance and equity
-
       financing, as well as outflows for debt repayments, dividend payments, and share
-
       repurchases. Evaluating the maturity profile of debt and refinancing risks is
-
       critical.
   - question: >
       How is free cash flow (FCF) calculated, and why is it important in the
       real estate
-
       industry?
     answer: >
       Free cash flow is calculated by subtracting capital expenditures from
       operating
-
       cash flow. This metric indicates the firm's ability to generate surplus cash for
-
       debt servicing, reinvestment, and distributions, despite working capital
-
       fluctuations.
   - question: >
       What liquidity measures are essential when evaluating a real estate
       company's cash
-
       flow health?
     answer: >
       Key liquidity metrics include the current and quick ratios, as well as
       the level of
-
       cash and cash equivalents. Analysts should also assess access to credit facilities
-
       and overall working capital management.
   - question: >
       How should cash flow sensitivity analysis be performed in the real
@@ -74,33 +56,24 @@ seed_examples:
     answer: >
       Analysts should conduct scenario analysis to assess the impact of
       changes in
-
       occupancy rates, rental income, development costs, and interest rates on cash flow.
-
       This helps determine the company's ability to adjust expenditures amid market shifts.
   - question: >
       What role does capital allocation play in a real estate company's cash
       flow
-
       analysis?
     answer: >
       Evaluating management's capital allocation strategy is vital. Analysts
       should
-
       assess how the company balances spending between maintenance, development,
-
       acquisitions, and debt repayment to optimize cash flow and support growth.
   - question: >
       What overall insights can be drawn from a comprehensive cash flow
       analysis in the
-
       real estate industry?
     answer: >
       A holistic analysis integrates operating, investing, and financing cash
       flows with
-
       liquidity and sensitivity assessments. This reveals strengths and risks—such as
-
       high leverage, exposure to market cycles, and effective working capital management—
-
       that impact the company's creditworthiness.

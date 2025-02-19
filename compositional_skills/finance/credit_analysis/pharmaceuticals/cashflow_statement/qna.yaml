@@ -8,41 +8,30 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate operating cash flow in a
       pharmaceutical
-
       company?
     answer: >
       Analysts should assess cash generated from core operations by adjusting
       net
-
       income for non-cash expenses such as depreciation, amortization, and stock-based
-
       compensation. They must also analyze changes in working capital, including
-
       accounts receivable, inventory levels, and accounts payable, while considering
-
       the impact of legal settlements or fines.
   - question: >
       What working capital components are critical in analyzing operating
       cash flow
-
       for a pharmaceutical company?
     answer: >
       Key components include accounts receivable from distributors,
       wholesalers, and
-
       patients, along with inventory management practices that address product
-
       life cycles and obsolescence. Evaluating collection efficiency and credit terms
-
       is essential.
   - question: |
       How should investing cash flow be analyzed in the pharmaceutical industry?
     answer: >
       Analysts must review cash outflows for capital expenditures on
       manufacturing
-
       facilities, R&D laboratories, and technology upgrades. They should assess cash
-
       flows from acquisitions or licensing deals and proceeds from asset sales.
   - question: |
       What factors are important when analyzing financing cash flow in a
@@ -50,33 +39,25 @@ seed_examples:
     answer: >
       The analysis should focus on cash inflows from new debt and equity
       issuances,
-
       along with outflows for debt repayments, share repurchases, and dividend payments.
-
       Evaluating the maturity profile of debt and refinancing risks is crucial.
   - question: >
       How is free cash flow (FCF) calculated for a pharmaceutical company
       and why is it
-
       important?
     answer: >
       Free cash flow is calculated by subtracting capital expenditures from
       operating
-
       cash flow. This metric is important as it indicates the company's ability to
-
       generate surplus cash to fund R&D, service debt, and return capital to shareholders.
   - question: >
       What liquidity measures should be used to assess a pharmaceutical
       company's cash
-
       flow health?
     answer: >
       Analysts should calculate the current and quick ratios and evaluate the
       adequacy of
-
       cash reserves to meet short-term obligations, considering high R&D expenses and
-
       potential delays in reimbursements.
   - question: >
       How should debt service coverage be evaluated in the pharmaceutical
@@ -84,21 +65,15 @@ seed_examples:
     answer: >
       Analysts must calculate ratios such as Operating Cash Flow to Interest
       Paid.
-
       Reviewing the timing of debt maturities and the company's refinancing plans is
-
       key to assessing its ability to service debt.
   - question: >
       How can scenario analysis help assess cash flow sensitivity in a
       pharmaceutical
-
       company?
     answer: >
       Scenario analysis should model the impact of changes in product sales,
       patent
-
       expirations, R&D expenditures, and capital investments on cash flow projections.
-
       This helps determine the company's ability to adjust spending in response to
-
       market and regulatory changes.

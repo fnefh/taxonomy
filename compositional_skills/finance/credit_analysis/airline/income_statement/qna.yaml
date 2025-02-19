@@ -1,75 +1,45 @@
 ---
 version: 3
-task_description: Teach the model to analyze an airline company's income
-  statement with a focus on revenue streams, operating expenses, profitability
-  metrics, efficiency ratios, earnings volatility, and non-operating items.
+task_description: Teach the model to analyze an airline company's income statement with a focus on revenue streams, operating expenses, profitability metrics, efficiency ratios, earnings volatility, and non-operating items.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate various revenue streams in an
-      airline income
-
+      How should a credit analyst evaluate various revenue streams in an airline income
       statement?
     answer: >
-      The analyst should differentiate passenger revenue from business and
-      leisure segments
-
+      The analyst should differentiate passenger revenue from business and leisure segments
       by reviewing load factors, available seat miles (ASM), and revenue passenger miles (RPM).
-
       In addition, cargo revenue and ancillary income from baggage fees, in-flight services,
-
       and partnerships must be assessed to determine overall revenue diversification.
   - question: >
-      What key aspects of operating expenses should be examined in the
-      airline industry?
+      What key aspects of operating expenses should be examined in the airline industry?
     answer: >
-      Analysts must review fuel costs, labor expenses, maintenance and repair
-      costs, and
-
+      Analysts must review fuel costs, labor expenses, maintenance and repair costs, and
       airport/navigation fees. They should also consider other operating expenses such as
-
       marketing, sales, and administrative costs, along with the impact of these expenses
-
       on overall margins.
   - question: >
-      Which profitability metrics are critical for assessing an airline's
-      income statement?
+      Which profitability metrics are critical for assessing an airline's income statement?
     answer: >
-      Critical metrics include operating margin, net profit margin, and the
-      break-even load
-
+      Critical metrics include operating margin, net profit margin, and the break-even load
       factor. Comparing the break-even load factor to the actual load factor provides insight
-
       into cost management and operational efficiency.
   - question: >
-      How can RASM and CASM be used to assess revenue and cost efficiency in
-      an airline?
+      How can RASM and CASM be used to assess revenue and cost efficiency in an airline?
     answer: >
-      RASM (Revenue per Available Seat Mile) measures revenue efficiency,
-      while CASM 
-
+      RASM (Revenue per Available Seat Mile) measures revenue efficiency, while CASM
       (Cost per Available Seat Mile) measures cost efficiency. Comparing these metrics
-
       helps determine the pricing power and cost control effectiveness of the airline.
   - question: >
-      What external factors contribute to earnings volatility in the airline
-      industry?
+      What external factors contribute to earnings volatility in the airline industry?
     answer: >
-      Earnings volatility can be driven by fuel price fluctuations, economic
-      cycles,
-
-      weather disruptions, and geopolitical events. Seasonality in travel demand also 
-
+      Earnings volatility can be driven by fuel price fluctuations, economic cycles,
+      weather disruptions, and geopolitical events. Seasonality in travel demand also
       plays a significant role in affecting revenue stability.
   - question: >
-      How should non-operating items, such as interest expense and one-time
-      charges, be
-
+      How should non-operating items, such as interest expense and one-time charges, be
       treated in income statement analysis?
     answer: >
-      Non-operating items must be isolated from core operating performance.
-      High interest
-
+      Non-operating items must be isolated from core operating performance. High interest
       expenses may signal heavy reliance on debt financing, while one-time charges or gains
-
       should be adjusted to accurately reflect recurring profitability.

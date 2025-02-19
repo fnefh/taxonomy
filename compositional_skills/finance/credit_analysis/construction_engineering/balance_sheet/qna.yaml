@@ -8,14 +8,11 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate the composition and valuation of
       PP&E in a
-
       construction and engineering company?
     answer: >
       Analysts should review PP&E by examining heavy machinery, equipment,
       vehicles, and
-
       technology assets. They must assess asset age, condition, and utilization rates, and
-
       analyze capital expenditure trends to determine investments for maintenance or expansion.
   - question: >
       How should intangible assets be analyzed in the construction and
@@ -23,69 +20,51 @@ seed_examples:
     answer: >
       Analysts should examine intangible assets such as goodwill from
       acquisitions and
-
       intellectual property including patents and licenses. They must evaluate amortization
-
       policies and potential impairment risks to determine the impact on competitive advantage.
   - question: >
       What aspects of accounts receivable and unbilled revenue should be
       considered in a
-
       construction and engineering balance sheet?
     answer: >
       Analysts need to review the aging of receivables from clients, including
       government and
-
       private sector customers, and assess unbilled revenue from work completed but not yet
-
       invoiced, considering percentage-of-completion accounting.
   - question: >
       What key factors should be evaluated when analyzing a company's debt
       structure and
-
       leverage?
     answer: >
       Analysts must assess both short-term and long-term debt, including
       interest rates,
-
       maturity profiles, and covenants. Leverage ratios such as Debt-to-Equity and Debt-to-EBITDA,
-
       as well as currency risks on foreign-denominated debt, are critical for evaluating financial risk.
   - question: >
       How can liquidity and working capital management be assessed in the
       construction and
-
       engineering industry?
     answer: >
       Evaluating liquidity involves calculating the current and quick ratios
       and analyzing working
-
       capital components. Analysts should review receivables, payables, inventory turnover, and cash
-
       tied up in projects, including retention monies withheld by clients.
   - question: >
       How do off-balance sheet items affect the financial risk of a
       construction and
-
       engineering company?
     answer: >
       Off-balance sheet items such as operating leases, joint ventures, and
       contingent liabilities
-
       (including performance bonds and guarantees) must be identified and analyzed, as they can impact
-
       future cash flows and overall financial flexibility.
   - question: >
       How should risk management and regulatory compliance be incorporated
       into the balance
-
       sheet analysis of a construction and engineering company?
     answer: >
       Analysts should evaluate project risk exposure by examining client
       concentration, geographic
-
       distribution, and project types. Additionally, they must assess compliance with environmental,
-
       safety, and licensing regulations, and review potential liabilities from litigation or regulatory
-
       actions to gauge overall risk and financial stability.

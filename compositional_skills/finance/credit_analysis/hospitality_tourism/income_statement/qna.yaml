@@ -8,78 +8,58 @@ seed_examples:
   - question: >
       How should a credit analyst evaluate revenue streams and growth
       drivers in a
-
       hospitality company's income statement?
     answer: >
       Analysts should assess revenue from accommodation services, F&B, events,
       and leisure
-
       activities. They must evaluate occupancy rates, average daily rates, RevPAR, and the
-
       mix of revenue from various channels, while considering new product launches,
-
       innovations, and geographic diversification.
   - question: >
       What key factors must be analyzed in the cost structure of a
       hospitality income
-
       statement?
     answer: >
       Analysts need to examine costs related to goods and services, including
       labor,
-
       supplies, and utilities. They should analyze SG&A expenses, depreciation,
-
       amortization, and maintenance costs, and compare gross profit margins with industry
-
       benchmarks.
   - question: >
       Which profitability metrics are critical for evaluating a hospitality
       company's
-
       income statement performance?
     answer: >
       Key metrics include operating income and operating margin, EBITDA and
       its margin,
-
       net income, and EPS. Tracking these metrics over time and comparing them with
-
       industry peers helps assess cost efficiencies and pricing power.
   - question: >
       How do seasonal and economic cycles affect the income statement in the
       hospitality
-
       industry?
     answer: >
       Analysts should assess how seasonal demand, holidays, and local events
       influence
-
       revenue and margins. Economic downturns and travel trends can impact occupancy
-
       rates and F&B sales, affecting overall profitability.
   - question: >
       How should customer concentration and contract terms be evaluated in
       the income
-
       statement?
     answer: >
       Analysts must evaluate the reliance on key corporate clients, travel
       agencies, and
-
       event organizers. They should examine contract duration, renewal rates, and pricing
-
       terms, as high customer concentration may increase revenue risk.
   - question: >
       What impact do foreign exchange and international operations have on
       revenue and
-
       expenses in the hospitality industry?
     answer: >
       Currency fluctuations can affect revenue from international markets and
       the cost of
-
       imported goods. Analysts should review hedging strategies and assess geopolitical risks
-
       that may influence income stability.
   - question: |
       How should non-recurring items be treated in the analysis of a hospitality
@@ -87,23 +67,16 @@ seed_examples:
     answer: >
       Non-recurring items, such as restructuring costs, asset impairments, or
       gains from
-
       asset sales, should be isolated from recurring earnings to provide a clear view of
-
       sustainable operational performance.
   - question: >
       What overall insights can be drawn from an income statement analysis
       in the
-
       hospitality and tourism industry?
     answer: >
       A comprehensive analysis should integrate revenue quality, cost
       management, and
-
       profitability metrics with the effects of seasonal demand, customer concentration,
-
       international exposure, and non-recurring items. This holistic view highlights strengths
-
       and risks that impact the firm's ability to generate consistent earnings and maintain
-
       creditworthiness.
