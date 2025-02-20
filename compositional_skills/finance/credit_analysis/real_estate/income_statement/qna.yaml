@@ -1,77 +1,59 @@
 version: 3
-task_description: Teach the model to analyze a real estate company's income
-  statement, focusing on revenue quality, cost management, profitability, and
-  market risks in the real estate industry.
+task_description: Teach the model to analyze a real estate company's income statement, focusing on revenue quality, cost management, profitability, and market risks in the real estate industry.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate revenue streams and recognition
-      in a real 
+      How should a credit analyst evaluate revenue streams and recognition in a real
       estate income statement?
     answer: >
-      Analysts should assess revenue from rental income, property sales, and
-      management 
-      fees. They must review occupancy rates, lease escalations, concessions, and the timing 
+      Analysts should assess revenue from rental income, property sales, and management
+      fees. They must review occupancy rates, lease escalations, concessions, and the timing
       of revenue recognition for long-term contracts, ensuring revenue quality and stability.
   - question: >
-      What factors are critical when analyzing product sales and development
-      income in 
+      What factors are critical when analyzing product sales and development income in
       real estate?
     answer: >
-      Analysts need to evaluate revenue from property sales and development,
-      noting the 
-      impact of recognition policies, market demand, and risks associated with project delays 
+      Analysts need to evaluate revenue from property sales and development, noting the
+      impact of recognition policies, market demand, and risks associated with project delays
       or cost overruns.
   - question: >
-      How should operating expenses be evaluated in a real estate income
-      statement?
+      How should operating expenses be evaluated in a real estate income statement?
     answer: >
-      Analysts must examine property operating expenses, including
-      maintenance, utilities, 
-      security, and taxes. They should also assess costs for marketing, administrative 
-      functions, and depreciation of real estate assets, comparing margins with industry 
+      Analysts must examine property operating expenses, including maintenance, utilities,
+      security, and taxes. They should also assess costs for marketing, administrative
+      functions, and depreciation of real estate assets, comparing margins with industry
       benchmarks.
   - question: >
-      Which profitability metrics are essential for evaluating a real estate
-      company's 
+      Which profitability metrics are essential for evaluating a real estate company's
       performance?
     answer: >
-      Key metrics include Net Operating Income (NOI), Funds From Operations
-      (FFO), and 
-      Adjusted FFO. Analysts should compare operating margins and assess trends in net income 
+      Key metrics include Net Operating Income (NOI), Funds From Operations (FFO), and
+      Adjusted FFO. Analysts should compare operating margins and assess trends in net income
       and EPS to determine operational efficiency and profitability.
   - question: >
-      How does interest expense and debt structure impact the income
-      statement in real 
+      How does interest expense and debt structure impact the income statement in real
       estate?
     answer: >
-      Analysts should evaluate the cost of debt by calculating interest
-      expense relative 
-      to operating income. They must review leverage ratios and the maturity profile of debt 
-      to assess refinancing risks and the company’s financial flexibility.
+      Analysts should evaluate the cost of debt by calculating interest expense relative
+      to operating income. They must review leverage ratios and the maturity profile of debt
+      to assess refinancing risks and the company's financial flexibility.
   - question: >
-      How do market conditions, such as occupancy rates and lease renewals,
-      affect revenue?
+      How do market conditions, such as occupancy rates and lease renewals, affect revenue?
     answer: >
-      Analysts must assess the impact of changing occupancy rates, lease
-      expirations, and 
-      tenant retention on rental income. They should also consider geographic diversification 
+      Analysts must assess the impact of changing occupancy rates, lease expirations, and
+      tenant retention on rental income. They should also consider geographic diversification
       and market cycles that affect demand and pricing.
   - question: >
-      How should non-recurring items be treated in a real estate income
-      statement analysis?
+      How should non-recurring items be treated in a real estate income statement analysis?
     answer: >
-      Non-recurring items like restructuring costs, asset impairments, or
-      gains from property 
-      sales should be isolated from core earnings. Adjusting for these items helps reveal the 
+      Non-recurring items like restructuring costs, asset impairments, or gains from property
+      sales should be isolated from core earnings. Adjusting for these items helps reveal the
       true operating performance.
   - question: >
-      What overall insights can be drawn from a comprehensive income
-      statement analysis in 
+      What overall insights can be drawn from a comprehensive income statement analysis in
       the real estate industry?
     answer: >
-      A thorough analysis integrates revenue recognition, cost management, and
-      profitability 
-      metrics with market conditions and non-recurring items. This approach highlights strengths 
-      and risks, such as lease performance, development challenges, and debt servicing, which 
+      A thorough analysis integrates revenue recognition, cost management, and profitability
+      metrics with market conditions and non-recurring items. This approach highlights strengths
+      and risks, such as lease performance, development challenges, and debt servicing, which
       affect the company's creditworthiness.

@@ -1,81 +1,63 @@
 version: 3
-task_description: Teach the model to analyze a mining and metals company's cash
-  flow statement, focusing on operating cash flows, investing activities,
-  financing flows, free cash flow, liquidity, sensitivity analysis, and risk
-  management specific to the industry.
+task_description: Teach the model to analyze a mining and metals company's cash flow statement, focusing on operating cash flows, investing activities, financing flows, free cash flow, liquidity, sensitivity analysis, and risk management specific to the industry.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate operating cash flow in a mining
-      and metals 
+      How should a credit analyst evaluate operating cash flow in a mining and metals
       company?
     answer: >
-      Analysts should assess cash generated from core mining operations by
-      adjusting 
-      net income for non-cash expenses such as depreciation, amortization, impairments, 
-      and stock-based compensation. They must analyze changes in working capital, including 
-      receivables from smelters and refiners, inventory fluctuations, and payables to 
+      Analysts should assess cash generated from core mining operations by adjusting
+      net income for non-cash expenses such as depreciation, amortization, impairments,
+      and stock-based compensation. They must analyze changes in working capital, including
+      receivables from smelters and refiners, inventory fluctuations, and payables to
       suppliers, while considering commodity price volatility and production cycles.
   - question: >
-      What working capital components are critical in evaluating operating
-      cash flow 
+      What working capital components are critical in evaluating operating cash flow
       for mining companies?
     answer: >
-      Key components include accounts receivable from customers, inventory
-      levels of raw 
-      materials and intermediate products, and accounts payable. Evaluating credit policies, 
+      Key components include accounts receivable from customers, inventory levels of raw
+      materials and intermediate products, and accounts payable. Evaluating credit policies,
       collection efficiency, and the impact of inventory valuation methods is essential.
   - question: |
       How should investing cash flow be analyzed in a mining and metals company?
     answer: >
-      Analysts must review cash outflows for capital expenditures on mine
-      development, 
-      exploration projects, equipment upgrades, and technology enhancements. They should 
-      also examine cash flows from acquisitions or divestitures and investments in R&D 
+      Analysts must review cash outflows for capital expenditures on mine development,
+      exploration projects, equipment upgrades, and technology enhancements. They should
+      also examine cash flows from acquisitions or divestitures and investments in R&D
       for new extraction or processing technologies.
   - question: >
-      What factors are important when analyzing financing cash flow in the
-      mining 
+      What factors are important when analyzing financing cash flow in the mining
       industry?
     answer: >
-      The analysis should focus on cash inflows from debt issuance and
-      outflows for debt 
-      repayments, including project financing and revolving credit facilities. Evaluating 
-      the maturity profile of debt, refinancing risks, and the mix of fixed versus variable 
+      The analysis should focus on cash inflows from debt issuance and outflows for debt
+      repayments, including project financing and revolving credit facilities. Evaluating
+      the maturity profile of debt, refinancing risks, and the mix of fixed versus variable
       rates is critical.
   - question: >
-      How is free cash flow (FCF) calculated, and why is it important for
-      mining companies?
+      How is free cash flow (FCF) calculated, and why is it important for mining companies?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash 
-      flow. This metric is vital as it reflects the company's ability to generate surplus cash 
-      for debt servicing, reinvestment, and shareholder returns, despite working capital 
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
+      flow. This metric is vital as it reflects the company's ability to generate surplus cash
+      for debt servicing, reinvestment, and shareholder returns, despite working capital
       fluctuations.
   - question: >
-      What liquidity measures should be used to assess a mining company's
-      financial 
+      What liquidity measures should be used to assess a mining company's financial
       flexibility?
     answer: >
-      Analysts should evaluate cash and cash equivalents, calculate current
-      and quick ratios, 
-      and review access to credit facilities and revolving lines of credit. These measures 
-      indicate the company’s ability to meet short-term obligations amid economic cycles.
+      Analysts should evaluate cash and cash equivalents, calculate current and quick ratios,
+      and review access to credit facilities and revolving lines of credit. These measures
+      indicate the company's ability to meet short-term obligations amid economic cycles.
   - question: >
-      How does sensitivity analysis help in evaluating cash flow in the
-      mining and metals 
+      How does sensitivity analysis help in evaluating cash flow in the mining and metals
       sector?
     answer: >
-      Sensitivity analysis should assess the impact of changes in commodity
-      prices, production 
-      volumes, and global demand on cash flows. Analysts must also evaluate the effectiveness 
+      Sensitivity analysis should assess the impact of changes in commodity prices, production
+      volumes, and global demand on cash flows. Analysts must also evaluate the effectiveness
       of operational efficiencies and cost control measures in mitigating these risks.
   - question: >
-      How should risk management activities be incorporated into cash flow
-      analysis for 
+      How should risk management activities be incorporated into cash flow analysis for
       a mining company?
     answer: >
-      Analysts must review hedging strategies using derivatives for commodity,
-      interest rate, 
-      and currency risks. They should also assess insurance coverage for mine closures and 
-      environmental liabilities, as well as the company’s contingency planning measures.
+      Analysts must review hedging strategies using derivatives for commodity, interest rate,
+      and currency risks. They should also assess insurance coverage for mine closures and
+      environmental liabilities, as well as the company's contingency planning measures.

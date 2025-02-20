@@ -1,82 +1,64 @@
 version: 3
-task_description: Teach the model to analyze a renewable energy company's cash
-  flow statement, focusing on operating, investing, and financing cash flows,
-  liquidity, sensitivity analysis, and risk management strategies.
+task_description: Teach the model to analyze a renewable energy company's cash flow statement, focusing on operating, investing, and financing cash flows, liquidity, sensitivity analysis, and risk management strategies.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate operating cash flow in a
-      renewable energy 
+      How should a credit analyst evaluate operating cash flow in a renewable energy
       company?
     answer: >
-      Analysts should assess cash flows from core renewable energy operations
-      by 
-      adjusting net income for non-cash expenses such as depreciation, amortization, 
-      impairments, and stock-based compensation. They must also analyze changes in 
-      working capital, including receivables from PPAs and deferred revenue from service 
+      Analysts should assess cash flows from core renewable energy operations by
+      adjusting net income for non-cash expenses such as depreciation, amortization,
+      impairments, and stock-based compensation. They must also analyze changes in
+      working capital, including receivables from PPAs and deferred revenue from service
       contracts.
   - question: >
-      What working capital components are critical for analyzing operating
-      cash flow 
+      What working capital components are critical for analyzing operating cash flow
       in this industry?
     answer: >
-      Key components include accounts receivable from utilities and government
-      entities, 
-      deferred revenue from PPAs, and accounts payable to suppliers. Evaluating collection 
+      Key components include accounts receivable from utilities and government entities,
+      deferred revenue from PPAs, and accounts payable to suppliers. Evaluating collection
       efficiency and billing practices is essential.
   - question: >
-      How should investing cash flow be analyzed in a renewable energy
-      company's cash 
+      How should investing cash flow be analyzed in a renewable energy company's cash
       flow statement?
     answer: >
-      Analysts must review cash outflows for capital expenditures on renewable
-      projects, 
-      such as solar farms, wind parks, hydroelectric facilities, and energy storage systems. 
-      They should assess CapEx relative to depreciation and operating cash flow, and examine 
+      Analysts must review cash outflows for capital expenditures on renewable projects,
+      such as solar farms, wind parks, hydroelectric facilities, and energy storage systems.
+      They should assess CapEx relative to depreciation and operating cash flow, and examine
       cash flows from acquisitions or divestitures.
   - question: >
-      What factors are important when analyzing financing cash flow in the
-      renewable 
+      What factors are important when analyzing financing cash flow in the renewable
       energy industry?
     answer: >
-      Analysts should evaluate cash inflows from debt issuance and equity
-      financing, and 
-      outflows for debt repayments, share repurchases, and dividends. The maturity profile 
+      Analysts should evaluate cash inflows from debt issuance and equity financing, and
+      outflows for debt repayments, share repurchases, and dividends. The maturity profile
       of debt and potential refinancing risks are also critical.
   - question: >
-      How is free cash flow (FCF) calculated, and why is it important for
-      renewable energy 
+      How is free cash flow (FCF) calculated, and why is it important for renewable energy
       companies?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating cash 
-      flow. This metric indicates the company's ability to generate surplus cash for debt 
+      Free cash flow is calculated by subtracting capital expenditures from operating cash
+      flow. This metric indicates the company's ability to generate surplus cash for debt
       servicing, reinvestment, and shareholder returns despite working capital fluctuations.
   - question: >
-      What liquidity measures are essential for assessing a renewable energy
-      company's 
+      What liquidity measures are essential for assessing a renewable energy company's
       cash flow health?
     answer: >
-      Analysts should evaluate cash and cash equivalents, the current ratio,
-      and the quick 
-      ratio, as well as the availability of credit facilities. These measures indicate the 
+      Analysts should evaluate cash and cash equivalents, the current ratio, and the quick
+      ratio, as well as the availability of credit facilities. These measures indicate the
       firm's ability to meet short-term obligations and fund strategic initiatives.
   - question: >
-      How should cash flow sensitivity analysis be performed in the
-      renewable energy 
+      How should cash flow sensitivity analysis be performed in the renewable energy
       industry?
     answer: >
-      Sensitivity analysis should assess the impact of changes in energy
-      prices, project 
-      completions, and demand fluctuations on cash flow projections. Analysts must evaluate 
-      the firm's ability to adjust capital expenditures and operating costs in response to 
+      Sensitivity analysis should assess the impact of changes in energy prices, project
+      completions, and demand fluctuations on cash flow projections. Analysts must evaluate
+      the firm's ability to adjust capital expenditures and operating costs in response to
       market conditions.
   - question: >
-      How should risk management activities be incorporated into cash flow
-      analysis 
+      How should risk management activities be incorporated into cash flow analysis
       for a renewable energy company?
     answer: >
-      Analysts should evaluate hedging strategies using derivatives for
-      managing energy, 
-      interest rate, and foreign exchange risks. They must also review insurance coverage 
+      Analysts should evaluate hedging strategies using derivatives for managing energy,
+      interest rate, and foreign exchange risks. They must also review insurance coverage
       and contingency planning measures to mitigate operational and market uncertainties.

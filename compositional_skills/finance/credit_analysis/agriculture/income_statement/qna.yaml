@@ -1,94 +1,56 @@
 ---
 version: 3
-task_description: Teach the model to analyze an agriculture company's income
-  statement with a focus on revenue quality, cost structure, profitability,
-  seasonal factors, international operations, sustainability, and non-recurring
-  items.
+task_description: Teach the model to analyze an agriculture company's income statement with a focus on revenue quality, cost structure, profitability, seasonal factors, international operations, sustainability, and non-recurring items.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate revenue streams and growth
-      drivers in an 
-
+      How should a credit analyst evaluate revenue streams and growth drivers in an
       agriculture income statement?
     answer: >
-      The analyst should review revenue from crop and livestock sales as well
-      as from 
-
-      value-added products and services. This involves assessing product diversification, 
-
-      reliance on key segments, and the impact of yield variations, market prices, and 
-
+      The analyst should review revenue from crop and livestock sales as well as from
+      value-added products and services. This involves assessing product diversification,
+      reliance on key segments, and the impact of yield variations, market prices, and
       seasonal demand on revenue growth.
   - question: >
-      What are the key cost structure elements to analyze on an agriculture
-      income 
-
+      What are the key cost structure elements to analyze on an agriculture income
       statement?
     answer: >
-      Key elements include the cost of goods sold from raw materials, seeds,
-      fertilizers, 
-
-      and labor. In addition, operating expenses such as SG&A, R&D expenditures, and the 
-
-      depreciation or amortization of assets must be analyzed, along with their impact on 
-
+      Key elements include the cost of goods sold from raw materials, seeds, fertilizers,
+      and labor. In addition, operating expenses such as SG&A, R&D expenditures, and the
+      depreciation or amortization of assets must be analyzed, along with their impact on
       gross profit margins.
   - question: |
-      Which profitability metrics are essential for evaluating an agriculture 
+      Which profitability metrics are essential for evaluating an agriculture
       company's performance?
     answer: >
-      Analysts should focus on operating income, operating margin, and net
-      income, as well 
-
-      as earnings per share (EPS) growth. These metrics help gauge cost efficiencies, pricing 
-
+      Analysts should focus on operating income, operating margin, and net income, as well
+      as earnings per share (EPS) growth. These metrics help gauge cost efficiencies, pricing
       power, and the benefits of economies of scale.
   - question: >
-      How do seasonal and cyclical factors impact an agriculture company's
-      income 
-
+      How do seasonal and cyclical factors impact an agriculture company's income
       statement?
     answer: >
-      Seasonal demand patterns and crop cycles can lead to revenue and cost
-      fluctuations. 
-
-      Analysts must consider variations in production, inventory levels, and customer 
-
+      Seasonal demand patterns and crop cycles can lead to revenue and cost fluctuations.
+      Analysts must consider variations in production, inventory levels, and customer
       payment timing, as well as the influence of economic cycles and commodity price volatility.
   - question: >
-      What factors should be considered regarding foreign exchange and
-      international 
-
+      What factors should be considered regarding foreign exchange and international
       operations in income statement analysis?
     answer: >
-      For companies with international exposure, it is important to assess
-      currency 
-
-      fluctuations, evaluate hedging strategies, and consider geopolitical risks and trade 
-
+      For companies with international exposure, it is important to assess currency
+      fluctuations, evaluate hedging strategies, and consider geopolitical risks and trade
       policies that may affect both revenue and expenses.
   - question: >
-      How do sustainability and environmental factors affect the income
-      statement in 
-
+      How do sustainability and environmental factors affect the income statement in
       the agriculture industry?
     answer: >
-      Investments in sustainable farming practices and environmental
-      initiatives may raise 
-
-      operating costs but can also enhance brand reputation. Analysts should review expenses 
-
+      Investments in sustainable farming practices and environmental initiatives may raise
+      operating costs but can also enhance brand reputation. Analysts should review expenses
       for environmental compliance and assess how such initiatives impact overall margins.
   - question: >
-      How should non-recurring items be treated in the income statement
-      analysis of an 
-
+      How should non-recurring items be treated in the income statement analysis of an
       agriculture company?
     answer: >
-      Non-recurring items such as restructuring charges, asset impairments, or
-      one-time 
-
-      gains from asset sales should be isolated from core earnings to better reflect the 
-
-      company’s ongoing operational performance.
+      Non-recurring items such as restructuring charges, asset impairments, or one-time
+      gains from asset sales should be isolated from core earnings to better reflect the
+      company's ongoing operational performance.

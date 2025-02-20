@@ -1,77 +1,60 @@
 version: 3
-task_description: Teach the model to analyze a renewable energy company's
-  balance sheet, focusing on asset quality, capital structure, debt management,
-  liquidity, and risk factors unique to the renewable energy industry.
+task_description: Teach the model to analyze a renewable energy company's balance sheet, focusing on asset quality, capital structure, debt management, liquidity, and risk factors unique to the renewable energy industry.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate renewable energy assets on the
-      balance sheet?
+      How should a credit analyst evaluate renewable energy assets on the balance sheet?
     answer: >
-      Analysts should review the portfolio of renewable energy assets such as
-      solar panels,
+      Analysts should review the portfolio of renewable energy assets such as solar panels,
       wind turbines, hydroelectric plants, biomass facilities, and energy storage systems.
       They must assess valuation methods (cost vs. fair value), asset age, condition, and
-      technological relevance, while also considering geographic diversification to 
+      technological relevance, while also considering geographic diversification to
       mitigate regional risks.
   - question: >
-      What factors are critical when analyzing PP&E in a renewable energy
-      company?
+      What factors are critical when analyzing PP&E in a renewable energy company?
     answer: >
-      Analysts must examine investments in infrastructure, including
-      transmission lines,
+      Analysts must examine investments in infrastructure, including transmission lines,
       substations, and other critical facilities. They should evaluate utilization rates,
       modernization efforts, and capital expenditure trends to support current operations
       and future growth.
   - question: >
-      How should intangible assets be evaluated on the balance sheet of a
-      renewable
+      How should intangible assets be evaluated on the balance sheet of a renewable
       energy company?
     answer: >
-      Analysts should review intangible assets such as goodwill from
-      acquisitions and
+      Analysts should review intangible assets such as goodwill from acquisitions and
       intellectual property (patents, licenses, trademarks). They must assess amortization
-      policies, useful life assumptions, and potential impairment risks if market conditions 
+      policies, useful life assumptions, and potential impairment risks if market conditions
       change.
   - question: >
-      How can the debt structure and leverage of a renewable energy company
-      be assessed?
+      How can the debt structure and leverage of a renewable energy company be assessed?
     answer: >
-      Analysts should evaluate both short- and long-term debt obligations,
-      including project
+      Analysts should evaluate both short- and long-term debt obligations, including project
       financing, green bonds, and revolving credit facilities. Calculating leverage ratios
       like Debt-to-Equity and Debt-to-EBITDA and assessing interest rates, maturity profiles,
       and covenants are essential.
   - question: |
       What liquidity measures are important for a renewable energy company?
     answer: >
-      Key liquidity metrics include the current ratio and quick ratio.
-      Analysts should also
+      Key liquidity metrics include the current ratio and quick ratio. Analysts should also
       assess working capital management, reviewing deferred revenue, credit facilities, and
       cash reserves in light of project financing and operational needs.
   - question: >
-      How should off-balance sheet items be evaluated in a renewable energy
-      company's
+      How should off-balance sheet items be evaluated in a renewable energy company's
       balance sheet?
     answer: >
-      Analysts must identify significant off-balance sheet obligations such as
-      operating leases,
+      Analysts must identify significant off-balance sheet obligations such as operating leases,
       commitments for equipment, and joint venture arrangements. Evaluating these items is key to
       understanding their potential impact on future cash flows and financial flexibility.
   - question: >
-      What risk management factors should be considered in the analysis of a
-      renewable energy
+      What risk management factors should be considered in the analysis of a renewable energy
       company's balance sheet?
     answer: >
-      Analysts should evaluate exposure to commodity and energy price
-      fluctuations, and assess
+      Analysts should evaluate exposure to commodity and energy price fluctuations, and assess
       hedging strategies for market and foreign exchange risks. Effective risk management
       practices help mitigate financial volatility.
   - question: >
-      How should regulatory and compliance considerations be incorporated
-      into the analysis?
+      How should regulatory and compliance considerations be incorporated into the analysis?
     answer: >
-      Analysts must review compliance with environmental regulations, emission
-      standards, and
+      Analysts must review compliance with environmental regulations, emission standards, and
       sustainability initiatives. They should assess potential liabilities from non-compliance,
       as well as the stability of renewable energy incentives, tax credits, and subsidies.

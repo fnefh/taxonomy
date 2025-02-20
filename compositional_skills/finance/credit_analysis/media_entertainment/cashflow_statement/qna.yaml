@@ -1,77 +1,59 @@
 version: 3
-task_description: Teach the model to analyze a media and entertainment company's
-  cash flow statement, focusing on operating, investing, and financing cash
-  flows, liquidity, sensitivity analysis, and risk management specific to
-  internet portal companies.
+task_description: Teach the model to analyze a media and entertainment company's cash flow statement, focusing on operating, investing, and financing cash flows, liquidity, sensitivity analysis, and risk management specific to internet portal companies.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate operating cash flow in a media
-      company?
+      How should a credit analyst evaluate operating cash flow in a media company?
     answer: >
-      Analysts should assess cash flows from core operations, including
-      revenue from
+      Analysts should assess cash flows from core operations, including revenue from
       advertising, content licensing, and subscription services. They must adjust for
       non-cash expenses such as depreciation, amortization of content assets, impairments,
       and stock-based compensation, while also analyzing changes in working capital.
   - question: >
-      What working capital components are critical when evaluating operating
-      cash flow?
+      What working capital components are critical when evaluating operating cash flow?
     answer: >
-      Key components include accounts receivable from advertisers,
-      distributors,
+      Key components include accounts receivable from advertisers, distributors,
       and subscribers, as well as content production costs, accounts payable, and
       deferred revenue from licensing deals. Evaluating collection efficiency and
       payment timing is essential.
   - question: |
       How should investing cash flow be analyzed for an internet portal company?
     answer: >
-      Analysts must review cash outflows for capital expenditures on
-      technology
+      Analysts must review cash outflows for capital expenditures on technology
       infrastructure, data centers, software development, and equipment upgrades.
       They should also examine cash used for acquisitions of content rights or strategic
       investments in digital platforms.
   - question: >
-      What factors are important when analyzing financing cash flow in the
-      media 
+      What factors are important when analyzing financing cash flow in the media
       industry?
     answer: >
-      The analysis should include cash inflows from debt or equity financing
-      and outflows
+      The analysis should include cash inflows from debt or equity financing and outflows
       for debt repayments, share repurchases, and dividend payments. Analysts must
       consider debt maturity profiles and potential refinancing risks.
   - question: >
-      How is free cash flow (FCF) calculated for an internet portal company,
-      and why is
+      How is free cash flow (FCF) calculated for an internet portal company, and why is
       it important?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures and
-      content
+      Free cash flow is calculated by subtracting capital expenditures and content
       investments from operating cash flow. This metric indicates the firm's ability to
       fund growth, service debt, and return capital to shareholders.
   - question: >
-      What liquidity measures are critical for an internet portal company's
-      cash flow
+      What liquidity measures are critical for an internet portal company's cash flow
       health?
     answer: >
-      Analysts should evaluate cash and cash equivalents, current and quick
-      ratios,
+      Analysts should evaluate cash and cash equivalents, current and quick ratios,
       and the availability of credit facilities. They must also assess the cash runway
       relative to the company's burn rate.
   - question: >
-      How should cash flow sensitivity analysis be performed in the media
-      industry?
+      How should cash flow sensitivity analysis be performed in the media industry?
     answer: >
-      Sensitivity analysis should model the impact of changes in content
-      performance,
+      Sensitivity analysis should model the impact of changes in content performance,
       advertising revenue, subscriber growth, operating costs, and capital expenditures.
       This helps determine the firm's ability to adjust spending amid market shifts.
   - question: >
-      What risk management activities are essential for stabilizing cash
-      flows in a 
+      What risk management activities are essential for stabilizing cash flows in a
       media and entertainment company?
     answer: >
-      Analysts must evaluate hedging strategies and the use of derivatives for
-      managing
+      Analysts must evaluate hedging strategies and the use of derivatives for managing
       currency, interest rate, and commodity price risks. Assessing these measures is
       key to mitigating volatility in cash flows.

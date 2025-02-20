@@ -1,70 +1,55 @@
 version: 3
-task_description: Teach the model to analyze a precious metals company's cash
-  flow statement, focusing on operating, investing, and financing flows, free
-  cash flow, liquidity, sensitivity analysis, and financial flexibility.
+task_description: Teach the model to analyze a precious metals company's cash flow statement, focusing on operating, investing, and financing flows, free cash flow, liquidity, sensitivity analysis, and financial flexibility.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate operating cash flow in a precious
-      metals
+      How should a credit analyst evaluate operating cash flow in a precious metals
       company?
     answer: >
-      Analysts should assess cash flows from core mining operations by
-      adjusting net
+      Analysts should assess cash flows from core mining operations by adjusting net
       income for non-cash items (e.g., depreciation, depletion, amortization) and
       analyzing working capital changes. They must also gauge the sensitivity of
       cash flow to gold price fluctuations.
   - question: >
-      What working capital components are critical in evaluating operating
-      cash flow?
+      What working capital components are critical in evaluating operating cash flow?
     answer: >
-      Key components include accounts receivable from smelters, inventory
-      levels,
+      Key components include accounts receivable from smelters, inventory levels,
       and accounts payable. Evaluating collection efficiency and credit terms is
       essential to understand cash flow dynamics.
   - question: >
       How should investing cash flow be analyzed in the precious metals industry?
     answer: >
-      Analysts must review capital expenditures for mine development,
-      equipment
+      Analysts must review capital expenditures for mine development, equipment
       purchases, and exploration activities. They should distinguish between
       sustaining and growth CapEx and examine proceeds from asset sales or acquisitions.
   - question: >
-      What factors are important when analyzing financing cash flow in this
-      sector?
+      What factors are important when analyzing financing cash flow in this sector?
     answer: >
-      Analysts should evaluate cash inflows from debt issuance and equity
-      financing,
+      Analysts should evaluate cash inflows from debt issuance and equity financing,
       and outflows for debt repayments, share repurchases, and dividends, while
       considering debt maturity profiles and refinancing risks.
   - question: >
-      How is free cash flow (FCF) calculated and why is it important for
-      this industry?
+      How is free cash flow (FCF) calculated and why is it important for this industry?
     answer: >
-      Free cash flow is calculated by subtracting capital expenditures from
-      operating
+      Free cash flow is calculated by subtracting capital expenditures from operating
       cash flow. This metric indicates the company's ability to generate surplus cash
       for debt servicing, reinvestment, and shareholder returns.
   - question: >
       What liquidity measures should be used to assess a company's cash reserves?
     answer: >
-      Analysts should calculate liquidity ratios such as the current and quick
-      ratios,
+      Analysts should calculate liquidity ratios such as the current and quick ratios,
       and assess the adequacy of cash and cash equivalents, as well as access to credit
       facilities, to ensure short-term obligations are met.
   - question: >
       How should debt service coverage be evaluated in a precious metals company?
     answer: >
-      Analysts must calculate the ratio of operating cash flow to interest
-      expense
+      Analysts must calculate the ratio of operating cash flow to interest expense
       and review the debt maturity schedule to assess the company's ability to service
       its debt and manage refinancing risks.
   - question: >
-      How can sensitivity analysis and financial flexibility be incorporated
-      into 
+      How can sensitivity analysis and financial flexibility be incorporated into
       cash flow analysis?
     answer: >
-      Analysts should perform scenario analysis to assess the impact of gold
-      price
+      Analysts should perform scenario analysis to assess the impact of gold price
       fluctuations, production volume shifts, and changes in capital expenditures.
       This reveals the firm's ability to adjust spending and maintain cash flow.

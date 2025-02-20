@@ -1,73 +1,58 @@
 version: 3
-task_description: Teach the model to analyze a pharmaceuticals company's balance
-  sheet, focusing on asset quality, capital investments, debt management,
-  liquidity, and regulatory compliance.
+task_description: Teach the model to analyze a pharmaceuticals company's balance sheet, focusing on asset quality, capital investments, debt management, liquidity, and regulatory compliance.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate R&D assets and intellectual
-      property on the 
+      How should a credit analyst evaluate R&D assets and intellectual property on the
       balance sheet of a pharmaceuticals company?
     answer: >
-      Analysts should review the capitalization of R&D costs, patents,
-      licenses, and 
-      trademarks. They must assess amortization policies, useful life assumptions, and 
+      Analysts should review the capitalization of R&D costs, patents, licenses, and
+      trademarks. They must assess amortization policies, useful life assumptions, and
       potential impairment risks, and examine the drug pipeline for future earnings impact.
   - question: >
-      What factors should be considered when analyzing goodwill and
-      acquisitions in the 
+      What factors should be considered when analyzing goodwill and acquisitions in the
       pharmaceuticals industry?
     answer: >
-      Analysts must evaluate goodwill arising from acquisitions of other firms
-      or drug 
-      portfolios, and assess impairment risks if acquired products underperform or market 
+      Analysts must evaluate goodwill arising from acquisitions of other firms or drug
+      portfolios, and assess impairment risks if acquired products underperform or market
       conditions deteriorate.
   - question: |
       How should PP&E be analyzed in a pharmaceuticals company's balance sheet?
     answer: >
-      Analysts should review investments in manufacturing facilities,
-      laboratories, and 
-      equipment. They must assess asset age, condition, and modernization efforts to meet 
+      Analysts should review investments in manufacturing facilities, laboratories, and
+      equipment. They must assess asset age, condition, and modernization efforts to meet
       regulatory standards and production demands.
   - question: >
-      What is the importance of analyzing inventory in the pharmaceuticals
-      sector?
+      What is the importance of analyzing inventory in the pharmaceuticals sector?
     answer: >
-      Analysts need to examine inventory levels of raw materials,
-      work-in-progress, and 
-      finished drugs. Evaluating turnover ratios and valuation methods (e.g., FIFO, LIFO) 
+      Analysts need to examine inventory levels of raw materials, work-in-progress, and
+      finished drugs. Evaluating turnover ratios and valuation methods (e.g., FIFO, LIFO)
       is key to managing obsolescence risks and demand fluctuations.
   - question: |
-      How should a credit analyst evaluate the debt structure and leverage of a 
+      How should a credit analyst evaluate the debt structure and leverage of a
       pharmaceuticals company?
     answer: >
-      Analysts must assess short- and long-term debt, reviewing interest
-      rates, maturity 
-      profiles, and covenants. Calculating leverage ratios like Debt-to-Equity and 
-      Debt-to-EBITDA, and evaluating the company’s ability to service debt is essential.
+      Analysts must assess short- and long-term debt, reviewing interest rates, maturity
+      profiles, and covenants. Calculating leverage ratios like Debt-to-Equity and
+      Debt-to-EBITDA, and evaluating the company's ability to service debt is essential.
   - question: >
-      What aspects of shareholders' equity and capital structure should be
-      analyzed?
+      What aspects of shareholders' equity and capital structure should be analyzed?
     answer: >
-      Analysts should examine changes in retained earnings, accumulated other 
-      comprehensive income, and treasury stock. They must review dividend policies, 
+      Analysts should examine changes in retained earnings, accumulated other
+      comprehensive income, and treasury stock. They must review dividend policies,
       stock issuances, and repurchase programs to evaluate capital strength.
   - question: >
-      Which liquidity and working capital measures are critical in the
-      pharmaceuticals 
+      Which liquidity and working capital measures are critical in the pharmaceuticals
       industry?
     answer: >
-      Key liquidity metrics include the current and quick ratios. Analysts
-      should review 
+      Key liquidity metrics include the current and quick ratios. Analysts should review
       working capital management by analyzing receivables, payables, and inventory levels,
       especially given high R&D and production costs.
   - question: >
-      How should off-balance sheet items and regulatory factors be evaluated
-      in this 
+      How should off-balance sheet items and regulatory factors be evaluated in this
       industry?
     answer: >
-      Analysts must identify off-balance sheet obligations such as operating
-      leases and 
-      contingent liabilities from legal or regulatory disputes. They should assess 
-      compliance with FDA, EMA, and other regulatory bodies, including the impact of patent 
+      Analysts must identify off-balance sheet obligations such as operating leases and
+      contingent liabilities from legal or regulatory disputes. They should assess
+      compliance with FDA, EMA, and other regulatory bodies, including the impact of patent
       expirations on future revenue.

@@ -1,131 +1,78 @@
 version: 3
-task_description: Teach the model to conduct a comprehensive balance sheet
-  analysis for Aerospace and Defense companies, focusing on asset composition,
-  liabilities, equity, liquidity, off-balance sheet items, contractual factors,
-  and risk management.
+task_description: Teach the model to conduct a comprehensive balance sheet analysis for Aerospace and Defense companies, focusing on asset composition, liabilities, equity, liquidity, off-balance sheet items, contractual factors, and risk management.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate the composition and valuation of
-      PP&E in an
-
+      How should a credit analyst evaluate the composition and valuation of PP&E in an
       aerospace and defense company?
     answer: >
-      The analyst should segment PP&E into manufacturing facilities,
-      specialized 
-
-      equipment, and technology assets. Key steps include assessing asset age, 
-
-      condition, and technological relevance, as well as reviewing capital expenditure 
-
+      The analyst should segment PP&E into manufacturing facilities, specialized
+      equipment, and technology assets. Key steps include assessing asset age,
+      condition, and technological relevance, as well as reviewing capital expenditure
       trends for upgrades or expansions.
   - question: >
-      What factors are critical when analyzing intangible assets such as
-      goodwill and 
-
+      What factors are critical when analyzing intangible assets such as goodwill and
       intellectual property in this industry?
     answer: >
-      Analysts must examine goodwill arising from acquisitions for potential 
-
-      impairment risks and review intangible assets such as patents and design rights. 
-
-      Evaluating amortization policies and the remaining useful life of these assets is 
-
+      Analysts must examine goodwill arising from acquisitions for potential
+      impairment risks and review intangible assets such as patents and design rights.
+      Evaluating amortization policies and the remaining useful life of these assets is
       essential.
   - question: >
-      How is inventory management assessed in an aerospace and defense
-      balance sheet?
+      How is inventory management assessed in an aerospace and defense balance sheet?
     answer: >
-      Inventory analysis should consider raw materials, work-in-progress, and
-      finished 
-
-      goods. Analysts assess inventory levels in light of long production cycles and the 
-
+      Inventory analysis should consider raw materials, work-in-progress, and finished
+      goods. Analysts assess inventory levels in light of long production cycles and the
       risk of obsolescence due to rapid technological change or contract cancellations.
   - question: >
-      Which debt metrics and qualitative factors are important when
-      evaluating liabilities 
-
+      Which debt metrics and qualitative factors are important when evaluating liabilities
       in this industry?
     answer: >
-      Critical metrics include Debt-to-Equity and Debt-to-EBITDA ratios.
-      Analysts should 
-
-      also review maturity profiles, interest rate exposure (fixed versus variable), and 
-
-      any restrictive covenants, especially given the reliance on government contracts 
-
+      Critical metrics include Debt-to-Equity and Debt-to-EBITDA ratios. Analysts should
+      also review maturity profiles, interest rate exposure (fixed versus variable), and
+      any restrictive covenants, especially given the reliance on government contracts
       for cash flow stability.
   - question: >
-      How do off-balance sheet items, such as operating leases and
-      contingent liabilities, 
-
+      How do off-balance sheet items, such as operating leases and contingent liabilities,
       affect the balance sheet analysis?
     answer: >
-      Off-balance sheet items can conceal significant financial commitments,
-      including 
-
-      facility leases and purchase commitments. Analysts must adjust liquidity and 
-
+      Off-balance sheet items can conceal significant financial commitments, including
+      facility leases and purchase commitments. Analysts must adjust liquidity and
       leverage assessments by incorporating these potential future cash outflows.
   - question: >
-      What contractual and regulatory factors must be considered in this
-      balance sheet 
-
+      What contractual and regulatory factors must be considered in this balance sheet
       analysis?
     answer: >
-      Analysts should evaluate the order backlog, government contracts, and
-      cost 
-
-      recovery clauses. Regulatory compliance, export controls, and the impact of defense 
-
+      Analysts should evaluate the order backlog, government contracts, and cost
+      recovery clauses. Regulatory compliance, export controls, and the impact of defense
       budgets on revenue are also key factors that influence both risk and stability.
   - question: >
-      How should liquidity and working capital be analyzed in an aerospace
-      and defense 
-
+      How should liquidity and working capital be analyzed in an aerospace and defense
       balance sheet?
     answer: >
-      Liquidity analysis should include current and quick ratios, alongside a
-      detailed 
-
-      review of working capital management. This involves examining the timing of 
-
+      Liquidity analysis should include current and quick ratios, alongside a detailed
+      review of working capital management. This involves examining the timing of
       customer payments and the impact of long production cycles on short-term obligations.
   - question: >
-      What risk management factors, such as currency and commodity exposure,
-      should be 
-
+      What risk management factors, such as currency and commodity exposure, should be
       incorporated into the analysis?
     answer: >
-      Analysts must assess exposure to foreign exchange fluctuations and
-      commodity 
-
-      price risks (e.g., aluminum, titanium). Evaluating the effectiveness of hedging 
-
+      Analysts must assess exposure to foreign exchange fluctuations and commodity
+      price risks (e.g., aluminum, titanium). Evaluating the effectiveness of hedging
       strategies and considering technological and cybersecurity risks are also important.
   - question: >
-      How should pension obligations and other post-employment benefits be
-      evaluated 
-
+      How should pension obligations and other post-employment benefits be evaluated
       for aerospace and defense companies?
     answer: >
-      Analysis should focus on unfunded pension liabilities, which can be
-      substantial 
-
+      Analysis should focus on unfunded pension liabilities, which can be substantial
       due to large workforces and legacy costs. Key considerations include:
 
       - Funded status of pension plans and trajectory
-
       - Impact on cash flow requirements and debt-like characteristics
-
       - Sensitivity to discount rate assumptions and investment returns
-
       - Potential for pension freezes or benefit modifications
   - question: >
-      What are the key considerations when analyzing capitalized R&D and
-      program 
-
+      What are the key considerations when analyzing capitalized R&D and program
       development costs on the balance sheet?
     answer: |
       Analysts should evaluate:
@@ -135,9 +82,7 @@ seed_examples:
       - Recovery mechanisms through contract pricing
       - Impact on profitability metrics when costs are amortized
   - question: >
-      How should progress payments and customer advances be assessed in the
-      working 
-
+      How should progress payments and customer advances be assessed in the working
       capital analysis?
     answer: |
       Analysis should consider:

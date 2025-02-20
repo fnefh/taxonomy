@@ -1,80 +1,62 @@
 version: 3
-task_description: Teach the model to analyze a precious metals income statement,
-  focusing on revenue streams, cost structure, operating expenses, profitability
-  metrics, non-operating items, and tax considerations.
+task_description: Teach the model to analyze a precious metals income statement, focusing on revenue streams, cost structure, operating expenses, profitability metrics, non-operating items, and tax considerations.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate revenue streams in a precious
-      metals company's
+      How should a credit analyst evaluate revenue streams in a precious metals company's
       income statement?
     answer: >
-      Analysts should review revenue from gold production and sales by
-      examining the volume
+      Analysts should review revenue from gold production and sales by examining the volume
       of gold produced (in ounces) and the average realized price per ounce. They must assess
       the impact of hedging strategies, by-product revenue from other metals, and global market
       dynamics on revenue growth.
   - question: >
-      How should cost of goods sold (COGS) and All-In Sustaining Costs
-      (AISC) be analyzed?
+      How should cost of goods sold (COGS) and All-In Sustaining Costs (AISC) be analyzed?
     answer: >
-      Analysts must evaluate the cash operating costs per ounce of gold,
-      including mining,
+      Analysts must evaluate the cash operating costs per ounce of gold, including mining,
       milling, and refining expenses. They should compare gross profit margins to industry
       benchmarks and assess how commodity price fluctuations and operational efficiency
       affect AISC.
   - question: >
-      What key factors should be considered when analyzing gross profit and
-      margins in a
+      What key factors should be considered when analyzing gross profit and margins in a
       precious metals income statement?
     answer: >
-      Analysts should calculate gross profit margins by dividing gross profit
-      by revenue.
+      Analysts should calculate gross profit margins by dividing gross profit by revenue.
       They must assess sensitivity to gold price changes and production cost fluctuations,
       comparing margins over multiple periods against industry peers.
   - question: >
-      How should operating expenses be evaluated in a precious metals
-      company's income 
+      How should operating expenses be evaluated in a precious metals company's income
       statement?
     answer: >
-      Analysts must review expenses related to exploration, development, and
-      general
+      Analysts must review expenses related to exploration, development, and general
       administrative costs. They should examine spending on R&D for new mining technologies,
       depreciation of mining equipment, and any impairment charges, and evaluate their
       impact on operating income.
   - question: >
-      How can operating income and overall profitability be assessed in this
-      industry?
+      How can operating income and overall profitability be assessed in this industry?
     answer: >
-      Analysts should calculate operating income and operating margin, taking
-      into account
+      Analysts should calculate operating income and operating margin, taking into account
       both direct production costs and operating expenses. Evaluating EBITDA and net income,
       while considering the effects of economies of scale and market conditions, provides a
       comprehensive view of profitability.
   - question: >
-      What non-operating items should be considered in the analysis of a
-      precious metals
+      What non-operating items should be considered in the analysis of a precious metals
       income statement?
     answer: >
-      Analysts must isolate non-operating items such as interest expense and
-      other income or
+      Analysts must isolate non-operating items such as interest expense and other income or
       losses. They should adjust earnings for one-time charges like asset impairments,
       restructuring costs, or gains from asset sales to focus on core operational performance.
   - question: >
-      How should tax considerations be incorporated into the income
-      statement analysis?
+      How should tax considerations be incorporated into the income statement analysis?
     answer: >
-      Analysts should evaluate the effective tax rate and review the company's
-      tax strategy.
+      Analysts should evaluate the effective tax rate and review the company's tax strategy.
       They must assess how tax credits, deferred taxes, and changes in tax policy impact net
       income and overall profitability.
   - question: >
-      What overall insights can be drawn from a comprehensive income
-      statement analysis in
+      What overall insights can be drawn from a comprehensive income statement analysis in
       the precious metals industry?
     answer: >
-      A thorough analysis integrates revenue quality, cost efficiency, and
-      profitability
+      A thorough analysis integrates revenue quality, cost efficiency, and profitability
       metrics with the impact of hedging, tax considerations, and non-recurring items.
       This holistic view highlights risks such as exposure to commodity price volatility,
       high operating costs, and potential asset impairments, which may affect creditworthiness.

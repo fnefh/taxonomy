@@ -1,32 +1,25 @@
 version: 3
-task_description: Teach the model to analyze an oil services company's income
-  statement, focusing on revenue streams, cost structure, profitability,
-  contract structure, and risk factors.
+task_description: Teach the model to analyze an oil services company's income statement, focusing on revenue streams, cost structure, profitability, contract structure, and risk factors.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate revenue streams in an oil
-      services income 
+      How should a credit analyst evaluate revenue streams in an oil services income
       statement?
     answer: >
-      Analysts should review revenue from service contracts including
-      drilling,
+      Analysts should review revenue from service contracts including drilling,
       seismic testing, transportation, and directional services. They must assess
       dayrates, meterage rates, and client diversification while considering market
       competition.
   - question: |
       What factors influence revenue stability in the oil services industry?
     answer: >
-      Evaluating the mix of long-term contracts versus spot market sales and
-      the
+      Evaluating the mix of long-term contracts versus spot market sales and the
       diversity of clients—from major oil producers to smaller explorers—is crucial to
       determine revenue stability.
   - question: >
-      How should operating expenses be analyzed in an oil services income
-      statement?
+      How should operating expenses be analyzed in an oil services income statement?
     answer: >
-      Analysts must examine labor costs, equipment maintenance, and fuel and
-      energy
+      Analysts must examine labor costs, equipment maintenance, and fuel and energy
       expenses. They should also review R&D investments for new technologies and adjust
       for non-cash items like depreciation and impairments.
   - question: >
@@ -36,19 +29,15 @@ seed_examples:
       Analysts should compare these ratios to industry benchmarks to assess cost
       efficiencies and pricing power.
   - question: >
-      How does oil price volatility affect revenue and profitability in oil
-      services?
+      How does oil price volatility affect revenue and profitability in oil services?
     answer: >
-      Fluctuations in oil prices directly impact service demand and pricing
-      strategies.
+      Fluctuations in oil prices directly impact service demand and pricing strategies.
       Analysts must assess how revenue and margins respond to changes in oil prices.
   - question: >
-      How should contract structure and order backlog be evaluated in the
-      income 
+      How should contract structure and order backlog be evaluated in the income
       statement?
     answer: >
-      Analysts should examine the proportion of revenue from long-term
-      contracts versus
+      Analysts should examine the proportion of revenue from long-term contracts versus
       spot market sales, and analyze the order backlog to estimate future revenue
       visibility and stability.
   - question: >
@@ -58,8 +47,7 @@ seed_examples:
       one-time charges like restructuring costs or asset impairments to reveal the
       company's core earnings.
   - question: >
-      What overall insights can be drawn from an oil services income
-      statement analysis?
+      What overall insights can be drawn from an oil services income statement analysis?
     answer: >
       A comprehensive analysis integrates revenue trends, cost control, and
       profitability metrics with the impact of oil price volatility and contract
