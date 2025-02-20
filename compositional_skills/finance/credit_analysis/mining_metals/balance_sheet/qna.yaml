@@ -1,65 +1,46 @@
 version: 3
-task_description: Teach the model to analyze a mining and metals company's balance sheet, focusing on asset quality, debt management, liquidity, and regulatory risks unique to the industry.
+task_description: Teach the model to analyze a mining and metals company's balance sheet, focusing on asset quality, reserves valuation, capital investments, debt structure, liquidity, and industry-specific risks.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate the composition of mining properties and
-      mineral reserves on the balance sheet?
+      How should mineral reserves and resources be evaluated on a mining company's balance sheet?
     answer: >
-      Analysts should assess the valuation and classification of mining properties,
-      including exploration properties and proven and probable reserves. They must
-      review reserve quality, location, and extraction feasibility, and monitor any
-      impairment indicators linked to market conditions or operational challenges.
-  - question: >
-      What factors should be considered when analyzing PP&E in the mining and metals
-      sector?
-    answer: >
-      Analysts must evaluate investments in mining equipment, processing facilities,
-      transportation infrastructure, and technology assets. Key aspects include asset
-      age, condition, utilization rates, and capital expenditure trends for maintenance
-      and modernization.
-  - question: >
-      How should intangible assets, such as goodwill and licenses, be assessed in this
-      industry?
-    answer: >
-      Analysts should review goodwill from acquisitions and the valuation of licenses,
-      exploration permits, and environmental permits. They must evaluate amortization
-      policies, useful life assumptions, and potential impairment risks if market or
-      operational conditions deteriorate.
-  - question: >
-      What working capital components are critical in a mining and metals company's
-      balance sheet?
-    answer: >
-      Analysts should examine inventory levels of raw materials, intermediate products,
-      and finished metals, and assess turnover ratios to gauge efficiency. They should
-      also review the quality and aging of accounts receivable, with attention to customer
-      concentration risks.
+      Analysts should assess the quality, quantity, and valuation of proven and probable
+      reserves. They must consider factors like ore grade, extraction costs, and commodity
+      price assumptions used in valuation models.
   - question: |
-      How should liabilities be evaluated in the mining and metals sector?
+      How should PP&E be analyzed in the mining and metals industry?
     answer: >
-      Analysts must assess both short- and long-term debt obligations, including project
-      financing, equipment loans, and working capital loans. They should calculate leverage
-      ratios, such as Debt-to-Equity and Debt-to-EBITDA, and evaluate environmental and
-      rehabilitation liabilities, deferred revenue, and contingent liabilities.
+      Analysts must evaluate mining equipment, processing facilities, and infrastructure
+      assets. Key considerations include asset age, maintenance requirements, and capital
+      expenditure needs for sustaining and expansion projects.
   - question: >
-      What liquidity measures are essential for evaluating a mining and metals company's
-      balance sheet?
+      What factors are critical when analyzing inventory in mining companies?
     answer: >
-      Key liquidity measures include the current ratio and quick ratio. Analysts should
-      evaluate working capital management by analyzing current assets and liabilities,
-      and assess the company's ability to meet short-term obligations in cyclical markets.
+      Inventory analysis should cover ore stockpiles, work-in-progress material, and
+      finished metals. Analysts must assess valuation methods and the impact of commodity
+      price fluctuations on inventory carrying values.
+  - question: |
+      How should debt structure and leverage be evaluated?
+    answer: >
+      Analysts should examine both short and long-term debt obligations, including project
+      financing and equipment leases. They must calculate leverage ratios and assess the
+      company's ability to service debt through commodity price cycles.
   - question: >
-      How should off-balance sheet items and risk management factors be incorporated
-      into the analysis?
+      What liquidity measures are essential for mining company analysis?
     answer: >
-      Analysts must identify off-balance sheet obligations such as operating leases and
-      joint ventures. They should also evaluate contingent liabilities and assess exposure
-      to commodity price and currency risks through effective hedging strategies.
+      Key metrics include current and quick ratios, working capital management, and cash
+      reserves. Analysts must consider the company's ability to maintain operations and
+      meet obligations during commodity price downturns.
+  - question: |
+      How should environmental liabilities be assessed?
+    answer: >
+      Analysts must evaluate provisions for mine closure, rehabilitation, and environmental
+      compliance. They should assess the adequacy of reserves for potential liabilities
+      and the impact on long-term financial flexibility.
   - question: >
-      What overall insights can be drawn from a comprehensive balance sheet analysis in
-      the mining and metals industry?
+      What risk management factors should be considered in balance sheet analysis?
     answer: >
-      A comprehensive analysis integrates asset quality, debt management, liquidity,
-      off-balance sheet exposures, and risk management. This holistic view highlights
-      strengths and risks—such as high leverage, reserve quality issues, and exposure to
-      commodity price volatility—that can impact the company's creditworthiness.
+      Analysts should assess exposure to commodity price volatility, currency fluctuations,
+      and country risks. They must evaluate hedging strategies and the effectiveness of
+      risk management programs in protecting the balance sheet.

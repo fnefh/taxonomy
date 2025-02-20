@@ -1,60 +1,59 @@
 version: 3
-task_description: Teach the model to analyze a renewable energy company's balance sheet, focusing on asset quality, capital structure, debt management, liquidity, and risk factors unique to the renewable energy industry.
+task_description: Teach the model to analyze a renewable energy company's income statement, focusing on revenue quality, cost management, profitability, technological trends, and regulatory impacts specific to the industry.
 created_by: fnefh
 seed_examples:
   - question: >
-      How should a credit analyst evaluate renewable energy assets on the balance sheet?
+      How should a credit analyst evaluate product sales revenue in a pharmaceuticals
+      income statement?
     answer: >
-      Analysts should review the portfolio of renewable energy assets such as solar panels,
-      wind turbines, hydroelectric plants, biomass facilities, and energy storage systems.
-      They must assess valuation methods (cost vs. fair value), asset age, condition, and
-      technological relevance, while also considering geographic diversification to
-      mitigate regional risks.
+      Analysts should review revenue from key pharmaceutical products by examining
+      sales by therapeutic area, geographic region, and lifecycle stage. They must
+      assess revenue concentration among top-selling drugs and the impact of patent
+      expirations on future revenue.
   - question: >
-      What factors are critical when analyzing PP&E in a renewable energy company?
+      What factors should be considered when analyzing collaborations and licensing
+      revenue?
     answer: >
-      Analysts must examine investments in infrastructure, including transmission lines,
-      substations, and other critical facilities. They should evaluate utilization rates,
-      modernization efforts, and capital expenditure trends to support current operations
-      and future growth.
+      Analysts must evaluate income from partnerships, licensing agreements, royalties,
+      and milestone payments. The sustainability and variability of these revenue streams
+      are key to understanding revenue diversification.
   - question: >
-      How should intangible assets be evaluated on the balance sheet of a renewable
-      energy company?
+      How can the cost of goods sold (COGS) and gross profit margins be assessed?
     answer: >
-      Analysts should review intangible assets such as goodwill from acquisitions and
-      intellectual property (patents, licenses, trademarks). They must assess amortization
-      policies, useful life assumptions, and potential impairment risks if market conditions
-      change.
-  - question: >
-      How can the debt structure and leverage of a renewable energy company be assessed?
-    answer: >
-      Analysts should evaluate both short- and long-term debt obligations, including project
-      financing, green bonds, and revolving credit facilities. Calculating leverage ratios
-      like Debt-to-Equity and Debt-to-EBITDA and assessing interest rates, maturity profiles,
-      and covenants are essential.
+      Analysts should evaluate manufacturing and distribution costs by comparing
+      gross profit margins with industry benchmarks, and assess the impact of production
+      efficiencies and commodity price fluctuations.
   - question: |
-      What liquidity measures are important for a renewable energy company?
+      How should R&D expenses and their productivity be evaluated in the income
+      statement?
     answer: >
-      Key liquidity metrics include the current ratio and quick ratio. Analysts should also
-      assess working capital management, reviewing deferred revenue, credit facilities, and
-      cash reserves in light of project financing and operational needs.
+      Analysts need to review R&D spending as a percentage of revenue and examine the
+      company's pipeline, clinical trial progress, and new drug approvals to gauge the
+      efficiency of R&D investments.
+  - question: |
+      Which profitability metrics are essential in evaluating a pharmaceuticals
+      company's performance?
+    answer: >
+      Key metrics include operating income, operating margin, EBITDA, net income, and
+      EPS. Tracking these ratios over time and comparing them with industry peers reveals
+      operational efficiency and pricing power.
   - question: >
-      How should off-balance sheet items be evaluated in a renewable energy company's
-      balance sheet?
+      How do technological advancements and energy storage trends affect revenue and
+      cost structures?
     answer: >
-      Analysts must identify significant off-balance sheet obligations such as operating leases,
-      commitments for equipment, and joint venture arrangements. Evaluating these items is key to
-      understanding their potential impact on future cash flows and financial flexibility.
+      Analysts should assess the impact of innovations such as improved drug
+      formulations, digital health technologies, and advanced manufacturing processes on
+      both revenue growth and cost management.
+  - question: |
+      What role do customer concentration and contract terms play in revenue
+      predictability?
+    answer: >
+      Analysts must examine the mix of revenue from major accounts, contract durations,
+      and renewal rates. High customer concentration can increase revenue risk, while
+      long-term contracts stabilize earnings.
   - question: >
-      What risk management factors should be considered in the analysis of a renewable energy
-      company's balance sheet?
+      How should non-recurring items be treated in the income statement analysis?
     answer: >
-      Analysts should evaluate exposure to commodity and energy price fluctuations, and assess
-      hedging strategies for market and foreign exchange risks. Effective risk management
-      practices help mitigate financial volatility.
-  - question: >
-      How should regulatory and compliance considerations be incorporated into the analysis?
-    answer: >
-      Analysts must review compliance with environmental regulations, emission standards, and
-      sustainability initiatives. They should assess potential liabilities from non-compliance,
-      as well as the stability of renewable energy incentives, tax credits, and subsidies.
+      Analysts should isolate one-time charges, such as restructuring costs, asset
+      impairments, or litigation settlements, to adjust earnings metrics and reveal the
+      company's core operational performance.
