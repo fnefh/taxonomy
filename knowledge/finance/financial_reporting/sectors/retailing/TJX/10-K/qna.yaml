@@ -80,7 +80,7 @@ seed_examples:
           policies to support the program and enhance the overall privacy,
           information security, and records management posture of the business.
       - question: How does TJX protect customer data and maintain system security?
-        answer: TJX's data protection approach includes: 1) Multi-layered security
+        answer: TJX's data protection approach includes 1) Multi-layered security
           controls and monitoring systems, 2) Regular security assessments and
           penetration testing, 3) Comprehensive incident response plans, 4)
           Employee training on data protection and security awareness, 5)
@@ -111,7 +111,7 @@ seed_examples:
           fluctuations. The company must also navigate potential political,
           economic, and civil instability in new markets.
       - question: How does TJX adapt to changing consumer preferences and market trends?
-        answer: TJX's adaptation strategy includes: 1) Regular market research and
+        answer: TJX's adaptation strategy includes 1) Regular market research and
           trend analysis, 2) Flexible merchandising approach to respond to
           changing preferences, 3) Investment in digital capabilities and
           omnichannel experience, 4) Focus on value proposition across all
@@ -130,7 +130,7 @@ seed_examples:
       - question: |
           What were TJX's key financial metrics for fiscal 2024?
         answer: >
-          Fiscal 2024 performance included: 1) Net sales growth of 8% to $52.8
+          Fiscal 2024 performance included 1) Net sales growth of 8% to $52.8
           billion, 2) Operating income of $4.7 billion with 8.9% margin, 3)
           Strong segment performance led by Marmaxx at $33.7 billion, 4) $3.8
           billion returned to shareholders, and 5) Expanded global store count
@@ -138,7 +138,7 @@ seed_examples:
       - question: |
           How did TJX's different segments perform in fiscal 2024?
         answer: >
-          Segment performance showed: 1) Marmaxx leading with $33.7 billion in
+          Segment performance showed 1) Marmaxx leading with $33.7 billion in
           sales, 2) HomeGoods achieving $8.7 billion, 3) TJX Canada contributing
           $5.1 billion, 4) TJX International reaching $5.3 billion, and 5)
           Strong growth across all major banners demonstrating the strength of
@@ -164,7 +164,7 @@ seed_examples:
       - question: |
           How does TJX manage its global store operations?
         answer: >
-          TJX manages global operations through: 1) Tailored merchandise
+          TJX manages global operations through 1) Tailored merchandise
           assortments for local markets, 2) Consistent execution of off-price
           model across banners, 3) Sophisticated distribution and logistics
           network, 4) Flexible store formats and locations, and 5) Regular
