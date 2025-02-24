@@ -220,4 +220,4 @@ document:
   repo: https://github.com/fnefh/taxonomy
   commit: 8e3fd1c8f0eaa60e059c383ff8a627547ec777c4
   patterns:
-    - knowledge/finance/financial_reporting/sectors/aerospace_defense/ACHR/10-Q/data/*.md
+    - knowledge/finance/financial_reporting/sectors/aerospace_defense/ACHR/10-Q/data/*.pdf
