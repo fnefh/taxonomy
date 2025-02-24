@@ -270,6 +270,6 @@ seed_examples:
           best practices for handling complex materials and processes.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: 67cb9c08926fd6751c1104b6799988fc4bd31fae
+  commit: 5dee7e16799195c2a1a1b031cebeef51dda3d61b
   patterns:
     - knowledge/finance/financial_reporting/sectors/automobiles/QS/10-K/data/*.md
