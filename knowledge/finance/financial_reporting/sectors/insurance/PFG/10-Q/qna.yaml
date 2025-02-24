@@ -198,6 +198,6 @@ seed_examples:
           Asian partnerships.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: 8e3fd1c8f0eaa60e059c383ff8a627547ec777c4
+  commit: b7837da03b73e6f29211a9b7ee85764607a56efa
   patterns:
     - knowledge/finance/financial_reporting/sectors/insurance/PFG/10-Q/data/*.md
