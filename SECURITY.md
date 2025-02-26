@@ -1,1 +1,1 @@
-You can find information on how to report a potential security vulnerability, as well as where to subscribe to receive security alerts, on the project's [Security Page](https://github.com/instructlab/.github/blob/main/SECURITY.md).
+<p>You can find information on how to report a potential security vulnerability, as well as where to subscribe to receive security alerts, on the project's <a href="https://github.com/instructlab/.github/blob/main/SECURITY.md">Security Page</a>.</p>
