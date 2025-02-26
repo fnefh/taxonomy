@@ -1,22 +1,19 @@
-InstructLab 🐶 Taxonomy
-======================
+# InstructLab 🐶 Taxonomy
 
-Contents 📖
-----------
+## Contents 📖
 
-* [Welcome to the InstructLab Taxonomy](#welcome-to-the-instructlab-taxonomy)
-* [Learning](#learning)
-* [Getting Started with Skill Contributions](#getting-started-with-skill-contributions)
-* [Skills: YAML examples](#skills-yaml-examples)
-* [Getting Started with Knowledge Contributions](#getting-started-with-knowledge-contributions)
-* [Knowledge: YAML examples](#knowledge-yaml-examples)
-* [Taxonomy tree layout](#taxonomy-tree-layout)
-* [Contribute knowledge and skills to the taxonomy!](#contribute-knowledge-and-skills-to-the-taxonomy)
-* [Ways to contribute](#ways-to-contribute)
-* [How to contribute skills and knowledge](#how-to-contribute-skills-and-knowledge)
+- [Welcome to the InstructLab Taxonomy](#welcome-to-the-instructlab-taxonomy)
+- [Learning](#learning)
+- [Getting Started with Skill Contributions](#getting-started-with-skill-contributions)
+- [Skills: YAML examples](#skills-yaml-examples)
+- [Getting Started with Knowledge Contributions](#getting-started-with-knowledge-contributions)
+- [Knowledge: YAML examples](#knowledge-yaml-examples)
+- [Taxonomy tree layout](#taxonomy-tree-layout)
+- [Contribute knowledge and skills to the taxonomy!](#contribute-knowledge-and-skills-to-the-taxonomy)
+- [Ways to contribute](#ways-to-contribute)
+- [How to contribute skills and knowledge](#how-to-contribute-skills-and-knowledge)
 
-Welcome to the InstructLab Taxonomy
------------------------------------
+## Welcome to the InstructLab Taxonomy
 
 InstructLab 🐶 uses a novel synthetic data-based alignment tuning method for
 Large Language Models (LLMs.) The "**lab**" in Instruct**Lab** 🐶 stands for
@@ -29,37 +26,34 @@ This repository contains a taxonomy tree that allows you to create models
 tuned with your data (enhanced via synthetic data generation) using the LAB 🐶
 method.
 
-[1] Shivchander Sudalairaj*, Abhishek Bhandwaldar*, Aldo Pareja*, Kai Xu, David D. Cox, Akash Srivastava*. "LAB: Large-Scale Alignment for ChatBots", arXiv preprint arXiv: 2403.01081, 2024. (\* denotes equal contributions)
+[1] Shivchander Sudalairaj\*, Abhishek Bhandwaldar\*, Aldo Pareja\*, Kai Xu, David D. Cox, Akash Srivastava\*. "LAB: Large-Scale Alignment for ChatBots", arXiv preprint arXiv: 2403.01081, 2024. (\* denotes equal contributions)
 
-Choosing domains for the taxonomy
----------------------------------
+## Choosing domains for the taxonomy
 
 In general, we use the Dewey Decimal Classification (DDC) System to determine our domains (and subdomains) in the taxonomy. This [DDC SUMMARIES document](https://www.oclc.org/content/dam/oclc/dewey/resources/summaries/deweysummaries.pdf) is a great resource for determining where a topic might be classified.
 
 If you are unsure where to put your knowledge or compositional skill, create a folder in the `miscellaneous_unknown` folder under the `knowledge` or `compositional_skills` folders.
 
-Learning
---------
+## Learning
 
 Learn about the concepts of "skills" and "knowledge" in our [InstructLab Community Learning Guide](https://github.com/instructlab/community/blob/main/docs/README.md).
 
-Getting Started with Skill Contributions
-----------------------------------------
+## Getting Started with Skill Contributions
 
 Skills require a much smaller volume of content than knowledge contributions. An entire skill contribution to the taxonomy tree can be just a few lines of YAML in the `qna.yaml` file ("qna" is short for "questions and answers") and an `attribution.txt` file for citing sources.
 
 Your skills contribution pull requests must include the following:
 
-* A `qna.yaml` that contains a set of key/value entries with the following keys
-* Each `qna.yaml` file requires a minimum of five question and answer pairs.
-* An `attribution.txt` that includes the sources for the information used in the `qna.yaml`
+- A `qna.yaml` that contains a set of key/value entries with the following keys
+- Each `qna.yaml` file requires a minimum of five question and answer pairs.
+- An `attribution.txt` that includes the sources for the information used in the `qna.yaml`
 
 > [!TIP]
 > The skill taxonomy structure is used in several ways:
 >
 > 1. To select the right subset of the taxonomy to use for data generation.
-> 2. To determine the interpretability by human contributors and maintainers.
-> 3. As part of the prompt to the LLM used to generate synthetic samples.
+> 1. To determine the interpretability by human contributors and maintainers.
+> 1. As part of the prompt to the LLM used to generate synthetic samples.
 >
 > [!IMPORTANT]
 > There is a limit to how much content can exist in the question/answer pairs for the model to process. Due to this, only add a maximum
@@ -69,15 +63,15 @@ Compositional skills can either be grounded (includes a context) or ungrounded (
 
 Taxonomy skill files must be a valid [YAML](https://yaml.org/) file named `qna.yaml`. Each `qna.yaml` file contains a set of key/value entries with the following keys:
 
-* `version`: The value must be the number 2. **Required**
-* `task_description`: A description of the skill. **Required**
-* `created_by`: The GitHub username of the contributor. **Required**
-* `seed_examples`: A collection of key/value entries. New
+- `version`: The value must be the number 2. **Required**
+- `task_description`: A description of the skill. **Required**
+- `created_by`: The GitHub username of the contributor. **Required**
+- `seed_examples`: A collection of key/value entries. New
   submissions should have at least five entries, although
   older files may have fewer. **Required**
-* `context`: Grounded skills require the user to provide context containing information that the model is expected to take into account during processing. This is different from knowledge, where the model is expected to gain facts and background knowledge from the tuning process. The context key should not be used for ungrounded skills.
-* `question`: A question for the model. **Required**
-* `answer`: The desired response from the model. **Required**
+- `context`: Grounded skills require the user to provide context containing information that the model is expected to take into account during processing. This is different from knowledge, where the model is expected to gain facts and background knowledge from the tuning process. The context key should not be used for ungrounded skills.
+- `question`: A question for the model. **Required**
+- `answer`: The desired response from the model. **Required**
 
 Other keys at any level are currently ignored.
 
@@ -88,30 +82,27 @@ In `seed_examples`, it is recommended to specify `context` first (if applicable)
 
 *Example `qna.yaml`*
 
-`yaml
+\`yaml
 version: 2
 task_description: <string>
 created_by: <string>
 seed_examples:
+
 - question: <string>
-answer: |
-<multi-line string>
+  answer: |
+  <multi-line string>
 - context: |
-<multi-line string>
-question: <string>
-answer: |
-<multi-line string>
-...`
+  <multi-line string>
+  question: <string>
+  answer: |
+  <multi-line string>
+  ...\`
 
 Then, you create an `attribution.txt` file that includes the sources of your information. These can also be self authored sources.
 
 *Example `attribution.txt`*
 
-`text
-[Link to source]
-[Link to work]
-[License of the work]
-[Creator name]`
+`text [Link to source] [Link to work] [License of the work] [Creator name]`
 
 For more information on what to include in your `attribution.txt` file, see [For your attribution.txt file](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#for-your-attributiontxt-file) in CONTRIBUTING.md.
 
@@ -119,40 +110,41 @@ If you have not written YAML before, don't be intimidated - it's just text.
 
 > [!TIP]
 >
-> * Spaces and indentation matter in YAML. Two spaces to indent.
-> * Don't use tabs!
-> * Be careful to not have trailing spaces at the end of a line.
-> * Each example in `seed_examples` begins with a "-". Place this "-" in
+> - Spaces and indentation matter in YAML. Two spaces to indent.
+> - Don't use tabs!
+> - Be careful to not have trailing spaces at the end of a line.
+> - Each example in `seed_examples` begins with a "-". Place this "-" in
 >   front of the first field (`question` or `context`). The remaining keys in the
 >   example should not have this "-".
-> * Some special characters such as " and ' need to be escaped with backslash. This is why some
+> - Some special characters such as " and ' need to be escaped with backslash. This is why some
 >   of the lines for keys in the example YAML start the value with the '|' character followed a new line and then an indented multi-line string.
 >   This character disables all of the special characters in the value for the key.
 >   You might also want to use the '|' character for multi-line strings.
-> * Consider quoting all values with " to avoid surprising YAML parser behavior
+> - Consider quoting all values with " to avoid surprising YAML parser behavior
 >   (e.g. Yes answer can be interpreted by the parser as a boolean of `True`
 >   value, unless "Yes" is quoted.)
-> * See https://yaml-multiline.info/ for more info.
+> - See https://yaml-multiline.info/ for more info.
 
 It is recommended that you **lint**, or verify, your YAML using a tool. One linter option is [yamllint.com](https://yamllint.com). You can copy/paste your YAML into the box and click **Go** to have it analyze your YAML and make recommendations. Online tools like [prettified](https://onlineyamltools.com/prettify-yaml) and [yaml-validator](https://jsonformatter.org/yaml-validator) can automatically reformat your YAML to adhere to our `yamllint` PR checks, such as breaking lines longer than 120 characters.
 
 #### Ungrounded compositional skill: YAML example
 
-`yaml
+\`yaml
 version: 2
 task_description: 'Teach the model how to rhyme.'
 created_by: juliadenham
 seed_examples:
+
 - question: What are 5 words that rhyme with horn?
-answer: warn, torn, born, thorn, and corn.
+  answer: warn, torn, born, thorn, and corn.
 - question: What are 5 words that rhyme with cat?
-answer: bat, gnat, rat, vat, and mat.
+  answer: bat, gnat, rat, vat, and mat.
 - question: What are 5 words that rhyme with poor?
-answer: door, shore, core, bore, and tore.
+  answer: door, shore, core, bore, and tore.
 - question: What are 5 words that rhyme with bank?
-answer: tank, rank, prank, sank, and drank.
+  answer: tank, rank, prank, sank, and drank.
 - question: What are 5 words that rhyme with bake?
-answer: wake, lake, steak, make, and quake.`
+  answer: wake, lake, steak, make, and quake.\`
 
 Seriously, that's it.
 
@@ -186,45 +178,46 @@ Remember that [grounded compositional skills](docs/SKILLS_GUIDE.md) require addi
 
 This example snippet assumes the GitHub username `mairin` and shows some of the question/answer pairs present in the actual file:
 
-`yaml
+\`yaml
 version: 2
 task_description: |
 This skill provides the ability to read a markdown-formatted table.
 created_by: mairin # Use your GitHub username; only one creator supported
 seed_examples:
+
 - context: |
-| **Breed** | **Size** | **Barking** | **Energy** |
-|----------------|--------------|-------------|------------|
-| Afghan Hound | 25-27 in | 3/5 | 4/5 |
-| Labrador | 22.5-24.5 in | 3/5 | 5/5 |
-| Cocker Spaniel | 14.5-15.5 in | 3/5 | 4/5 |
-| Poodle (Toy) | <= 10 in | 4/5 | 4/5 |
-question: |
-Which breed has the most energy?
-answer: |
-The breed with the most energy is the Labrador.
+  | **Breed** | **Size** | **Barking** | **Energy** |
+  |----------------|--------------|-------------|------------|
+  | Afghan Hound | 25-27 in | 3/5 | 4/5 |
+  | Labrador | 22.5-24.5 in | 3/5 | 5/5 |
+  | Cocker Spaniel | 14.5-15.5 in | 3/5 | 4/5 |
+  | Poodle (Toy) | \<= 10 in | 4/5 | 4/5 |
+  question: |
+  Which breed has the most energy?
+  answer: |
+  The breed with the most energy is the Labrador.
 - context: |
-| **Name** | **Date** | **Color** | **Letter** | **Number** |
-|----------|----------|-----------|------------|------------|
-| George | Mar 5 | Green | A | 1 |
-| Gráinne | Dec 31 | Red | B | 2 |
-| Abigail | Jan 17 | Yellow | C | 3 |
-| Bhavna | Apr 29 | Purple | D | 4 |
-| Rémy | Sep 9 | Blue | E | 5 |
-question: |
-What is Gráinne's letter and what is her color?
-answer: |
-Gráinne's letter is B and her color is red.
+  | **Name** | **Date** | **Color** | **Letter** | **Number** |
+  |----------|----------|-----------|------------|------------|
+  | George | Mar 5 | Green | A | 1 |
+  | Gráinne | Dec 31 | Red | B | 2 |
+  | Abigail | Jan 17 | Yellow | C | 3 |
+  | Bhavna | Apr 29 | Purple | D | 4 |
+  | Rémy | Sep 9 | Blue | E | 5 |
+  question: |
+  What is Gráinne's letter and what is her color?
+  answer: |
+  Gráinne's letter is B and her color is red.
 - context: |
-| Banana | Apple | Blueberry | Strawberry |
-|--------|------------|-----------|------------|
-| Yellow | Red, Green | Blue | Red |
-| Large | Medium | Small | Small |
-| Peel | Peel | No peel | No peel |
-question: |
-Which fruit is blue, small, and has no peel?
-answer: |
-The blueberry is blue, small, and has no peel.`
+  | Banana | Apple | Blueberry | Strawberry |
+  |--------|------------|-----------|------------|
+  | Yellow | Red, Green | Blue | Red |
+  | Large | Medium | Small | Small |
+  | Peel | Peel | No peel | No peel |
+  question: |
+  Which fruit is blue, small, and has no peel?
+  answer: |
+  The blueberry is blue, small, and has no peel.\`
 
 #### Grounded compositional skill: Directory tree example
 
@@ -249,8 +242,7 @@ grounded
 [...]
 ```
 
-Getting Started with Knowledge Contributions
---------------------------------------------
+## Getting Started with Knowledge Contributions
 
 While skills are foundational or performative, knowledge is based more on answering questions that involve facts,
 data, or references.
@@ -262,32 +254,32 @@ Knowledge in the taxonomy tree consists of a few more elements than skills:
 > [!IMPORTANT]
 > If you are using InstructLab version `0.21.0` or above, you can specify PDF files in your knowledge `qna.yaml` file as a valid document type. Any previous version of InstructLab still only consumes knowledge documents in markdown format.
 
-* Each knowledge node in the tree has a `qna.yaml`, similar to the format of the `qna.yaml` for skills.
-* ⭐ Knowledge submissions require you to create a Git repository, can be with GitHub, that contains the files of your knowledge contributions.
-* The `qna.yaml` includes parameters that contain information from your repository.
+- Each knowledge node in the tree has a `qna.yaml`, similar to the format of the `qna.yaml` for skills.
+- ⭐ Knowledge submissions require you to create a Git repository, can be with GitHub, that contains the files of your knowledge contributions.
+- The `qna.yaml` includes parameters that contain information from your repository.
 
 > [!TIP]
 > Guidelines for Knowledge contributions
 >
-> * Submit the most up-to-date version of the document
-> * All submissions must be text, images will be ignored
-> * Do not use tables in your markdown freeform contribution
+> - Submit the most up-to-date version of the document
+> - All submissions must be text, images will be ignored
+> - Do not use tables in your markdown freeform contribution
 
 The `qna.yaml` format must include the following fields:
 
-* `version`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3.
-* `created_by`: Your GitHub username.
-* `domain`: Specify the category of the knowledge.
-* `seed_examples`: A collection of key/value entries.
-* `context`: A chunk of information from the knowledge document. Each `qna.yaml` needs five `context` blocks and has a maximum word count of 500 words.
-* `questions_and_answers`: The parameter that holds your questions and answers
-* `question`: Specify a question for the model. Each `qna.yaml` file needs at least three question and answer pairs per `context` chunk with a maximum word count of 250 words.
-* `answer`: Specify the desired answer from the model. Each `qna.yaml` file needs at least three question and answer pairs per `context` chunk with a maximum word count of 250 words.
-* `document_outline`: Describe an overview of the document your submitting.
-* `document`: The source of your knowledge contribution.
-* `repo`: The URL to your repository that holds your knowledge files.
-* `commit`: The SHA of the commit in your repository with your knowledge files.
-* `patterns`: A list of glob patterns specifying the files in your repository. Any glob pattern that starts with `*`, such as `*.md`, must be quoted due to YAML rules. For example, `"*.md"`.
+- `version`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3.
+- `created_by`: Your GitHub username.
+- `domain`: Specify the category of the knowledge.
+- `seed_examples`: A collection of key/value entries.
+- `context`: A chunk of information from the knowledge document. Each `qna.yaml` needs five `context` blocks and has a maximum word count of 500 words.
+- `questions_and_answers`: The parameter that holds your questions and answers
+- `question`: Specify a question for the model. Each `qna.yaml` file needs at least three question and answer pairs per `context` chunk with a maximum word count of 250 words.
+- `answer`: Specify the desired answer from the model. Each `qna.yaml` file needs at least three question and answer pairs per `context` chunk with a maximum word count of 250 words.
+- `document_outline`: Describe an overview of the document your submitting.
+- `document`: The source of your knowledge contribution.
+- `repo`: The URL to your repository that holds your knowledge files.
+- `commit`: The SHA of the commit in your repository with your knowledge files.
+- `patterns`: A list of glob patterns specifying the files in your repository. Any glob pattern that starts with `*`, such as `*.md`, must be quoted due to YAML rules. For example, `"*.md"`.
 
 ### Knowledge: YAML examples
 
@@ -491,12 +483,7 @@ patterns:
 
 *Example `attribution.txt` file*
 
-`text
-Title of work: Phoenix (constellation)
-Link to work: https://en.wikipedia.org/wiki/Phoenix_(constellation)
-Revision: https://en.wikipedia.org/w/index.php?title=Phoenix_(constellation)&oldid=1237187773
-License of the work: CC-BY-SA-4.0
-Creator names: Wikipedia Authors`
+`text Title of work: Phoenix (constellation) Link to work: https://en.wikipedia.org/wiki/Phoenix_(constellation) Revision: https://en.wikipedia.org/w/index.php?title=Phoenix_(constellation)&oldid=1237187773 License of the work: CC-BY-SA-4.0 Creator names: Wikipedia Authors`
 
 This knowledge example references one markdown file: `phoenix_constellation.md`. You can also add multiple files for knowledge contributions.
 
@@ -573,8 +560,7 @@ For more information on what to include in your `attribution.txt` file, see [For
 
 You can organize the knowledge markdown files in your repository however you want. You just need to ensure the YAML is pointing to the correct file.
 
-Taxonomy tree Layout
---------------------
+## Taxonomy tree Layout
 
 The taxonomy tree is organized in a cascading directory structure. At the end of
 each branch, there is a YAML file (qna.yaml) that contains the examples for that
@@ -585,32 +571,11 @@ domain. Maintainers can decide to change the names of the existing branches or t
 
 Below is an illustrative directory structure to show this layout:
 
-`ascii
-.
-└── linguistics
-├── writing
-│ ├── brainstorming
-│ │ ├── idea_generation
-| │ └── qna.yaml
-│ │ attribution.txt
-│ │ ├── refute_claim
-| │ └── qna.yaml
-│ │ attribution.txt
-│ ├── prose
-│ │ ├── articles
-│ │ └── qna.yaml
-│ │ attribution.txt
-└── grammar
-└── qna.yaml
-│ attribution.txt
-└── spelling
-└── qna.yaml
-attribution.txt`
+`ascii . └── linguistics ├── writing │ ├── brainstorming │ │ ├── idea_generation | │ └── qna.yaml │ │ attribution.txt │ │ ├── refute_claim | │ └── qna.yaml │ │ attribution.txt │ ├── prose │ │ ├── articles │ │ └── qna.yaml │ │ attribution.txt └── grammar └── qna.yaml │ attribution.txt └── spelling └── qna.yaml attribution.txt`
 
-For an extensive example of this layout see, [taxonomy\_tree\_layout](docs/taxonomy_diagram.md) in the documentation folder.
+For an extensive example of this layout see, [taxonomy_tree_layout](docs/taxonomy_diagram.md) in the documentation folder.
 
-Contribute knowledge and skills to the taxonomy
------------------------------------------------
+## Contribute knowledge and skills to the taxonomy
 
 The ability to contribute to a Large Language Model (LLM) has been difficult in no small part because it is difficult to get access to the necessary compute infrastructure.
 
@@ -620,23 +585,21 @@ By contributing your skills and knowledge to this repository, you will see your 
 
 While public contributions are welcome to help drive community progress, you can also fork this repository under [the Apache License, Version 2.0](LICENSE), add your own internal skills, and train your own models internally. However, you might need your own access to significant compute infrastructure to perform sufficient retraining.
 
-Ways to Contribute
-------------------
+## Ways to Contribute
 
 You can contribute to the taxonomy in the following two ways:
 
 1. Adding new examples to **existing leaf nodes**:
-2. Adding **new branches/skills** corresponding to the existing domain:
+1. Adding **new branches/skills** corresponding to the existing domain:
 
 For more information, see the [Ways of contributing to the taxonomy repository](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#ways-of-contributing-to-the-taxonomy-repository) documentation.
 
-How to contribute skills and knowledge
---------------------------------------
+## How to contribute skills and knowledge
 
 To contribute to this repo, you'll use the *Fork and Pull* model common in many open source repositories. You can add your skills and knowledge to the taxonomy in multiple ways; for additional information on how to make a contribution, see the [Documentation on contributing](CONTRIBUTING.md). You can also use the following guides to help with contributing:
 
-* Contributing using the [GitHub webpage UI](docs/contributing_via_GH_UI.md).
-* Contributing knowledge to the taxonomy in the [Knowledge contribution guidelines](docs/knowledge-contribution-guide.md).
+- Contributing using the [GitHub webpage UI](docs/contributing_via_GH_UI.md).
+- Contributing knowledge to the taxonomy in the [Knowledge contribution guidelines](docs/knowledge-contribution-guide.md).
 
 ### Why should I contribute?
 

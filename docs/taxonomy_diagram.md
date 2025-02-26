@@ -1,5 +1,4 @@
-Taxonomy diagram
-----------------
+## Taxonomy diagram
 
 > [!Note]
 > This diagram shows a subset of the taxonomy. It is not a complete representation.

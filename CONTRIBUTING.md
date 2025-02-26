@@ -1,12 +1,10 @@
-Contributing
-============
+# Contributing
 
 👍🎉 First off, thank you for taking the time to contribute! 🎉👍
 
 The following is a set of guidelines for contributing. These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request. Please read the [Community Contribution Guide](https://github.com/instructlab/community/blob/main/CONTRIBUTING.md) first for general practices for the InstructLab community.
 
-What Should I Know Before I Get Started?
-----------------------------------------
+## What Should I Know Before I Get Started?
 
 ### Code of Conduct
 
@@ -18,24 +16,23 @@ Please report unacceptable behavior to one of the [Maintainers](https://github.c
 
 In addition to this repository, InstructLab has two related repositories:
 
-* [CLI](https://github.com/instructlab/instructlab). This repository is responsible for the the `ilab` command-line interface (CLI) tool.
-* [Community](https://github.com/instructlab/community). This repository is responsible for showing collaboration details across the InstructLab community.
+- [CLI](https://github.com/instructlab/instructlab). This repository is responsible for the the `ilab` command-line interface (CLI) tool.
+- [Community](https://github.com/instructlab/community). This repository is responsible for showing collaboration details across the InstructLab community.
 
 The following sections provide a general overview for contributing to the Taxonomy repository.
 
-Ways of contributing to the taxonomy repository
------------------------------------------------
+## Ways of contributing to the taxonomy repository
 
 ### Contributing skills and knowledge
 
 You can contribute to the taxonomy in the following two ways:
 
 1. Adding new examples to **existing leaf nodes**:
-2. Go to the corresponding leaf node / end of the branch and modify the YAML
-3. Add a new example to the `qna.yaml` files as a new entry to the list
-4. Adding **new branches/skills** corresponding to the existing domain:
-5. You can add new folders under the corresponding category (replace any spaces with underscores `_`)
-6. Create a new `qna.yaml` file containing examples for the new skill
+1. Go to the corresponding leaf node / end of the branch and modify the YAML
+1. Add a new example to the `qna.yaml` files as a new entry to the list
+1. Adding **new branches/skills** corresponding to the existing domain:
+1. You can add new folders under the corresponding category (replace any spaces with underscores `_`)
+1. Create a new `qna.yaml` file containing examples for the new skill
 
 A detailed contribution guide is documented in the [How can I contribute section](#how-can-i-contribute) section.
 
@@ -47,8 +44,7 @@ To propose a new feature, it's best to raise an issue in the appropriate reposit
 
 *How Do I Submit A (Good) Enhancement or Improvement item?:* Enhancements and improvement items suggestions are tracked as [GitHub issues: Proposal](https://github.com/instructlab/taxonomy/issues/new?assignees=&labels=&projects=&template=proposal.md&title=). Create an issue and provide the information suggested in the proposal template.
 
-How do I start contributing?
-----------------------------
+## How do I start contributing?
 
 The following workflow is designed to help you begin your first contribution journey. It will guide you through creating and picking up issues, working through them, having your work reviewed, and then merging.
 
@@ -60,8 +56,8 @@ Before you start, review the [open issues](https://github.com/instructlab/taxono
 
 To contribute to this repo, you'll use the *Fork and Pull* model common in many open source repositories. You can follow this process in a local terminal or in the GitHub web UI.
 
-* For details on the local process, check out the [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) documentation from GitHub and [The GitHub Workflow Guide](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) documentation from Kubernetes.
-* For details on contributing using the GitHub webpage UI, see [Contributing using the GH UI](docs/contributing_via_GH_UI.md).
+- For details on the local process, check out the [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) documentation from GitHub and [The GitHub Workflow Guide](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) documentation from Kubernetes.
+- For details on contributing using the GitHub webpage UI, see [Contributing using the GH UI](docs/contributing_via_GH_UI.md).
 
 > [!IMPORTANT]
 > For all contributions to InstructLab 🐶, you want to become familiar with the workflow described in the [InstructLab 🐶 CLI
@@ -89,36 +85,34 @@ When submitting your PR, give it a title which is as explicit as possible. Inclu
 
 Once you've [created a pull request](#how-can-i-contribute), maintainers will review your proposed addition and may make suggestions to fix before merging. It will be easier for your pull request to receive reviews if you consider the criteria the reviewers follow while working. Remember to:
 
-* Run tests locally and ensure that they pass
-* Ensure your contribution is in the proper format (`ilab generate` shouldn't report any warnings or errors)
-* Break large changes into a logical series of smaller patches, which are easy to understand individually and combine to solve a broader issue
-* Follow the project coding conventions
-* Include the DCO sign off; see [Legal](#legal)
+- Run tests locally and ensure that they pass
+- Ensure your contribution is in the proper format (`ilab generate` shouldn't report any warnings or errors)
+- Break large changes into a logical series of smaller patches, which are easy to understand individually and combine to solve a broader issue
+- Follow the project coding conventions
+- Include the DCO sign off; see [Legal](#legal)
 
 The project maintainers use `LGTM` (Looks Good To Me) in comments on the code review to indicate acceptance. You can see more information on the triaging process in the [Triaging skills](https://github.com/instructlab/taxonomy/blob/main/docs/triaging/triaging-contributions.md) documentation.
 
 For a list of the maintainers and triagers, see the [MAINTAINERS.md](https://github.com/instructlab/community/blob/main/MAINTAINERS.md) page.
 
-Submitting bugs
----------------
+## Submitting bugs
 
 To submit a new bug, raise an issue in the appropriate repository before creating a pull request. This ensures that the issue is properly tracked. To fix an existing bug, assign yourself a bug from the issues page of the desired repository. Then, submit a pull request for review.
 
 Bugs are tracked as [GitHub issues using the Bug Report template](https://github.com/instructlab/taxonomy/issues/new?assignees=&labels=&template=bug_report.md&title=). Create an issue on that and provide the information suggested in the bug report issue template.
 
-Legal
------
+## Legal
 
 We have tried to make it as easy as possible to make contributions.
 This applies to how we handle the legal aspects of contribution.
 We use the same approach - the [Developer's Certificate of Origin 1.1 (DCO)](https://developercertificate.org/) - that [the Linux Kernel community uses](https://docs.kernel.org/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin) to manage code contributions. All contributions that leverage third-party content should either come from the public domain or be licensed with an open data license that does not restrict commercial use or the creation of derivative works, including the following license types:
 
-* CC0-1.0
-* CDLA-Permissive-2.0
-* CC-BY-4.0
-* CC-BY-SA-4.0
-* Apache-2.0
-* MIT
+- CC0-1.0
+- CDLA-Permissive-2.0
+- CC-BY-4.0
+- CC-BY-SA-4.0
+- Apache-2.0
+- MIT
 
 Any third-party content contributed to this project undergoes modifications in order to formulate it in the templated format required for submission to this project.
 
@@ -126,13 +120,11 @@ We simply ask that when submitting a patch for review, the developer must includ
 
 Here is an example `Signed-off-by` line, which indicates that the submitter accepts the DCO:
 
-`text
-Signed-off-by: John Doe <john.doe@example.com>`
+`text Signed-off-by: John Doe <john.doe@example.com>`
 
 You can include this automatically when you commit a change to your local Git repository using the following command:
 
-`shell
-git commit -s`
+`shell git commit -s`
 
 > [!TIP]
 > If you created a commit message that did not include the `-s` option, you can edit your original commit message by using the `git commit -s --amend` command. Ensure you force push the amended commit to your pull request (PR).
@@ -150,19 +142,18 @@ For more details, see the .
 
 An important part of contributing to the InstructLab project is citing your sources of information. This comes in the form of your `attribution.txt` that you add to the pull requests. Almost all instances of attribution can be covered by the parameters required for Creative Commons Attribution licenses. Some parameters are as follows:
 
-* Title of work
-* Link to work
-* Include link to a specific revision where possible
-* License of the work
-* Include an SPDX identifier where possible
-* Creator names
-* Copyright information
-* Modification information
-* Indicate if work was itself derived from another openly licensed work
+- Title of work
+- Link to work
+- Include link to a specific revision where possible
+- License of the work
+- Include an SPDX identifier where possible
+- Creator names
+- Copyright information
+- Modification information
+- Indicate if work was itself derived from another openly licensed work
 
 You can also see this citation style in the [Data sources documentation](https://github.com/instructlab/community/blob/main/docs/DataSources.md)
 
-Development
------------
+## Development
 
 Please consult the [`ilab` documentation](https://github.com/instructlab/instructlab) to set up your environment.

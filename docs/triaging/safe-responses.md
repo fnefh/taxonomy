@@ -1,8 +1,6 @@
-Templates of safe responses to common PR mistakes
-=================================================
+# Templates of safe responses to common PR mistakes
 
-Skills Content
---------------
+## Skills Content
 
 ### Jokes and Poems
 
@@ -30,8 +28,7 @@ Given the content of the file, it seems that this would likely fall under knowle
 
 Closing this PR, but feel free to re submit as knowledge following those guidelines!
 
-Contribution Formatting Guidlines
----------------------------------
+## Contribution Formatting Guidlines
 
 ### Not Enough Examples
 
