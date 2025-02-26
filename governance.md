@@ -1,2 +1,4 @@
-<h1>InstructLab Governance</h1>
-<p>For information about how the InstructLab project governance operates, see <a href="https://github.com/instructlab/community/blob/main/GOVERNANCE.md">InstructLab Governance</a>.</p>
+InstructLab Governance
+======================
+
+For information about how the InstructLab project governance operates, see [InstructLab Governance](https://github.com/instructlab/community/blob/main/GOVERNANCE.md).

@@ -339,6 +339,6 @@ seed_examples:
           with human expertise.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: 08b30e83659a4b5f79b782e8c09067e3f8458c50
+  commit: 75a72b5a9999685e10dbc530dde1f6bb74e02213
   patterns:
     - knowledge/finance/financial_reporting/sectors/software_it_services/PAYX/10-K/data/*.md
