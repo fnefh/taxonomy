@@ -1,1 +1,1 @@
-For a complete list of InstructLab project maintainers, see [Maintainers](https://github.com/instructlab/community/blob/main/MAINTAINERS.md).
+<p>For a complete list of InstructLab project maintainers, see <a href="https://github.com/instructlab/community/blob/main/MAINTAINERS.md">Maintainers</a>.</p>
