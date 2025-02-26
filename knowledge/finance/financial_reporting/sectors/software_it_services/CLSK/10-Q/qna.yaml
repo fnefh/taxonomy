@@ -182,6 +182,6 @@ seed_examples:
           expertise.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: 75a72b5a9999685e10dbc530dde1f6bb74e02213
+  commit: 54a11bdc72dc584b401e84c1fea85998ba4b7176
   patterns:
     - knowledge/finance/financial_reporting/sectors/software_it_services/CLSK/10-Q/data/*.md
