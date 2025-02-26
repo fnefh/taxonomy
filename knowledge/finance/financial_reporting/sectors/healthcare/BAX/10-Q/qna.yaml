@@ -241,6 +241,6 @@ seed_examples:
           competitive position in the healthcare technology sector.
 document:
   repo: https://github.com/fnefh/taxonomy
-  commit: 54a11bdc72dc584b401e84c1fea85998ba4b7176
+  commit: 291a94df659e7b27f87581f2820e002986bf41e5
   patterns:
     - knowledge/finance/financial_reporting/sectors/healthcare/BAX/10-Q/data/*.md
